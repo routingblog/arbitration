@@ -19,6 +19,7 @@ Core Claim (pull quote):
 > In enacting § 2 of the federal Act, Congress declared a national policy favoring arbitration and withdrew the power of the states to require a judicial forum for the resolution of claims that the contracting parties agreed to resolve by arbitration. arb applies in state courts in addition to federal
 
 ## Gilmer v. Interstate/Johnson Lane Corp. 500 U.S. 20 (1991)
+- Wikipedia: https://en.wikipedia.org/wiki/Gilmer_v._Interstate/Johnson_Lane_Corp.
 
 ## Doctor’s Associates, Inc. v. Casarotto, 517 U.S. 681 (1996)
 
