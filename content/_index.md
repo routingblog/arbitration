@@ -5,9 +5,6 @@ type: docs
 
 # Supreme Court Decisions
 
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
-
-
 ## Southland Corp. v. Keating, 465 U.S. 1 (1984)
 
 - Wikipedia: https://en.wikipedia.org/wiki/Southland_Corp._v._Keating
