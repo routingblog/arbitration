@@ -10,7 +10,7 @@ type: docs
 - Wikipedia: https://en.wikipedia.org/wiki/Southland_Corp._v._Keating
 - Court Listener Decision: https://www.courtlistener.com/opinion/111091/southland-corp-v-keating/
 - LoC Decision: https://tile.loc.gov/storage-services/service/ll/usrep/usrep465/usrep465001/usrep465001.pdf
-- Majority Author: Warren Burger ☹
+- Majority Author: Warren Burger
 - Concurence: John P. Stevens
 - Dissents: Sandra Day O'Connor, William Rehnquist
 
