@@ -29,7 +29,15 @@ Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
 
 > Southland Corp. v. Keating, 465 U.S. 1 (1984)
 
-arb applies in state courts in addition to federal
+Wikipedia: https://en.wikipedia.org/wiki/Southland_Corp._v._Keating
+Court Listener Decision: https://www.courtlistener.com/opinion/111091/southland-corp-v-keating/
+LoC Decision: https://tile.loc.gov/storage-services/service/ll/usrep/usrep465/usrep465001/usrep465001.pdf
+Majority Author: Warren Burger
+Concurence: John P. Stevens
+Dissents: Sandra Day O'Connor, William Rehnquist
+
+Core Claim (pull quote):
+> In enacting § 2 of the federal Act, Congress declared a national policy favoring arbitration and withdrew the power of the states to require a judicial forum for the resolution of claims that the contracting parties agreed to resolve by arbitration. arb applies in state courts in addition to federal
 
 > Gilmer v. Interstate/Johnson Lane Corp. 500 U.S. 20 (1991)
 
