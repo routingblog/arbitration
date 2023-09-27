@@ -82,6 +82,19 @@ arb that precludes ERISA plan-wide relief under Section 502(a) not enforceable
 ## Adolph v. Uber Techs., Inc., No. S274671, 2023 WL 4553702 (Cal. July 17, 2023) (also available at https://www.courts.ca.gov/opinions/documents/S274671.PDF).
 	represenative PAGA is allowed despite arbitration of individual
 
+##  Morgan v. Sundance, Inc., No. 21-328, 2022 WL 1611788 (May 23, 2022).
+- Decision: https://www.supremecourt.gov/opinions/21pdf/21-328_m6ho.pdf
+- Author: Elena Kagan (unanimous)
+
+Core Claim (pull quote):
+
+> This Court granted certiorari to resolve the split over whether federal courts may adopt an arbitration-specific waiver rule demanding a showing of prejudice.
+> Held: ....erred in conditioning a waiver of the right to arbitrate on a showing of prejudice.
+> The text of the FAA makes clear that courts are not to create arbitration-specific procedural rules ...
+
+
+
+
 # Statues
 
 https://www.govinfo.gov/content/pkg/PLAW-111publ203/html/PLAW-111publ203.htm
@@ -140,6 +153,9 @@ https://www.govinfo.gov/content/pkg/PLAW-111publ203/html/PLAW-111publ203.htm
 - https://www.regulations.gov/docket/DARS-2010-0059
 
 
+# Federal Arbitration Act
+- https://www.law.cornell.edu/uscode/text/9
+- https://uscode.house.gov/view.xhtml?path=/prelim@title9&edition=prelim
 
 # Definitions
 
