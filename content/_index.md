@@ -3,31 +3,12 @@ title: Introduction
 type: docs
 ---
 
-# Acerbo datus maxime
-
-{{< columns >}}
-## Astris ipse furtiva
-
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
-
-<--->
-
-## Suis quot vota
-
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
-{{< /columns >}}
-
-
-## Supreme Court Decisions
+# Supreme Court Decisions
 
 Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
 
 
-> Southland Corp. v. Keating, 465 U.S. 1 (1984)
+## Southland Corp. v. Keating, 465 U.S. 1 (1984)
 
 Wikipedia: https://en.wikipedia.org/wiki/Southland_Corp._v._Keating
 Court Listener Decision: https://www.courtlistener.com/opinion/111091/southland-corp-v-keating/
@@ -98,7 +79,13 @@ Under the Federal Arbitration Act (FAA), an arbitration agreement that is ambigu
 
 arb that precludes ERISA plan-wide relief under Section 502(a) not enforceable
 
-## National Bills
+# Statues
+
+https://www.govinfo.gov/content/pkg/PLAW-111publ203/html/PLAW-111publ203.htm
+| Common Name | Identifier |
+| Dodd-Frank Act | Pub. L. 111-203 I.A §113 |
+
+# Proposed National Bills
 
 | ID & Title  | Congress | Status |
 | ----------- | ---- | ------ |
@@ -114,13 +101,44 @@ arb that precludes ERISA plan-wide relief under Section 502(a) not enforceable
 
 ## State Statues
 
-| Title       | Year |
+| Title       | State |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| [Code of Civil Procedure - CCP §§3.9.1280 - 1294.4](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1281.98&lawCode=CCP) | California |
+
+# Rule Making
+
+## Consumer Financial Protection Bureau
+
+### Arbitration Agreements - 2016 attempt
+
+- [Final Rule](https://www.federalregister.gov/documents/2017/07/19/2017-14225/arbitration-agreements)
+- Regulation Comments: https://www.regulations.gov/docket/CFPB-2016-0020
+- [Disapproval Notice](https://www.federalregister.gov/documents/2017/11/22/2017-25324/arbitration-agreements)
+- Congressional Review Act Disapproval: [PUBLIC LAW 115–74](https://www.govinfo.gov/content/pkg/PLAW-115publ74/pdf/PLAW-115publ74.pdf)
 
 
-## Definitions
+### Petition to Require Meaningful Consumer Consent Regarding the Use of Arbitration to Resolve Disputes Involving Consumer Financial Products and Services
+- https://www.regulations.gov/docket/CFPB-2023-0047
+
+### Truth in Lending Act (Regulation Z); Loan Originator Compensation -
+
+- https://www.regulations.gov/docket/CFPB-2012-0037
+
+## Centers for Medicare&Medicaid Services
+
+## Medicare and Medicaid Programs: Revision of Requirements for Long Term Care Facilities: Arbitration Agreements
+
+- https://www.regulations.gov/document/CMS-2017-0076-1010
+
+## Defense Acquisition Regulations System
+
+### Restrictions on the Use of Mandatory Arbitration Agreements (DFARS Case 2010–D004)
+
+- https://www.regulations.gov/docket/DARS-2010-0059
+
+
+
+# Definitions
 
 Pre-Dispute Arbitration Agreement
 : something else (TBD)
