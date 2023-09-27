@@ -22,12 +22,28 @@ Core Claim (pull quote):
 - Wikipedia: https://en.wikipedia.org/wiki/Gilmer_v._Interstate/Johnson_Lane_Corp.
 
 ## Doctor’s Associates, Inc. v. Casarotto, 517 U.S. 681 (1996)
+- LoC Decision: https://www.loc.gov/item/usrep517681/
+- Court Listener Decision: https://www.courtlistener.com/opinion/118029/doctors-associates-inc-v-casarotto/
+- Supreme Court Database Record: [1995-055-01](http://scdb.wustl.edu/analysisCaseDetail.php?cid=1995-055-01)
 
-## Green TreeFinancial Corp.-Ala. .v Randolph, 531 US 79 (2000)
+## Green Tree Financial Corporation-Alabama v. Randolph, 531 US 79 (2000)
+
+- Court Listener: https://www.courtlistener.com/opinion/118394/green-tree-financial-corp-ala-v-randolph/
+- Oyez Analysis: https://www.oyez.org/cases/2000/99-1235
 
 ## Prima Paint Corp. v. Flood & Conklin Mfg. Co., 388 US 395 (1967)
 
+- Wikipedia: https://en.wikipedia.org/wiki/Prima_Paint_Corp._v._Flood_%26_Conklin_Manufacturing_Co.
+
+separability of the arbitration clause
+
+## Preston v. Ferrer
+- Wikipedia: https://en.wikipedia.org/wiki/Preston_v._Ferrer
+
 ## Buckeye Check Cashing, Inc. v. Cardegna,  546 US 440 (2006)
+- Wikipedia: https://en.wikipedia.org/wiki/Buckeye_Check_Cashing,_Inc._v._Cardegna
+- Oyez: https://www.oyez.org/cases/2005/04-1264
+
 
 ## Rent-A-Center West v. Jackson,  561 US 63 (2010)
 
