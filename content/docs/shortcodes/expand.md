@@ -1,35 +1,35 @@
-# Expand
+# Details`
 
-Expand shortcode can help to decrease clutter on screen by hiding part of text. Expand content by clicking on it.
+Details shortcode can help to decrease clutter on screen by hiding part of text. Expand content by clicking on it.
 
 ## Example
 ### Default
 
 ```tpl
-{{</* expand */>}}
+{{</* details */>}}
 ## Markdown content
 Lorem markdownum insigne...
-{{</* /expand */>}}
+{{</* /details */>}}
 ```
 
-{{< expand >}}
+{{< details >}}
 ## Markdown content
 Lorem markdownum insigne...
-{{< /expand >}}
+{{< /details >}}
 
 ### With Custom Label
 
 ```tpl
-{{</* expand "Custom Label" "..." */>}}
+{{</* details "Custom Label" "..." */>}}
 ## Markdown content
 Lorem markdownum insigne...
-{{</* /expand */>}}
+{{</* /details */>}}
 ```
 
-{{< expand "Custom Label" "..." >}}
+{{< details "Custom Label" "..." >}}
 ## Markdown content
 Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
 stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
 protulit, sed sed aere valvis inhaesuro Pallas animam: qui _quid_, ignes.
 Miseratus fonte Ditis conubia.
-{{< /expand >}}
+{{< /details >}}
