@@ -52,8 +52,15 @@ that employment arbitration agreements that bar class actions are enforceable
 
 ## Ernst & Young LLP v. Morris (Docket 16-300) - NLRA did not override FAA.
 
-## Viking River Cruises, Inc v. Moriana (2022) U.S., 142 S. Ct. 1906,
-       SCOTUS predicting adolf
+## Viking River Cruises, Inc v. Moriana (2022) U.S., 142 S. Ct. 1906
+
+Core Issue (pull quote)
+> whether the Federal Arbitration Act, 9 U. S. C. §1 et seq., preempts a rule of California law that invalidates contractual waivers of the right to assert representative claims under California’s Labor Code Private Attorneys General Act of 2004, Cal. Lab. Code §2698 et seq
+> he FAA preempts the rule of Iskanian insofar as it precludes division of PAGA actions into individual and non-individual claims through an agreement to arbitrate. Pp. 7–21.
+Decision: https://www.supremecourt.gov/opinions/21pdf/20-1573_8p6h.pdf
+
+The court also predicted what the california courts would rule in a similar case (alolf)
+SCOTUS predicting [Adolph]({{< relref "/#adolph" >}})
 
 ## Coinbase, Inc. v. Bielski that a federal
   district court must stay its proceedings pending resolution of an interlocutory appeal of a denial of a motion to compel arbitration.
@@ -76,8 +83,9 @@ arb that precludes ERISA plan-wide relief under Section 502(a) not enforceable
 
 # California Supreme Court Cases
 
-## Adolph v. Uber Techs., Inc., No. S274671, 2023 WL 4553702 (Cal. July 17, 2023) (also available at https://www.courts.ca.gov/opinions/documents/S274671.PDF).
-	represenative PAGA is allowed despite arbitration of individual
+## Adolph v. Uber Techs., Inc., No. S274671, 2023 WL 4553702 (Cal. July 17, 2023) {id="adolph"}
+- Opinion: https://www.courts.ca.gov/opinions/documents/S274671.PDF
+- represenative PAGA is allowed despite arbitration of individual
 
 ##  Morgan v. Sundance, Inc., No. 21-328, 2022 WL 1611788 (May 23, 2022).
 - Decision: https://www.supremecourt.gov/opinions/21pdf/21-328_m6ho.pdf
