@@ -10,74 +10,77 @@ Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
 
 ## Southland Corp. v. Keating, 465 U.S. 1 (1984)
 
-Wikipedia: https://en.wikipedia.org/wiki/Southland_Corp._v._Keating
-Court Listener Decision: https://www.courtlistener.com/opinion/111091/southland-corp-v-keating/
-LoC Decision: https://tile.loc.gov/storage-services/service/ll/usrep/usrep465/usrep465001/usrep465001.pdf
-Majority Author: Warren Burger ☹
-Concurence: John P. Stevens
-Dissents: Sandra Day O'Connor, William Rehnquist
+- Wikipedia: https://en.wikipedia.org/wiki/Southland_Corp._v._Keating
+- Court Listener Decision: https://www.courtlistener.com/opinion/111091/southland-corp-v-keating/
+- LoC Decision: https://tile.loc.gov/storage-services/service/ll/usrep/usrep465/usrep465001/usrep465001.pdf
+- Majority Author: Warren Burger ☹
+- Concurence: John P. Stevens
+- Dissents: Sandra Day O'Connor, William Rehnquist
 
 Core Claim (pull quote):
+
 > In enacting § 2 of the federal Act, Congress declared a national policy favoring arbitration and withdrew the power of the states to require a judicial forum for the resolution of claims that the contracting parties agreed to resolve by arbitration. arb applies in state courts in addition to federal
 
-> Gilmer v. Interstate/Johnson Lane Corp. 500 U.S. 20 (1991)
+## Gilmer v. Interstate/Johnson Lane Corp. 500 U.S. 20 (1991)
 
-> Doctor’s Associates, Inc. v. Casarotto, 517 U.S. 681 (1996)
+## Doctor’s Associates, Inc. v. Casarotto, 517 U.S. 681 (1996)
 
-> Green TreeFinancial Corp.-Ala. .v Randolph, 531 US 79 (2000)
+## Green TreeFinancial Corp.-Ala. .v Randolph, 531 US 79 (2000)
 
-> Prima Paint Corp. v. Flood & Conklin Mfg. Co., 388 US 395 (1967)
+## Prima Paint Corp. v. Flood & Conklin Mfg. Co., 388 US 395 (1967)
 
-> Buckeye Check Cashing, Inc. v. Cardegna,  546 US 440 (2006)
+## Buckeye Check Cashing, Inc. v. Cardegna,  546 US 440 (2006)
 
-> Rent-A-Center West v. Jackson,  561 US 63 (2010)
+## Rent-A-Center West v. Jackson,  561 US 63 (2010)
 
   arbitrator will determine the enforceability of the agreement
 
-> Hall Street Associates, L.L.C. v. Mattel, Inc., 552 US 576 (2008)
+## Hall Street Associates, L.L.C. v. Mattel, Inc., 552 US 576 (2008)
 
   arb award can't be modified
 
-> Gilmer v. Interstate/Johnson Lane Corp.,  500 US 20 (1991)
+## Gilmer v. Interstate/Johnson Lane Corp.,  500 US 20 (1991)
 
   arb in discrimination claim
 
-> AT&T Mobility LLC v. Concepcion, 563 U.S. 333 (2011)A
+## AT&T Mobility LLC v. Concepcion, 563 U.S. 333 (2011)A
 
   class action waivers
 
-> American Express Co. v. Italian Colors Restaurant, 570 US 228 (2013)
+## American Express Co. v. Italian Colors Restaurant, 570 US 228 (2013)
 
-> Epic Systems Corp. v. Lewis
+## Epic Systems Corp. v. Lewis
 
 that employment arbitration agreements that bar class actions are enforceable
 
-> Ernst & Young LLP v. Morris (Docket 16-300) - NLRA did not override FAA.
+## Ernst & Young LLP v. Morris (Docket 16-300) - NLRA did not override FAA.
 
-> Viking River Cruises, Inc v. Moriana (2022) U.S., 142 S. Ct. 1906,
+## Viking River Cruises, Inc v. Moriana (2022) U.S., 142 S. Ct. 1906,
        SCOTUS predicting adolf
 
-> Adolph v. Uber Techs., Inc., No. S274671, 2023 WL 4553702 (Cal. July 17, 2023) (also available at https://www.courts.ca.gov/opinions/documents/S274671.PDF).
-	represenative PAGA is allowed despite arbitration of individual
-
-> Coinbase, Inc. v. Bielski that a federal
+## Coinbase, Inc. v. Bielski that a federal
   district court must stay its proceedings pending resolution of an interlocutory appeal of a denial of a motion to compel arbitration.
 
 
-> Abernathy v. DoorDash, Inc.
+## Abernathy v. DoorDash, Inc.
 
-> In re TikTok, Inc., Consumer Privacy Litigation
+## In re TikTok, Inc., Consumer Privacy Litigation
 
 > Argent Trust Company v. Harrison 23-30
 Issue: Whether a participant in a plan governed by the Employee Retirement Income Security Act who asserts statutory claims under that statute can be compelled, pursuant to a binding arbitration provision, to submit his claims to individual arbitration.
 
-> 17-988 Lamps Plus, Inc. V. Varela (04/24/2019). (2019).
+## 17-988 Lamps Plus, Inc. V. Varela (04/24/2019). (2019).
 
 Under the Federal Arbitration Act (FAA), an arbitration agreement that is ambiguous as to the availability of class arbitration does not manifest sufficient consent by the parties to submit to class arbitration. In a 5-4 opinion authored by Chief Justice John Roberts, the Court held that the arbitration agreement between Varela and his employer, Lamps Plus, which contained only general language commonly used in arbitration agreements, did not provide the necessary contractual basis for compelling class arbitration.
 
-> 22-1098 - Harrison v. Envision Management Holding, Inc. Board, et al. [10975747]
+## 22-1098 - Harrison v. Envision Management Holding, Inc. Board, et al. [10975747]
 
 arb that precludes ERISA plan-wide relief under Section 502(a) not enforceable
+
+# California Supreme Court Cases
+
+## Adolph v. Uber Techs., Inc., No. S274671, 2023 WL 4553702 (Cal. July 17, 2023) (also available at https://www.courts.ca.gov/opinions/documents/S274671.PDF).
+	represenative PAGA is allowed despite arbitration of individual
 
 # Statues
 
