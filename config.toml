@@ -10,6 +10,7 @@ enableGitInfo = true
 
 # https://themes.gohugo.io/themes/hugo-book/
 
-BookRepo = 'https://github.com/grimreaper/arbitration'
-BookCommitPath = 'commit'
-BookEditPath = 'edit/master/arbitration'
+[params]
+  BookRepo = 'https://github.com/grimreaper/arbitration'
+  BookCommitPath = 'commit'
+  BookEditPath = 'edit/master'
