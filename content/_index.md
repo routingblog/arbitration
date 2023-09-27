@@ -32,7 +32,7 @@ Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
 Wikipedia: https://en.wikipedia.org/wiki/Southland_Corp._v._Keating
 Court Listener Decision: https://www.courtlistener.com/opinion/111091/southland-corp-v-keating/
 LoC Decision: https://tile.loc.gov/storage-services/service/ll/usrep/usrep465/usrep465001/usrep465001.pdf
-Majority Author: Warren Burger
+Majority Author: Warren Burger ☹
 Concurence: John P. Stevens
 Dissents: Sandra Day O'Connor, William Rehnquist
 
@@ -100,16 +100,17 @@ arb that precludes ERISA plan-wide relief under Section 502(a) not enforceable
 
 ## National Bills
 
-| ID & Title  | Year | Status |
+| ID & Title  | Congress | Status |
 | ----------- | ---- | ------ |
-| [H.R.1374](H.R.1374 - Arbitration Fairness Act of 2017 )| 2017 | Stuck in Judiciary Committee |
-| Paragraph   | Text        | |
-https://www.congress.gov/bill/115th-congress/house-bill/1374
-https://www.congress.gov/bill/115th-congress/senate-bill/2591
-https://www.congress.gov/bill/115th-congress/senate-bill/537
-https://www.congress.gov/bill/116th-congress/house-bill/1423
-https://www.congress.gov/bill/116th-congress/senate-bill/610
-https://www.congress.gov/bill/117th-congress/house-bill/963
+| [H.R.1374 - Arbitration Fairness Act of 2017](https://www.congress.gov/bill/115th-congress/house-bill/1374) | 115th Congress (2017-2018) | Stuck in Judiciary Committee |
+| [S.2591 - Arbitration Fairness Act of 2018](https://www.congress.gov/bill/115th-congress/senate-bill/2591) | 115th Congress (2017-2018) | Stuck in Judiciary Committee |
+| [S.537 - Arbitration Fairness Act of 2017](https://www.congress.gov/bill/115th-congress/senate-bill/537) | 115th Congress (2017-2018) | Stuck in Judiciary Committee |
+| [H.R.1423 - FAIR Act](https://www.congress.gov/bill/116th-congress/house-bill/1423) | 116th Congress (2019-2020)| Stuck in Judiciary Committee |
+| [S.610 - Forced Arbitration Injustice Repeal Act](https://www.congress.gov/bill/116th-congress/senate-bill/610) | 116th Congress (2019-2020)| Stuck in Judiciary Committee |
+| [H.R.963 - FAIR Act of 2022](https://www.congress.gov/bill/117th-congress/house-bill/963) | 117th Congress (2021-2022) | Stuck in Judiciary Committee |
+| [H.R.2953 - FAIR Act of 2023](https://www.congress.gov/bill/118th-congress/house-bill/2953) | 118th Congress (2023-2024) | |
+| [S.1376 - Forced Arbitration Injustice Repeal Act](https://www.congress.gov/bill/118th-congress/senate-bill/1376) | 118th Congress (2023-2024) | |
+| [S.1408 - Ending Forced Arbitration of Race Discrimination Act of 2023](https://www.congress.gov/bill/118th-congress/senate-bill/1408) | 118th Congress (2023-2024) |
 
 ## State Statues
 
