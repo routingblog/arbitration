@@ -18,8 +18,15 @@ Core Claim (pull quote):
 
 > In enacting § 2 of the federal Act, Congress declared a national policy favoring arbitration and withdrew the power of the states to require a judicial forum for the resolution of claims that the contracting parties agreed to resolve by arbitration. arb applies in state courts in addition to federal
 
+## Rodriguez de Quijas v. Shearson/American Express Inc., 490 U.S. 477 (1989)
+
 ## Gilmer v. Interstate/Johnson Lane Corp. 500 U.S. 20 (1991)
-- Wikipedia: https://en.wikipedia.org/wiki/Gilmer_v._Interstate/Johnson_Lane_Corp.
+- [Wikipedia](https://en.wikipedia.org/wiki/Gilmer_v._Interstate/Johnson_Lane_Corp.)
+- [LoC Opinion](https://tile.loc.gov/storage-services/service/ll/usrep/usrep500/usrep500020/usrep500020.pdf)
+
+Quick Summary (from court staff summary):
+> An ADEA[^2] claim can be subjected to compulsory arbitration
+
 
 ## Doctor’s Associates, Inc. v. Casarotto, 517 U.S. 681 (1996)
 - LoC Decision: https://www.loc.gov/item/usrep517681/
@@ -69,6 +76,7 @@ that employment arbitration agreements that bar class actions are enforceable
 
 ## Ernst & Young LLP v. Morris (Docket 16-300) - NLRA did not override FAA.
 
+
 ## Viking River Cruises, Inc v. Moriana (2022) U.S., 142 S. Ct. 1906
 
 Core Issue (pull quote)
@@ -81,6 +89,11 @@ SCOTUS predicting [Adolph]({{< relref "/#adolph" >}})
 
 ## Coinbase, Inc. v. Bielski that a federal
   district court must stay its proceedings pending resolution of an interlocutory appeal of a denial of a motion to compel arbitration.
+
+## Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth, Inc., 473 U. S. 614
+
+
+## Moses H. Cone Memorial Hospital v. Mercury Construction Corp., 460 U. S. 1, 24
 
 
 
@@ -105,7 +118,7 @@ arb that precludes ERISA plan-wide relief under Section 502(a) not enforceable
 - Opinion: https://www.courts.ca.gov/opinions/documents/S274671.PDF
 - represenative PAGA is allowed despite arbitration of individual
 
-##  Morgan v. Sundance, Inc., No. 21-328, 2022 WL 1611788 (May 23, 2022).
+##  Morgan v. Sundance, Inc., No. 21-328, 2022 WL 1611788 (May 23, 2022) {id="morgan-v-sundance"}
 - Decision: https://www.supremecourt.gov/opinions/21pdf/21-328_m6ho.pdf
 - Author: Elena Kagan (unanimous)
 
@@ -125,6 +138,10 @@ Pull Quote (from court staff summary):
 > The policy was procedurally unconscionable because it was a condition of applying for employment and was presented on a “take it or leave it” basis. In addition, its terms were not provided to the plaintiff until three weeks after she had agreed to be bound by it.
 > Specifically, the policy’s arbitrator selection process would always produce an arbitrator proposed by the defendant in employee-initiated arbitration proceedings; the policy precluded institutional arbitration administrators, which have established rules and procedures to select a neutral arbitrator; and the policy’s arbitrator-fee-apportionment provision would have the effect of pricing employees out of the dispute resolution process
 
+## Richards v. Ernst & Young, LLP, 11-17530, 2013 WL 4437601 (9th Cir. Aug. 21, 2013).
+
+Status: Effectively Reversed by [Morgan]({{< relref "/#morgan-v-sundance" >}}) [^1]
+
 ### Analysis
 
 - https://onlabor.org/an-explainer-ninth-circuit-on-mandatory-arbitration-in-employment-contracts-chavarria-v-ralphs-grocery/
@@ -138,23 +155,26 @@ Pull Quote (from court staff summary):
 
 # Proposed National Bills
 
-| ID & Title  | Congress | Status |
-| ----------- | ---- | ------ |
-| [H.R.1374 - Arbitration Fairness Act of 2017](https://www.congress.gov/bill/115th-congress/house-bill/1374) | 115th Congress (2017-2018) | Stuck in Judiciary Committee |
-| [S.2591 - Arbitration Fairness Act of 2018](https://www.congress.gov/bill/115th-congress/senate-bill/2591) | 115th Congress (2017-2018) | Stuck in Judiciary Committee |
-| [S.537 - Arbitration Fairness Act of 2017](https://www.congress.gov/bill/115th-congress/senate-bill/537) | 115th Congress (2017-2018) | Stuck in Judiciary Committee |
-| [H.R.1423 - FAIR Act](https://www.congress.gov/bill/116th-congress/house-bill/1423) | 116th Congress (2019-2020)| Stuck in Judiciary Committee |
-| [S.610 - Forced Arbitration Injustice Repeal Act](https://www.congress.gov/bill/116th-congress/senate-bill/610) | 116th Congress (2019-2020)| Stuck in Judiciary Committee |
-| [H.R.963 - FAIR Act of 2022](https://www.congress.gov/bill/117th-congress/house-bill/963) | 117th Congress (2021-2022) | Stuck in Judiciary Committee |
-| [H.R.2953 - FAIR Act of 2023](https://www.congress.gov/bill/118th-congress/house-bill/2953) | 118th Congress (2023-2024) | |
-| [S.1376 - Forced Arbitration Injustice Repeal Act](https://www.congress.gov/bill/118th-congress/senate-bill/1376) | 118th Congress (2023-2024) | |
-| [S.1408 - Ending Forced Arbitration of Race Discrimination Act of 2023](https://www.congress.gov/bill/118th-congress/senate-bill/1408) | 118th Congress (2023-2024) |
+| ID & Title  | Congress | Status | Committee Report |
+| ----------- | ---- | ------ | ------ |
+| [H.R.1374 - Arbitration Fairness Act of 2017](https://www.congress.gov/bill/115th-congress/house-bill/1374) | 115th Congress (2017-2018) | Stuck in Judiciary Committee | |
+| [S.2591 - Arbitration Fairness Act of 2018](https://www.congress.gov/bill/115th-congress/senate-bill/2591) | 115th Congress (2017-2018) | Stuck in Judiciary Committee | |
+| [S.537 - Arbitration Fairness Act of 2017](https://www.congress.gov/bill/115th-congress/senate-bill/537) | 115th Congress (2017-2018) | Stuck in Judiciary Committee | |
+| [H.R.1423 - FAIR Act](https://www.congress.gov/bill/116th-congress/house-bill/1423) | 116th Congress (2019-2020)| Stuck in Judiciary Committee | |
+| [S.610 - Forced Arbitration Injustice Repeal Act](https://www.congress.gov/bill/116th-congress/senate-bill/610) | 116th Congress (2019-2020)| Stuck in Judiciary Committee | |
+| [H.R.963 - FAIR Act of 2022](https://www.congress.gov/bill/117th-congress/house-bill/963) | 117th Congress (2021-2022) | Stuck in Judiciary Committee | [H. Rept. 117-270](https://www.congress.gov/congressional-report/117th-congress/house-report/270/1?) |
+| [H.R.2953 - FAIR Act of 2023](https://www.congress.gov/bill/118th-congress/house-bill/2953) | 118th Congress (2023-2024) | | |
+| [S.1376 - Forced Arbitration Injustice Repeal Act](https://www.congress.gov/bill/118th-congress/senate-bill/1376) | 118th Congress (2023-2024) | | |
+| [S.1408 - Ending Forced Arbitration of Race Discrimination Act of 2023](https://www.congress.gov/bill/118th-congress/senate-bill/1408) | 118th Congress (2023-2024) | |
+| [H.R.4445 - Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act of 2021](https://www.congress.gov/bill/117th-congress/house-bill/4445) [H.R.4445 pdf](https://www.congress.gov/117/crpt/hrpt234/CRPT-117hrpt234.pdf) | 117th Congress (2021-2022) | Law | [H. Rept. 117-234](https://www.congress.gov/congressional-report/117th-congress/house-report/234/1)
 
 ## State Statutes
 
 | Title       | State |
 | ----------- | ----------- |
 | [Code of Civil Procedure - CCP §§3.9.1280 - 1294.4](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1281.98&lawCode=CCP) | California |
+
+
 
 # Rule Making
 
@@ -207,3 +227,6 @@ ADR
 
 - https://www.sheppardmullin.com/media/publication/1909_Class%20Actions_Arbitration%20Agreements%20and%20Class%20Action%20Waivers%20_Federal,%20CA_.pdf
 - https://civilrights.org/resource/support-h-r-963-the-forced-arbitration-injustice-repeal-fair-act/#
+
+[^1]: Need to double check this.
+[^2]: [The Age Discrimination in Employment Act of 1967](https://www.eeoc.gov/statutes/age-discrimination-employment-act-1967)
