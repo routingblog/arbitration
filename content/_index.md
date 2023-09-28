@@ -23,9 +23,14 @@ Core Claim (pull quote):
 ## Gilmer v. Interstate/Johnson Lane Corp. 500 U.S. 20 (1991)
 - [Wikipedia](https://en.wikipedia.org/wiki/Gilmer_v._Interstate/Johnson_Lane_Corp.)
 - [LoC Opinion](https://tile.loc.gov/storage-services/service/ll/usrep/usrep500/usrep500020/usrep500020.pdf)
+Majority Author: Byron White
+Dissents: John Paul Stevens
 
 Quick Summary (from court staff summary):
 > An ADEA[^2] claim can be subjected to compulsory arbitration
+
+Pull Quote from Dissent[^3]:
+> When the FAA was passed in 1925, I doubt that any legislator who voted for it expected it to apply to statutory claims, to form contracts between parties of unequal bargaining power, or to the arbitration of disputes arising out of the em- ployment relationship. In recent years, however, the Court "has effectively rewritten the statute," and abandoned its earlier view that statutory claims were not appropriate subjects for arbitration.
 
 
 ## Doctor’s Associates, Inc. v. Casarotto, 517 U.S. 681 (1996)
@@ -326,3 +331,4 @@ ADR
 - Coalition Sign-on Letter to Senate Judiciary in Support of the Arbitration Fairness Act. (n.d.). Retrieved 28 August 2023, from http://www.aclu.org/documents/coalition-sign-letter-senate-judiciary-support-arbitration-fairness-act
 [^1]: Need to double check this.
 [^2]: [The Age Discrimination in Employment Act of 1967](https://www.eeoc.gov/statutes/age-discrimination-employment-act-1967)
+[^3]: pg 42
