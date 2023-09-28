@@ -77,7 +77,15 @@ Pull Quote from Dissent[^3]:
 
 ## Hall Street Associates, L.L.C. v. Mattel, Inc., 552 US 576 (2008)
 
-  arb award can't be modified
+- [Opinion (Court Listener)](https://www.courtlistener.com/opinion/145821/hall-street-associates-l-l-c-v-mattel-inc/)
+- Majority: Souter[^4]
+- Dissent: Stevens, joined by Kennedy
+- Dissent: Breyer
+
+Pull Quote:
+> But whatever the consequences of our holding, the statutory text gives us no business to expand the statutory grounds
+
+The footnotes are also interesting since they give more history as to the federal statute.
 
 ## AT&T Mobility LLC v. Concepcion, 563 U.S. 333 (2011)A
 
@@ -364,6 +372,7 @@ ADR
 [^1]: Need to double check this.
 [^2]: [The Age Discrimination in Employment Act of 1967](https://www.eeoc.gov/statutes/age-discrimination-employment-act-1967)
 [^3]: pg 42
+[^4]: Justice SCALIA joins all but footnote 7 of this opinion.
 
 # Scope
 
