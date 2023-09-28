@@ -7,6 +7,8 @@ type: docs
 ## Prima Paint Corp. v. Flood & Conklin Mfg. Co., 388 US 395 (1967)
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Prima_Paint_Corp._v._Flood_%26_Conklin_Manufacturing_Co.)
+- Oyez: https://www.oyez.org/cases/1966/343
+- Court Listener: https://www.courtlistener.com/opinion/107492/prima-paint-corp-v-flood-conklin-mfg-co/
 - Majority Author: Abe Forta
 - Concurrence: John Marshall Harlan II
 - Dissents: Hugo Black, Potter Stewart, William O. Douglas
@@ -20,7 +22,7 @@ separability of the arbitration clause
 ## Southland Corp. v. Keating, 465 U.S. 1 (1984)
 
 - Wikipedia: https://en.wikipedia.org/wiki/Southland_Corp._v._Keating
-- Court Listener Decision: https://www.courtlistener.com/opinion/111091/southland-corp-v-keating/
+- Court Listener: https://www.courtlistener.com/opinion/111091/southland-corp-v-keating/
 - LoC Decision: https://tile.loc.gov/storage-services/service/ll/usrep/usrep465/usrep465001/usrep465001.pdf
 - Majority Author: Warren Burger
 - Concurence: John P. Stevens
@@ -37,8 +39,8 @@ Core Claim (pull quote):
 ## Gilmer v. Interstate/Johnson Lane Corp. 500 U.S. 20 (1991)
 - [Wikipedia](https://en.wikipedia.org/wiki/Gilmer_v._Interstate/Johnson_Lane_Corp.)
 - [LoC Opinion](https://tile.loc.gov/storage-services/service/ll/usrep/usrep500/usrep500020/usrep500020.pdf)
-Majority Author: Byron White
-Dissents: John Paul Stevens
+- Majority Author: Byron White
+- Dissents: John Paul Stevens
 
 Quick Summary (from court staff summary):
 > An ADEA[^2] claim can be subjected to compulsory arbitration
@@ -49,7 +51,7 @@ Pull Quote from Dissent[^3]:
 
 ## Doctor’s Associates, Inc. v. Casarotto, 517 U.S. 681 (1996)
 - LoC Decision: https://www.loc.gov/item/usrep517681/
-- Court Listener Decision: https://www.courtlistener.com/opinion/118029/doctors-associates-inc-v-casarotto/
+- Court Listener: https://www.courtlistener.com/opinion/118029/doctors-associates-inc-v-casarotto/
 - Supreme Court Database Record: [1995-055-01](http://scdb.wustl.edu/analysisCaseDetail.php?cid=1995-055-01)
 
 ## Green Tree Financial Corporation-Alabama v. Randolph, 531 US 79 (2000)
