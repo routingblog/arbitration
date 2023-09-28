@@ -183,6 +183,7 @@ arb that precludes ERISA plan-wide relief under Section 502(a) not enforceable
 | Common Name | Identifier |
 | ----------- | ---------- |
 | [Dodd-Frank Act](https://www.govinfo.gov/content/pkg/PLAW-111publ203/html/PLAW-111publ203.htm) | Pub. L. 111-203 I.A §113 |
+| [Federal Arbitration Act (as amended)](https://uscode.house.gov/view.xhtml?path=/prelim@title9&edition=prelim) | 9 U.S.C. |
 
 # Proposed National Bills
 
