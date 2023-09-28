@@ -251,7 +251,63 @@ ADR
 1. Glover, M. (2023). Recent Developments in Mandatory Arbitration Warfare: Winners and Losers (So Far) in Mass Arbitration (SSRN Scholarly Paper 4509465). https://papers.ssrn.com/abstract=4509465
 1. Katherine V.W. Stone & Alexander J.S. Colvin. (2015). The arbitration epidemic: Mandatory arbitration deprives workers and consumers of their rights (Briefing Paper 414). Economic Policy Institute. https://www.epi.org/publication/the-arbitration-epidemic/
 1. Skanes, M. R. (2011). THE TRUTH BEHIND “FINAL AND BINDING” ARBITRATION: A STUDY OF VACATED ARBITRATION AWARDS IN THE NEW YORK APPELLATE DIVISION. Albany Law Review, 74(2). https://www.albanylawreview.org/article/69716-the-truth-behind-final-and-binding-arbitration-a-study-of-vacated-arbitration-awards-in-the-new-york-appellate-division
-
+1. Ware, S. J. (n.d.). Vacating Legally-Erroneous Arbitration Awards.
+1. Levinson, A. (2013). What the Awards Tell Us about Labor Arbitration of Employment Discrimination Claims. University of Michigan Journal of Law Reform, 46.3, 789. https://doi.org/10.36646/mjlr.46.3.what
+1. Joshi, H. (2023). You Have Got to Be Keating Me: Why the Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act Is a Good Start. 2023.
+1. Schmitz, A. J. (2005). Untangling the Privacy Paradox in Arbitration. University of Kansas Law Review, 54, 1211. https://heinonline.org/HOL/Page?handle=hein.journals/ukalr54&id=1221&div=&collection=
+1. Gorskie, J. L. (2012). US Courts and the Anti-Arbitration Injunction. Arbitration International, 28(2), 295–324. https://doi.org/10.1093/arbitration/28.2.295
+1. Samra, H. J., & Ramachanderan, R. (n.d.). A Cure for Every Ill? Remedies for “Pathological” Arbitration Clauses.
+1. Edwards, B. (2020). Adversarial Failure. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3622730
+1. Garnett, R. (2020). Anti-Arbitration Injunctions: Walking the Tightrope (SSRN Scholarly Paper 3971942). https://papers.ssrn.com/abstract=3971942
+1. Jacobs, B. L. (n.d.). Often Wrong, Never in Doubt: How Anti-Arbitration Expectancy Bias May Limit Access to Justice. ACCESS TO JUSTICE, 62.
+1. Pittman, L. J. (2023). Arbitration and Federal Reform: Recalibrating the Separation of Powers Between Congress and the Court.
+1. Drahozal, C. R. (n.d.). Arbitration Costs and Forum Accessibility: Empirical Evidence. 41.
+1. Arbitration Study Preliminary Results: Section 1028(a) Study Results To Date. (2013). Consumer Financial Protection Bureau.
+1. Arbitration Study: Report to Congress, pursuant to Dodd–Frank Wall Street Reform and Consumer Protection Act § 1028(a) (pp. 1–728). (2015). Consumer Financial Protection Bureau.
+1. Stone, K. V. W. (2023). Arbitration—From Sacred Cow to Golden Calf: Three Phases in the History of the Federal Arbitration Act. 23.
+1. Gerbitz, C. (n.d.). ARE PRE-DISPUTE AGREEMENTS TO ARBITRATION ONLINE ENFORCEABLE?
+1. Rubenstein, M. (2012). Assignment of Labor Arbitration. St. John’s Law Review, 81(1). https://scholarship.law.stjohns.edu/lawreview/vol81/iss1/6
+1. Hamielec, M. R. (n.d.). Class Dismissed: Compelling a Look at Jurisprudence Surrounding Class Arbitration and Proposing Solutions to Asymmetric Bargaining Power Between Parties. 92.
+1. Cain, R. M. (1988). Commercial Disputes and Compulsory Arbitration. The Business Lawyer, 44(1), 65–84. https://www.jstor.org/stable/40687165
+1. Korn, D., & Rosenberg, D. (2013). Concepcion’s Pro-Defendant Biasing of the Arbitration Process: The Class Counsel Solution. University of Michigan Journal of Law Reform, 46.4, 1151. https://doi.org/10.36646/mjlr.46.4.concepcions
+1. Reuben, R. C. (2005). Confidentiality in Arbitration: Beyond the Myth. University of Kansas Law Review, 54, 1255. https://heinonline.org/HOL/Page?handle=hein.journals/ukalr54&id=1265&div=&collection=
+1. Ware, S. J. (n.d.). Contractual Arbitration, Mandatory Arbitration, and State Constitutional Jury-Trial Rights. 38.
+1. Sternlight, J. R. (n.d.). Creeping Mandatory Arbitration: Is It Just? 57.
+1. Hwang, M., & Chung, K. (2009). Defining the Indefinable&#58; Practical Problems of Confidentiality in Arbitration. Journal of International Arbitration, 26(5). https://kluwerlawonline.com/api/Product/CitationPDFURL?file=Journals\JOIA\JOIA2009034.pdf
+1. Menkel-Meadow, C. (n.d.). Do the ‘Haves’ Come out Ahead in Alternative Judicial Systems?,: Repeat Players in ADR. 15.
+1. Hill, E. (2003). Due Process at Low Cost: An Empirical Study of Employment Arbitration Under the Auspices of the American Arbitration Association. https://kb.osu.edu/handle/1811/77065
+1. Colvin, A. J. S. (2008). Empirical Research on Employment Arbitration: Clarity Amidst the Sound and Fury? (SSRN Scholarly Paper 1090335). https://papers.ssrn.com/abstract=1090335
+1. Covington, R. N. (1998). Employment Arbitration After Gilmer: Have Labor Courts Come to the United States?
+1. Bingham), A. (formerly, & Blomgren, L. (1997). Employment Arbitration: The Repeat Player Effect (SSRN Scholarly Paper 1324411). https://papers.ssrn.com/abstract=1324411
+1. Neuburger, L. (n.d.). Ending Forced Arbitration of Sexual Assault and Sexual Harassment.
+1. Bagby, K., & Souza, S. (n.d.). Ending Unfair Arbitration: Fighting against the Enforcement of Arbitration Agreements in Long-Term Care Contracts.
+1. Schwartz, D. S. (1997). Enforcing Small Print to Protect Big Business: Employee and Consumer Rights Claims in an Age of Compelled Arbitration (SSRN Scholarly Paper 1499953). https://papers.ssrn.com/abstract=1499953
+1. O’Malley, G. (n.d.). Epic Systems Corp. V. Lewis: Singled Out by Corporations and a Textualist Supreme Court, American Workers Are Left to Fend for Themselves. 78.
+1. Estreicher, S., Heise, M., & Sherwyn, D. (2019). Evaluating Employment Arbitration: A Call for Better Empirical Research [Preprint]. LawArXiv. https://doi.org/10.31228/osf.io/mgu62
+1. Duston, R. L. (1991). Gilmer v Interstate/Johnson Lane Corp.: A Major Step Forward for Alternative Dispute Resolution, or a Meaningless Decision? The Labor Lawyer, 7(4), 823–848. https://www.jstor.org/stable/40862140
+1. Rosencrants, P. E. (2023). “Heads I win, tails you lose”: The End of Employers’ Exploitation of the Federal Arbitration Waiver Prejudice Requirement. MISSOURI LAW REVIEW, 87. https://scholarship.law.missouri.edu/mlr/vol87/iss4/11/
+1. Drahozal, C. R. (n.d.). Innovation in Arbitration Law: The Case of Delaware.
+1. Ralston, J. H. (2004). International Arbitration from Athens to Locarno. The Lawbook Exchange, Ltd.
+1. Fitzpatrick, B. T. (2017). Justice Scalia and Class Actions. Notre Dame Law Review, 92, 1977. https://scholarship.law.vanderbilt.edu/faculty-publications/586
+1. Schwartz, D. S. (n.d.). Justice Scalia’s Jiggery-Pokery in Federal Arbitration Law.
+1. Hummell, H. (2023). Missouri’s Ultimate Dead Hand Control: The Development and Relationship Between Donative Arbitration Provisions and No-Contest Clauses in Wills & Trusts. Journal of Dispute Resolution, 2023(2). https://scholarship.law.missouri.edu/jdr/vol2023/iss2/10
+1. Garrett, A. (2023). New Update Available: How the DoorDash and TikTok Cases Will Change the Way Arbitration is Utilized in Class Actions. Journal of Dispute Resolution, 2023(2). https://scholarship.law.missouri.edu/jdr/vol2023/iss2/9
+1. Bernstein, L. (1992). Opting out of the Legal System: Extralegal Contractual Relations in the Diamond Industry. The Journal of Legal Studies, 21(1), 115–157. https://doi.org/10.1086/467902
+1. Sternlight, J. R. (2021). Panacea or Corporate Tool?: Debunking the Supreme Court’s Preference for Binding Arbitration. In J. R. Sternlight, Discussions in Dispute Resolution (pp. 249–254). Oxford University Press. https://doi.org/10.1093/oso/9780197513248.003.0051
+1. Xu, A. (n.d.). Reconsideration of Forced Arbitration in Data Privacy Legislation.
+1. Stern, N. (2022). Rethinking Absolute Immunity from Defamation Suits in Private Quasi-Judicial Proceedings.
+1. Rau, A. S. (2006). Separability in the United States Supreme Court (SSRN Scholarly Paper 893601). https://papers.ssrn.com/abstract=893601
+1. Lipton, D. (1993). Should Arbitrators Follow the Law? Scholarly Articles. https://scholarship.law.edu/scholar/617
+1. Dunham, K. F. (2009). Southland Corp. v. Keating Revisited: Twenty-Five Years in Which Direction. Charleston Law Review, 4, 331. https://heinonline.org/HOL/Page?handle=hein.journals/charlwrev4&id=335&div=&collection=
+1. Lampley, R. L. (2017). The CFPB Anti-Arbitration Proposal: Let’s Just Give Arbitration a Chance. St. Mary’s Law Journal, 48(2).
+1. hlr. (2023, April 10). The Enforcement Opportunity: From Mass Arbitration to Mass Organizing. Harvard Law Review. https://harvardlawreview.org/print/vol-136/the-enforcement-opportunity-from-mass-arbitration-to-mass-organizing/
+1. The growing use of mandatory arbitration: Access to the courts is now barred for more than 60 million American workers. (n.d.). Economic Policy Institute. Retrieved 28 August 2023, from https://www.epi.org/publication/the-growing-use-of-mandatory-arbitration-access-to-the-courts-is-now-barred-for-more-than-60-million-american-workers/
+1. Gilles, M. (n.d.). THE PRIVATE ATTORNEY GENERAL IN A TIME OF HYPER-POLARIZED POLITICS. ARIZONA LAW REVIEW, 65.
+1. THE SUBSTANTIVE WAIVER DOCTRINE IN EMPLOYMENT ARBITRATION LAW. (n.d.). HARVARD LAW REVIEW.
+1. Gross, J. I. (n.d.). THE UBERIZATION OF ARBITRATION CLAUSES.
+1. White, A. S. (2021). The Unlikely Underdog: Skilled Immigrants in Tech Face Unique Mandatory Arbitration Challenges. CALIFORNIA WESTERN LAW REVIEW, 57(1).
+1. Jha, K., & Singh, A. (2023). The Use of Arbitration Clauses by Social Media Websites: A Critique. 23.
+1. Drahozal, C. R., & O’Connor, E. O. (2015). Unbundling Procedure: Carve-Outs From Arbitration Clauses. Florida Law Review, 66.
 
 ## Blog Post
 
@@ -264,6 +320,7 @@ ADR
 - ContractsProf Blog: Coinbase Users’ Complaints About Hacked Accounts Sent to Arbitration. (n.d.). ContractsProf Blog. Retrieved 17 September 2023, from https://lawprofessors.typepad.com/contractsprof_blog/2023/09/coinbase-users-complaints-about-hacked-accounts-sent-to-arbitration.html
 - Peterson, P. A. L., Morgan. (2023, February 17). Court Obliterates California’s Anti-Arbitration Law. California Employment Law Update. https://calemploymentlawupdate.proskauer.com/2023/02/ninth-circuit-panel-changes-its-mind-and-obliterates-californias-anti-mandatory-employment-arbitration-law/
 - Darin Ranahan. (n.d.). Mandatory Pre-Dispute Arbitration Agreements and Your Rights: A Post-Concepcion Primer. Retrieved 25 August 2023, from https://www.sl-employmentlaw.com/mandatory-pre-dispute-arbitration-agreements-and-your-rights-a-p.html
+- Rachel Thorn. (2021, March 11). Drafting Arbitration Clauses in IP Agreements. World Trademark Review. https://www.worldtrademarkreview.com/global-guide/the-guide-ip-arbitration/2021/article/drafting-arbitration-clauses-in-ip-agreements
 
 ## Advocacy
 - Coalition Sign-on Letter to Senate Judiciary in Support of the Arbitration Fairness Act. (n.d.). Retrieved 28 August 2023, from http://www.aclu.org/documents/coalition-sign-letter-senate-judiciary-support-arbitration-fairness-act
