@@ -6,7 +6,10 @@ type: docs
 # Supreme Court Decisions
 ## Prima Paint Corp. v. Flood & Conklin Mfg. Co., 388 US 395 (1967)
 
-- Wikipedia: https://en.wikipedia.org/wiki/Prima_Paint_Corp._v._Flood_%26_Conklin_Manufacturing_Co.
+- [Wikipedia](https://en.wikipedia.org/wiki/Prima_Paint_Corp._v._Flood_%26_Conklin_Manufacturing_Co.)
+- Majority Author: Abe Forta
+- Concurrence: John Marshall Harlan II
+- Dissents: Hugo Black, Potter Stewart, William O. Douglas
 
 separability of the arbitration clause
 
