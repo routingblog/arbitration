@@ -14,3 +14,8 @@ enableGitInfo = true
   BookRepo = 'https://github.com/grimreaper/arbitration'
   BookCommitPath = 'commit'
   BookEditPath = 'edit/master'
+[markup]
+  [markup.tableOfContents]
+    endLevel = 2
+    ordered = false
+    startLevel = 1
