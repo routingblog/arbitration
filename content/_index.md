@@ -83,6 +83,7 @@ SCOTUS predicting [Adolph]({{< relref "/#adolph" >}})
   district court must stay its proceedings pending resolution of an interlocutory appeal of a denial of a motion to compel arbitration.
 
 
+
 ## Abernathy v. DoorDash, Inc.
 
 ## In re TikTok, Inc., Consumer Privacy Litigation
@@ -115,13 +116,25 @@ Core Claim (pull quote):
 > The text of the FAA makes clear that courts are not to create arbitration-specific procedural rules ...
 
 
+# Non Supreme Court Federal Cases
+
+## Zenia Chavarria v. Ralphs Grocery Company, 733 F.3d 916 (9th Cir. 2013)
+
+Pull Quote (from court staff summary):
+
+> The policy was procedurally unconscionable because it was a condition of applying for employment and was presented on a “take it or leave it” basis. In addition, its terms were not provided to the plaintiff until three weeks after she had agreed to be bound by it.
+> Specifically, the policy’s arbitrator selection process would always produce an arbitrator proposed by the defendant in employee-initiated arbitration proceedings; the policy precluded institutional arbitration administrators, which have established rules and procedures to select a neutral arbitrator; and the policy’s arbitrator-fee-apportionment provision would have the effect of pricing employees out of the dispute resolution process
+
+### Analysis
+
+- https://onlabor.org/an-explainer-ninth-circuit-on-mandatory-arbitration-in-employment-contracts-chavarria-v-ralphs-grocery/
 
 
-# Statues
+# Statutes
 
-https://www.govinfo.gov/content/pkg/PLAW-111publ203/html/PLAW-111publ203.htm
 | Common Name | Identifier |
-| Dodd-Frank Act | Pub. L. 111-203 I.A §113 |
+| ----------- | ---------- |
+| [Dodd-Frank Act](https://www.govinfo.gov/content/pkg/PLAW-111publ203/html/PLAW-111publ203.htm) | Pub. L. 111-203 I.A §113 |
 
 # Proposed National Bills
 
@@ -137,7 +150,7 @@ https://www.govinfo.gov/content/pkg/PLAW-111publ203/html/PLAW-111publ203.htm
 | [S.1376 - Forced Arbitration Injustice Repeal Act](https://www.congress.gov/bill/118th-congress/senate-bill/1376) | 118th Congress (2023-2024) | |
 | [S.1408 - Ending Forced Arbitration of Race Discrimination Act of 2023](https://www.congress.gov/bill/118th-congress/senate-bill/1408) | 118th Congress (2023-2024) |
 
-## State Statues
+## State Statutes
 
 | Title       | State |
 | ----------- | ----------- |
@@ -189,3 +202,8 @@ Arbitration
 
 ADR
 : Alternate Dispute Resolution HTML
+
+# Blog Posts
+
+- https://www.sheppardmullin.com/media/publication/1909_Class%20Actions_Arbitration%20Agreements%20and%20Class%20Action%20Waivers%20_Federal,%20CA_.pdf
+- https://civilrights.org/resource/support-h-r-963-the-forced-arbitration-injustice-repeal-fair-act/#
