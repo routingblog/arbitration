@@ -76,6 +76,9 @@ that employment arbitration agreements that bar class actions are enforceable
 
 ## Ernst & Young LLP v. Morris (Docket 16-300) - NLRA did not override FAA.
 
+## Southwest Airlines Co., Petitioner v. Latrice Saxon 2021
+https://www.supremecourt.gov/docket/docketfiles/html/public/21-309.html
+
 
 ## Viking River Cruises, Inc v. Moriana (2022) U.S., 142 S. Ct. 1906
 
@@ -97,11 +100,22 @@ SCOTUS predicting [Adolph]({{< relref "/#adolph" >}})
 
 
 
+## 17-340 New Prime Inc. V. Oliveira (01/15/2019), (Supreme Court 2019)
+
+https://www.supremecourt.gov/opinions/18pdf/17-340_o7kq.pdf (majority:  Gorsuch) (8-0)
+https://www.scotusblog.com/case-files/cases/new-prime-inc-v-oliveira/
+
+no arb in workers engaged in foreign or interstate commerce
+
+## Henry Schein, Inc. v. Archer & White Sales, Inc.
+
+"when the parties' contract delegates the arbitrability question to an arbitrator, a court may not override the contract.
+
 ## Abernathy v. DoorDash, Inc.
 
 ## In re TikTok, Inc., Consumer Privacy Litigation
 
-> Argent Trust Company v. Harrison 23-30
+## Argent Trust Company v. Harrison 23-30
 Issue: Whether a participant in a plan governed by the Employee Retirement Income Security Act who asserts statutory claims under that statute can be compelled, pursuant to a binding arbitration provision, to submit his claims to individual arbitration.
 
 ## 17-988 Lamps Plus, Inc. V. Varela (04/24/2019). (2019).
@@ -109,6 +123,10 @@ Issue: Whether a participant in a plan governed by the Employee Retirement Incom
 Under the Federal Arbitration Act (FAA), an arbitration agreement that is ambiguous as to the availability of class arbitration does not manifest sufficient consent by the parties to submit to class arbitration. In a 5-4 opinion authored by Chief Justice John Roberts, the Court held that the arbitration agreement between Varela and his employer, Lamps Plus, which contained only general language commonly used in arbitration agreements, did not provide the necessary contractual basis for compelling class arbitration.
 
 ## 22-1098 - Harrison v. Envision Management Holding, Inc. Board, et al. [10975747]
+Related: Harrison v. Envision Holding Management Inc. Board of Directors, et al., No. 22-1098 (United States Court of Appeals for the Tenth Circuit).
+
+Pull Quote:
+> by prohibiting a claimant such as Harrison from obtaining any form of relief that would benefit anyone other than himself, prevents the effective vindication of the statutory remedies outlined in § 1132(a)(2). In other words, the effect of Section 21 of the Plan, if enforced, would be that participant/claimants such as Harrison would be left without any guarantee that a suit seeking the statutory remedies set forth in § 1132(a)(2) would ever be filed by the DOL (and, in turn, that those statutory remedies would ever be available).
 
 arb that precludes ERISA plan-wide relief under Section 502(a) not enforceable
 
@@ -185,7 +203,7 @@ Status: Effectively Reversed by [Morgan]({{< relref "/#morgan-v-sundance" >}}) [
 - [Final Rule](https://www.federalregister.gov/documents/2017/07/19/2017-14225/arbitration-agreements)
 - Regulation Comments: https://www.regulations.gov/docket/CFPB-2016-0020
 - [Disapproval Notice](https://www.federalregister.gov/documents/2017/11/22/2017-25324/arbitration-agreements)
-- Congressional Review Act Disapproval: [PUBLIC LAW 115–74](https://www.govinfo.gov/content/pkg/PLAW-115publ74/pdf/PLAW-115publ74.pdf)
+- Congressional Review Act Disapproval: [PUBLIC LAW 115-74](https://www.govinfo.gov/content/pkg/PLAW-115publ74/pdf/PLAW-115publ74.pdf)
 
 
 ### Petition to Require Meaningful Consumer Consent Regarding the Use of Arbitration to Resolve Disputes Involving Consumer Financial Products and Services
@@ -223,10 +241,31 @@ Arbitration
 ADR
 : Alternate Dispute Resolution HTML
 
-# Blog Posts
+# References
+
+## Law Journal And Academic Articles
+
+1. Alcolea, L. C. (2022). Arbitration and the Right to Have Your Day in Court: Meeting Again at the Turning of the Tide. 22. https://digitalcommons.pepperdine.edu/drlj/vol22/iss2/6/
+1. Gilles, M. E. (2023). Arbitration’s Unraveling (SSRN Scholarly Paper 4527841). https://doi.org/10.2139/ssrn.4527841
+1. Glover, J. M. (2022). Mass Arbitration. Stanford Law Review, 74. https://review.law.stanford.edu/wp-content/uploads/sites/3/2022/09/Glover-74-Stan.-L.-Rev.-1283.pdf
+1. Glover, M. (2023). Recent Developments in Mandatory Arbitration Warfare: Winners and Losers (So Far) in Mass Arbitration (SSRN Scholarly Paper 4509465). https://papers.ssrn.com/abstract=4509465
+1. Katherine V.W. Stone & Alexander J.S. Colvin. (2015). The arbitration epidemic: Mandatory arbitration deprives workers and consumers of their rights (Briefing Paper 414). Economic Policy Institute. https://www.epi.org/publication/the-arbitration-epidemic/
+1. Skanes, M. R. (2011). THE TRUTH BEHIND “FINAL AND BINDING” ARBITRATION: A STUDY OF VACATED ARBITRATION AWARDS IN THE NEW YORK APPELLATE DIVISION. Albany Law Review, 74(2). https://www.albanylawreview.org/article/69716-the-truth-behind-final-and-binding-arbitration-a-study-of-vacated-arbitration-awards-in-the-new-york-appellate-division
+
+
+## Blog Post
 
 - https://www.sheppardmullin.com/media/publication/1909_Class%20Actions_Arbitration%20Agreements%20and%20Class%20Action%20Waivers%20_Federal,%20CA_.pdf
 - https://civilrights.org/resource/support-h-r-963-the-forced-arbitration-injustice-repeal-fair-act/#
+- Leonard H. Sansanowicz. (2022, September). Arbitration hypnosis. 2022 September. https://www.advocatemagazine.com/article/2022-september/arbitration-hypnosis
+- https://www.advocatemagazine.com/article/2023-september/paga-and-arbitration-from-case-viking-river-cruises-v-moriana-case-to-case-adolph-v-uber-case-who-s-left-standing
+- Patrick J. Bannon, Anthony S. Califano, Molly C. Mooney, & John Ayers-Mann. (n.d.). Are Arbitration Agreements Fair and Consistent With Company Culture? Seyfarth Shaw - Are Arbitration Agreements Fair and Consistent With Company Culture? Retrieved 16 September 2023, from https://www.seyfarth.com/news-insights/are-arbitration-agreements-fair-and-consistent-with-company-culture.html
+- Patrick J. Bannon, Anthony S. Califano, Molly C. Mooney, & John T. Ayers-Mann. (n.d.). Can Arbitration Agreements Protect Employers Against Class Actions? Seyfarth Shaw - Can Arbitration Agreements Protect Employers Against Class Actions? Retrieved 16 September 2023, from https://www.seyfarth.com/news-insights/arbitration-can-arbitration-agreements-protect-employers-against-class-actions.html
+- ContractsProf Blog: Coinbase Users’ Complaints About Hacked Accounts Sent to Arbitration. (n.d.). ContractsProf Blog. Retrieved 17 September 2023, from https://lawprofessors.typepad.com/contractsprof_blog/2023/09/coinbase-users-complaints-about-hacked-accounts-sent-to-arbitration.html
+- Peterson, P. A. L., Morgan. (2023, February 17). Court Obliterates California’s Anti-Arbitration Law. California Employment Law Update. https://calemploymentlawupdate.proskauer.com/2023/02/ninth-circuit-panel-changes-its-mind-and-obliterates-californias-anti-mandatory-employment-arbitration-law/
+- Darin Ranahan. (n.d.). Mandatory Pre-Dispute Arbitration Agreements and Your Rights: A Post-Concepcion Primer. Retrieved 25 August 2023, from https://www.sl-employmentlaw.com/mandatory-pre-dispute-arbitration-agreements-and-your-rights-a-p.html
 
+## Advocacy
+- Coalition Sign-on Letter to Senate Judiciary in Support of the Arbitration Fairness Act. (n.d.). Retrieved 28 August 2023, from http://www.aclu.org/documents/coalition-sign-letter-senate-judiciary-support-arbitration-fairness-act
 [^1]: Need to double check this.
 [^2]: [The Age Discrimination in Employment Act of 1967](https://www.eeoc.gov/statutes/age-discrimination-employment-act-1967)
