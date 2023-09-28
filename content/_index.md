@@ -79,10 +79,6 @@ Pull Quote from Dissent[^3]:
 
   arb award can't be modified
 
-## Gilmer v. Interstate/Johnson Lane Corp.,  500 US 20 (1991)
-
-  arb in discrimination claim
-
 ## AT&T Mobility LLC v. Concepcion, 563 U.S. 333 (2011)A
 
 Core Question: does FAA preempt state law on enforcement of arbitration on availability of class-wide relief
