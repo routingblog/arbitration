@@ -4,6 +4,15 @@ type: docs
 ---
 
 # Supreme Court Decisions
+## Prima Paint Corp. v. Flood & Conklin Mfg. Co., 388 US 395 (1967)
+
+- Wikipedia: https://en.wikipedia.org/wiki/Prima_Paint_Corp._v._Flood_%26_Conklin_Manufacturing_Co.
+
+separability of the arbitration clause
+
+## Moses H. Cone Memorial Hospital v. Mercury Construction Corp., 460 U.S. 1 (1983)
+
+[Wikipedia](https://en.wikipedia.org/wiki/Moses_H._Cone_Memorial_Hospital_v._Mercury_Construction_Corp.)
 
 ## Southland Corp. v. Keating, 465 U.S. 1 (1984)
 
@@ -17,6 +26,8 @@ type: docs
 Core Claim (pull quote):
 
 > In enacting § 2 of the federal Act, Congress declared a national policy favoring arbitration and withdrew the power of the states to require a judicial forum for the resolution of claims that the contracting parties agreed to resolve by arbitration. arb applies in state courts in addition to federal
+
+## Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth, Inc., 473 U.S. 614 (1985)
 
 ## Rodriguez de Quijas v. Shearson/American Express Inc., 490 U.S. 477 (1989)
 
@@ -43,11 +54,6 @@ Pull Quote from Dissent[^3]:
 - Court Listener: https://www.courtlistener.com/opinion/118394/green-tree-financial-corp-ala-v-randolph/
 - Oyez Analysis: https://www.oyez.org/cases/2000/99-1235
 
-## Prima Paint Corp. v. Flood & Conklin Mfg. Co., 388 US 395 (1967)
-
-- Wikipedia: https://en.wikipedia.org/wiki/Prima_Paint_Corp._v._Flood_%26_Conklin_Manufacturing_Co.
-
-separability of the arbitration clause
 
 ## Preston v. Ferrer
 - Wikipedia: https://en.wikipedia.org/wiki/Preston_v._Ferrer
@@ -75,17 +81,37 @@ separability of the arbitration clause
 
 ## American Express Co. v. Italian Colors Restaurant, 570 US 228 (2013)
 
-## Epic Systems Corp. v. Lewis
+##  Epic Systems Corp. v. Lewis, 138 S. Ct. 1612 (2018)
 
 that employment arbitration agreements that bar class actions are enforceable
 
-## Ernst & Young LLP v. Morris (Docket 16-300) - NLRA did not override FAA.
+## Ernst & Young LLP v. Morris (Docket 16-300) (2018)
+NLRA did not override FAA.
+
+- Related to Epic Systems Corp. v. Lewis
+- Related to National Labor Relations Board v. Murphy Oil USA, Inc.
+
+## 17-988 Lamps Plus, Inc. V. Varela (2019).
+
+Under the Federal Arbitration Act (FAA), an arbitration agreement that is ambiguous as to the availability of class arbitration does not manifest sufficient consent by the parties to submit to class arbitration. In a 5-4 opinion authored by Chief Justice John Roberts, the Court held that the arbitration agreement between Varela and his employer, Lamps Plus, which contained only general language commonly used in arbitration agreements, did not provide the necessary contractual basis for compelling class arbitration.
+
+## 17-340 New Prime Inc. V. Oliveira (01/15/2019), (Supreme Court 2019)
+
+https://www.supremecourt.gov/opinions/18pdf/17-340_o7kq.pdf (majority:  Gorsuch) (8-0)
+https://www.scotusblog.com/case-files/cases/new-prime-inc-v-oliveira/
+
+no arb in workers engaged in foreign or interstate commerce
+
+## Henry Schein, Inc. v. Archer & White Sales, Inc., 586 U.S. (2019)
+
+"when the parties' contract delegates the arbitrability question to an arbitrator, a court may not override the contract.
+
 
 ## Southwest Airlines Co., Petitioner v. Latrice Saxon 2021
 https://www.supremecourt.gov/docket/docketfiles/html/public/21-309.html
 
 
-## Viking River Cruises, Inc v. Moriana (2022) U.S., 142 S. Ct. 1906
+## Viking River Cruises, Inc. v. Moriana, 20-1573 (2022)
 
 Core Issue (pull quote)
 > whether the Federal Arbitration Act, 9 U. S. C. §1 et seq., preempts a rule of California law that invalidates contractual waivers of the right to assert representative claims under California’s Labor Code Private Attorneys General Act of 2004, Cal. Lab. Code §2698 et seq
@@ -95,45 +121,11 @@ Decision: https://www.supremecourt.gov/opinions/21pdf/20-1573_8p6h.pdf
 The court also predicted what the california courts would rule in a similar case (alolf)
 SCOTUS predicting [Adolph]({{< relref "/#adolph" >}})
 
-## Coinbase, Inc. v. Bielski that a federal
-  district court must stay its proceedings pending resolution of an interlocutory appeal of a denial of a motion to compel arbitration.
+## Coinbase, Inc. v. Bielski (2023)
+that a federal district court must stay its proceedings pending resolution of an interlocutory appeal of a denial of a motion to compel arbitration.
 
-## Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth, Inc., 473 U. S. 614
-
-
-## Moses H. Cone Memorial Hospital v. Mercury Construction Corp., 460 U. S. 1, 24
-
-
-
-## 17-340 New Prime Inc. V. Oliveira (01/15/2019), (Supreme Court 2019)
-
-https://www.supremecourt.gov/opinions/18pdf/17-340_o7kq.pdf (majority:  Gorsuch) (8-0)
-https://www.scotusblog.com/case-files/cases/new-prime-inc-v-oliveira/
-
-no arb in workers engaged in foreign or interstate commerce
-
-## Henry Schein, Inc. v. Archer & White Sales, Inc.
-
-"when the parties' contract delegates the arbitrability question to an arbitrator, a court may not override the contract.
-
-## Abernathy v. DoorDash, Inc.
-
-## In re TikTok, Inc., Consumer Privacy Litigation
-
-## Argent Trust Company v. Harrison 23-30
+## Argent Trust Company v. Harrison 23-30 (pending petition)
 Issue: Whether a participant in a plan governed by the Employee Retirement Income Security Act who asserts statutory claims under that statute can be compelled, pursuant to a binding arbitration provision, to submit his claims to individual arbitration.
-
-## 17-988 Lamps Plus, Inc. V. Varela (04/24/2019). (2019).
-
-Under the Federal Arbitration Act (FAA), an arbitration agreement that is ambiguous as to the availability of class arbitration does not manifest sufficient consent by the parties to submit to class arbitration. In a 5-4 opinion authored by Chief Justice John Roberts, the Court held that the arbitration agreement between Varela and his employer, Lamps Plus, which contained only general language commonly used in arbitration agreements, did not provide the necessary contractual basis for compelling class arbitration.
-
-## 22-1098 - Harrison v. Envision Management Holding, Inc. Board, et al. [10975747]
-Related: Harrison v. Envision Holding Management Inc. Board of Directors, et al., No. 22-1098 (United States Court of Appeals for the Tenth Circuit).
-
-Pull Quote:
-> by prohibiting a claimant such as Harrison from obtaining any form of relief that would benefit anyone other than himself, prevents the effective vindication of the statutory remedies outlined in § 1132(a)(2). In other words, the effect of Section 21 of the Plan, if enforced, would be that participant/claimants such as Harrison would be left without any guarantee that a suit seeking the statutory remedies set forth in § 1132(a)(2) would ever be filed by the DOL (and, in turn, that those statutory remedies would ever be available).
-
-arb that precludes ERISA plan-wide relief under Section 502(a) not enforceable
 
 # California Supreme Court Cases
 
@@ -154,6 +146,10 @@ Core Claim (pull quote):
 
 # Non Supreme Court Federal Cases
 
+## In re: TikTok Inc. Consumer Privacy Litigation, Case No. 1:20-cv-04699
+
+## Abernathy v. DoorDash, Inc., 438 F. Supp. 3d 1062
+
 ## Zenia Chavarria v. Ralphs Grocery Company, 733 F.3d 916 (9th Cir. 2013)
 
 Pull Quote (from court staff summary):
@@ -164,6 +160,13 @@ Pull Quote (from court staff summary):
 ## Richards v. Ernst & Young, LLP, 11-17530, 2013 WL 4437601 (9th Cir. Aug. 21, 2013).
 
 Status: Effectively Reversed by [Morgan]({{< relref "/#morgan-v-sundance" >}}) [^1]
+
+## Harrison v. Envision Holding Management Inc. Board of Directors, et al., No. 22-1098 (United States Court of Appeals for the Tenth Circuit). (2023)
+
+Pull Quote:
+> by prohibiting a claimant such as Harrison from obtaining any form of relief that would benefit anyone other than himself, prevents the effective vindication of the statutory remedies outlined in § 1132(a)(2). In other words, the effect of Section 21 of the Plan, if enforced, would be that participant/claimants such as Harrison would be left without any guarantee that a suit seeking the statutory remedies set forth in § 1132(a)(2) would ever be filed by the DOL (and, in turn, that those statutory remedies would ever be available).
+
+arb that precludes ERISA plan-wide relief under Section 502(a) not enforceable
 
 ### Analysis
 
@@ -332,3 +335,7 @@ ADR
 [^1]: Need to double check this.
 [^2]: [The Age Discrimination in Employment Act of 1967](https://www.eeoc.gov/statutes/age-discrimination-employment-act-1967)
 [^3]: pg 42
+
+# Scope
+
+The goal of this document is discuss _forced arbitration_ and _class action waivers_ in _consumer disputes_ and _employment disputes_. Other aspects of arbitration are mostly out of scope of this document.
