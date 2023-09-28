@@ -13,7 +13,10 @@ type: docs
 - Concurrence: John Marshall Harlan II
 - Dissents: Hugo Black, Potter Stewart, William O. Douglas
 
-separability of the arbitration clause
+Pull Quote:
+> a federal court may not consider a claim of fraud in the inducement of the contract generally, but "may consider only the issues relating to the making and performance of the agreement to arbitrate." Pp. 388 U. S. 402-404.
+
+> Since the claim of fraud here relates to inducement of the consulting agreement generally, rather than in the arbitration clause, and there is no evidence that the parties intended to withhold this issue from arbitration, there is no basis for granting a stay under § 3. Pp. 388 U. S. 406-407.
 
 ## Moses H. Cone Memorial Hospital v. Mercury Construction Corp., 460 U.S. 1 (1983)
 
