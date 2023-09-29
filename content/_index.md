@@ -7,8 +7,8 @@ type: docs
 ## Prima Paint Corp. v. Flood & Conklin Mfg. Co., 388 US 395 (1967)
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Prima_Paint_Corp._v._Flood_%26_Conklin_Manufacturing_Co.)
-- Oyez: https://www.oyez.org/cases/1966/343
-- Court Listener: https://www.courtlistener.com/opinion/107492/prima-paint-corp-v-flood-conklin-mfg-co/
+- [Oyez](https://www.oyez.org/cases/1966/343)
+- [Court Listener](https://www.courtlistener.com/opinion/107492/prima-paint-corp-v-flood-conklin-mfg-co/)
 - Majority Author: Abe Forta
 - Concurrence: John Marshall Harlan II
 - Dissents: Hugo Black, Potter Stewart, William O. Douglas
