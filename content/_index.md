@@ -20,6 +20,13 @@ Pull Quote:
 
 ## Moses H. Cone Memorial Hospital v. Mercury Construction Corp., 460 U.S. 1 (1983)
 
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Moses_H._Cone_Memorial_Hospital_v._Mercury_Construction_Corp.)
+- Majority Author: William Brennan
+- Dissents:  William Rehnquist joined by Burger, O'Connor
+
+Not directly related to _forced_ arbitration_. Established that the FAA applies to actions in state court and a _policy of rapid and unobstructed enforcement of arbitration agreements_.
+
 [Wikipedia](https://en.wikipedia.org/wiki/Moses_H._Cone_Memorial_Hospital_v._Mercury_Construction_Corp.)
 
 ## Southland Corp. v. Keating, 465 U.S. 1 (1984)
@@ -377,3 +384,21 @@ ADR
 # Scope
 
 The goal of this document is discuss _forced arbitration_ and _class action waivers_ in _consumer disputes_ and _employment disputes_. Other aspects of arbitration are mostly out of scope of this document.
+
+# Misc Other Notes
+
+Notes on cases and things not yet started above
+
+Richards v. Ernst & Young, LLP, 11-17530, 2013 WL 4437601 (9th Cir. Aug. 21, 2013).
+ See Ferguson v. Corinthian Colleges, Inc., 733 F.3d 928 (9th Cir. 2013). The Ferguson panel reversed the lower court’s denial of a motion to compel arbitration, and held the FAA preempted California’s “Broughton-Cruz Rule,” which dictates that injunctive relief sought for the public’s benefit cannot be subjected to mandatory arbitration.
+Sampson v NAMA Holdings
+	stating judicial estoppel "generally prevents a party from prevailing in one phase of a case on an argument and then relying on a contradictory argument to prevail in another phase." → judicial estoppel and not really an element of arbitration -> https://cases.justia.com/static/pdf-js/web/?file=/federal/appellate-courts/ca9/09-55835/09-55835-2011-02-25.pdf?ts=1411053160
+https://www.courtlistener.com/opinion/204590/shawn-samson-v-nama-holdings-llc/?q=%22Samson%20v.%20NAMA%20Holdings%2C%20LLC%22
+https://www.courtlistener.com/opinion/2421269/samson-v-nama-holdings-llc/?q=%22Samson%20v.%20NAMA%20Holdings%2C%20LLC%22
+https://casetext.com/case/brown-v-dillards-inc
+https://www.govinfo.gov/app/details/USCOURTS-cand-3_18-cv-03622
+Howsam v. Dean Witter Reynolds, Inc. - https://www.oyez.org/cases/2002/01-800
+https://casetext.com/case/james-jackson-llc-v-willie-gary-llc
+Bain Cotton Co. v. Chesnutt Cotton Co. https://casetext.com/case/bain-cotton-co-v-chesnutt-cotton-co
+https://www.oyez.org/cases/2002/01-800  - Bain Cotton Co. v. Chesnutt Cotton Co.
+Stolt-Nielsen v. Animalfeeds International Corp. - https://www.oyez.org/cases/2009/08-1198
