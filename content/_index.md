@@ -27,8 +27,6 @@ Pull Quote:
 
 Not directly related to _forced_ arbitration_. Established that the FAA applies to actions in state court and a _policy of rapid and unobstructed enforcement of arbitration agreements_.
 
-[Wikipedia](https://en.wikipedia.org/wiki/Moses_H._Cone_Memorial_Hospital_v._Mercury_Construction_Corp.)
-
 ## Southland Corp. v. Keating, 465 U.S. 1 (1984)
 
 - Wikipedia: https://en.wikipedia.org/wiki/Southland_Corp._v._Keating
