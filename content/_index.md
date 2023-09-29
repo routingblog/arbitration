@@ -50,7 +50,7 @@ Core Claim (pull quote):
 - Majority Author: Byron White
 - Dissents: John Paul Stevens
 
-Quick Summary (from court staff summary):
+Quick Summary (from syllabus):
 > An ADEA[^2] claim can be subjected to compulsory arbitration
 
 Pull Quote from Dissent[^3]:
@@ -58,10 +58,13 @@ Pull Quote from Dissent[^3]:
 
 
 ## Doctor’s Associates, Inc. v. Casarotto, 517 U.S. 681 (1996)
+
 - LoC Decision: https://www.loc.gov/item/usrep517681/
 - Court Listener: https://www.courtlistener.com/opinion/118029/doctors-associates-inc-v-casarotto/
 - Supreme Court Database Record: [1995-055-01](http://scdb.wustl.edu/analysisCaseDetail.php?cid=1995-055-01)
 
+Pull Quote (from syllabus)
+Montana's first-page notice requirement, which governs not "any contract," but specifically and solely contracts "subject to arbitration," conflicts with the FAA and is therefore displaced by the federal meas- ure. Generally applicable contract defenses, such as fraud, duress, or unconscionability, may be applied to invalidate arbitration agreements without contravening § 2, see, e. g., Allied-Bruce, 513 U. S., at 281, but courts may not invalidate arbitration agreements under state laws applicable only to arbitration provisions
 ## Green Tree Financial Corporation-Alabama v. Randolph, 531 US 79 (2000)
 
 - Court Listener: https://www.courtlistener.com/opinion/118394/green-tree-financial-corp-ala-v-randolph/
@@ -193,7 +196,7 @@ Core Claim (pull quote):
 
 ## Zenia Chavarria v. Ralphs Grocery Company, 733 F.3d 916 (9th Cir. 2013)
 
-Pull Quote (from court staff summary):
+Pull Quote (from syllabus):
 
 > The policy was procedurally unconscionable because it was a condition of applying for employment and was presented on a “take it or leave it” basis. In addition, its terms were not provided to the plaintiff until three weeks after she had agreed to be bound by it.
 > Specifically, the policy’s arbitrator selection process would always produce an arbitrator proposed by the defendant in employee-initiated arbitration proceedings; the policy precluded institutional arbitration administrators, which have established rules and procedures to select a neutral arbitrator; and the policy’s arbitrator-fee-apportionment provision would have the effect of pricing employees out of the dispute resolution process
