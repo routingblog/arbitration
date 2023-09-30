@@ -374,6 +374,7 @@ ADR
 1. Jory, K. (n.d.). Mandatory Arbitration Clauses in Payday Lending Loans: How the Federal Courts Protect Unfair Lending Practices in the Name of Anti-Protectionism. 24. (unread)
 1. Bingham, L. B. (n.d.). On Repeat Players, Adhesive Contracts, and the Use of Statistics in Judicial Review of Employment Arbitration Awards. (unread)
 1. Gross, J. I., & Black, B. (2008). When Perception Changes Reality: An Empirical Study of Investors’ Views of the Fairness of Securities Arbitration. 2008. (unread)
+1. Bingham, L. B. (n.d.). Self-determination In Dispute System Design And Employment Arbitration. 56. (unread)
 
 ## Blog Post
 
