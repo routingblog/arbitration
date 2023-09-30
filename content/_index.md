@@ -7,6 +7,8 @@ type: docs
 
 ## Wilko v. Swan (1953)
 
+Reversed by [Rodriguez]({{< relref "/#Quijas-v-american-express" >}}
+
 ## Prima Paint Corp. v. Flood & Conklin Mfg. Co., 388 US 395 (1967)
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Prima_Paint_Corp._v._Flood_%26_Conklin_Manufacturing_Co.)
@@ -45,7 +47,7 @@ Core Claim (pull quote):
 
 ## Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth, Inc., 473 U.S. 614 (1985)
 
-## Rodriguez de Quijas v. Shearson/American Express Inc., 490 U.S. 477 (1989)
+## Rodriguez de Quijas v. Shearson/American Express Inc., 490 U.S. 477 (1989) {id="Quijas-v-american-express"}
 
 ## Gilmer v. Interstate/Johnson Lane Corp. 500 U.S. 20 (1991)
 - [Wikipedia](https://en.wikipedia.org/wiki/Gilmer_v._Interstate/Johnson_Lane_Corp.)
@@ -57,7 +59,7 @@ Quick Summary (from syllabus):
 > An ADEA[^2] claim can be subjected to compulsory arbitration
 
 Pull Quote from Dissent[^3]:
-> When the FAA was passed in 1925, I doubt that any legislator who voted for it expected it to apply to statutory claims, to form contracts between parties of unequal bargaining power, or to the arbitration of disputes arising out of the em- ployment relationship. In recent years, however, the Court "has effectively rewritten the statute," and abandoned its earlier view that statutory claims were not appropriate subjects for arbitration.
+> When the FAA was passed in 1925, I doubt that any legislator who voted for it expected it to apply to statutory claims, to form contracts between parties of unequal bargaining power, or to the arbitration of disputes arising out of the employment relationship. In recent years, however, the Court "has effectively rewritten the statute," and abandoned its earlier view that statutory claims were not appropriate subjects for arbitration.
 
 
 ## Doctor’s Associates, Inc. v. Casarotto, 517 U.S. 681 (1996)
