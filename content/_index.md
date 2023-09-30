@@ -1,3 +1,4 @@
+# vim: set nolist:
 ---
 title: Introduction
 type: docs
@@ -5,7 +6,7 @@ type: docs
 
 # Supreme Court Decisions
 
-## Wilko v. Swan (1953)
+## Wilko v. Swan, 346 U.S. 427 (1953)
 
 Reversed by [Rodriguez]({{< relref "/#Quijas-v-american-express" >}}
 
@@ -46,6 +47,8 @@ Core Claim (pull quote):
 > In enacting § 2 of the federal Act, Congress declared a national policy favoring arbitration and withdrew the power of the states to require a judicial forum for the resolution of claims that the contracting parties agreed to resolve by arbitration. arb applies in state courts in addition to federal
 
 ## Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth, Inc., 473 U.S. 614 (1985)
+
+## Shearson/American Express Inc. v. McMahon, 482 U.S. 220 (1987)
 
 ## Rodriguez de Quijas v. Shearson/American Express Inc., 490 U.S. 477 (1989) {id="Quijas-v-american-express"}
 
