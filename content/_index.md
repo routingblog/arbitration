@@ -48,6 +48,8 @@ Core Claim (pull quote):
 
 ## Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth, Inc., 473 U.S. 614 (1985)
 
+Made irrelevant by [Motor Vehicle Franchise Contract Arbitration Fairness Act (15 U.S. Code § 1226)](https://www.law.cornell.edu/uscode/text/15/1226)
+
 ## Shearson/American Express Inc. v. McMahon, 482 U.S. 220 (1987)
 
 ## Rodriguez de Quijas v. Shearson/American Express Inc., 490 U.S. 477 (1989) {id="Quijas-v-american-express"}
@@ -234,6 +236,7 @@ arb that precludes ERISA plan-wide relief under Section 502(a) not enforceable
 | ----------- | ---------- |
 | [Dodd-Frank Act](https://www.govinfo.gov/content/pkg/PLAW-111publ203/html/PLAW-111publ203.htm) | Pub. L. 111-203 I.A §113 |
 | [Federal Arbitration Act (as amended)](https://uscode.house.gov/view.xhtml?path=/prelim@title9&edition=prelim) | 9 U.S.C. |
+| [Motor Vehicle Franchise Contract Arbitration Fairness Act](https://www.law.cornell.edu/uscode/text/15/1226) | 15 U.S. Code § 1226 |
 
 # Proposed National Bills
 
@@ -248,7 +251,7 @@ arb that precludes ERISA plan-wide relief under Section 502(a) not enforceable
 | [H.R.2953 - FAIR Act of 2023](https://www.congress.gov/bill/118th-congress/house-bill/2953) | 118th Congress (2023-2024) | | |
 | [S.1376 - Forced Arbitration Injustice Repeal Act](https://www.congress.gov/bill/118th-congress/senate-bill/1376) | 118th Congress (2023-2024) | | |
 | [S.1408 - Ending Forced Arbitration of Race Discrimination Act of 2023](https://www.congress.gov/bill/118th-congress/senate-bill/1408) | 118th Congress (2023-2024) | |
-| [H.R.4445 - Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act of 2021](https://www.congress.gov/bill/117th-congress/house-bill/4445) [H.R.4445 pdf](https://www.congress.gov/117/crpt/hrpt234/CRPT-117hrpt234.pdf) | 117th Congress (2021-2022) | Law | [H. Rept. 117-234](https://www.congress.gov/congressional-report/117th-congress/house-report/234/1)
+| • [H.R.4445 - Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act of 2021](https://www.congress.gov/bill/117th-congress/house-bill/4445) <br> • [H.R.4445 pdf](https://www.congress.gov/117/crpt/hrpt234/CRPT-117hrpt234.pdf) | 117th Congress (2021-2022) | Law | [H. Rept. 117-234](https://www.congress.gov/congressional-report/117th-congress/house-report/234/1)
 
 ## State Statutes
 
