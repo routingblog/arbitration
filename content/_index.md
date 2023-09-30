@@ -372,6 +372,8 @@ ADR
 1. Drahozal, C. R., & O’Connor, E. O. (2015). Unbundling Procedure: Carve-Outs From Arbitration Clauses. Florida Law Review, 66. (unread)
 1. Sternlight, J. R., & Jensen, E. J. (n.d.). Using Arbitration to Eliminate Consumer Class Actions: Efficient Business Practice or Unconscionable Abuse? 67. (unread)
 1. Jory, K. (n.d.). Mandatory Arbitration Clauses in Payday Lending Loans: How the Federal Courts Protect Unfair Lending Practices in the Name of Anti-Protectionism. 24. (unread)
+1. Bingham, L. B. (n.d.). On Repeat Players, Adhesive Contracts, and the Use of Statistics in Judicial Review of Employment Arbitration Awards. (unread)
+
 
 
 ## Blog Post
