@@ -217,6 +217,9 @@ Pull Quote:
 
 arb that precludes ERISA plan-wide relief under Section 502(a) not enforceable
 
+## Ting v. AT & T, 182 F. Supp. 2d 902 (N.D. Cal. 2002)
+
+
 ### Analysis
 
 - https://onlabor.org/an-explainer-ninth-circuit-on-mandatory-arbitration-in-employment-contracts-chavarria-v-ralphs-grocery/
