@@ -367,6 +367,9 @@ ADR
 1. White, A. S. (2021). The Unlikely Underdog: Skilled Immigrants in Tech Face Unique Mandatory Arbitration Challenges. CALIFORNIA WESTERN LAW REVIEW, 57(1). (unread)
 1. Jha, K., & Singh, A. (2023). The Use of Arbitration Clauses by Social Media Websites: A Critique. 23. (unread)
 1. Drahozal, C. R., & O’Connor, E. O. (2015). Unbundling Procedure: Carve-Outs From Arbitration Clauses. Florida Law Review, 66. (unread)
+1. Sternlight, J. R., & Jensen, E. J. (n.d.). Using Arbitration to Eliminate Consumer Class Actions: Efficient Business Practice or Unconscionable Abuse? 67. (unread)
+1. Jory, K. (n.d.). Mandatory Arbitration Clauses in Payday Lending Loans: How the Federal Courts Protect Unfair Lending Practices in the Name of Anti-Protectionism. 24. (unread)
+
 
 ## Blog Post
 
