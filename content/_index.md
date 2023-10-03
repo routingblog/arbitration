@@ -13,9 +13,9 @@ One Line Summary: The Securities Act overrides the Federal Arbitration Act.
 - [Court Opinion (CourtListener)](https://www.courtlistener.com/opinion/105171/wilko-v-swan/) (unread)
 - Reversed by [Rodriguez]({{< relref "/#Quijas-v-american-express" >}})
 
-{{< expand "Pull Quote (from majority):" >}}
+{{< details "Pull Quote (from majority):" >}}
 Two policies, not easily reconcilable, are involved in this case. Congress has afforded participants in transactions subject to its legislative power an opportunity generally to secure prompt, economical and adequate solution of controversies through arbitration if the parties are willing to accept less certainty of legally correct adjustment. On the other hand, it has enacted the Securities Act to protect the rights of investors and has forbidden a waiver of any of those rights. Recognizing the advantages that prior agreements for arbitration may provide for the solution of commercial controversies, we decide that the intention of Congress concerning the sale of securities is better carried out by holding invalid such an agreement for arbitration of issues arising under the Act.
-{{< /expand >}}
+{{< /details >}}
 
 
 ## Prima Paint Corp. v. Flood & Conklin Mfg. Co., 388 US 395 (1967)
@@ -83,9 +83,9 @@ Pull Quote from Dissent[^3]:
 - Court Listener: https://www.courtlistener.com/opinion/118029/doctors-associates-inc-v-casarotto/
 - Supreme Court Database Record: [1995-055-01](http://scdb.wustl.edu/analysisCaseDetail.php?cid=1995-055-01)
 
-{{< expand "Pull Quote (from syllabus):" >}}
+{{< details "Pull Quote (from syllabus):" >}}
 Montana's first-page notice requirement, which governs not "any contract," but specifically and solely contracts "subject to arbitration," conflicts with the FAA and is therefore displaced by the federal meas- ure. Generally applicable contract defenses, such as fraud, duress, or unconscionability, may be applied to invalidate arbitration agreements without contravening § 2, see, e. g., Allied-Bruce, 513 U. S., at 281, but courts may not invalidate arbitration agreements under state laws applicable only to arbitration provisions
-{{< /expand >}}
+{{< /details >}}
 ## Green Tree Financial Corporation-Alabama v. Randolph, 531 US 79 (2000)
 
 - Court Listener: https://www.courtlistener.com/opinion/118394/green-tree-financial-corp-ala-v-randolph/
@@ -219,10 +219,10 @@ Core Claim (pull quote):
 
 Pull Quote (from syllabus):
 
-{{< expand "Pull Quote (from syllabus):" >}}
+{{< details "Pull Quote (from syllabus):" >}}
 > The policy was procedurally unconscionable because it was a condition of applying for employment and was presented on a “take it or leave it” basis. In addition, its terms were not provided to the plaintiff until three weeks after she had agreed to be bound by it.
 > Specifically, the policy’s arbitrator selection process would always produce an arbitrator proposed by the defendant in employee-initiated arbitration proceedings; the policy precluded institutional arbitration administrators, which have established rules and procedures to select a neutral arbitrator; and the policy’s arbitrator-fee-apportionment provision would have the effect of pricing employees out of the dispute resolution process
-{{< /expand >}}
+{{< /details >}}
 
 ## Richards v. Ernst & Young, LLP, 11-17530, 2013 WL 4437601 (9th Cir. Aug. 21, 2013).
 
@@ -327,9 +327,9 @@ ADR
 
 1. Alcolea, L. C. (2022). Arbitration and the Right to Have Your Day in Court: Meeting Again at the Turning of the Tide. Pepperdine Dispute Resolution Law Journal, 22(2), 539–580. https://digitalcommons.pepperdine.edu/drlj/vol22/iss2/6/
 
-{{< expand "Conclusion - Alcolea" >}}
+{{< details "Conclusion - Alcolea" >}}
 In conclusion, the message of this article is: Watch this space. Members of the US arbitration ecosystem, whether they be willing members such as businesses or unwilling members such as employees and consumers, have very much been on a wild ride in the last few decades and the recent decisions, new legislation, and changing behavior by all involved means that this is only going to continue in the future.
-{{< /expand >}}
+{{< /details >}}
 
 1. Gilles, M. E. (2023). Arbitration’s Unraveling (SSRN Scholarly Paper 4527841). https://doi.org/10.2139/ssrn.4527841 (unread)
 1. Glover, J. M. (2022). Mass Arbitration. Stanford Law Review, 74. https://review.law.stanford.edu/wp-content/uploads/sites/3/2022/09/Glover-74-Stan.-L.-Rev.-1283.pdf
@@ -359,9 +359,9 @@ In conclusion, the message of this article is: Watch this space. Members of the 
 1. Ware, S. J. (n.d.). Contractual Arbitration, Mandatory Arbitration, and State Constitutional Jury-Trial Rights. 38. (unread)
 1. Sternlight, J. R. (2005). Creeping Mandatory Arbitration: Is It Just? Scholarly Works, 57(280), 1631–1676.
 
-{{< expand "Pull Quote - Sternlight - Creeping Mandatory Arbitration" >}}
+{{< details "Pull Quote - Sternlight - Creeping Mandatory Arbitration" >}}
 > ...arbitration agreements were not used by U.S. businesses to require consumers, employees, franchisees, or other weaker parties to resolve disputes through private arbitration rather than in court. Instead, the use of arbitration was limited to business-to-business or management/union contexts. Indeed, to the limited extent that the possibility of such arbitration was considered by Congress in 1925, when it passed the FAA, those few who spoke on the issue made clear that they did not view such a use of arbitration as appropriate (pg 1636)`
-{{< /expand >}}
+{{< /details >}}
 1. Hwang, M., & Chung, K. (2009). Defining the Indefinable&#58; Practical Problems of Confidentiality in Arbitration. Journal of International Arbitration, 26(5). https://kluwerlawonline.com/api/Product/CitationPDFURL?file=Journals\JOIA\JOIA2009034.pdf (unread)
 1. Menkel-Meadow, C. (n.d.). Do the ‘Haves’ Come out Ahead in Alternative Judicial Systems?,: Repeat Players in ADR. 15. (unread)
 1. Hill, E. (2003). Due Process at Low Cost: An Empirical Study of Employment Arbitration Under the Auspices of the American Arbitration Association. https://kb.osu.edu/handle/1811/77065 (unread)
