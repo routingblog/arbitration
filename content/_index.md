@@ -40,6 +40,8 @@ One Line Summary: only the intent to arbitrate can be considered in court. Not a
 
 ## Moses H. Cone Memorial Hospital v. Mercury Construction Corp., 460 U.S. 1 (1983)
 
+One Line Summary: {{< todo />}}
+
 - [Wikipedia](https://en.wikipedia.org/wiki/Moses_H._Cone_Memorial_Hospital_v._Mercury_Construction_Corp.)
 - Oyez: {{< todo />}}
 - Majority Author: William Brennan
@@ -47,11 +49,16 @@ One Line Summary: only the intent to arbitrate can be considered in court. Not a
 
 Not directly related to _forced_ arbitration_. Established that the FAA applies to actions in state court and a _policy of rapid and unobstructed enforcement of arbitration agreements_.
 
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
+{{< /details >}}
+
 ## Southland Corp. v. Keating, 465 U.S. 1 (1984)
 
-- Wikipedia: https://en.wikipedia.org/wiki/Southland_Corp._v._Keating
-- Court Listener: https://www.courtlistener.com/opinion/111091/southland-corp-v-keating/
-- LoC Decision: https://tile.loc.gov/storage-services/service/ll/usrep/usrep465/usrep465001/usrep465001.pdf
+- [Wikipedia](https://en.wikipedia.org/wiki/Southland_Corp._v._Keating)
+- [Court Opinion (Court Listener)](https://www.courtlistener.com/opinion/111091/southland-corp-v-keating/ (unread)
+- [Court Opinion (Library of Congress)] https://tile.loc.gov/storage-services/service/ll/usrep/usrep465/usrep465001/usrep465001.pdf (unread)
 - Majority Author: Warren Burger
 - Concurence: John P. Stevens
 - Dissents: Sandra Day O'Connor, William Rehnquist
@@ -62,13 +69,63 @@ Core Claim (pull quote):
 
 ## Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth, Inc., 473 U.S. 614 (1985)
 
+One Line Summary: {{< todo />}}
+
+- Wikipedia: {{< todo />}}
+- Court Opinion (Court Listener): {{< todo />}}
+- Court Opinion (pdf): {{< todo />}}
+- Oyez: {{< todo />}}
+- Majority Author: {{< todo />}}
+- Concurrence: {{< todo />}}
+- Dissents: {{< todo />}}
+
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
+{{< /details >}}
+
 Made irrelevant by [Motor Vehicle Franchise Contract Arbitration Fairness Act (15 U.S. Code § 1226)](https://www.law.cornell.edu/uscode/text/15/1226)
+
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
+{{< /details >}}
 
 ## Shearson/American Express Inc. v. McMahon, 482 U.S. 220 (1987)
 
+One Line Summary: {{< todo />}}
+
+- Wikipedia: {{< todo />}}
+- Court Opinion (Court Listener): {{< todo />}}
+- Court Opinion (pdf): {{< todo />}}
+- Oyez: {{< todo />}}
+- Majority Author: {{< todo />}}
+- Concurrence: {{< todo />}}
+- Dissents: {{< todo />}}
+
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
+{{< /details >}}
+
 ## Rodriguez de Quijas v. Shearson/American Express Inc., 490 U.S. 477 (1989) {id="Quijas-v-american-express"}
 
-- Reserves [Wilko]({{< relref "/#wilko-v-swan" >}})
+One Line Summary: {{< todo />}}
+
+- Wikipedia: {{< todo />}}
+- Court Opinion (Court Listener): {{< todo />}}
+- Court Opinion (pdf): {{< todo />}}
+- Oyez: {{< todo />}}
+- Majority Author: {{< todo />}}
+- Concurrence: {{< todo />}}
+- Dissents: {{< todo />}}
+- Reverses [Wilko]({{< relref "/#wilko-v-swan" >}})
+
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
+{{< /details >}}
+
 
 ## Gilmer v. Interstate/Johnson Lane Corp. 500 U.S. 20 (1991)
 - [Wikipedia](https://en.wikipedia.org/wiki/Gilmer_v._Interstate/Johnson_Lane_Corp.)
@@ -94,21 +151,89 @@ Montana's first-page notice requirement, which governs not "any contract," but s
 {{< /details >}}
 ## Green Tree Financial Corporation-Alabama v. Randolph, 531 US 79 (2000)
 
+One Line Summary: {{< todo />}}
+
+- Wikipedia: {{< todo />}}
+- Court Opinion (Court Listener): {{< todo />}}
+- Court Opinion (pdf): {{< todo />}}
+- Oyez: {{< todo />}}
+- Majority Author: {{< todo />}}
+- Concurrence: {{< todo />}}
+- Dissents: {{< todo />}}
+- Reverses [Wilko]({{< relref "/#wilko-v-swan" >}})
+
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
+{{< /details >}}
+
 - Court Listener: https://www.courtlistener.com/opinion/118394/green-tree-financial-corp-ala-v-randolph/
 - Oyez Analysis: https://www.oyez.org/cases/2000/99-1235
 
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
+{{< /details >}}
+
 
 ## Preston v. Ferrer
-- Wikipedia: https://en.wikipedia.org/wiki/Preston_v._Ferrer
+
+One Line Summary: {{< todo />}}
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Preston_v._Ferrer)
+- Court Opinion (Court Listener): {{< todo />}}
+- Court Opinion (pdf): {{< todo />}}
+- Oyez: {{< todo />}}
+- Majority Author: {{< todo />}}
+- Concurrence: {{< todo />}}
+- Dissents: {{< todo />}}
+
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
+{{< /details >}}
+
 
 ## Buckeye Check Cashing, Inc. v. Cardegna,  546 US 440 (2006)
 - Wikipedia: https://en.wikipedia.org/wiki/Buckeye_Check_Cashing,_Inc._v._Cardegna
 - Oyez: https://www.oyez.org/cases/2005/04-1264
 
 
+One Line Summary: {{< todo />}}
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Preston_v._Ferrer)
+- Court Opinion (Court Listener): {{< todo />}}
+- Court Opinion (pdf): {{< todo />}}
+- Oyez: {{< todo />}}
+- Majority Author: {{< todo />}}
+- Concurrence: {{< todo />}}
+- Dissents: {{< todo />}}
+
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
+{{< /details >}}
+
+
 ## Rent-A-Center West v. Jackson,  561 US 63 (2010)
 
   arbitrator will determine the enforceability of the agreement
+
+One Line Summary: {{< todo />}}
+
+- Wikipedia: {{< todo />}}
+- Court Opinion (Court Listener): {{< todo />}}
+- Court Opinion (pdf): {{< todo />}}
+- Oyez: {{< todo />}}
+- Majority Author: {{< todo />}}
+- Concurrence: {{< todo />}}
+- Dissents: {{< todo />}}
+- Reverses [Wilko]({{< relref "/#wilko-v-swan" >}})
+
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
+{{< /details >}}
 
 ## Hall Street Associates, L.L.C. v. Mattel, Inc., 552 US 576 (2008)
 
@@ -138,6 +263,23 @@ Pull Quote (from syllabus):
 
 ## American Express Co. v. Italian Colors Restaurant, 570 US 228 (2013)
 
+One Line Summary: {{< todo />}}
+
+
+- Wikipedia: {{< todo />}}
+- Court Opinion (Court Listener): {{< todo />}}
+- Court Opinion (pdf): {{< todo />}}
+- Oyez: {{< todo />}}
+- Majority Author: {{< todo />}}
+- Concurrence: {{< todo />}}
+- Dissents: {{< todo />}}
+- Reverses [Wilko]({{< relref "/#wilko-v-swan" >}})
+
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
+{{< /details >}}
+
 ## Epic Sys. Corp. v. Lewis, No. 16-285, 2018 WL 2292444, at *26 (2018)
 
 Core Finding: [Section 7 (29 U.S. Code Chapter §7)](https://www.law.cornell.edu/uscode/text/29/chapter-7) of the NLRA does not conflict or supersede FAA arbitration. Such waivers are enforceable.
@@ -157,16 +299,64 @@ Consolidated with: _Ernst & Young LLP v. Morris_ and _National Labor Relations B
 
 
 ## Ernst & Young LLP v. Morris (Docket 16-300) (2018)
+One Line Summary: {{< todo />}}
+
+- Wikipedia: {{< todo />}}
+- Court Opinion (Court Listener): {{< todo />}}
+- Court Opinion (pdf): {{< todo />}}
+- Oyez: {{< todo />}}
+- Majority Author: {{< todo />}}
+- Concurrence: {{< todo />}}
+- Dissents: {{< todo />}}
+- Reverses [Wilko]({{< relref "/#wilko-v-swan" >}})
+
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
+{{< /details >}}
+
 NLRA did not override FAA.
 
 - Related to Epic Systems Corp. v. Lewis
 - Related to National Labor Relations Board v. Murphy Oil USA, Inc.
 
 ## 17-988 Lamps Plus, Inc. V. Varela (2019).
+One Line Summary: {{< todo />}}
+
+- Wikipedia: {{< todo />}}
+- Court Opinion (Court Listener): {{< todo />}}
+- Court Opinion (pdf): {{< todo />}}
+- Oyez: {{< todo />}}
+- Majority Author: {{< todo />}}
+- Concurrence: {{< todo />}}
+- Dissents: {{< todo />}}
+- Reverses [Wilko]({{< relref "/#wilko-v-swan" >}})
+
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
+{{< /details >}}
+
 
 Under the Federal Arbitration Act (FAA), an arbitration agreement that is ambiguous as to the availability of class arbitration does not manifest sufficient consent by the parties to submit to class arbitration. In a 5-4 opinion authored by Chief Justice John Roberts, the Court held that the arbitration agreement between Varela and his employer, Lamps Plus, which contained only general language commonly used in arbitration agreements, did not provide the necessary contractual basis for compelling class arbitration.
 
 ## 17-340 New Prime Inc. V. Oliveira (01/15/2019), (Supreme Court 2019)
+One Line Summary: {{< todo />}}
+
+- Wikipedia: {{< todo />}}
+- Court Opinion (Court Listener): {{< todo />}}
+- Court Opinion (pdf): {{< todo />}}
+- Oyez: {{< todo />}}
+- Majority Author: {{< todo />}}
+- Concurrence: {{< todo />}}
+- Dissents: {{< todo />}}
+- Reverses [Wilko]({{< relref "/#wilko-v-swan" >}})
+
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
+{{< /details >}}
+
 
 https://www.supremecourt.gov/opinions/18pdf/17-340_o7kq.pdf (majority:  Gorsuch) (8-0)
 https://www.scotusblog.com/case-files/cases/new-prime-inc-v-oliveira/
@@ -174,15 +364,63 @@ https://www.scotusblog.com/case-files/cases/new-prime-inc-v-oliveira/
 no arb in workers engaged in foreign or interstate commerce
 
 ## Henry Schein, Inc. v. Archer & White Sales, Inc., 586 U.S. (2019)
+One Line Summary: {{< todo />}}
+
+- Wikipedia: {{< todo />}}
+- Court Opinion (Court Listener): {{< todo />}}
+- Court Opinion (pdf): {{< todo />}}
+- Oyez: {{< todo />}}
+- Majority Author: {{< todo />}}
+- Concurrence: {{< todo />}}
+- Dissents: {{< todo />}}
+- Reverses [Wilko]({{< relref "/#wilko-v-swan" >}})
+
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
+{{< /details >}}
+
 
 "when the parties' contract delegates the arbitrability question to an arbitrator, a court may not override the contract.
 
 
 ## Southwest Airlines Co., Petitioner v. Latrice Saxon 2021
+One Line Summary: {{< todo />}}
+
+- Wikipedia: {{< todo />}}
+- Court Opinion (Court Listener): {{< todo />}}
+- Court Opinion (pdf): {{< todo />}}
+- Oyez: {{< todo />}}
+- Majority Author: {{< todo />}}
+- Concurrence: {{< todo />}}
+- Dissents: {{< todo />}}
+- Reverses [Wilko]({{< relref "/#wilko-v-swan" >}})
+
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
+{{< /details >}}
+
 https://www.supremecourt.gov/docket/docketfiles/html/public/21-309.html
 
 
 ## Viking River Cruises, Inc. v. Moriana, 20-1573 (2022)
+One Line Summary: {{< todo />}}
+
+- Wikipedia: {{< todo />}}
+- Court Opinion (Court Listener): {{< todo />}}
+- Court Opinion (pdf): {{< todo />}}
+- Oyez: {{< todo />}}
+- Majority Author: {{< todo />}}
+- Concurrence: {{< todo />}}
+- Dissents: {{< todo />}}
+- Reverses [Wilko]({{< relref "/#wilko-v-swan" >}})
+
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
+{{< /details >}}
+
 
 Core Issue (pull quote)
 > whether the Federal Arbitration Act, 9 U. S. C. §1 et seq., preempts a rule of California law that invalidates contractual waivers of the right to assert representative claims under California’s Labor Code Private Attorneys General Act of 2004, Cal. Lab. Code §2698 et seq
@@ -193,18 +431,70 @@ The court also predicted what the california courts would rule in a similar case
 SCOTUS predicting [Adolph]({{< relref "/#adolph" >}})
 
 ## Coinbase, Inc. v. Bielski (2023)
+One Line Summary: {{< todo />}}
+
+- Wikipedia: {{< todo />}}
+- Court Opinion (Court Listener): {{< todo />}}
+- Court Opinion (pdf): {{< todo />}}
+- Oyez: {{< todo />}}
+- Majority Author: {{< todo />}}
+- Concurrence: {{< todo />}}
+- Dissents: {{< todo />}}
+- Reverses [Wilko]({{< relref "/#wilko-v-swan" >}})
+
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
+{{< /details >}}
+
 that a federal district court must stay its proceedings pending resolution of an interlocutory appeal of a denial of a motion to compel arbitration.
 
 ## Argent Trust Company v. Harrison 23-30 (pending petition)
+One Line Summary: {{< todo />}}
+
+- Wikipedia: {{< todo />}}
+- Court Opinion (Court Listener): {{< todo />}}
+- Court Opinion (pdf): {{< todo />}}
+- Oyez: {{< todo />}}
+- Majority Author: {{< todo />}}
+- Concurrence: {{< todo />}}
+- Dissents: {{< todo />}}
+- Reverses [Wilko]({{< relref "/#wilko-v-swan" >}})
+
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
+{{< /details >}}
+
 Issue: Whether a participant in a plan governed by the Employee Retirement Income Security Act who asserts statutory claims under that statute can be compelled, pursuant to a binding arbitration provision, to submit his claims to individual arbitration.
 
-# California Supreme Court Cases
+<!-- case template -->
+<!--
+One Line Summary: {{< todo />}}
 
-## Adolph v. Uber Techs., Inc., No. S274671, 2023 WL 4553702 (Cal. July 17, 2023) {id="adolph"}
+- Wikipedia: {{< todo />}}
+- Court Opinion (Court Listener): {{< todo />}}
+- Court Opinion (pdf): {{< todo />}}
+- Oyez: {{< todo />}}
+- Majority Author: {{< todo />}}
+- Concurrence: {{< todo />}}
+- Dissents: {{< todo />}}
+
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
+{{< /details >}}
+-->
+
+# Non Supreme Court Federal Cases
+
+## California Supreme Court Cases
+
+### Adolph v. Uber Techs., Inc., No. S274671, 2023 WL 4553702 (Cal. July 17, 2023) {id="adolph"}
 - Opinion: https://www.courts.ca.gov/opinions/documents/S274671.PDF
 - represenative PAGA is allowed despite arbitration of individual
 
-##  Morgan v. Sundance, Inc., No. 21-328, 2022 WL 1611788 (May 23, 2022) {id="morgan-v-sundance"}
+###  Morgan v. Sundance, Inc., No. 21-328, 2022 WL 1611788 (May 23, 2022) {id="morgan-v-sundance"}
 - Decision: https://www.supremecourt.gov/opinions/21pdf/21-328_m6ho.pdf
 - Author: Elena Kagan (unanimous)
 
@@ -214,14 +504,13 @@ Core Claim (pull quote):
 > Held: ....erred in conditioning a waiver of the right to arbitrate on a showing of prejudice.
 > The text of the FAA makes clear that courts are not to create arbitration-specific procedural rules ...
 
+## District Court Cases
 
-# Non Supreme Court Federal Cases
+### In re: TikTok Inc. Consumer Privacy Litigation, Case No. 1:20-cv-04699
 
-## In re: TikTok Inc. Consumer Privacy Litigation, Case No. 1:20-cv-04699
+### Abernathy v. DoorDash, Inc., 438 F. Supp. 3d 1062
 
-## Abernathy v. DoorDash, Inc., 438 F. Supp. 3d 1062
-
-## Zenia Chavarria v. Ralphs Grocery Company, 733 F.3d 916 (9th Cir. 2013)
+### Zenia Chavarria v. Ralphs Grocery Company, 733 F.3d 916 (9th Cir. 2013)
 
 Pull Quote (from syllabus):
 
@@ -230,19 +519,18 @@ Pull Quote (from syllabus):
 > Specifically, the policy’s arbitrator selection process would always produce an arbitrator proposed by the defendant in employee-initiated arbitration proceedings; the policy precluded institutional arbitration administrators, which have established rules and procedures to select a neutral arbitrator; and the policy’s arbitrator-fee-apportionment provision would have the effect of pricing employees out of the dispute resolution process
 {{< /details >}}
 
-## Richards v. Ernst & Young, LLP, 11-17530, 2013 WL 4437601 (9th Cir. Aug. 21, 2013).
+### Richards v. Ernst & Young, LLP, 11-17530, 2013 WL 4437601 (9th Cir. Aug. 21, 2013).
 
 - Status: **Effectively Reversed by [Morgan]({{< relref "/#morgan-v-sundance" >}}) [^1]**
 
-## Harrison v. Envision Holding Management Inc. Board of Directors, et al., No. 22-1098 (United States Court of Appeals for the Tenth Circuit). (2023)
+### Harrison v. Envision Holding Management Inc. Board of Directors, et al., No. 22-1098 (United States Court of Appeals for the Tenth Circuit). (2023)
 
 Pull Quote:
 > by prohibiting a claimant such as Harrison from obtaining any form of relief that would benefit anyone other than himself, prevents the effective vindication of the statutory remedies outlined in § 1132(a)(2). In other words, the effect of Section 21 of the Plan, if enforced, would be that participant/claimants such as Harrison would be left without any guarantee that a suit seeking the statutory remedies set forth in § 1132(a)(2) would ever be filed by the DOL (and, in turn, that those statutory remedies would ever be available).
 
 arb that precludes ERISA plan-wide relief under Section 502(a) not enforceable
 
-## Ting v. AT & T, 182 F. Supp. 2d 902 (N.D. Cal. 2002)
-
+### Ting v. AT & T, 182 F. Supp. 2d 902 (N.D. Cal. 2002)
 
 ### Analysis
 
