@@ -1,4 +1,3 @@
-# vim: set nolist:
 ---
 title: Introduction
 type: docs
