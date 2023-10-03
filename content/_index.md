@@ -508,10 +508,14 @@ Core Claim (pull quote):
 
 ### In re: TikTok Inc. Consumer Privacy Litigation, Case No. 1:20-cv-04699
 
+{{< todo />}}
 ### Abernathy v. DoorDash, Inc., 438 F. Supp. 3d 1062
+
+{{< todo />}}
 
 ### Zenia Chavarria v. Ralphs Grocery Company, 733 F.3d 916 (9th Cir. 2013)
 
+{{< todo />}}
 Pull Quote (from syllabus):
 
 {{< details "Pull Quote (from syllabus):" >}}
@@ -521,11 +525,14 @@ Pull Quote (from syllabus):
 
 #### Analysis
 
+
+{{< todo />}}
 - https://onlabor.org/an-explainer-ninth-circuit-on-mandatory-arbitration-in-employment-contracts-chavarria-v-ralphs-grocery/
 
 
 ### Richards v. Ernst & Young, LLP, 11-17530, 2013 WL 4437601 (9th Cir. Aug. 21, 2013).
 
+{{< todo />}}
 - Status: **Effectively Reversed by [Morgan]({{< relref "/#morgan-v-sundance" >}}) [^1]**
 
 ### Harrison v. Envision Holding Management Inc. Board of Directors, et al., No. 22-1098 (United States Court of Appeals for the Tenth Circuit). (2023)
@@ -534,8 +541,11 @@ Pull Quote:
 > by prohibiting a claimant such as Harrison from obtaining any form of relief that would benefit anyone other than himself, prevents the effective vindication of the statutory remedies outlined in § 1132(a)(2). In other words, the effect of Section 21 of the Plan, if enforced, would be that participant/claimants such as Harrison would be left without any guarantee that a suit seeking the statutory remedies set forth in § 1132(a)(2) would ever be filed by the DOL (and, in turn, that those statutory remedies would ever be available).
 
 arb that precludes ERISA plan-wide relief under Section 502(a) not enforceable
+{{< todo />}}
 
 ### Ting v. AT & T, 182 F. Supp. 2d 902 (N.D. Cal. 2002)
+
+{{< todo />}}
 
 
 # Statutes
