@@ -519,6 +519,11 @@ Pull Quote (from syllabus):
 > Specifically, the policy’s arbitrator selection process would always produce an arbitrator proposed by the defendant in employee-initiated arbitration proceedings; the policy precluded institutional arbitration administrators, which have established rules and procedures to select a neutral arbitrator; and the policy’s arbitrator-fee-apportionment provision would have the effect of pricing employees out of the dispute resolution process
 {{< /details >}}
 
+#### Analysis
+
+- https://onlabor.org/an-explainer-ninth-circuit-on-mandatory-arbitration-in-employment-contracts-chavarria-v-ralphs-grocery/
+
+
 ### Richards v. Ernst & Young, LLP, 11-17530, 2013 WL 4437601 (9th Cir. Aug. 21, 2013).
 
 - Status: **Effectively Reversed by [Morgan]({{< relref "/#morgan-v-sundance" >}}) [^1]**
@@ -531,10 +536,6 @@ Pull Quote:
 arb that precludes ERISA plan-wide relief under Section 502(a) not enforceable
 
 ### Ting v. AT & T, 182 F. Supp. 2d 902 (N.D. Cal. 2002)
-
-### Analysis
-
-- https://onlabor.org/an-explainer-ninth-circuit-on-mandatory-arbitration-in-employment-contracts-chavarria-v-ralphs-grocery/
 
 
 # Statutes
