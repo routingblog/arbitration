@@ -9,16 +9,21 @@ type: docs
 
 One Line Summary: The Securities Act overrides the Federal Arbitration Act.
 
+- [Wikipedia](https://en.wikipedia.org/wiki/Wilko_v._Swan)
 - [Oyez](https://www.oyez.org/cases/1940-1955/346us427)
 - [Court Opinion (CourtListener)](https://www.courtlistener.com/opinion/105171/wilko-v-swan/) (unread)
-- Reversed by [Rodriguez]({{< relref "/#Quijas-v-american-express" >}})
+- Majority Author: Reed
+- Concurrence: Jackson
+- Dissents: Frankfurter, joined by Minton
+- **Reversed by [Rodriguez]({{< relref "/#Quijas-v-american-express" >}})**
 
 {{< details "Pull Quote (from majority):" >}}
 Two policies, not easily reconcilable, are involved in this case. Congress has afforded participants in transactions subject to its legislative power an opportunity generally to secure prompt, economical and adequate solution of controversies through arbitration if the parties are willing to accept less certainty of legally correct adjustment. On the other hand, it has enacted the Securities Act to protect the rights of investors and has forbidden a waiver of any of those rights. Recognizing the advantages that prior agreements for arbitration may provide for the solution of commercial controversies, we decide that the intention of Congress concerning the sale of securities is better carried out by holding invalid such an agreement for arbitration of issues arising under the Act.
 {{< /details >}}
 
-
 ## Prima Paint Corp. v. Flood & Conklin Mfg. Co., 388 US 395 (1967)
+
+One Line Summary: only the intent to arbitrate can be considered in court. Not any other defects in the contract (such as fraud).
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Prima_Paint_Corp._v._Flood_%26_Conklin_Manufacturing_Co.)
 - [Oyez](https://www.oyez.org/cases/1966/343)
@@ -27,15 +32,16 @@ Two policies, not easily reconcilable, are involved in this case. Congress has a
 - Concurrence: John Marshall Harlan II
 - Dissents: Hugo Black, Potter Stewart, William O. Douglas
 
-Pull Quote:
+{{< details "Pull Quote:" >}}
 > a federal court may not consider a claim of fraud in the inducement of the contract generally, but "may consider only the issues relating to the making and performance of the agreement to arbitrate." Pp. 388 U. S. 402-404.
 
 > Since the claim of fraud here relates to inducement of the consulting agreement generally, rather than in the arbitration clause, and there is no evidence that the parties intended to withhold this issue from arbitration, there is no basis for granting a stay under § 3. Pp. 388 U. S. 406-407.
+{{< /details >}}
 
 ## Moses H. Cone Memorial Hospital v. Mercury Construction Corp., 460 U.S. 1 (1983)
 
-
 - [Wikipedia](https://en.wikipedia.org/wiki/Moses_H._Cone_Memorial_Hospital_v._Mercury_Construction_Corp.)
+- Oyez: *TODO*
 - Majority Author: William Brennan
 - Dissents:  William Rehnquist joined by Burger, O'Connor
 
@@ -226,7 +232,7 @@ Pull Quote (from syllabus):
 
 ## Richards v. Ernst & Young, LLP, 11-17530, 2013 WL 4437601 (9th Cir. Aug. 21, 2013).
 
-Status: Effectively Reversed by [Morgan]({{< relref "/#morgan-v-sundance" >}}) [^1]
+- Status: **Effectively Reversed by [Morgan]({{< relref "/#morgan-v-sundance" >}}) [^1]**
 
 ## Harrison v. Envision Holding Management Inc. Board of Directors, et al., No. 22-1098 (United States Court of Appeals for the Tenth Circuit). (2023)
 
