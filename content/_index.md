@@ -41,7 +41,7 @@ One Line Summary: only the intent to arbitrate can be considered in court. Not a
 ## Moses H. Cone Memorial Hospital v. Mercury Construction Corp., 460 U.S. 1 (1983)
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Moses_H._Cone_Memorial_Hospital_v._Mercury_Construction_Corp.)
-- Oyez: *TODO*
+- Oyez: {{< todo />}}
 - Majority Author: William Brennan
 - Dissents:  William Rehnquist joined by Burger, O'Connor
 
