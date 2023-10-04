@@ -4,7 +4,8 @@ title: "Basic Problems"
 
 - Arbitration was designed for entities of equal bargaining power [^1] [^2]
 
-[^1]: Sternlight, J. R. (n.d.). Creeping Mandatory Arbitration: Is It Just? 57. pp 1631
+[^1]: Sternlight, J. R. (2005). Creeping Mandatory Arbitration: Is It Just? Scholarly Works, 57(280), 1631–1676. pp 1631
+
 [^2]: Cain, R. M. (1988). Commercial Disputes and Compulsory Arbitration. The Business Lawyer, pp 65
 
 
