@@ -72,7 +72,7 @@ In enacting § 2 of the federal Act, Congress declared a national policy favorin
 
 One Line Summary: Sherman act anti-trust claims arising from an international act are arbitrable.
 
-- Wikipedia: {{< todo />}}
+- [Wikipedia](https://en.wikipedia.org/wiki/Mitsubishi_Motors_Corp._v._Soler_Chrysler-Plymouth,_Inc.) (unread)
 - Court Opinion (Court Listener): {{< todo />}}
 - Court Opinion (pdf): {{< todo />}}
 - Oyez: {{< todo />}}
@@ -90,7 +90,7 @@ Pull Quote (from {{< todo />}}):
 
 One Line Summary: {{< todo />}}
 
-- Wikipedia: {{< todo />}}
+- [Wikipedia](https://en.wikipedia.org/wiki/Shearson/American_Express_Inc._v._McMahon) (unread)
 - Court Opinion (Court Listener): {{< todo />}}
 - Court Opinion (pdf): {{< todo />}}
 - Oyez: {{< todo />}}
@@ -105,9 +105,9 @@ Pull Quote (from {{< todo />}}):
 
 ## Rodriguez de Quijas v. Shearson/American Express Inc., 490 U.S. 477 (1989) {id="Quijas-v-american-express"}
 
-One Line Summary: {{< todo />}}
+One Line Summary: An ADEA[^2] claim can be subjected to compulsory arbitration.
 
-- Wikipedia: {{< todo />}}
+- [Wikipedia](https://en.wikipedia.org/wiki/Rodriguez_de_Quijas_v._Shearson/American_Express_Inc.) (unread)
 - Court Opinion (Court Listener): {{< todo />}}
 - Court Opinion (pdf): {{< todo />}}
 - Oyez: {{< todo />}}
@@ -127,9 +127,6 @@ Pull Quote (from {{< todo />}}):
 - [LoC Opinion](https://tile.loc.gov/storage-services/service/ll/usrep/usrep500/usrep500020/usrep500020.pdf)
 - Majority Author: Byron White
 - Dissents: John Paul Stevens
-
-Quick Summary (from syllabus):
-> An ADEA[^2] claim can be subjected to compulsory arbitration
 
 Pull Quote from Dissent[^3]:
 > When the FAA was passed in 1925, I doubt that any legislator who voted for it expected it to apply to statutory claims, to form contracts between parties of unequal bargaining power, or to the arbitration of disputes arising out of the employment relationship. In recent years, however, the Court "has effectively rewritten the statute," and abandoned its earlier view that statutory claims were not appropriate subjects for arbitration.
