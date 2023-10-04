@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Core Information
 type: docs
 ---
 
