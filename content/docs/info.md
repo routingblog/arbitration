@@ -11,11 +11,11 @@ One Line Summary: The Securities Act overrides the Federal Arbitration Act.
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Wilko_v._Swan)
 - [Oyez](https://www.oyez.org/cases/1940-1955/346us427)
-- [Court Opinion (CourtListener)](https://www.courtlistener.com/opinion/105171/wilko-v-swan/) (unread)
+- [Court Opinion (Court Listener)](https://www.courtlistener.com/opinion/105171/wilko-v-swan/) (unread)
 - Majority Author: Reed
 - Concurrence: Jackson
 - Dissents: Frankfurter, joined by Minton
-- **Reversed by [Rodriguez]({{< relref "/#Quijas-v-american-express" >}})**
+- Status: **Reversed by [Rodriguez]({{< relref "/#Quijas-v-american-express" >}})**
 
 {{< details "Pull Quote (from majority):" >}}
 Two policies, not easily reconcilable, are involved in this case. Congress has afforded participants in transactions subject to its legislative power an opportunity generally to secure prompt, economical and adequate solution of controversies through arbitration if the parties are willing to accept less certainty of legally correct adjustment. On the other hand, it has enacted the Securities Act to protect the rights of investors and has forbidden a waiver of any of those rights. Recognizing the advantages that prior agreements for arbitration may provide for the solution of commercial controversies, we decide that the intention of Congress concerning the sale of securities is better carried out by holding invalid such an agreement for arbitration of issues arising under the Act.
@@ -27,7 +27,7 @@ One Line Summary: only the intent to arbitrate can be considered in court. Not a
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Prima_Paint_Corp._v._Flood_%26_Conklin_Manufacturing_Co.)
 - [Oyez](https://www.oyez.org/cases/1966/343)
-- [Court Listener](https://www.courtlistener.com/opinion/107492/prima-paint-corp-v-flood-conklin-mfg-co/)
+- [Court Opinion (Court Listener)](https://www.courtlistener.com/opinion/107492/prima-paint-corp-v-flood-conklin-mfg-co/)
 - Majority Author: Abe Forta
 - Concurrence: John Marshall Harlan II
 - Dissents: Hugo Black, Potter Stewart, William O. Douglas
@@ -40,14 +40,13 @@ One Line Summary: only the intent to arbitrate can be considered in court. Not a
 
 ## Moses H. Cone Memorial Hospital v. Mercury Construction Corp., 460 U.S. 1 (1983)
 
-One Line Summary: {{< todo />}}
+One Line Summary: Established that the FAA applies to actions in state court and a policy of rapid and unobstructed enforcement of arbitration agreements.
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Moses_H._Cone_Memorial_Hospital_v._Mercury_Construction_Corp.)
 - Oyez: {{< todo />}}
 - Majority Author: William Brennan
 - Dissents:  William Rehnquist joined by Burger, O'Connor
 
-Not directly related to _forced_ arbitration_. Established that the FAA applies to actions in state court and a _policy of rapid and unobstructed enforcement of arbitration agreements_.
 
 Pull Quote (from {{< todo />}}):
 
