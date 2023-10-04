@@ -55,9 +55,11 @@ Pull Quote (from {{< todo />}}):
 
 ## Southland Corp. v. Keating, 465 U.S. 1 (1984)
 
+One Line Summary: FAA applies to contracts under state law (due to congressional intent)
+
 - [Wikipedia](https://en.wikipedia.org/wiki/Southland_Corp._v._Keating)
-- [Court Opinion (Court Listener)](https://www.courtlistener.com/opinion/111091/southland-corp-v-keating/ (unread)
-- [Court Opinion (Library of Congress)] https://tile.loc.gov/storage-services/service/ll/usrep/usrep465/usrep465001/usrep465001.pdf (unread)
+- [Court Opinion (Court Listener)](https://www.courtlistener.com/opinion/111091/southland-corp-v-keating/) (unread)
+- [Court Opinion (Library of Congress)](https://tile.loc.gov/storage-services/service/ll/usrep/usrep465/usrep465001/usrep465001.pdf) (unread)
 - Majority Author: Warren Burger
 - Concurence: John P. Stevens
 - Dissents: Sandra Day O'Connor, William Rehnquist
