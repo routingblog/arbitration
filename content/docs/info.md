@@ -533,7 +533,7 @@ Pull Quote (from syllabus):
 ### Richards v. Ernst & Young, LLP, 11-17530, 2013 WL 4437601 (9th Cir. Aug. 21, 2013).
 
 {{< todo />}}
-- Status: **Effectively Reversed by [Morgan]({{< relref "/#morgan-v-sundance" >}}) [^1]**
+- Status: **Effectively Reversed by [Morgan]({{< relref "/#morgan-v-sundance" >}})** [^1]{{< todo />}}
 
 ### Harrison v. Envision Holding Management Inc. Board of Directors, et al., No. 22-1098 (United States Court of Appeals for the Tenth Circuit). (2023)
 
