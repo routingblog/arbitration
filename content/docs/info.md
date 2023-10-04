@@ -695,7 +695,12 @@ In conclusion, the message of this article is: Watch this space. Members of the 
 1. Arbitration Study: Report to Congress, pursuant to Dodd–Frank Wall Street Reform and Consumer Protection Act § 1028(a) (pp. 1–728). (2015). Consumer Financial Protection Bureau. (unread)
 1. Stone, K. V. W. (2023). Arbitration—From Sacred Cow to Golden Calf: Three Phases in the History of the Federal Arbitration Act. 23. (unread)
 1. Gerbitz, C. (n.d.). ARE PRE-DISPUTE AGREEMENTS TO ARBITRATION ONLINE ENFORCEABLE? (unread)
-1. Rubenstein, M. (2012). Assignment of Labor Arbitration. St. John’s Law Review, 81(1). https://scholarship.law.stjohns.edu/lawreview/vol81/iss1/6 (unread)
+1. Rubenstein, M. (2012). Assignment of Labor Arbitration. St. John’s Law Review, 81(1), 42–76. https://scholarship.law.stjohns.edu/lawreview/vol81/iss1/6
+
+This is really about collective bargaining agreements and arbitration provisions therein and thus somewhat out of scope for this page.
+{{< details "Rubenstein - Assignment of Labor Arbitratio" >}}
+Stated somewhat differently, there should be a type of presumption, similar to that utilized under the Restatement (Second) of Contracts, in favor of assignment of labor arbitration and the right to appeal from arbitration absent express language in the collective bargaining agreement prohibiting it.
+{{< /details >}}
 1. Hamielec, M. R. (n.d.). Class Dismissed: Compelling a Look at Jurisprudence Surrounding Class Arbitration and Proposing Solutions to Asymmetric Bargaining Power Between Parties. 92. (unread)
 1. Cain, R. M. (1988). Commercial Disputes and Compulsory Arbitration. The Business Lawyer, 44(1), 65–84. https://www.jstor.org/stable/40687165 (unread)
 1. Korn, D., & Rosenberg, D. (2013). Concepcion’s Pro-Defendant Biasing of the Arbitration Process: The Class Counsel Solution. University of Michigan Journal of Law Reform, 46.4, 1151. https://doi.org/10.36646/mjlr.46.4.concepcions (unread)
