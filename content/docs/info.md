@@ -70,7 +70,7 @@ Core Claim (pull quote):
 
 ## Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth, Inc., 473 U.S. 614 (1985)
 
-One Line Summary: {{< todo />}}
+One Line Summary: Sherman act anti-trust claims arising from an international act are arbitrable.
 
 - Wikipedia: {{< todo />}}
 - Court Opinion (Court Listener): {{< todo />}}
@@ -79,13 +79,13 @@ One Line Summary: {{< todo />}}
 - Majority Author: {{< todo />}}
 - Concurrence: {{< todo />}}
 - Dissents: {{< todo />}}
+- Status: Made irrelevant by [Motor Vehicle Franchise Contract Arbitration Fairness Act (15 U.S. Code § 1226)](https://www.law.cornell.edu/uscode/text/15/1226)
 
 Pull Quote (from {{< todo />}}):
 
 {{< details "{{< todo />}}" >}}
 {{< /details >}}
 
-Made irrelevant by [Motor Vehicle Franchise Contract Arbitration Fairness Act (15 U.S. Code § 1226)](https://www.law.cornell.edu/uscode/text/15/1226)
 
 Pull Quote (from {{< todo />}}):
 
