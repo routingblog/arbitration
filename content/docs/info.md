@@ -64,9 +64,9 @@ One Line Summary: FAA applies to contracts under state law (due to congressional
 - Concurence: John P. Stevens
 - Dissents: Sandra Day O'Connor, William Rehnquist
 
-Core Claim (pull quote):
-
-> In enacting § 2 of the federal Act, Congress declared a national policy favoring arbitration and withdrew the power of the states to require a judicial forum for the resolution of claims that the contracting parties agreed to resolve by arbitration.
+{{< details "Core Claim (pull quote)" >}}
+In enacting § 2 of the federal Act, Congress declared a national policy favoring arbitration and withdrew the power of the states to require a judicial forum for the resolution of claims that the contracting parties agreed to resolve by arbitration.
+{{< /details >}}
 
 ## Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth, Inc., 473 U.S. 614 (1985)
 
@@ -80,12 +80,6 @@ One Line Summary: Sherman act anti-trust claims arising from an international ac
 - Concurrence: {{< todo />}}
 - Dissents: {{< todo />}}
 - Status: Made irrelevant by [Motor Vehicle Franchise Contract Arbitration Fairness Act (15 U.S. Code § 1226)](https://www.law.cornell.edu/uscode/text/15/1226)
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
-
 
 Pull Quote (from {{< todo />}}):
 
