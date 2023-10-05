@@ -567,6 +567,11 @@ Pull Quote (from syllabus):
 > Specifically, the policy’s arbitrator selection process would always produce an arbitrator proposed by the defendant in employee-initiated arbitration proceedings; the policy precluded institutional arbitration administrators, which have established rules and procedures to select a neutral arbitrator; and the policy’s arbitrator-fee-apportionment provision would have the effect of pricing employees out of the dispute resolution process
 {{< /details >}}
 
+### Armstrong v. Michaels Stores, Inc., 59 F.4 th 1101, 1014 (9th Cir. Feb. 13, 2023).
+
+> Morgan teaches that there is no strong federal policy favoring enforcement of arbitration agreements.
+
+
 #### Analysis
 
 
