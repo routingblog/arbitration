@@ -94,7 +94,7 @@ Pull Quote (from {{< todo />}}):
 One Line Summary: {{< todo />}}
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Shearson/American_Express_Inc._v._McMahon) (unread)
-- Court Opinion (Court Listener): {{< todo />}}
+- [Court Opinion (Court Listener)](https://www.courtlistener.com/opinion/111910/shearsonamerican-express-inc-v-mcmahon/) (unread)
 - Court Opinion (pdf): {{< todo />}}
 - Oyez: {{< todo />}}
 - Majority Author: {{< todo />}}
