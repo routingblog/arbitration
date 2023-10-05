@@ -430,7 +430,7 @@ The court also predicted what the california courts would rule in a similar case
 SCOTUS predicting [Adolph]({{< relref "/#adolph" >}})
 
 ## Coinbase v. Bielski, 599 U.S. ___ (2023)
-One Line Summary: A pending interlocutory appeal of a motion to compel requires staying court proceedings
+One Line Summary: In federal courts - a pending interlocutory appeal of a motion to compel requires staying court proceedings
 
 - Wikipedia: {{< todo />}}
 - Court Opinion (Court Listener): {{< todo />}}
@@ -660,7 +660,11 @@ Stolt-Nielsen v. Animalfeeds International Corp. - https://www.oyez.org/cases/20
 | ----------- | ----------- |
 | [Code of Civil Procedure - CCP §§3.9.1280 - 1294.4](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1281.98&lawCode=CCP) | California |
 
+## Proposed State Bills
 
+| Title | State | Summary |
+| ----------- | ----------- | --- |
+| [SB-365 Civil procedure: arbitration](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB365)| California| appeal from certain appeals do not stay state court proceedings |
 
 # Rule Making
 
