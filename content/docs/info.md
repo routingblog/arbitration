@@ -171,15 +171,15 @@ Pull Quote (from {{< todo />}}):
 
 ## Circuit City v. Adams (2001)
 
-One Line Summary: maxim of ejusdem generis applies to FAA exclusion of any other class of workers”
+One Line Summary: Maxim of ejusdem generis[^5] applies to FAA exclusion of any other class of workers”
 
 - Wikipedia: {{< todo />}}
 - Court Opinion (Court Listener): {{< todo />}}
 - Court Opinion (pdf): {{< todo />}}
-- Oyez: {{< todo />}}
-- Majority Author: {{< todo />}}
+- [Oyez](https://www.oyez.org/cases/2000/99-1379) (unread)
+- Majority Author: Anthony M. Kennedy
 - Concurrence: {{< todo />}}
-- Dissents: {{< todo />}}
+- Dissents: Stevens (joined by Ginsburg, Breyer) and Souter
 
 Pull Quote (from {{< todo />}}):
 
@@ -832,6 +832,7 @@ Stated somewhat differently, there should be a type of presumption, similar to t
 [^2]: [The Age Discrimination in Employment Act of 1967](https://www.eeoc.gov/statutes/age-discrimination-employment-act-1967)
 [^3]: pg 42
 [^4]: Justice SCALIA joins all but footnote 7 of this opinion.
+[^5]: [Rules of Statutory Construction and Interpretation](https://www.supremecourt.gov/DocketPDF/18/18-9575/102239/20190611092122150_00000055.pdf) §16
 
 # Scope
 
