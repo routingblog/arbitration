@@ -1,5 +1,6 @@
 ---
 title: "Basic Problems"
+type: docs
 ---
 
 - Arbitration was designed for entities of equal bargaining power [^1] [^2]
