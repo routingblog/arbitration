@@ -50,7 +50,9 @@ One Line Summary: Established that the FAA applies to actions in state court and
 
 Pull Quote (from {{< todo />}}):
 
-{{< details "{{< todo />}}" >}}
+{{< details "Moses H Cone" >}}
+...any doubts concerning the scope of arbitrable issues should be resolved in favor of arbitration...
+...unless it may be said with positive assurance that the arbitration clause is not susceptible of an interpretation that covers the asserted dispute...
 {{< /details >}}
 
 ## Southland Corp. v. Keating, 465 U.S. 1 (1984)
