@@ -169,6 +169,22 @@ Pull Quote (from {{< todo />}}):
 {{< details "{{< todo />}}" >}}
 {{< /details >}}
 
+## Circuit City v. Adams (2001)
+
+One Line Summary: maxim of ejusdem generis applies to FAA exclusion of any other class of workers”
+
+- Wikipedia: {{< todo />}}
+- Court Opinion (Court Listener): {{< todo />}}
+- Court Opinion (pdf): {{< todo />}}
+- Oyez: {{< todo />}}
+- Majority Author: {{< todo />}}
+- Concurrence: {{< todo />}}
+- Dissents: {{< todo />}}
+
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
+{{< /details >}}
 
 ## Preston v. Ferrer
 
@@ -335,7 +351,7 @@ Pull Quote (from {{< todo />}}):
 Under the Federal Arbitration Act (FAA), an arbitration agreement that is ambiguous as to the availability of class arbitration does not manifest sufficient consent by the parties to submit to class arbitration. In a 5-4 opinion authored by Chief Justice John Roberts, the Court held that the arbitration agreement between Varela and his employer, Lamps Plus, which contained only general language commonly used in arbitration agreements, did not provide the necessary contractual basis for compelling class arbitration.
 
 ## 17-340 New Prime Inc. V. Oliveira (01/15/2019), (Supreme Court 2019)
-One Line Summary: {{< todo />}}
+One Line Summary: §1 exemptions apply to “agreements to perform work” not just employment agreements.
 
 - Wikipedia: {{< todo />}}
 - Court Opinion (Court Listener): {{< todo />}}
@@ -378,8 +394,8 @@ Pull Quote (from {{< todo />}}):
 "when the parties' contract delegates the arbitrability question to an arbitrator, a court may not override the contract.
 
 
-## Southwest Airlines Co., Petitioner v. Latrice Saxon 2021
-One Line Summary: {{< todo />}}
+## Southwest Airlines Co. v. Latrice Saxon 2021
+One Line Summary: employees who are “physically loading cargo directly on and off an airplane headed out of State” are within §1’s exemption
 
 - Wikipedia: {{< todo />}}
 - Court Opinion (Court Listener): {{< todo />}}
@@ -512,8 +528,6 @@ Pull Quote (from {{< todo />}}):
 
 {{< details "{{< todo />}}" >}}
 {{< /details >}}
-
-## Circuit City v. Adams
 
 <!-- case template -->
 <!--
