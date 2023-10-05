@@ -598,6 +598,9 @@ arb that precludes ERISA plan-wide relief under Section 502(a) not enforceable
 
 ## Not Yet Analyzed
 
+### MacClelland v. Cellco
+
+
 ### Ferguson v. Corinthian Colleges, Inc., 733 F.3d 928 (9th Cir. 2013)
 See Ferguson v. Corinthian Colleges, Inc., 733 F.3d 928 (9th Cir. 2013). The Ferguson panel reversed the lower court’s denial of a motion to compel arbitration, and held the FAA preempted California’s “Broughton-Cruz Rule,” which dictates that injunctive relief sought for the public’s benefit cannot be subjected to mandatory arbitration.
 {{< todo />}}
