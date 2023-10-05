@@ -820,6 +820,10 @@ Stated somewhat differently, there should be a type of presumption, similar to t
 - Darin Ranahan. (n.d.). Mandatory Pre-Dispute Arbitration Agreements and Your Rights: A Post-Concepcion Primer. Retrieved 25 August 2023, from https://www.sl-employmentlaw.com/mandatory-pre-dispute-arbitration-agreements-and-your-rights-a-p.html
 - Rachel Thorn. (2021, March 11). Drafting Arbitration Clauses in IP Agreements. World Trademark Review. https://www.worldtrademarkreview.com/global-guide/the-guide-ip-arbitration/2021/article/drafting-arbitration-clauses-in-ip-agreements
 
+## Resources
+
+- [Overcoming the Latest Supreme Court Arbitration Decision](https://library.nclc.org/article/overcoming-latest-supreme-court-arbitration-decision)
+
 ## Advocacy
 - Coalition Sign-on Letter to Senate Judiciary in Support of the Arbitration Fairness Act. (n.d.). Retrieved 28 August 2023, from http://www.aclu.org/documents/coalition-sign-letter-senate-judiciary-support-arbitration-fairness-act
 - [Fair Arbitration Now Coalition](https://fairarbitrationnow.org/about/)
