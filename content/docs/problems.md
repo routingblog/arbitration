@@ -4,16 +4,17 @@ title: "Basic Problems"
 
 - Arbitration was designed for entities of equal bargaining power [^1] [^2]
 
+- A recalcitrant defendant can delay the start of meaningful proceedings a really long time. For example they can appeal the motion to compel and this would stay the civil court proceedings in the meantime[^3]
+
 [^1]: Sternlight, J. R. (2005). Creeping Mandatory Arbitration: Is It Just? Scholarly Works, 57(280), 1631–1676. pp 1631
 
 [^2]: Cain, R. M. (1988). Commercial Disputes and Compulsory Arbitration. The Business Lawyer, pp 65
 
+[^3]: Coinbase v. Bielski, 599 U.S. ___ (2023)
+
 
 To Be Sourced:
 
-- The processes to initiate arbitration can be ignored in some cases. You'd typically either file a 9 U.S. Code § 4 motion to compel or you would view failure to attend a a breach-of-contract and sue in civil court.
-
-- That said, a recalcitrant defendant can delay the start of meaningful proceedings a really long time. For example they can appeal the motion to compel and this would stay the civil court proceedings in the meantime (see Coinbase, Inc. v. Bielski).
 
 - The reason to do this is if the defendant is most likely in the wrong and just wants to delay paying as much as possible (or wear down the plaintiff). In true civil court the attorneys could have sanctions against them if they pointlessly delay the proceedings. Less so in arbitration.
 
