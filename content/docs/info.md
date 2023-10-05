@@ -512,23 +512,6 @@ Pull Quote (from {{< todo />}}):
 {{< details "{{< todo />}}" >}}
 {{< /details >}}
 
-## Morgan v. Sundance,
-
-One Line Summary: {{< todo />}}
-
-- Wikipedia: {{< todo />}}
-- Court Opinion (Court Listener): {{< todo />}}
-- Court Opinion (pdf): {{< todo />}}
-- Oyez: {{< todo />}}
-- Majority Author: {{< todo />}}
-- Concurrence: {{< todo />}}
-- Dissents: {{< todo />}}
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
-
 <!-- case template -->
 <!--
 One Line Summary: {{< todo />}}
