@@ -535,6 +535,11 @@ Core Claim (pull quote):
 
 ## District Court Cases
 
+## Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Bobker, 636 F. Supp. 444 (S.D.N.Y. 1986)
+
+Defines manifest disregard for the law (in the 2nd circuit)
+
+
 ### In re: TikTok Inc. Consumer Privacy Litigation, Case No. 1:20-cv-04699
 
 {{< todo />}}
@@ -778,7 +783,7 @@ Stated somewhat differently, there should be a type of presumption, similar to t
 1. Xu, A. (n.d.). Reconsideration of Forced Arbitration in Data Privacy Legislation. (unread)
 1. Stern, N. (2022). Rethinking Absolute Immunity from Defamation Suits in Private Quasi-Judicial Proceedings. (unread)
 1. Rau, A. S. (2006). Separability in the United States Supreme Court (SSRN Scholarly Paper 893601). https://papers.ssrn.com/abstract=893601 (unread)
-1. Lipton, D. (1993). Should Arbitrators Follow the Law? Scholarly Articles. https://scholarship.law.edu/scholar/617 (unread)
+1. Lipton, D. (1993). Should Arbitrators Follow the Law? Scholarly Articles. https://scholarship.law.edu/scholar/617
 1. Dunham, K. F. (2009). Southland Corp. v. Keating Revisited: Twenty-Five Years in Which Direction. Charleston Law Review, 4, 331. https://heinonline.org/HOL/Page?handle=hein.journals/charlwrev4&id=335&div=&collection= (unread)
 1. Lampley, R. L. (2017). The CFPB Anti-Arbitration Proposal: Let’s Just Give Arbitration a Chance. St. Mary’s Law Journal, 48(2). (unread)
 1. hlr. (2023, April 10). The Enforcement Opportunity: From Mass Arbitration to Mass Organizing. Harvard Law Review. https://harvardlawreview.org/print/vol-136/the-enforcement-opportunity-from-mass-arbitration-to-mass-organizing/ (unread)
@@ -817,7 +822,7 @@ Stated somewhat differently, there should be a type of presumption, similar to t
 
 # Scope
 
-The goal of this document is discuss _forced arbitration_ and _class action waivers_ in _consumer disputes_ and _employment disputes_. Other aspects of arbitration are mostly out of scope of this document.
+The goal of this document is discuss _forced arbitration_ and _class action waivers_ in _consumer disputes_ and _employment disputes_. Other aspects of arbitration are mostly out of scope although occasionally included if somewhat relevant.
 
 # Misc Other Notes
 
