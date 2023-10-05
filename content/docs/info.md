@@ -646,6 +646,8 @@ Stolt-Nielsen v. Animalfeeds International Corp. - https://www.oyez.org/cases/20
 
 | ID & Title  | Congress | Status | Committee Report |
 | ----------- | ---- | ------ | ------ |
+| [S.366 - Civil Rights Procedures Protection Act of 1995](https://www.congress.gov/bill/104th-congress/senate-bill/366) | 104th Congress (1995-1996) | Introduced | |
+| [H.R.872 - Civil Rights Procedures Protection Act of 1999](https://www.congress.gov/bill/106th-congress/house-bill/872/text) | 106th Congress (1999-2000) | Introduced | |
 | [H.R.1374 - Arbitration Fairness Act of 2017](https://www.congress.gov/bill/115th-congress/house-bill/1374) | 115th Congress (2017-2018) | Stuck in Judiciary Committee | |
 | [S.2591 - Arbitration Fairness Act of 2018](https://www.congress.gov/bill/115th-congress/senate-bill/2591) | 115th Congress (2017-2018) | Stuck in Judiciary Committee | |
 | [S.537 - Arbitration Fairness Act of 2017](https://www.congress.gov/bill/115th-congress/senate-bill/537) | 115th Congress (2017-2018) | Stuck in Judiciary Committee | |
