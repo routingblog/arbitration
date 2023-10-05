@@ -43,7 +43,8 @@ One Line Summary: only the intent to arbitrate can be considered in court. Not a
 One Line Summary: Established that the FAA applies to actions in state court and a policy of rapid and unobstructed enforcement of arbitration agreements.
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Moses_H._Cone_Memorial_Hospital_v._Mercury_Construction_Corp.)
-- Oyez: {{< todo />}}
+- [Court Opinion (Court Listener)](https://www.courtlistener.com/opinion/110873/moses-h-cone-memorial-hospital-v-mercury-construction-corp/) (unread)
+- [Oyez](https://www.oyez.org/cases/1982/81-1203)
 - Majority Author: William Brennan
 - Dissents:  William Rehnquist joined by Burger, O'Connor
 
@@ -205,16 +206,13 @@ Pull Quote (from {{< todo />}}):
 
 
 ## Buckeye Check Cashing, Inc. v. Cardegna,  546 US 440 (2006)
-- Wikipedia: https://en.wikipedia.org/wiki/Buckeye_Check_Cashing,_Inc._v._Cardegna
-- Oyez: https://www.oyez.org/cases/2005/04-1264
-
 
 One Line Summary: {{< todo />}}
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Preston_v._Ferrer)
+- [Wikipedia](https://en.wikipedia.org/wiki/Buckeye_Check_Cashing,_Inc._v._Cardegna)
 - Court Opinion (Court Listener): {{< todo />}}
 - Court Opinion (pdf): {{< todo />}}
-- Oyez: {{< todo />}}
+- [Oyez](https://www.oyez.org/cases/2005/04-1264)
 - Majority Author: {{< todo />}}
 - Concurrence: {{< todo />}}
 - Dissents: {{< todo />}}
