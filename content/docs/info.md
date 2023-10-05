@@ -729,7 +729,11 @@ ADR
 In conclusion, the message of this article is: Watch this space. Members of the US arbitration ecosystem, whether they be willing members such as businesses or unwilling members such as employees and consumers, have very much been on a wild ride in the last few decades and the recent decisions, new legislation, and changing behavior by all involved means that this is only going to continue in the future.
 {{< /details >}}
 
-1. Gilles, M. E. (2023). Arbitration’s Unraveling (SSRN Scholarly Paper 4527841). https://doi.org/10.2139/ssrn.4527841 (unread)
+1. Gilles, M. E. (2023). Arbitration’s Unraveling (SSRN Scholarly Paper 4527841). https://doi.org/10.2139/ssrn.4527841
+{{< details "Giles - Arbitration's Unraveling">}}
+The 21st century has been a bleak one for proponents of collective litigation. The hegemonic rise of class-banning arbitration provisions has thwarted workers and consumers across the legal landscape, as the FAA has grown into a super-statute, frozen in a 1920’s conception of individual claiming.
+But recent developments signal a thaw. Green shoots have appeared in Congress, which in 2022 amended the FAA for the first time in its history to exempt one important subset of litigation activity, possibly setting the stage for further rollbacks. The Supreme Court, meanwhile, has explicitly rejected the assumption, widely held by lower courts, that the promotion of arbitration is a “favored policy” warranting the application of special rules of construction and procedure. The implications of this clarification are profound and should, by all rights, remove from the coverage of the FAA all claims by workers engaged in interstate commerce, among other effects.
+{{< /details >}}
 1. Glover, J. M. (2022). Mass Arbitration. Stanford Law Review, 74. https://review.law.stanford.edu/wp-content/uploads/sites/3/2022/09/Glover-74-Stan.-L.-Rev.-1283.pdf
 1. Glover, M. (2023). Recent Developments in Mandatory Arbitration Warfare: Winners and Losers (So Far) in Mass Arbitration (SSRN Scholarly Paper 4509465). https://papers.ssrn.com/abstract=4509465 (unread)
 1. Katherine V.W. Stone & Alexander J.S. Colvin. (2015). The arbitration epidemic: Mandatory arbitration deprives workers and consumers of their rights (Briefing Paper 414). Economic Policy Institute. https://www.epi.org/publication/the-arbitration-epidemic/
