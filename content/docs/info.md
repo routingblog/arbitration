@@ -799,6 +799,9 @@ Stated somewhat differently, there should be a type of presumption, similar to t
 1. Bingham, L. B. (n.d.). On Repeat Players, Adhesive Contracts, and the Use of Statistics in Judicial Review of Employment Arbitration Awards. (unread)
 1. Gross, J. I., & Black, B. (2008). When Perception Changes Reality: An Empirical Study of Investors’ Views of the Fairness of Securities Arbitration. 2008. (unread)
 1. Bingham, L. B. (n.d.). Self-determination In Dispute System Design And Employment Arbitration. 56. (unread)
+1. American Arbitration Association, American Bar Association, & American Medical Association. (1998). Healthcare Due Process Protocol. Commission On Health Care Dispute Resolution.
+
+
 
 ## Blog Post
 
@@ -815,6 +818,8 @@ Stated somewhat differently, there should be a type of presumption, similar to t
 
 ## Advocacy
 - Coalition Sign-on Letter to Senate Judiciary in Support of the Arbitration Fairness Act. (n.d.). Retrieved 28 August 2023, from http://www.aclu.org/documents/coalition-sign-letter-senate-judiciary-support-arbitration-fairness-act
+- [Fair Arbitration Now Coalition](https://fairarbitrationnow.org/about/)
+
 [^1]: Need to double check this.
 [^2]: [The Age Discrimination in Employment Act of 1967](https://www.eeoc.gov/statutes/age-discrimination-employment-act-1967)
 [^3]: pg 42
