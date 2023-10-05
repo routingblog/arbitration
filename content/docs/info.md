@@ -460,6 +460,40 @@ Pull Quote (from {{< todo />}}):
 
 Issue: Whether a participant in a plan governed by the Employee Retirement Income Security Act who asserts statutory claims under that statute can be compelled, pursuant to a binding arbitration provision, to submit his claims to individual arbitration.
 
+## New Prime Inc. v. Oliveira 139 S. Ct. 532 (2019)
+
+One Line Summary: {{< todo />}}
+
+- Wikipedia: {{< todo />}}
+- Court Opinion (Court Listener): {{< todo />}}
+- Court Opinion (pdf): {{< todo />}}
+- Oyez: {{< todo />}}
+- Majority Author: {{< todo />}}
+- Concurrence: {{< todo />}}
+- Dissents: {{< todo />}}
+
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
+{{< /details >}}
+
+## Saxon v. Southwest 142 S. Ct. 1783 (2022)
+
+One Line Summary: {{< todo />}}
+
+- Wikipedia: {{< todo />}}
+- Court Opinion (Court Listener): {{< todo />}}
+- Court Opinion (pdf): {{< todo />}}
+- Oyez: {{< todo />}}
+- Majority Author: {{< todo />}}
+- Concurrence: {{< todo />}}
+- Dissents: {{< todo />}}
+
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
+{{< /details >}}
+
 <!-- case template -->
 <!--
 One Line Summary: {{< todo />}}
