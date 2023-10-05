@@ -108,7 +108,7 @@ Pull Quote (from {{< todo />}}):
 
 ## Rodriguez de Quijas v. Shearson/American Express Inc., 490 U.S. 477 (1989) {id="Quijas-v-american-express"}
 
-One Line Summary: An ADEA[^2] claim can be subjected to compulsory arbitration.
+One Line Summary: An ADEA[^ADEA] claim can be subjected to compulsory arbitration.
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Rodriguez_de_Quijas_v._Shearson/American_Express_Inc.) (unread)
 - Court Opinion (Court Listener): {{< todo />}}
@@ -131,7 +131,7 @@ Pull Quote (from {{< todo />}}):
 - Majority Author: Byron White
 - Dissents: John Paul Stevens
 
-Pull Quote from Dissent[^3]:
+Pull Quote from Dissent (pg 42):
 > When the FAA was passed in 1925, I doubt that any legislator who voted for it expected it to apply to statutory claims, to form contracts between parties of unequal bargaining power, or to the arbitration of disputes arising out of the employment relationship. In recent years, however, the Court "has effectively rewritten the statute," and abandoned its earlier view that statutory claims were not appropriate subjects for arbitration.
 
 
@@ -171,7 +171,7 @@ Pull Quote (from {{< todo />}}):
 
 ## Circuit City v. Adams (2001)
 
-One Line Summary: Maxim of ejusdem generis[^5] applies to FAA exclusion of any other class of workers”
+One Line Summary: Maxim of ejusdem generis[^ejusdemgeneris] applies to FAA exclusion of any other class of workers”
 
 - Wikipedia: {{< todo />}}
 - Court Opinion (Court Listener): {{< todo />}}
@@ -244,7 +244,7 @@ Pull Quote (from {{< todo />}}):
 ## Hall Street Associates, L.L.C. v. Mattel, Inc., 552 US 576 (2008)
 
 - [Opinion (Court Listener)](https://www.courtlistener.com/opinion/145821/hall-street-associates-l-l-c-v-mattel-inc/)
-- Majority: Souter[^4]
+- Majority: Souter[^footnote7]
 - Dissent: Stevens, joined by Kennedy
 - Dissent: Breyer
 
@@ -829,10 +829,9 @@ Stated somewhat differently, there should be a type of presumption, similar to t
 - [Fair Arbitration Now Coalition](https://fairarbitrationnow.org/about/)
 
 [^1]: Need to double check this.
-[^2]: [The Age Discrimination in Employment Act of 1967](https://www.eeoc.gov/statutes/age-discrimination-employment-act-1967)
-[^3]: pg 42
-[^4]: Justice SCALIA joins all but footnote 7 of this opinion.
-[^5]: [Rules of Statutory Construction and Interpretation](https://www.supremecourt.gov/DocketPDF/18/18-9575/102239/20190611092122150_00000055.pdf) §16
+[^ADEA]: [The Age Discrimination in Employment Act of 1967](https://www.eeoc.gov/statutes/age-discrimination-employment-act-1967)
+[^footnote7]: Justice SCALIA joins all but footnote 7 of this opinion.
+[^ejusdemgeneris]: [Rules of Statutory Construction and Interpretation](https://www.supremecourt.gov/DocketPDF/18/18-9575/102239/20190611092122150_00000055.pdf) §16
 
 # Scope
 
