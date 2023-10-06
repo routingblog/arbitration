@@ -352,7 +352,7 @@ Under the Federal Arbitration Act (FAA), an arbitration agreement that is ambigu
 ## 17-340 New Prime Inc. V. Oliveira (01/15/2019), (Supreme Court 2019)
 One Line Summary: §1 exemptions apply to “agreements to perform work” not just employment agreements.
 
-- Wikipedia: {{< todo />}}
+- [Wikipedia](https://en.wikipedia.org/wiki/New_Prime_Inc._v._Oliveira)
 - Court Opinion (Court Listener): {{< todo />}}
 - Court Opinion (pdf): {{< todo />}}
 - Oyez: {{< todo />}}
