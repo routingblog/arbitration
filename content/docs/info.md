@@ -49,7 +49,7 @@ One Line Summary: Established that the FAA applies to actions in state court and
 - Dissents:  William Rehnquist joined by Burger, O'Connor
 
 
-Pull Quote (from {{< todo />}}):
+Pull Quote (from majority):
 
 {{< details "Moses H Cone" >}}
 ...any doubts concerning the scope of arbitrable issues should be resolved in favor of arbitration...
