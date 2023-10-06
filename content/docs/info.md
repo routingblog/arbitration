@@ -503,6 +503,14 @@ Pull Quote (from {{< todo />}}):
 {{< details "{{< todo />}}" >}}
 {{< /details >}}
 
+## Bissonnette v. LePage Bakeries Park St., LLC
+
+- [Petition For A Writ Of Certiorari](https://www.supremecourt.gov/DocketPDF/23/23-51/272203/20230717155334558_Bissonnette%20Cert%20Petition%20Final.pdf) (unread)
+
+{{< details "Petition For A Writ Of Certiorari - question to be presented" >}}
+Presented Question: To be exempt from the Federal Arbitration Act, must a class of workers that is actively engaged in interstate transportation also be employed by a company in the transportation industry?
+{{< /details >}}
+
 <!-- case template -->
 <!--
 One Line Summary: {{< todo />}}
