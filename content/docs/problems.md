@@ -21,7 +21,10 @@ type: docs
 
 - Differences in damages awarded are even greater, with the median or typical award in mandatory arbitration being only 21 percent of the median award in the federal courts and 43 percent of the median award in the state courts[^7]
 
+- Average outcome in mandatory arbitration is only 16 percent of that in the federal courts and 7 percent of that in state courts [^7]
+
 - The mandatory arbitration–litigation gap in outcomes has a direct effect on the ability of individual workers to recover compensation for the injuries they have suffered. [^9]
+
 
 # Class Actions
 
@@ -45,13 +48,8 @@ type: docs
 
 [^9]: Stone Supra, [^4] pp 21
 
-
 # To Be Sourced:
-
 
 - The reason to do this is if the defendant is most likely in the wrong and just wants to delay paying as much as possible (or wear down the plaintiff). In true civil court the attorneys could have sanctions against them if they pointlessly delay the proceedings. Less so in arbitration.
 
 - arbitration is more informal and thus less procedural protection
-
-
-- average outcome in mandatory arbitration is only 16 percent of that in the federal courts and 7 percent of that in state courts
