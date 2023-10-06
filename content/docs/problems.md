@@ -3,9 +3,17 @@ title: "Basic Problems"
 type: docs
 ---
 
+# General Information
+
 - Arbitration was designed for entities of equal bargaining power [^1] [^2]
 
 - A recalcitrant defendant can delay the start of meaningful proceedings a really long time. For example they can appeal the motion to compel and this would stay the civil court proceedings in the meantime[^3]
+
+- Arbiters are not required to follow or even know the law. [^5] Only in narrow circumstances (in "manifest disregard") where the arbitrators must be found to have "understood and correctly stated the law but proceeded to ignore it." [^6]
+
+- It's harder to find a lawyer for cases which will be arbitrated. Contingency is riskier and clients can't be as easily pooled.[^4]
+
+# Employment
 
 - Plaintiffs’ overall economic outcomes are on average 6.1 times better in federal court than in mandatory arbitration ($143,497 versus $23,548) and 13.9 times better in state court than in mandatory arbitration ($328,008 versus $23,548) [^4]
 
@@ -13,9 +21,9 @@ type: docs
 
 - Differences in damages awarded are even greater, with the median or typical award in mandatory arbitration being only 21 percent of the median award in the federal courts and 43 percent of the median award in the state courts[^7]
 
-- It's harder to find a lawyer for cases which will be arbitrated. Contingency is riskier and clients can't be as easily pooled.[^4]
+- The mandatory arbitration–litigation gap in outcomes has a direct effect on the ability of individual workers to recover compensation for the injuries they have suffered. [^9]
 
-- Arbiters are not required to follow or even know the law. [^5] Only in narrow circumstances (in "manifest disregard") where the arbitrators must be found to have "understood and correctly stated the law but proceeded to ignore it." [^6]
+# Class Actions
 
 - The ban on class actions in particular makes it unlikely that many claims of corporate wrongdoing—particularly those that involve small sums for each in large groups of individuals—will ever be heard. As Justice Breyer opined, “Only a lunatic or a fanatic sues for $30.” [^8]
 
@@ -35,9 +43,10 @@ type: docs
 
 [^8]: Stone Supra, [^4] pp 26 (quote via citation via Justice Breyer, dissenting in AT&T Mobility LLC v. Concepcion)
 
+[^9]: Stone Supra, [^4] pp 21
 
 
-To Be Sourced:
+# To Be Sourced:
 
 
 - The reason to do this is if the defendant is most likely in the wrong and just wants to delay paying as much as possible (or wear down the plaintiff). In true civil court the attorneys could have sanctions against them if they pointlessly delay the proceedings. Less so in arbitration.
@@ -45,10 +54,4 @@ To Be Sourced:
 - arbitration is more informal and thus less procedural protection
 
 
-
-
 - average outcome in mandatory arbitration is only 16 percent of that in the federal courts and 7 percent of that in state courts
-
-- The mandatory arbitration–litigation gap in outcomes has a direct effect on the ability of individual workers to recover compensation for the injuries they have suffered.
-
-- ""The fact that it is not worth the expense involved in proving a statutory remedy does not constitute the elimination of the right to pursue that remedy.""
