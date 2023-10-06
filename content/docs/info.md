@@ -89,6 +89,8 @@ Pull Quote (from {{< todo />}}):
 {{< details "{{< todo />}}" >}}
 {{< /details >}}
 
+Part of Mitsubishi trilogy which allowed arbitration to hear statutory claims.
+
 ## Shearson/American Express Inc. v. McMahon, 482 U.S. 220 (1987)
 
 One Line Summary: {{< todo />}}
@@ -106,14 +108,16 @@ Pull Quote (from {{< todo />}}):
 {{< details "{{< todo />}}" >}}
 {{< /details >}}
 
+Part of Mitsubishi trilogy which allowed arbitration to hear statutory claims.
+
 ## Rodriguez de Quijas v. Shearson/American Express Inc., 490 U.S. 477 (1989) {id="Quijas-v-american-express"}
 
 One Line Summary: An ADEA[^ADEA] claim can be subjected to compulsory arbitration.
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Rodriguez_de_Quijas_v._Shearson/American_Express_Inc.) (unread)
+- [Wikipedia](https://en.wikipedia.org/wiki/Rodriguez_de_Quijas_v._Shearson/American_Express_Inc.)
 - Court Opinion (Court Listener): {{< todo />}}
 - Court Opinion (pdf): {{< todo />}}
-- Oyez: {{< todo />}}
+- [Oyez](https://www.oyez.org/cases/1988/88-385)
 - Majority Author: {{< todo />}}
 - Concurrence: {{< todo />}}
 - Dissents: {{< todo />}}
@@ -123,6 +127,8 @@ Pull Quote (from {{< todo />}}):
 
 {{< details "{{< todo />}}" >}}
 {{< /details >}}
+
+Part of Mitsubishi trilogy which allowed arbitration to hear statutory claims.
 
 
 ## Gilmer v. Interstate/Johnson Lane Corp. 500 U.S. 20 (1991)
