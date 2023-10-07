@@ -78,7 +78,7 @@ One Line Summary: Sherman act anti-trust claims arising from an international ac
 - [Wikipedia](https://en.wikipedia.org/wiki/Mitsubishi_Motors_Corp._v._Soler_Chrysler-Plymouth,_Inc.) (unread)
 - [Court Opinion (Court Listener)](https://www.courtlistener.com/opinion/111513/mitsubishi-motors-corp-v-soler-chrysler-plymouth-inc/) (unread)
 - Court Opinion (pdf): {{< todo />}} (unread)
-- Oyez: {{< todo />}} (unread)
+- [Oyez](https://www.oyez.org/cases/1984/83-1569) (unread)
 - Majority Author: {{< todo />}} (unread)
 - Concurrence: {{< todo />}} (unread)
 - Dissents: {{< todo />}} (unread)
@@ -98,7 +98,7 @@ One Line Summary: {{< todo />}}
 - [Wikipedia](https://en.wikipedia.org/wiki/Shearson/American_Express_Inc._v._McMahon) (unread)
 - [Court Opinion (Court Listener)](https://www.courtlistener.com/opinion/111910/shearsonamerican-express-inc-v-mcmahon/) (unread)
 - Court Opinion (pdf): {{< todo />}} (unread)
-- Oyez: {{< todo />}} (unread)
+- [Oyez](https://www.oyez.org/cases/1986/86-44) (unread)
 - Majority Author: {{< todo />}} (unread)
 - Concurrence: {{< todo />}} (unread)
 - Dissents: {{< todo />}} (unread)
@@ -157,7 +157,7 @@ One Line Summary: {{< todo />}}
 - Wikipedia: {{< todo />}} (unread)
 - Court Opinion (Court Listener): {{< todo />}} (unread)
 - Court Opinion (pdf): {{< todo />}} (unread)
-- Oyez: {{< todo />}} (unread)
+- [Oyez](https://www.oyez.org/cases/2000/99-1235) (unread)
 - Majority Author: {{< todo />}} (unread)
 - Concurrence: {{< todo />}} (unread)
 - Dissents: {{< todo />}} (unread)
@@ -182,7 +182,7 @@ One Line Summary: Maxim of ejusdem generis[^ejusdemgeneris] applies to FAA exclu
 - Wikipedia: {{< todo />}} (unread)
 - Court Opinion (Court Listener): {{< todo />}} (unread)
 - Court Opinion (pdf): {{< todo />}} (unread)
-- [Oyez](https://www.oyez.org/cases/2000/99-1379) (unread)
+- [Oyez](https://www.oyez.org/cases/2000/99-1379)
 - Majority Author: Anthony M. Kennedy
 - Concurrence: {{< todo />}} (unread)
 - Dissents: Stevens (joined by Ginsburg, Breyer) and Souter
@@ -281,7 +281,7 @@ One Line Summary: {{< todo />}}
 - Wikipedia: {{< todo />}}
 - Court Opinion (Court Listener): {{< todo />}}
 - Court Opinion (pdf): {{< todo />}}
-- Oyez: {{< todo />}}
+- [Oyez](https://www.oyez.org/cases/2012/12-133) (unread)
 - Majority Author: {{< todo />}}
 - Concurrence: {{< todo />}}
 - Dissents: {{< todo />}}
