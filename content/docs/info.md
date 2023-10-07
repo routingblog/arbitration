@@ -106,6 +106,23 @@ Pull Quote (from {{< todo />}}):
 
 Part of Mitsubishi trilogy which allowed arbitration to hear statutory claims.
 
+## Dean Witter Reynolds Inc. v. Byrd, 470 U.S. 213 (1985)
+
+One Line Summary: {{< todo />}}
+
+- Wikipedia: {{< todo />}} (unread)
+- Court Opinion (Court Listener): {{< todo />}} (unread)
+- Court Opinion (pdf): {{< todo />}} (unread)
+- Oyez: {{< todo />}} (unread)
+- Majority Author: {{< todo />}} (unread)
+- Concurrence: {{< todo />}} (unread)
+- Dissents: {{< todo />}} (unread)
+
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
+{{< /details >}}
+
 ## Shearson/American Express Inc. v. McMahon, 482 U.S. 220 (1987)
 
 One Line Summary: {{< todo />}}
