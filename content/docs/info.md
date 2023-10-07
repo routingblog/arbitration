@@ -76,12 +76,12 @@ In enacting § 2 of the federal Act, Congress declared a national policy favorin
 One Line Summary: Sherman act anti-trust claims arising from an international act are arbitrable.
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Mitsubishi_Motors_Corp._v._Soler_Chrysler-Plymouth,_Inc.) (unread)
-- Court Opinion (Court Listener): {{< todo />}}
-- Court Opinion (pdf): {{< todo />}}
-- Oyez: {{< todo />}}
-- Majority Author: {{< todo />}}
-- Concurrence: {{< todo />}}
-- Dissents: {{< todo />}}
+- [Court Opinion (Court Listener)](https://www.courtlistener.com/opinion/111513/mitsubishi-motors-corp-v-soler-chrysler-plymouth-inc/) (unread)
+- Court Opinion (pdf): {{< todo />}} (unread)
+- Oyez: {{< todo />}} (unread)
+- Majority Author: {{< todo />}} (unread)
+- Concurrence: {{< todo />}} (unread)
+- Dissents: {{< todo />}} (unread)
 - Status: Made irrelevant by [Motor Vehicle Franchise Contract Arbitration Fairness Act (15 U.S. Code § 1226)](https://www.law.cornell.edu/uscode/text/15/1226)
 
 Pull Quote (from {{< todo />}}):
@@ -97,11 +97,11 @@ One Line Summary: {{< todo />}}
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Shearson/American_Express_Inc._v._McMahon) (unread)
 - [Court Opinion (Court Listener)](https://www.courtlistener.com/opinion/111910/shearsonamerican-express-inc-v-mcmahon/) (unread)
-- Court Opinion (pdf): {{< todo />}}
-- Oyez: {{< todo />}}
-- Majority Author: {{< todo />}}
-- Concurrence: {{< todo />}}
-- Dissents: {{< todo />}}
+- Court Opinion (pdf): {{< todo />}} (unread)
+- Oyez: {{< todo />}} (unread)
+- Majority Author: {{< todo />}} (unread)
+- Concurrence: {{< todo />}} (unread)
+- Dissents: {{< todo />}} (unread)
 
 Pull Quote (from {{< todo />}}):
 
@@ -115,12 +115,12 @@ Part of Mitsubishi trilogy which allowed arbitration to hear statutory claims.
 One Line Summary: An ADEA[^ADEA] claim can be subjected to compulsory arbitration.
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Rodriguez_de_Quijas_v._Shearson/American_Express_Inc.)
-- Court Opinion (Court Listener): {{< todo />}}
-- Court Opinion (pdf): {{< todo />}}
+- Court Opinion (Court Listener): {{< todo />}} (unread)
+- Court Opinion (pdf): {{< todo />}} (unread)
 - [Oyez](https://www.oyez.org/cases/1988/88-385)
-- Majority Author: {{< todo />}}
-- Concurrence: {{< todo />}}
-- Dissents: {{< todo />}}
+- Majority Author: {{< todo />}} (unread)
+- Concurrence: {{< todo />}} (unread)
+- Dissents: {{< todo />}} (unread)
 - Reverses [Wilko]({{< relref "/#wilko-v-swan" >}})
 
 Pull Quote (from {{< todo />}}):
@@ -154,13 +154,13 @@ Montana's first-page notice requirement, which governs not "any contract," but s
 
 One Line Summary: {{< todo />}}
 
-- Wikipedia: {{< todo />}}
-- Court Opinion (Court Listener): {{< todo />}}
-- Court Opinion (pdf): {{< todo />}}
-- Oyez: {{< todo />}}
-- Majority Author: {{< todo />}}
-- Concurrence: {{< todo />}}
-- Dissents: {{< todo />}}
+- Wikipedia: {{< todo />}} (unread)
+- Court Opinion (Court Listener): {{< todo />}} (unread)
+- Court Opinion (pdf): {{< todo />}} (unread)
+- Oyez: {{< todo />}} (unread)
+- Majority Author: {{< todo />}} (unread)
+- Concurrence: {{< todo />}} (unread)
+- Dissents: {{< todo />}} (unread)
 
 Pull Quote (from {{< todo />}}):
 
@@ -179,12 +179,12 @@ Pull Quote (from {{< todo />}}):
 
 One Line Summary: Maxim of ejusdem generis[^ejusdemgeneris] applies to FAA exclusion of any other class of workers”
 
-- Wikipedia: {{< todo />}}
-- Court Opinion (Court Listener): {{< todo />}}
-- Court Opinion (pdf): {{< todo />}}
+- Wikipedia: {{< todo />}} (unread)
+- Court Opinion (Court Listener): {{< todo />}} (unread)
+- Court Opinion (pdf): {{< todo />}} (unread)
 - [Oyez](https://www.oyez.org/cases/2000/99-1379) (unread)
 - Majority Author: Anthony M. Kennedy
-- Concurrence: {{< todo />}}
+- Concurrence: {{< todo />}} (unread)
 - Dissents: Stevens (joined by Ginsburg, Breyer) and Souter
 
 Pull Quote (from {{< todo />}}):
@@ -197,12 +197,12 @@ Pull Quote (from {{< todo />}}):
 One Line Summary: {{< todo />}}
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Preston_v._Ferrer)
-- Court Opinion (Court Listener): {{< todo />}}
-- Court Opinion (pdf): {{< todo />}}
-- Oyez: {{< todo />}}
-- Majority Author: {{< todo />}}
-- Concurrence: {{< todo />}}
-- Dissents: {{< todo />}}
+- Court Opinion (Court Listener): {{< todo />}} (unread)
+- Court Opinion (pdf): {{< todo />}} (unread)
+- Oyez: {{< todo />}} (unread)
+- Majority Author: {{< todo />}} (unread)
+- Concurrence: {{< todo />}} (unread)
+- Dissents: {{< todo />}} (unread)
 
 Pull Quote (from {{< todo />}}):
 
