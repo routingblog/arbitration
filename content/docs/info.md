@@ -683,6 +683,7 @@ Stolt-Nielsen v. Animalfeeds International Corp. - https://www.oyez.org/cases/20
 
 | ID & Title  | Congress | Status | Committee Report |
 | ----------- | ---- | ------ | ------ |
+| [H.R.4960 - Securities Arbitration Reform Act of 1988](https://www.congress.gov/bill/100th-congress/house-bill/4960)[^hr4960sec] | 100th Congress (1987-1988) | Dead | |
 | [S.366 - Civil Rights Procedures Protection Act of 1995](https://www.congress.gov/bill/104th-congress/senate-bill/366) | 104th Congress (1995-1996) | Introduced | |
 | [H.R.872 - Civil Rights Procedures Protection Act of 1999](https://www.congress.gov/bill/106th-congress/house-bill/872/text) | 106th Congress (1999-2000) | Introduced | |
 | [H.R.1374 - Arbitration Fairness Act of 2017](https://www.congress.gov/bill/115th-congress/house-bill/1374) | 115th Congress (2017-2018) | Stuck in Judiciary Committee | |
@@ -796,7 +797,7 @@ This is really about collective bargaining agreements and arbitration provisions
 Stated somewhat differently, there should be a type of presumption, similar to that utilized under the Restatement (Second) of Contracts, in favor of assignment of labor arbitration and the right to appeal from arbitration absent express language in the collective bargaining agreement prohibiting it.
 {{< /details >}}
 1. Hamielec, M. R. (n.d.). Class Dismissed: Compelling a Look at Jurisprudence Surrounding Class Arbitration and Proposing Solutions to Asymmetric Bargaining Power Between Parties. 92. (unread)
-1. Cain, R. M. (1988). Commercial Disputes and Compulsory Arbitration. The Business Lawyer, 44(1), 65–84. https://www.jstor.org/stable/40687165 (unread)
+1. Cain, R. M. (1988). Commercial Disputes and Compulsory Arbitration. The Business Lawyer, 44(1), 65–84. https://www.jstor.org/stable/40687165
 1. Korn, D., & Rosenberg, D. (2013). Concepcion’s Pro-Defendant Biasing of the Arbitration Process: The Class Counsel Solution. University of Michigan Journal of Law Reform, 46.4, 1151. https://doi.org/10.36646/mjlr.46.4.concepcions (unread)
 1. Reuben, R. C. (2005). Confidentiality in Arbitration: Beyond the Myth. University of Kansas Law Review, 54, 1255. https://heinonline.org/HOL/Page?handle=hein.journals/ukalr54&id=1265&div=&collection= (unread)
 1. Ware, S. J. (n.d.). Contractual Arbitration, Mandatory Arbitration, and State Constitutional Jury-Trial Rights. 38. (unread)
@@ -874,6 +875,7 @@ Stated somewhat differently, there should be a type of presumption, similar to t
 [^ADEA]: [The Age Discrimination in Employment Act of 1967](https://www.eeoc.gov/statutes/age-discrimination-employment-act-1967)
 [^footnote7]: Justice SCALIA joins all but footnote 7 of this opinion.
 [^ejusdemgeneris]: [Rules of Statutory Construction and Interpretation](https://www.supremecourt.gov/DocketPDF/18/18-9575/102239/20190611092122150_00000055.pdf) §16
+[^hr4960sec]: Intended to overturn _Mitsubishi_. The SEC opposed this bill because the industry was not expanding its use of mandatory arbitration. Cain Supra footnode 163.
 
 # Scope
 
