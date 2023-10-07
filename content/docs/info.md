@@ -882,3 +882,5 @@ The goal of this document is discuss _forced arbitration_ and _class action waiv
 # Misc Other Notes
 
 Notes on cases and things not yet started above
+
+American Safety Equipment Corp. v. JP Maguire & Co. - TBD. Commericial Arbitration
