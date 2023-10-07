@@ -199,7 +199,7 @@ One Line Summary: {{< todo />}}
 - [Wikipedia](https://en.wikipedia.org/wiki/Preston_v._Ferrer)
 - Court Opinion (Court Listener): {{< todo />}} (unread)
 - Court Opinion (pdf): {{< todo />}} (unread)
-- Oyez: {{< todo />}} (unread)
+- [Oyez](https://www.oyez.org/cases/2007/06-1463)
 - Majority Author: {{< todo />}} (unread)
 - Concurrence: {{< todo />}} (unread)
 - Dissents: {{< todo />}} (unread)
@@ -230,14 +230,12 @@ Pull Quote (from {{< todo />}}):
 
 ## Rent-A-Center West v. Jackson,  561 US 63 (2010)
 
-  arbitrator will determine the enforceability of the agreement
-
-One Line Summary: {{< todo />}}
+One Line Summary: arbitrator will determine the enforceability of the agreement (as opposed to disputing existence of arbitration).
 
 - Wikipedia: {{< todo />}}
 - Court Opinion (Court Listener): {{< todo />}}
 - Court Opinion (pdf): {{< todo />}}
-- Oyez: {{< todo />}}
+- [Oyez](https://www.oyez.org/cases/2009/09-497)
 - Majority Author: {{< todo />}}
 - Concurrence: {{< todo />}}
 - Dissents: {{< todo />}}
@@ -249,6 +247,9 @@ Pull Quote (from {{< todo />}}):
 
 ## Hall Street Associates, L.L.C. v. Mattel, Inc., 552 US 576 (2008)
 
+One Line Summary: FAA is exclusive and contract can't expand scope of review to the judiciary
+
+- [Oyez](https://www.oyez.org/cases/2007/06-989)
 - [Opinion (Court Listener)](https://www.courtlistener.com/opinion/145821/hall-street-associates-l-l-c-v-mattel-inc/)
 - Majority: Souter[^footnote7]
 - Dissent: Stevens, joined by Kennedy
@@ -306,8 +307,6 @@ Pull Quote
 > As a matter of policy these questions are surely debatable. But as a matter of law the answer is clear. Congress has instructed federal courts to enforce arbitration agreements according to their terms—including terms providing for individualized proceedings.
 
 Consolidated with: _Ernst & Young LLP v. Morris_ and _National Labor Relations Board v. Murphy Oil USA, Inc._
-
-
 
 ## Ernst & Young LLP v. Morris (Docket 16-300) (2018)
 One Line Summary: {{< todo />}}
@@ -387,9 +386,7 @@ Pull Quote (from {{< todo />}}):
 {{< details "{{< todo />}}" >}}
 {{< /details >}}
 
-
 "when the parties' contract delegates the arbitrability question to an arbitrator, a court may not override the contract.
-
 
 ## Southwest Airlines Co. v. Latrice Saxon 2021
 One Line Summary: employees who are “physically loading cargo directly on and off an airplane headed out of State” are within §1’s exemption
@@ -409,14 +406,13 @@ Pull Quote (from {{< todo />}}):
 
 https://www.supremecourt.gov/docket/docketfiles/html/public/21-309.html
 
-
 ## Viking River Cruises, Inc. v. Moriana, 20-1573 (2022)
 One Line Summary: {{< todo />}}
 
 - Wikipedia: {{< todo />}}
 - Court Opinion (Court Listener): {{< todo />}}
 - Court Opinion (pdf): {{< todo />}}
-- Oyez: {{< todo />}}
+- [Oyez](https://www.oyez.org/cases/2021/20-1573) (unread)
 - Majority Author: {{< todo />}}
 - Concurrence: {{< todo />}}
 - Dissents: {{< todo />}}
