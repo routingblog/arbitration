@@ -38,6 +38,21 @@ One Line Summary: only the intent to arbitrate can be considered in court. Not a
 > Since the claim of fraud here relates to inducement of the consulting agreement generally, rather than in the arbitration clause, and there is no evidence that the parties intended to withhold this issue from arbitration, there is no basis for granting a stay under § 3. Pp. 388 U. S. 406-407.
 {{< /details >}}
 
+## Scherk v. Alberto-Culver Company 417 US 506 (1974)
+
+One Line Summary: {{< todo />}}
+
+- Wikipedia: {{< todo />}} (unread)
+- Court Opinion (Court Listener): {{< todo />}} (unread)
+- Court Opinion (pdf): {{< todo />}} (unread)
+- [Oyez](https://www.oyez.org/cases/1973/73-781)
+- Majority Author: {{< todo />}} (unread)
+- Concurrence: {{< todo />}} (unread)
+- Dissents: {{< todo />}} (unread)
+
+Pull Quote (from {{< todo />}}):
+
+
 ## Moses H. Cone Memorial Hospital v. Mercury Construction Corp., 460 U.S. 1 (1983)
 
 One Line Summary: Established that the FAA applies to actions in state court and a policy of rapid and unobstructed enforcement of arbitration agreements.
@@ -511,13 +526,13 @@ Presented Question: To be exempt from the Federal Arbitration Act, must a class 
 <!--
 One Line Summary: {{< todo />}}
 
-- Wikipedia: {{< todo />}}
-- Court Opinion (Court Listener): {{< todo />}}
-- Court Opinion (pdf): {{< todo />}}
-- Oyez: {{< todo />}}
-- Majority Author: {{< todo />}}
-- Concurrence: {{< todo />}}
-- Dissents: {{< todo />}}
+- Wikipedia: {{< todo />}} (unread)
+- Court Opinion (Court Listener): {{< todo />}} (unread)
+- Court Opinion (pdf): {{< todo />}} (unread)
+- Oyez: {{< todo />}} (unread)
+- Majority Author: {{< todo />}} (unread)
+- Concurrence: {{< todo />}} (unread)
+- Dissents: {{< todo />}} (unread)
 
 Pull Quote (from {{< todo />}}):
 
