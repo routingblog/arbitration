@@ -7,6 +7,8 @@ type: docs
 
 - Arbitration was designed for entities of equal bargaining power [^1] [^2]
 
+- Arbitration, as practiced, is unique to the United States [^10]
+
 - A recalcitrant defendant can delay the start of meaningful proceedings a really long time. For example they can appeal the motion to compel and this would stay the civil court proceedings in the meantime[^3]
 
 - Arbiters are not required to follow or even know the law. [^5] Only in narrow circumstances (in "manifest disregard") where the arbitrators must be found to have "understood and correctly stated the law but proceeded to ignore it." [^6]
@@ -47,6 +49,8 @@ type: docs
 [^8]: Stone Supra, [^4] pp 26 (quote via citation via Justice Breyer, dissenting in AT&T Mobility LLC v. Concepcion)
 
 [^9]: Stone Supra, [^4] pp 21
+
+[^10]: Cain Supra, [^2] pp 1646
 
 # To Be Sourced:
 
