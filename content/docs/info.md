@@ -681,11 +681,9 @@ Stolt-Nielsen v. Animalfeeds International Corp. - https://www.oyez.org/cases/20
 
 # Proposed National Bills
 
+
 | ID & Title  | Congress | Status | Committee Report |
 | ----------- | ---- | ------ | ------ |
-| [H.R.4960 - Securities Arbitration Reform Act of 1988](https://www.congress.gov/bill/100th-congress/house-bill/4960)[^hr4960sec] | 100th Congress (1987-1988) | Dead | |
-| [S.366 - Civil Rights Procedures Protection Act of 1995](https://www.congress.gov/bill/104th-congress/senate-bill/366) | 104th Congress (1995-1996) | Introduced | |
-| [H.R.872 - Civil Rights Procedures Protection Act of 1999](https://www.congress.gov/bill/106th-congress/house-bill/872/text) | 106th Congress (1999-2000) | Introduced | |
 | [H.R.1374 - Arbitration Fairness Act of 2017](https://www.congress.gov/bill/115th-congress/house-bill/1374) | 115th Congress (2017-2018) | Stuck in Judiciary Committee | |
 | [S.2591 - Arbitration Fairness Act of 2018](https://www.congress.gov/bill/115th-congress/senate-bill/2591) | 115th Congress (2017-2018) | Stuck in Judiciary Committee | |
 | [S.537 - Arbitration Fairness Act of 2017](https://www.congress.gov/bill/115th-congress/senate-bill/537) | 115th Congress (2017-2018) | Stuck in Judiciary Committee | |
@@ -696,6 +694,8 @@ Stolt-Nielsen v. Animalfeeds International Corp. - https://www.oyez.org/cases/20
 | [S.1376 - Forced Arbitration Injustice Repeal Act](https://www.congress.gov/bill/118th-congress/senate-bill/1376) | 118th Congress (2023-2024) | | |
 | [S.1408 - Ending Forced Arbitration of Race Discrimination Act of 2023](https://www.congress.gov/bill/118th-congress/senate-bill/1408) | 118th Congress (2023-2024) | |
 | • [H.R.4445 - Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act of 2021](https://www.congress.gov/bill/117th-congress/house-bill/4445) <br> • [H.R.4445 pdf](https://www.congress.gov/117/crpt/hrpt234/CRPT-117hrpt234.pdf) | 117th Congress (2021-2022) | Law | [H. Rept. 117-234](https://www.congress.gov/congressional-report/117th-congress/house-report/234/1)
+
+See other past [historical bills]({{< relref "historical" >}})
 
 ## State Statutes
 
@@ -875,7 +875,6 @@ Stated somewhat differently, there should be a type of presumption, similar to t
 [^ADEA]: [The Age Discrimination in Employment Act of 1967](https://www.eeoc.gov/statutes/age-discrimination-employment-act-1967)
 [^footnote7]: Justice SCALIA joins all but footnote 7 of this opinion.
 [^ejusdemgeneris]: [Rules of Statutory Construction and Interpretation](https://www.supremecourt.gov/DocketPDF/18/18-9575/102239/20190611092122150_00000055.pdf) §16
-[^hr4960sec]: Intended to overturn _Mitsubishi_. The SEC opposed this bill because the industry was not expanding its use of mandatory arbitration. Cain Supra footnode 163.
 
 # Scope
 

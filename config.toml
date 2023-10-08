@@ -8,6 +8,8 @@ theme = ["hugo-book"]
 #  information on 'doc' type pages.
 enableGitInfo = true
 
+refLinksErrorLevel = "ERROR"
+
 # https://themes.gohugo.io/themes/hugo-book/
 
 [params]
