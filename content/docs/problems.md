@@ -3,11 +3,11 @@ title: "Basic Problems"
 type: docs
 ---
 
-The Supreme Court has repeatedly ignored the plain meaning of the statutes, congressional intent in writing the FAA, as well the standard rules of statutory interpretation effectively rewriting Title 9 to invent a "national policy favoring arbitration".
+The Supreme Court has repeatedly ignored the plain meaning of the statutes, congressional intent in writing the FAA, as well the standard rules of statutory interpretation effectively rewriting Title 9 to invent a "national policy favoring arbitration". [^14]
 
 # General Information
 
-- Arbitration was designed for entities of equal bargaining power [^1] [^2]
+- Arbitration was designed for entities of equal bargaining power [^1] [^2] [^15]
 
 - Arbitration, as practiced, is unique to the United States [^10]
 
@@ -68,6 +68,11 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 [^12]: Lisa Blomgren Amsler (formerly Bingham). (1997). Employment Arbitration: The Repeat Player Effect (SSRN Scholarly Paper 1324411). https://papers.ssrn.com/abstract=1324411
 
 [^13]: Silver-Greenberg, J., & Corkery, M. (2015, November 1). In Arbitration, a ‘Privatization of the Justice System’. The New York Times. https://www.nytimes.com/2015/11/02/business/dealbook/in-arbitration-a-privatization-of-the-justice-system.html
+
+[^14]: Schwartz, D. S. (n.d.). Justice Scalia’s Jiggery-Pokery in Federal Arbitration Law.
+
+[^15]: Stone, K. V. W. (2018). Rustic Justice: Community and Coercion under the Federal Arbitration Act [Preprint]. LawArXiv. https://doi.org/10.31228/osf.io/6g7e3 §IV.F pp 987-991
+
 
 
 # To Be Sourced:

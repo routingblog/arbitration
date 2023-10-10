@@ -892,6 +892,8 @@ Courts may feel vidually for their possible congressional in For this reason, am
 1. Gross, J. I., & Black, B. (2008). When Perception Changes Reality: An Empirical Study of Investors’ Views of the Fairness of Securities Arbitration. 2008. (unread)
 1. Bingham, L. B. (n.d.). Self-determination In Dispute System Design And Employment Arbitration. 56. (unread)
 1. American Arbitration Association, American Bar Association, & American Medical Association. (1998). Healthcare Due Process Protocol. Commission On Health Care Dispute Resolution.
+1. Stone, K. V. W. (2018). Rustic Justice: Community and Coercion under the Federal Arbitration Act [Preprint]. LawArXiv. https://doi.org/10.31228/osf.io/6g7e3 (unread)
+
 
 
 
