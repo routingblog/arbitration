@@ -172,6 +172,24 @@ Part of Mitsubishi trilogy which allowed arbitration to hear statutory claims.
 Pull Quote from Dissent (pg 42):
 > When the FAA was passed in 1925, I doubt that any legislator who voted for it expected it to apply to statutory claims, to form contracts between parties of unequal bargaining power, or to the arbitration of disputes arising out of the employment relationship. In recent years, however, the Court "has effectively rewritten the statute," and abandoned its earlier view that statutory claims were not appropriate subjects for arbitration.
 
+## Allied-Bruce Terminix Cos. v. Dobson 513 US 265 (1995)
+
+One Line Summary: contracting requiring arbitration is applied to all disputes involving commerce even though it isn't interstate
+
+- Wikipedia: {{< todo />}} (unread)
+- [Court Opinion (Court Listener)](https://www.courtlistener.com/opinion/117892/allied-bruce-terminix-cos-v-dobson/) (unread)
+- Court Opinion (pdf): {{< todo />}} (unread)
+- [Oyez](https://www.oyez.org/cases/1994/93-1001)
+- Majority Author: Stephen G. Breyer (unread)
+- Concurrence: Sandra Day O'Connor (unread)
+- Dissents: Scalia, Clarence Thomas (unread)
+
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
+{{< /details >}}
+
+
 
 ## Doctor’s Associates, Inc. v. Casarotto, 517 U.S. 681 (1996)
 
