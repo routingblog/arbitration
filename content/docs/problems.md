@@ -3,6 +3,8 @@ title: "Basic Problems"
 type: docs
 ---
 
+The Supreme Court has repeatedly ignored the plain meaning of the statutes, congressional intent in writing the FAA, as well the standard rules of statutory interpretation effectively rewriting Title 9 to invent a "national policy favoring arbitration".
+
 # General Information
 
 - Arbitration was designed for entities of equal bargaining power [^1] [^2]
@@ -32,6 +34,8 @@ type: docs
 
 - The ban on class actions in particular makes it unlikely that many claims of corporate wrongdoing—particularly those that involve small sums for each in large groups of individuals—will ever be heard. As Justice Breyer opined, “Only a lunatic or a fanatic sues for $30.” [^8]
 
+- A commercial entity can cloister itself away from significant financial liability, as well as any correlative damages award meant to deter unsavory behavior [^11]
+
 [^1]: Sternlight, J. R. (2005). Creeping Mandatory Arbitration: Is It Just? Scholarly Works, 57(280), 1631–1676. pp 1631
 
 [^2]: Cain, R. M. (1988). Commercial Disputes and Compulsory Arbitration. The Business Lawyer, pp 65
@@ -51,6 +55,8 @@ type: docs
 [^9]: Stone Supra, [^4] pp 21
 
 [^10]: Cain Supra, [^2] pp 1646
+
+[^11]: Hamielec, M. R. (n.d.). Class Dismissed: Compelling a Look at Jurisprudence Surrounding Class Arbitration and Proposing Solutions to Asymmetric Bargaining Power Between Parties. 92. pp 1231
 
 # To Be Sourced:
 

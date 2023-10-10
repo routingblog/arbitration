@@ -182,9 +182,10 @@ Pull Quote from Dissent (pg 42):
 {{< details "Pull Quote (from syllabus):" >}}
 Montana's first-page notice requirement, which governs not "any contract," but specifically and solely contracts "subject to arbitration," conflicts with the FAA and is therefore displaced by the federal meas- ure. Generally applicable contract defenses, such as fraud, duress, or unconscionability, may be applied to invalidate arbitration agreements without contravening § 2, see, e. g., Allied-Bruce, 513 U. S., at 281, but courts may not invalidate arbitration agreements under state laws applicable only to arbitration provisions
 {{< /details >}}
+
 ## Green Tree Financial Corporation-Alabama v. Randolph, 531 US 79 (2000)
 
-One Line Summary: {{< todo />}}
+One Line Summary: The question of whether a contract forbade class arbitration qualified as one of procedural arbitrability within an arbitrator’s adjudicative scope.
 
 - Wikipedia: {{< todo />}} (unread)
 - Court Opinion (Court Listener): {{< todo />}} (unread)
@@ -539,6 +540,23 @@ Pull Quote (from {{< todo />}}):
 Presented Question: To be exempt from the Federal Arbitration Act, must a class of workers that is actively engaged in interstate transportation also be employed by a company in the transportation industry?
 {{< /details >}}
 
+## DIRECTV, Inc. v. Imburgia, 136 S. Ct. 463, 464 (2015).
+
+One Line Summary: {{< todo />}}
+
+- Wikipedia: {{< todo />}} (unread)
+- Court Opinion (Court Listener): {{< todo />}} (unread)
+- Court Opinion (pdf): {{< todo />}} (unread)
+- Oyez: {{< todo />}} (unread)
+- Majority Author: {{< todo />}} (unread)
+- Concurrence: {{< todo />}} (unread)
+- Dissents: {{< todo />}} (unread)
+
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
+{{< /details >}}
+
 <!-- case template -->
 <!--
 One Line Summary: {{< todo />}}
@@ -887,4 +905,6 @@ The goal of this document is discuss _forced arbitration_ and _class action waiv
 
 Notes on cases and things not yet started above
 
-American Safety Equipment Corp. v. JP Maguire & Co. - TBD. Commericial Arbitration
+- American Safety Equipment Corp. v. JP Maguire & Co. - TBD. Commericial Arbitration
+
+- Volt Info. Scis., Inc. v. Bd. of Trustees of Leland Stanford Junior Univ., 109 S. Ct. 1248, 1250 (1989).
