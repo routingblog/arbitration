@@ -16,6 +16,9 @@ refLinksErrorLevel = "ERROR"
   BookRepo = 'https://github.com/grimreaper/arbitration'
   BookCommitPath = 'commit'
   BookEditPath = 'edit/master'
+  BookSearch = true
+  # Optional, experimental
+  BookServiceWorker = true
 [markup]
   [markup.tableOfContents]
     endLevel = 2
