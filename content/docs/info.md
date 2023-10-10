@@ -736,9 +736,9 @@ Stolt-Nielsen v. Animalfeeds International Corp. - https://www.oyez.org/cases/20
 | [Federal Arbitration Act (as amended)](https://uscode.house.gov/view.xhtml?path=/prelim@title9&edition=prelim) | 9 U.S.C. |
 | [Motor Vehicle Franchise Contract Arbitration Fairness Act](https://www.law.cornell.edu/uscode/text/15/1226) | 15 U.S. Code § 1226 |
 
-# Proposed National Bills
+## Proposed State and National Bills
 
-See other past [historical bills]({{< relref "historical" >}})
+See other past [proposed bills]({{< relref "bills" >}})
 
 ## State Statutes
 
