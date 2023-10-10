@@ -3,13 +3,15 @@ title: "Basic Problems"
 type: docs
 ---
 
-The Supreme Court has repeatedly ignored the plain meaning of the statutes, congressional intent in writing the FAA, as well the standard rules of statutory interpretation effectively rewriting Title 9 to invent a "national policy favoring arbitration" [^jiggery] as a form of “do it yourself-tort reform". [^sternlight]
+The Supreme Court has repeatedly ignored the plain meaning of the statutes, congressional intent in writing the FAA, as well the standard rules of statutory interpretation effectively rewriting Title 9 to invent a "national policy favoring arbitration" [^jiggery] [^schwartzcorrecting] as a form of “do it yourself-tort reform". [^sternlight]
 
 # General Information
 
 - Arbitration was designed for entities of equal bargaining power [^creeping] [^comm] [^rustic]
 
 - Arbitration, as practiced, is unique to the United States [^cain2]
+
+- The FAA was never even intended by the enacting Congress to apply in state court. [^schwartzcorrecting]
 
 - A recalcitrant defendant can delay the start of meaningful proceedings a really long time. For example they can appeal the motion to compel and this would stay the civil court proceedings in the meantime[^coinbase]
 
@@ -74,6 +76,9 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 [^rustic]: Stone, K. V. W. (2018). Rustic Justice: Community and Coercion under the Federal Arbitration Act [Preprint]. LawArXiv. https://doi.org/10.31228/osf.io/6g7e3 §IV.F pp 987-991
 
 [^sternlight]: Sternlight, J. (2002). Is the U.S. Out on a Limb? Comparing the U.S. Approach to Mandatory Consumer and Employment Arbitration to that of the Rest of the World. Scholarly Works. https://scholars.law.unlv.edu/facpub/273 (via Stone Supra pp 78 footnote [^rustic])
+
+[^schwartzcorrecting]: Schwartz, D. (2004). Correcting Federalism Mistakes in Statutory Interpretation: The Supreme Court and the Federal Arbitration Act. Law and Contemporary Problems, 67(1), 5–54. https://scholarship.law.duke.edu/lcp/vol67/iss1/2 pp 5
+
 
 
 
