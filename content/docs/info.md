@@ -738,20 +738,6 @@ Stolt-Nielsen v. Animalfeeds International Corp. - https://www.oyez.org/cases/20
 
 # Proposed National Bills
 
-
-| ID & Title  | Congress | Status | Committee Report |
-| ----------- | ---- | ------ | ------ |
-| [H.R.1374 - Arbitration Fairness Act of 2017](https://www.congress.gov/bill/115th-congress/house-bill/1374) | 115th Congress (2017-2018) | Stuck in Judiciary Committee | |
-| [S.2591 - Arbitration Fairness Act of 2018](https://www.congress.gov/bill/115th-congress/senate-bill/2591) | 115th Congress (2017-2018) | Stuck in Judiciary Committee | |
-| [S.537 - Arbitration Fairness Act of 2017](https://www.congress.gov/bill/115th-congress/senate-bill/537) | 115th Congress (2017-2018) | Stuck in Judiciary Committee | |
-| [H.R.1423 - FAIR Act](https://www.congress.gov/bill/116th-congress/house-bill/1423) | 116th Congress (2019-2020)| Stuck in Judiciary Committee | |
-| [S.610 - Forced Arbitration Injustice Repeal Act](https://www.congress.gov/bill/116th-congress/senate-bill/610) | 116th Congress (2019-2020)| Stuck in Judiciary Committee | |
-| [H.R.963 - FAIR Act of 2022](https://www.congress.gov/bill/117th-congress/house-bill/963) | 117th Congress (2021-2022) | Stuck in Judiciary Committee | [H. Rept. 117-270](https://www.congress.gov/congressional-report/117th-congress/house-report/270/1?) |
-| [H.R.2953 - FAIR Act of 2023](https://www.congress.gov/bill/118th-congress/house-bill/2953) | 118th Congress (2023-2024) | | |
-| [S.1376 - Forced Arbitration Injustice Repeal Act](https://www.congress.gov/bill/118th-congress/senate-bill/1376) | 118th Congress (2023-2024) | | |
-| [S.1408 - Ending Forced Arbitration of Race Discrimination Act of 2023](https://www.congress.gov/bill/118th-congress/senate-bill/1408) | 118th Congress (2023-2024) | |
-| • [H.R.4445 - Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act of 2021](https://www.congress.gov/bill/117th-congress/house-bill/4445) <br> • [H.R.4445 pdf](https://www.congress.gov/117/crpt/hrpt234/CRPT-117hrpt234.pdf) | 117th Congress (2021-2022) | Law | [H. Rept. 117-234](https://www.congress.gov/congressional-report/117th-congress/house-report/234/1)
-
 See other past [historical bills]({{< relref "historical" >}})
 
 ## State Statutes
@@ -759,12 +745,6 @@ See other past [historical bills]({{< relref "historical" >}})
 | Title       | State |
 | ----------- | ----------- |
 | [Code of Civil Procedure - CCP §§3.9.1280 - 1294.4](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1281.98&lawCode=CCP) | California |
-
-## Proposed State Bills
-
-| Title | State | Summary |
-| ----------- | ----------- | --- |
-| [SB-365 Civil procedure: arbitration](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB365)| California| appeal from certain appeals do not stay state court proceedings |
 
 # Rule Making
 

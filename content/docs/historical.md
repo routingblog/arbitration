@@ -25,6 +25,12 @@ There have been many attempts to fix the problem. This table lists some of them.
 | [S.1408 - Ending Forced Arbitration of Race Discrimination Act of 2023](https://www.congress.gov/bill/118th-congress/senate-bill/1408) | 118th Congress (2023-2024) | |
 | • [H.R.4445 - Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act of 2021](https://www.congress.gov/bill/117th-congress/house-bill/4445) <br> • [H.R.4445 pdf](https://www.congress.gov/117/crpt/hrpt234/CRPT-117hrpt234.pdf) | 117th Congress (2021-2022) | Law | [H. Rept. 117-234](https://www.congress.gov/congressional-report/117th-congress/house-report/234/1)
 
+# Proposed State Bills
+
+| Title | State | Summary |
+| ----------- | ----------- | --- |
+| [SB-365 Civil procedure: arbitration](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB365)| California| appeal from certain appeals do not stay state court proceedings |
+
 # Congressional Hearings
 
 ## Justice Denied: Forced Arbitration and the Erosion of our Legal System

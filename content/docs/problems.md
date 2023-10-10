@@ -80,7 +80,6 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 [^schwartzcorrecting]: Schwartz, D. (2004). Correcting Federalism Mistakes in Statutory Interpretation: The Supreme Court and the Federal Arbitration Act. Law and Contemporary Problems, 67(1), 5–54. https://scholarship.law.duke.edu/lcp/vol67/iss1/2 pp 5
 
 
-
 # To Be Sourced:
 
 - In true civil court the attorneys could have sanctions against them if they pointlessly delay the proceedings. Less so in arbitration.
