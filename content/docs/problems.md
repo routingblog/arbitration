@@ -81,9 +81,6 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 
 
 
-
-
-
 # To Be Sourced:
 
 - In true civil court the attorneys could have sanctions against them if they pointlessly delay the proceedings. Less so in arbitration.

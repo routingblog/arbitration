@@ -592,6 +592,23 @@ Pull Quote (from {{< todo />}}):
 {{< details "{{< todo />}}" >}}
 {{< /details >}}
 
+###  Morgan v. Sundance, Inc. 596 US _ (2022) {id="morgan-v-sundance"}
+
+One Line Summary: courts cannot create arbitration-specific procedural rules
+
+- Decision: https://www.supremecourt.gov/opinions/21pdf/21-328_m6ho.pdf
+- Author: Elena Kagan (unanimous)
+
+Core Claim (pull quote):
+
+> This Court granted certiorari to resolve the split over whether federal courts may adopt an arbitration-specific waiver rule demanding a showing of prejudice.
+> Held: ....erred in conditioning a waiver of the right to arbitrate on a showing of prejudice.
+> The text of the FAA makes clear that courts are not to create arbitration-specific procedural rules ...
+
+#### Analysis
+
+See [Rosencrants]({{< relref "#rosencrants-fn" >}}) for detailed analysis.
+
 <!-- case template -->
 <!--
 One Line Summary: {{< todo />}}
@@ -617,16 +634,6 @@ Pull Quote (from {{< todo />}}):
 ### Adolph v. Uber Techs., Inc., No. S274671, 2023 WL 4553702 (Cal. July 17, 2023) {id="adolph"}
 - Opinion: https://www.courts.ca.gov/opinions/documents/S274671.PDF
 - represenative PAGA is allowed despite arbitration of individual
-
-###  Morgan v. Sundance, Inc., No. 21-328, 2022 WL 1611788 (May 23, 2022) {id="morgan-v-sundance"}
-- Decision: https://www.supremecourt.gov/opinions/21pdf/21-328_m6ho.pdf
-- Author: Elena Kagan (unanimous)
-
-Core Claim (pull quote):
-
-> This Court granted certiorari to resolve the split over whether federal courts may adopt an arbitration-specific waiver rule demanding a showing of prejudice.
-> Held: ....erred in conditioning a waiver of the right to arbitrate on a showing of prejudice.
-> The text of the FAA makes clear that courts are not to create arbitration-specific procedural rules ...
 
 ## District Court Cases
 
@@ -654,7 +661,7 @@ Pull Quote (from syllabus):
 
 ### Armstrong v. Michaels Stores, Inc., 59 F.4 th 1101, 1014 (9th Cir. Feb. 13, 2023).
 
-> Morgan teaches that there is no strong federal policy favoring enforcement of arbitration agreements.
+> [Morgan]({{< relref "#morgan-v-sundance" >}}) teaches that there is no strong federal policy favoring enforcement of arbitration agreements.
 
 
 #### Analysis
@@ -667,7 +674,7 @@ Pull Quote (from syllabus):
 ### Richards v. Ernst & Young, LLP, 11-17530, 2013 WL 4437601 (9th Cir. Aug. 21, 2013).
 
 {{< todo />}}
-- Status: **Effectively Reversed by [Morgan]({{< relref "/#morgan-v-sundance" >}})** [^1]{{< todo />}}
+- Status: **Effectively Reversed by [Morgan]({{< relref "#morgan-v-sundance" >}})** [^1]{{< todo />}}
 
 ### Harrison v. Envision Holding Management Inc. Board of Directors, et al., No. 22-1098 (United States Court of Appeals for the Tenth Circuit). (2023)
 
@@ -881,11 +888,19 @@ Courts may feel vidually for their possible congressional in For this reason, am
 1. O’Malley, G. (n.d.). Epic Systems Corp. V. Lewis: Singled Out by Corporations and a Textualist Supreme Court, American Workers Are Left to Fend for Themselves. 78. (unread)
 1. Estreicher, S., Heise, M., & Sherwyn, D. (2019). Evaluating Employment Arbitration: A Call for Better Empirical Research [Preprint]. LawArXiv. https://doi.org/10.31228/osf.io/mgu62 (unread)
 1. Duston, R. L. (1991). Gilmer v Interstate/Johnson Lane Corp.: A Major Step Forward for Alternative Dispute Resolution, or a Meaningless Decision? The Labor Lawyer, 7(4), 823–848. https://www.jstor.org/stable/40862140 (unread)
-1. Rosencrants, P. E. (2023). “Heads I win, tails you lose”: The End of Employers’ Exploitation of the Federal Arbitration Waiver Prejudice Requirement. MISSOURI LAW REVIEW, 87. https://scholarship.law.missouri.edu/mlr/vol87/iss4/11/ (unread)
+1. {{< anchor id="rosencrants-fn" >}} Rosencrants, P. E. (2023). “Heads I win, tails you lose”: The End of Employers’ Exploitation of the Federal Arbitration Waiver Prejudice Requirement. MISSOURI LAW REVIEW, 87. https://scholarship.law.missouri.edu/mlr/vol87/iss4/11/
+
+    See [ Morgan v. Sundance, Inc. 596 US _ (2022)]({{< relref "#morgan-v-sundance" >}}).
+{{< details "Rosencrants - Heads I Win - Conclusion" >}}
+While it stopped short of providing a uniform waiver analysis, the Court began to level the playing field between employees and employers bound by arbitration agreements by abolishing the prejudice requirement in waiver analysis. Employers who require job applicants to agree to mandatory arbitration begin the relationship with an imbalance of bargaining power. Employers’ use, as in Morgan, of strategic delays in invoking arbitration wrongly disadvantages employees and undermines the attributes of arbitration that Congress sought to invoke when it enacted the FAA. Removing the prejudice requirement was an important step toward safeguarding employee rights.
+{{< /details >}}
 1. Drahozal, C. R. (n.d.). Innovation in Arbitration Law: The Case of Delaware. (unread)
 1. Ralston, J. H. (2004). International Arbitration from Athens to Locarno. The Lawbook Exchange, Ltd. (unread)
 1. Fitzpatrick, B. T. (2017). Justice Scalia and Class Actions. Notre Dame Law Review, 92, 1977. https://scholarship.law.vanderbilt.edu/faculty-publications/586 (unread)
 1. Schwartz, D. S. (n.d.). Justice Scalia’s Jiggery-Pokery in Federal Arbitration Law. (unread)
+{{< details "Schwartz - Jiggery-Pokery - Conclusion" >}}
+Taken together, Justice Scalia’s major federal arbitration law opinions render unconscionability and public policy defenses to arbitration clauses virtually non-existent, while allowing corporate defendants to immunize themselves from class actions by the expedient of nesting a class action waiver in an arbitration clause. To achieve these results, Justice Scalia had to engage in a fair amount of jiggery-pokery on behalf of the long-lived five-Justice conservative bloc. One looking for principled conservative jurisprudence in Justice Scalia’s body of work should probably look elsewhere than his arbitration decisions. Justice Scalia abandoned his much-touted federalism principles early on, and eventually found in FAA cases an opportunity to transform arbitration agreements into “do-it- yourself tort reform.”83 While the phrase “jiggery-pokery” may well be long remembered, one can hope that Justice Scalia’s doctrinal jiggery-pokery in federal arbitration law will soon be overruled, gone and forgotten.
+{{< /details >}}
 1. Hummell, H. (2023). Missouri’s Ultimate Dead Hand Control: The Development and Relationship Between Donative Arbitration Provisions and No-Contest Clauses in Wills & Trusts. Journal of Dispute Resolution, 2023(2). https://scholarship.law.missouri.edu/jdr/vol2023/iss2/10 (unread)
 1. Garrett, A. (2023). New Update Available: How the DoorDash and TikTok Cases Will Change the Way Arbitration is Utilized in Class Actions. Journal of Dispute Resolution, 2023(2). https://scholarship.law.missouri.edu/jdr/vol2023/iss2/9 (unread)
 1. Bernstein, L. (1992). Opting out of the Legal System: Extralegal Contractual Relations in the Diamond Industry. The Journal of Legal Studies, 21(1), 115–157. https://doi.org/10.1086/467902 (unread)
