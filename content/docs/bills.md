@@ -37,7 +37,7 @@ There have been many attempts to fix the problem. This table lists some of them.
 
 May 16, 2019
 
-{{< youtube id="PGu13Siv33U" title="Justice Denied: Forced Arbitration and the Erosion of our Legal System" >}} (unread)
+{{< youtube id="PGu13Siv33U?start=1257" title="Justice Denied: Forced Arbitration and the Erosion of our Legal System" >}}
 
 # Footnotes
 [^hr4960sec]: Intended to overturn _Mitsubishi_. The SEC opposed this bill because the industry was not expanding its use of mandatory arbitration. Cain Supra footnode 163.
