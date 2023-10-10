@@ -17,6 +17,7 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 
 - It's harder to find a lawyer for cases which will be arbitrated. Contingency is riskier and clients can't be as easily pooled.[^4]
 
+
 # Employment
 
 - Plaintiffs’ overall economic outcomes are on average 6.1 times better in federal court than in mandatory arbitration ($143,497 versus $23,548) and 13.9 times better in state court than in mandatory arbitration ($328,008 versus $23,548) [^4]
@@ -28,6 +29,12 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 - Average outcome in mandatory arbitration is only 16 percent of that in the federal courts and 7 percent of that in state courts [^7]
 
 - The mandatory arbitration–litigation gap in outcomes has a direct effect on the ability of individual workers to recover compensation for the injuries they have suffered. [^9]
+
+- When they win against repeat player employers, employees recover only 11% of their claims. When they win in cases involving one-shot employers, they recover 48% of their claims. [^12]
+
+- Arbitrators feel beholden to companies. Beneath every decision is the threat of losing business. [^13]
+
+- Arbitrators habitually handle cases for the same corporate defendants over the course of four years.
 
 
 # Class Actions
@@ -57,6 +64,11 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 [^10]: Cain Supra, [^2] pp 1646
 
 [^11]: Hamielec, M. R. (n.d.). Class Dismissed: Compelling a Look at Jurisprudence Surrounding Class Arbitration and Proposing Solutions to Asymmetric Bargaining Power Between Parties. 92. pp 1231
+
+[^12]: Lisa Blomgren Amsler (formerly Bingham). (1997). Employment Arbitration: The Repeat Player Effect (SSRN Scholarly Paper 1324411). https://papers.ssrn.com/abstract=1324411
+
+[^13]: Silver-Greenberg, J., & Corkery, M. (2015, November 1). In Arbitration, a ‘Privatization of the Justice System’. The New York Times. https://www.nytimes.com/2015/11/02/business/dealbook/in-arbitration-a-privatization-of-the-justice-system.html
+
 
 # To Be Sourced:
 

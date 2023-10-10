@@ -829,10 +829,16 @@ But recent developments signal a thaw. Green shoots have appeared in Congress, w
 1. Rubenstein, M. (2012). Assignment of Labor Arbitration. St. John’s Law Review, 81(1), 42–76. https://scholarship.law.stjohns.edu/lawreview/vol81/iss1/6
 
 This is really about collective bargaining agreements and arbitration provisions therein and thus somewhat out of scope for this page.
-{{< details "Rubenstein - Assignment of Labor Arbitratio" >}}
+{{< details "Rubenstein - Assignment of Labor Arbitration" >}}
 Stated somewhat differently, there should be a type of presumption, similar to that utilized under the Restatement (Second) of Contracts, in favor of assignment of labor arbitration and the right to appeal from arbitration absent express language in the collective bargaining agreement prohibiting it.
 {{< /details >}}
-1. Hamielec, M. R. (n.d.). Class Dismissed: Compelling a Look at Jurisprudence Surrounding Class Arbitration and Proposing Solutions to Asymmetric Bargaining Power Between Parties. 92. (unread)
+1. Hamielec, M. R. (2018). Class Dismissed: Compelling a Look at Jurisprudence Surrounding Class Arbitration and Proposing Solutions to Asymmetric Bargaining Power Between Parties. 92(3), 1227–1264.
+
+{{< details "Hamielec - Class Dismissed - Conclusion" >}}
+Corporations view the gap in bargaining power between themselves and individuals as an opportunity to engage in an arbitrage of the law. With each edit, law firms strengthen arbitration provisions to survive courts’ skeptical analyses and handcuff claimants to an arbitrator’s largely unreviewable and peripherally biased decision.
+{{< /details >}}
+
+Note: some of the most practical options for what it is likely to pass congress for fixing the [problems]({{< relref "/problems" >}})
 1. Cain, R. M. (1988). Commercial Disputes and Compulsory Arbitration. The Business Lawyer, 44(1), 65–84. https://www.jstor.org/stable/40687165
 {{< details "Cain - Commercial Disputes and Compulsory Arbitration - Conclusion" >}}
 Courts may feel vidually for their possible congressional in For this reason, amendment of the separat ties statutes, is t
