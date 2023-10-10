@@ -919,10 +919,6 @@ Taken together, Justice Scalia’s major federal arbitration law opinions render
 
 - [Overcoming the Latest Supreme Court Arbitration Decision](https://library.nclc.org/article/overcoming-latest-supreme-court-arbitration-decision)
 
-## Advocacy
-- Coalition Sign-on Letter to Senate Judiciary in Support of the Arbitration Fairness Act. (n.d.). Retrieved 28 August 2023, from http://www.aclu.org/documents/coalition-sign-letter-senate-judiciary-support-arbitration-fairness-act
-- [Fair Arbitration Now Coalition](https://fairarbitrationnow.org/about/)
-
 [^1]: Need to double check this.
 [^ADEA]: [The Age Discrimination in Employment Act of 1967](https://www.eeoc.gov/statutes/age-discrimination-employment-act-1967)
 [^footnote7]: Justice SCALIA joins all but footnote 7 of this opinion.
