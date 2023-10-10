@@ -685,6 +685,13 @@ arb that precludes ERISA plan-wide relief under Section 502(a) not enforceable
 
 {{< todo />}}
 
+### Espin v. Citibank, N.A. (E.D.N.C.)
+
+- [Statement Of Interest Of The United States Of America](https://www.justice.gov/d9/cases/attachments/2023/03/07/statement_of_interest_citibank-final.pdf)
+    > Section 4042(a)(3) allows plaintiffs in this case to participate in an SCRA class action in federal court notwithstanding their previous agreement to individual arbitration, regardless of when the SCRA violations are alleged to have occurred. The United States respectfully urges the Court to deny Defendant Citibank, N.A.’s motion to compel arbitration of the SCRA claims.
+- [Order on Motion To Compel Arbitration](https://storage.courtlistener.com/recap/gov.uscourts.nced.196598/gov.uscourts.nced.196598.58.0.pdf)
+
+
 ## Not Yet Analyzed
 
 ### MacClelland v. Cellco
