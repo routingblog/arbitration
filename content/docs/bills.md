@@ -20,6 +20,7 @@ There have been many attempts to fix the problem. This table lists some of them.
 | [S.2591 - Arbitration Fairness Act of 2018](https://www.congress.gov/bill/115th-congress/senate-bill/2591) | 115th Congress (2017-2018) | Stuck in Judiciary Committee | |
 | [H.R.1423 - FAIR Act](https://www.congress.gov/bill/116th-congress/house-bill/1423) | 116th Congress (2019-2020)| Stuck in Judiciary Committee | |
 | [S.610 - Forced Arbitration Injustice Repeal Act](https://www.congress.gov/bill/116th-congress/senate-bill/610) | 116th Congress (2019-2020)| Stuck in Judiciary Committee | |
+| [S.2459 — Justice for Ser­vice­mem­bers Act](https://www.congress.gov/bill/116th-congress/senate-bill/2459/text?r=5&s=1) | 116th Congress (2019-2020) | Stuck in Committee on Veterans' Affairs | |
 | [H.R.963 - FAIR Act of 2022](https://www.congress.gov/bill/117th-congress/house-bill/963) | 117th Congress (2021-2022) | Stuck in Judiciary Committee | [H. Rept. 117-270](https://www.congress.gov/congressional-report/117th-congress/house-report/270/1?) |
 | [H.R.2953 - FAIR Act of 2023](https://www.congress.gov/bill/118th-congress/house-bill/2953) | 118th Congress (2023-2024) | | |
 | [S.1376 - Forced Arbitration Injustice Repeal Act](https://www.congress.gov/bill/118th-congress/senate-bill/1376) | 118th Congress (2023-2024) | | |
