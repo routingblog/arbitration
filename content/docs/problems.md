@@ -71,7 +71,7 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 
 [^silverprivate]: Silver-Greenberg, J., & Corkery, M. (2015, November 1). In Arbitration, a ‘Privatization of the Justice System’. The New York Times. https://www.nytimes.com/2015/11/02/business/dealbook/in-arbitration-a-privatization-of-the-justice-system.html
 
-[^jiggery]: Schwartz, D. S. (n.d.). Justice Scalia’s Jiggery-Pokery in Federal Arbitration Law.
+[^jiggery]: Schwartz, D. S. (2016). Justice Scalia’s Jiggery-Pokery in Federal Arbitration Law. Minnesota Law Review: Headnotes, 49, 74–93. https://scholarship.law.umn.edu/headnotes/49
 
 [^rustic]: Stone, K. V. W. (2018). Rustic Justice: Community and Coercion under the Federal Arbitration Act [Preprint]. LawArXiv. https://doi.org/10.31228/osf.io/6g7e3 §IV.F pp 987-991
 
