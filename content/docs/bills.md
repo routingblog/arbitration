@@ -1,5 +1,5 @@
 ---
-title: Historical Bills
+title: Proposed Bills
 type: docs
 ---
 
