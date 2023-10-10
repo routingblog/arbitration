@@ -893,7 +893,7 @@ Courts may feel vidually for their possible congressional in For this reason, am
 1. Bingham, L. B. (n.d.). Self-determination In Dispute System Design And Employment Arbitration. 56. (unread)
 1. American Arbitration Association, American Bar Association, & American Medical Association. (1998). Healthcare Due Process Protocol. Commission On Health Care Dispute Resolution.
 1. Stone, K. V. W. (2018). Rustic Justice: Community and Coercion under the Federal Arbitration Act [Preprint]. LawArXiv. https://doi.org/10.31228/osf.io/6g7e3 (unread)
-
+1. Sternlight, J. (2002). Is the U.S. Out on a Limb? Comparing the U.S. Approach to Mandatory Consumer and Employment Arbitration to that of the Rest of the World. Scholarly Works. https://scholars.law.unlv.edu/facpub/273 (unread)
 
 
 

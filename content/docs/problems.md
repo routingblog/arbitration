@@ -3,7 +3,7 @@ title: "Basic Problems"
 type: docs
 ---
 
-The Supreme Court has repeatedly ignored the plain meaning of the statutes, congressional intent in writing the FAA, as well the standard rules of statutory interpretation effectively rewriting Title 9 to invent a "national policy favoring arbitration". [^14]
+The Supreme Court has repeatedly ignored the plain meaning of the statutes, congressional intent in writing the FAA, as well the standard rules of statutory interpretation effectively rewriting Title 9 to invent a "national policy favoring arbitration" [^14] as a form of “do it yourself-tort reform". [^16]
 
 # General Information
 
@@ -72,6 +72,10 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 [^14]: Schwartz, D. S. (n.d.). Justice Scalia’s Jiggery-Pokery in Federal Arbitration Law.
 
 [^15]: Stone, K. V. W. (2018). Rustic Justice: Community and Coercion under the Federal Arbitration Act [Preprint]. LawArXiv. https://doi.org/10.31228/osf.io/6g7e3 §IV.F pp 987-991
+
+[^16]: Sternlight, J. (2002). Is the U.S. Out on a Limb? Comparing the U.S. Approach to Mandatory Consumer and Employment Arbitration to that of the Rest of the World. Scholarly Works. https://scholars.law.unlv.edu/facpub/273 (via Stone Supra pp 78 footnote [^15])
+
+
 
 
 
