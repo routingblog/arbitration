@@ -37,7 +37,7 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 
 - Arbitrators feel beholden to companies. Beneath every decision is the threat of losing business. [^silverprivate]
 
-- Arbitrators habitually handle cases for the same corporate defendants over the course of four years.
+- Arbitrators habitually handle cases for the same corporate defendants over the course of four years. [^classdismissed2]
 
 
 # Class Actions
@@ -67,6 +67,8 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 [^cain2]: Cain Supra, [^comm] pp 1646
 
 [^classdismissed]: Hamielec, M. R. (n.d.). Class Dismissed: Compelling a Look at Jurisprudence Surrounding Class Arbitration and Proposing Solutions to Asymmetric Bargaining Power Between Parties. 92. pp 1231
+
+[^classdismissed2]: Hamielec Supra [^classdismissed] pp 1256
 
 [^lisarepeat]: Lisa Blomgren Amsler (formerly Bingham). (1997). Employment Arbitration: The Repeat Player Effect (SSRN Scholarly Paper 1324411). https://papers.ssrn.com/abstract=1324411
 
