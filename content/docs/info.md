@@ -798,6 +798,9 @@ Stated somewhat differently, there should be a type of presumption, similar to t
 {{< /details >}}
 1. Hamielec, M. R. (n.d.). Class Dismissed: Compelling a Look at Jurisprudence Surrounding Class Arbitration and Proposing Solutions to Asymmetric Bargaining Power Between Parties. 92. (unread)
 1. Cain, R. M. (1988). Commercial Disputes and Compulsory Arbitration. The Business Lawyer, 44(1), 65–84. https://www.jstor.org/stable/40687165
+{{< details "Cain - Commercial Disputes and Compulsory Arbitration - Conclusion" >}}
+Courts may feel vidually for their possible congressional in For this reason, amendment of the separat ties statutes, is t
+{{< /details >}}
 1. Korn, D., & Rosenberg, D. (2013). Concepcion’s Pro-Defendant Biasing of the Arbitration Process: The Class Counsel Solution. University of Michigan Journal of Law Reform, 46.4, 1151. https://doi.org/10.36646/mjlr.46.4.concepcions (unread)
 1. Reuben, R. C. (2005). Confidentiality in Arbitration: Beyond the Myth. University of Kansas Law Review, 54, 1255. https://heinonline.org/HOL/Page?handle=hein.journals/ukalr54&id=1265&div=&collection= (unread)
 1. Ware, S. J. (n.d.). Contractual Arbitration, Mandatory Arbitration, and State Constitutional Jury-Trial Rights. 38. (unread)
