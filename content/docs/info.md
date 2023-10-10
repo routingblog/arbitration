@@ -399,15 +399,14 @@ Pull Quote (from {{< todo />}}):
 Under the Federal Arbitration Act (FAA), an arbitration agreement that is ambiguous as to the availability of class arbitration does not manifest sufficient consent by the parties to submit to class arbitration. In a 5-4 opinion authored by Chief Justice John Roberts, the Court held that the arbitration agreement between Varela and his employer, Lamps Plus, which contained only general language commonly used in arbitration agreements, did not provide the necessary contractual basis for compelling class arbitration.
 
 ## 17-340 New Prime Inc. V. Oliveira (01/15/2019), (Supreme Court 2019)
-One Line Summary: §1 exemptions apply to “agreements to perform work” not just employment agreements.
+One Line Summary: The court decides if FAA applies. 9 U.S. Code §1 exemptions apply to “agreements to perform work” not just employment agreements.
 
 - [Wikipedia](https://en.wikipedia.org/wiki/New_Prime_Inc._v._Oliveira)
-- Court Opinion (Court Listener): {{< todo />}}
+- Court Opinion (Court Listener): {{< todo />}} (8-0) (unread)
 - Court Opinion (pdf): {{< todo />}}
-- Oyez: {{< todo />}}
-- Majority Author: {{< todo />}}
-- Concurrence: {{< todo />}}
-- Dissents: {{< todo />}}
+- [Oyez](https://www.oyez.org/cases/2018/17-340)
+- Majority Author: Neil Gorsuch
+- Concurrence: Ginsburg
 
 Pull Quote (from {{< todo />}}):
 
