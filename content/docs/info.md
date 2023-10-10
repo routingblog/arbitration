@@ -413,11 +413,8 @@ Pull Quote (from {{< todo />}}):
 {{< details "{{< todo />}}" >}}
 {{< /details >}}
 
-
 https://www.supremecourt.gov/opinions/18pdf/17-340_o7kq.pdf (majority:  Gorsuch) (8-0)
 https://www.scotusblog.com/case-files/cases/new-prime-inc-v-oliveira/
-
-no arb in workers engaged in foreign or interstate commerce
 
 ## Henry Schein, Inc. v. Archer & White Sales, Inc., 586 U.S. (2019)
 One Line Summary: {{< todo />}}
