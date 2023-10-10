@@ -309,14 +309,13 @@ Pull Quote (from syllabus):
 
 ## American Express Co. v. Italian Colors Restaurant, 570 US 228 (2013)
 
-One Line Summary: {{< todo />}}
-
+One Line Summary: The FAA does not permit courts to invalidate clauses that mandate individual arbitration
 
 - Wikipedia: {{< todo />}}
 - Court Opinion (Court Listener): {{< todo />}}
 - Court Opinion (pdf): {{< todo />}}
 - [Oyez](https://www.oyez.org/cases/2012/12-133) (unread)
-- Majority Author: {{< todo />}}
+- Majority Author: Scalia
 - Concurrence: {{< todo />}}
 - Dissents: {{< todo />}}
 
@@ -540,6 +539,24 @@ Pull Quote (from {{< todo />}}):
 Presented Question: To be exempt from the Federal Arbitration Act, must a class of workers that is actively engaged in interstate transportation also be employed by a company in the transportation industry?
 {{< /details >}}
 
+## Oxford Health Plans LLC v. Sutter, 133 S. Ct. 2064, 2071 (2013)
+
+One Line Summary: {{< todo />}}
+
+- Wikipedia: {{< todo />}} (unread)
+- Court Opinion (Court Listener): {{< todo />}} (unread)
+- Court Opinion (pdf): {{< todo />}} (unread)
+- Oyez: {{< todo />}} (unread)
+- Majority Author: {{< todo />}} (unread)
+- Concurrence: {{< todo />}} (unread)
+- Dissents: {{< todo />}} (unread)
+
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
+{{< /details >}}
+
+
 ## DIRECTV, Inc. v. Imburgia, 136 S. Ct. 463, 464 (2015).
 
 One Line Summary: {{< todo />}}
@@ -688,6 +705,7 @@ Bain Cotton Co. v. Chesnutt Cotton Co. https://casetext.com/case/bain-cotton-co-
 ### Stolt-Nielsen v. Animalfeeds International Corp.
 Stolt-Nielsen v. Animalfeeds International Corp. - https://www.oyez.org/cases/2009/08-1198
 {{< todo />}}
+
 
 # Statutes
 
