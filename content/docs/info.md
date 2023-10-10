@@ -929,9 +929,6 @@ Taken together, Justice Scalia’s major federal arbitration law opinions render
 1. Sternlight, J. (2002). Is the U.S. Out on a Limb? Comparing the U.S. Approach to Mandatory Consumer and Employment Arbitration to that of the Rest of the World. Scholarly Works. https://scholars.law.unlv.edu/facpub/273 (unread)
 1. Schwartz, D. (2004). Correcting Federalism Mistakes in Statutory Interpretation: The Supreme Court and the Federal Arbitration Act. Law and Contemporary Problems, 67(1), 5–54. https://scholarship.law.duke.edu/lcp/vol67/iss1/2 (unread)
 
-
-
-
 ## Blog Post
 
 - https://www.sheppardmullin.com/media/publication/1909_Class%20Actions_Arbitration%20Agreements%20and%20Class%20Action%20Waivers%20_Federal,%20CA_.pdf
