@@ -1,6 +1,7 @@
 ---
 title: Proposed Bills
 type: docs
+weight: 10
 ---
 
 There have been many attempts to fix the problem. This table lists some of them.

@@ -1,6 +1,7 @@
 ---
-title: Core Information
+title: Court Cases & Legal Analysis
 type: docs
+weight: 5
 ---
 
 # Supreme Court Decisions

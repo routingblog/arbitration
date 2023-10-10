@@ -1,6 +1,7 @@
 ---
-title: "Basic Problems"
+title: Basic Problems
 type: docs
+weight: 1
 ---
 
 The Supreme Court has repeatedly ignored the plain meaning of the statutes, congressional intent in writing the FAA, as well the standard rules of statutory interpretation effectively rewriting Title 9 to invent a "national policy favoring arbitration" [^jiggery] [^schwartzcorrecting] as a form of “do it yourself-tort reform". [^sternlight]
