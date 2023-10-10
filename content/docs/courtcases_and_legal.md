@@ -691,12 +691,6 @@ arb that precludes ERISA plan-wide relief under Section 502(a) not enforceable
     > Section 4042(a)(3) allows plaintiffs in this case to participate in an SCRA class action in federal court notwithstanding their previous agreement to individual arbitration, regardless of when the SCRA violations are alleged to have occurred. The United States respectfully urges the Court to deny Defendant Citibank, N.A.’s motion to compel arbitration of the SCRA claims.
 - [Order on Motion To Compel Arbitration](https://storage.courtlistener.com/recap/gov.uscourts.nced.196598/gov.uscourts.nced.196598.58.0.pdf)
 
-
-## Not Yet Analyzed
-
-### MacClelland v. Cellco
-
-
 ### Ferguson v. Corinthian Colleges, Inc., 733 F.3d 928 (9th Cir. 2013)
 See Ferguson v. Corinthian Colleges, Inc., 733 F.3d 928 (9th Cir. 2013). The Ferguson panel reversed the lower court’s denial of a motion to compel arbitration, and held the FAA preempted California’s “Broughton-Cruz Rule,” which dictates that injunctive relief sought for the public’s benefit cannot be subjected to mandatory arbitration.
 {{< todo />}}
@@ -707,32 +701,37 @@ See Ferguson v. Corinthian Colleges, Inc., 733 F.3d 928 (9th Cir. 2013). The Fer
 - https://www.courtlistener.com/opinion/204590/shawn-samson-v-nama-holdings-llc/
 -  https://www.courtlistener.com/opinion/2421269/samson-v-nama-holdings-llc/
 
+## Not Yet Analyzed
+
+### MacClelland v. Cellco
+
+{{< todo />}}
+
 ### Brown V Dillards
 
 {{< todo />}}
-- https://casetext.com/case/brown-v-dillards-inc
+
+- https://casetext.com/case/brown-v-dillards-inc (unread)
+
 ### 18-3622 - Eliasieh v. Legally Mine, LLC
-- https://www.govinfo.gov/app/details/USCOURTS-cand-3_18-cv-03622
+- https://www.govinfo.gov/app/details/USCOURTS-cand-3_18-cv-03622 (unread)
 {{< todo />}}
-- https://casetext.com/case/brown-v-dillards-inc
-### 18-3622 - Eliasieh v. Legally Mine, LLC
-{{< todo />}}
-- https://www.govinfo.gov/app/details/USCOURTS-cand-3_18-cv-03622
+
 ### Howsam v. Dean Witter Reynolds, Inc.
-Howsam v. Dean Witter Reynolds, Inc. - https://www.oyez.org/cases/2002/01-800
+Howsam v. Dean Witter Reynolds, Inc. - https://www.oyez.org/cases/2002/01-800 (unread)
 {{< todo />}}
 
 ### james-jackson-llc-v-willie-gary-llc
-https://casetext.com/case/james-jackson-llc-v-willie-gary-llc
+https://casetext.com/case/james-jackson-llc-v-willie-gary-llc (unread)
 {{< todo />}}
 
 ### Bain Cotton Co. v. Chesnutt Cotton Co.
 Bain Cotton Co. v. Chesnutt Cotton Co. https://casetext.com/case/bain-cotton-co-v-chesnutt-cotton-co
-- https://www.oyez.org/cases/2002/01-800  - Bain Cotton Co. v. Chesnutt Cotton Co.
+- https://www.oyez.org/cases/2002/01-800  - Bain Cotton Co. v. Chesnutt Cotton Co. (unread)
 {{< todo />}}
 
 ### Stolt-Nielsen v. Animalfeeds International Corp.
-Stolt-Nielsen v. Animalfeeds International Corp. - https://www.oyez.org/cases/2009/08-1198
+Stolt-Nielsen v. Animalfeeds International Corp. - https://www.oyez.org/cases/2009/08-1198 (unread)
 {{< todo />}}
 
 
