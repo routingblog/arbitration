@@ -86,6 +86,4 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 
 # To Be Sourced:
 
-- The reason to do this is if the defendant is most likely in the wrong and just wants to delay paying as much as possible (or wear down the plaintiff). In true civil court the attorneys could have sanctions against them if they pointlessly delay the proceedings. Less so in arbitration.
-
-- arbitration is more informal and thus less procedural protection
+- In true civil court the attorneys could have sanctions against them if they pointlessly delay the proceedings. Less so in arbitration.
