@@ -802,12 +802,12 @@ ADR
 
 1. Alcolea, L. C. (2022). Arbitration and the Right to Have Your Day in Court: Meeting Again at the Turning of the Tide. Pepperdine Dispute Resolution Law Journal, 22(2), 539–580. https://digitalcommons.pepperdine.edu/drlj/vol22/iss2/6/
 
-{{< details "Conclusion - Alcolea" >}}
+    {{< details "Conclusion - Alcolea" >}}
 In conclusion, the message of this article is: Watch this space. Members of the US arbitration ecosystem, whether they be willing members such as businesses or unwilling members such as employees and consumers, have very much been on a wild ride in the last few decades and the recent decisions, new legislation, and changing behavior by all involved means that this is only going to continue in the future.
 {{< /details >}}
 
 1. Gilles, M. E. (2023). Arbitration’s Unraveling (SSRN Scholarly Paper 4527841). https://doi.org/10.2139/ssrn.4527841
-{{< details "Giles - Arbitration's Unraveling">}}
+    {{< details "Giles - Arbitration's Unraveling">}}
 The 21st century has been a bleak one for proponents of collective litigation. The hegemonic rise of class-banning arbitration provisions has thwarted workers and consumers across the legal landscape, as the FAA has grown into a super-statute, frozen in a 1920’s conception of individual claiming.
 But recent developments signal a thaw. Green shoots have appeared in Congress, which in 2022 amended the FAA for the first time in its history to exempt one important subset of litigation activity, possibly setting the stage for further rollbacks. The Supreme Court, meanwhile, has explicitly rejected the assumption, widely held by lower courts, that the promotion of arbitration is a “favored policy” warranting the application of special rules of construction and procedure. The implications of this clarification are profound and should, by all rights, remove from the coverage of the FAA all claims by workers engaged in interstate commerce, among other effects.
 {{< /details >}}
@@ -823,7 +823,13 @@ But recent developments signal a thaw. Green shoots have appeared in Congress, w
 1. Samra, H. J., & Ramachanderan, R. (n.d.). A Cure for Every Ill? Remedies for “Pathological” Arbitration Clauses. (unread)
 1. Edwards, B. (2020). Adversarial Failure. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3622730 (unread)
 1. Garnett, R. (2020). Anti-Arbitration Injunctions: Walking the Tightrope (SSRN Scholarly Paper 3971942). https://papers.ssrn.com/abstract=3971942 (unread)
-1. Jacobs, B. L. (n.d.). Often Wrong, Never in Doubt: How Anti-Arbitration Expectancy Bias May Limit Access to Justice. ACCESS TO JUSTICE, 62. (unread)
+1. Jacobs, B. L. (n.d.). Often Wrong, Never in Doubt: How Anti-Arbitration Expectancy Bias May Limit Access to Justice. ACCESS TO JUSTICE, 62.
+
+    This particular paper suggestions that arbitration may not be as bad as often stated. It deeply mistates the history of arbitration (for example it cites Keating for the basis of a 'national policy of arbitration' - something the Court invented from whole cloth. Nonetheless, it makes some interesting points and is worth reading.
+
+    {{< details "Jacobs - Often Wrong - Conclusion Pull Quote" >}}
+Regardless of the “objective” reality of the fairness or lack thereof of arbitration, negative perceptions of the process already are “transform[ing] the reality faced by policy-makers”76 and influencing the development of the law regarding arbitration. For example, the AAA no longer will accept certain new consumer debt collection arbitration filings,77 and, as part of a settlement with the Office of the Minnesota Attorney General, the National Arbitration Forum will stop accepting or participating in the processing or administration of any new consumer arbitrations.
+{{< /details >}}
 1. Pittman, L. J. (2023). Arbitration and Federal Reform: Recalibrating the Separation of Powers Between Congress and the Court. (unread)
 1. Drahozal, C. R. (n.d.). Arbitration Costs and Forum Accessibility: Empirical Evidence. 41. (unread)
 1. Arbitration Study Preliminary Results: Section 1028(a) Study Results To Date. (2013). Consumer Financial Protection Bureau. (unread)
@@ -832,13 +838,15 @@ But recent developments signal a thaw. Green shoots have appeared in Congress, w
 1. Gerbitz, C. (n.d.). ARE PRE-DISPUTE AGREEMENTS TO ARBITRATION ONLINE ENFORCEABLE? (unread)
 1. Rubenstein, M. (2012). Assignment of Labor Arbitration. St. John’s Law Review, 81(1), 42–76. https://scholarship.law.stjohns.edu/lawreview/vol81/iss1/6
 
-This is really about collective bargaining agreements and arbitration provisions therein and thus somewhat out of scope for this page.
-{{< details "Rubenstein - Assignment of Labor Arbitration" >}}
+    This is really about collective bargaining agreements and arbitration provisions therein and thus somewhat out of scope for this page.
+
+
+    {{< details "Rubenstein - Assignment of Labor Arbitration" >}}
 Stated somewhat differently, there should be a type of presumption, similar to that utilized under the Restatement (Second) of Contracts, in favor of assignment of labor arbitration and the right to appeal from arbitration absent express language in the collective bargaining agreement prohibiting it.
 {{< /details >}}
 1. Hamielec, M. R. (2018). Class Dismissed: Compelling a Look at Jurisprudence Surrounding Class Arbitration and Proposing Solutions to Asymmetric Bargaining Power Between Parties. 92(3), 1227–1264.
 
-{{< details "Hamielec - Class Dismissed - Conclusion" >}}
+    {{< details "Hamielec - Class Dismissed - Conclusion" >}}
 Corporations view the gap in bargaining power between themselves and individuals as an opportunity to engage in an arbitrage of the law. With each edit, law firms strengthen arbitration provisions to survive courts’ skeptical analyses and handcuff claimants to an arbitrator’s largely unreviewable and peripherally biased decision.
 {{< /details >}}
 
@@ -852,7 +860,7 @@ Courts may feel vidually for their possible congressional in For this reason, am
 1. Ware, S. J. (n.d.). Contractual Arbitration, Mandatory Arbitration, and State Constitutional Jury-Trial Rights. 38. (unread)
 1. Sternlight, J. R. (2005). Creeping Mandatory Arbitration: Is It Just? Scholarly Works, 57(280), 1631–1676.
 
-{{< details "Pull Quote - Sternlight - Creeping Mandatory Arbitration" >}}
+    {{< details "Pull Quote - Sternlight - Creeping Mandatory Arbitration" >}}
 > ...arbitration agreements were not used by U.S. businesses to require consumers, employees, franchisees, or other weaker parties to resolve disputes through private arbitration rather than in court. Instead, the use of arbitration was limited to business-to-business or management/union contexts. Indeed, to the limited extent that the possibility of such arbitration was considered by Congress in 1925, when it passed the FAA, those few who spoke on the issue made clear that they did not view such a use of arbitration as appropriate (pg 1636)`
 {{< /details >}}
 1. Hwang, M., & Chung, K. (2009). Defining the Indefinable&#58; Practical Problems of Confidentiality in Arbitration. Journal of International Arbitration, 26(5). <https://kluwerlawonline.com/api/Product/CitationPDFURL?file=Journals\JOIA\JOIA2009034.pdf> (unread)
@@ -870,14 +878,16 @@ Courts may feel vidually for their possible congressional in For this reason, am
 1. {{< anchor id="rosencrants-fn" >}} Rosencrants, P. E. (2023). “Heads I win, tails you lose”: The End of Employers’ Exploitation of the Federal Arbitration Waiver Prejudice Requirement. MISSOURI LAW REVIEW, 87. https://scholarship.law.missouri.edu/mlr/vol87/iss4/11/
 
     See [ Morgan v. Sundance, Inc. 596 US _ (2022)]({{< relref "#morgan-v-sundance" >}}).
-{{< details "Rosencrants - Heads I Win - Conclusion" >}}
+
+    {{< details "Rosencrants - Heads I Win - Conclusion" >}}
 While it stopped short of providing a uniform waiver analysis, the Court began to level the playing field between employees and employers bound by arbitration agreements by abolishing the prejudice requirement in waiver analysis. Employers who require job applicants to agree to mandatory arbitration begin the relationship with an imbalance of bargaining power. Employers’ use, as in Morgan, of strategic delays in invoking arbitration wrongly disadvantages employees and undermines the attributes of arbitration that Congress sought to invoke when it enacted the FAA. Removing the prejudice requirement was an important step toward safeguarding employee rights.
 {{< /details >}}
 1. Drahozal, C. R. (n.d.). Innovation in Arbitration Law: The Case of Delaware. (unread)
 1. Ralston, J. H. (2004). International Arbitration from Athens to Locarno. The Lawbook Exchange, Ltd. (unread)
 1. Fitzpatrick, B. T. (2017). Justice Scalia and Class Actions. Notre Dame Law Review, 92, 1977. https://scholarship.law.vanderbilt.edu/faculty-publications/586 (unread)
 1. Schwartz, D. S. (2016). Justice Scalia’s Jiggery-Pokery in Federal Arbitration Law. Minnesota Law Review: Headnotes, 49, 74–93. https://scholarship.law.umn.edu/headnotes/49
-{{< details "Schwartz - Jiggery-Pokery - Conclusion" >}}
+
+    {{< details "Schwartz - Jiggery-Pokery - Conclusion" >}}
 Taken together, Justice Scalia’s major federal arbitration law opinions render unconscionability and public policy defenses to arbitration clauses virtually non-existent, while allowing corporate defendants to immunize themselves from class actions by the expedient of nesting a class action waiver in an arbitration clause. To achieve these results, Justice Scalia had to engage in a fair amount of jiggery-pokery on behalf of the long-lived five-Justice conservative bloc. One looking for principled conservative jurisprudence in Justice Scalia’s body of work should probably look elsewhere than his arbitration decisions. Justice Scalia abandoned his much-touted federalism principles early on, and eventually found in FAA cases an opportunity to transform arbitration agreements into “do-it- yourself tort reform.”83 While the phrase “jiggery-pokery” may well be long remembered, one can hope that Justice Scalia’s doctrinal jiggery-pokery in federal arbitration law will soon be overruled, gone and forgotten.
 {{< /details >}}
 1. Hummell, H. (2023). Missouri’s Ultimate Dead Hand Control: The Development and Relationship Between Donative Arbitration Provisions and No-Contest Clauses in Wills & Trusts. Journal of Dispute Resolution, 2023(2). https://scholarship.law.missouri.edu/jdr/vol2023/iss2/10 (unread)
