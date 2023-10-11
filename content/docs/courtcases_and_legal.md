@@ -634,6 +634,12 @@ Pull Quote (from {{< todo />}}):
 
 ## District Court Cases
 
+## Parm v. Nat'l Bank of Cal., N.A., 835 F.3d 1331
+
+## INETIANBOR v. CASHCALL INC (2014)
+
+## Parnell v. Cashcall, Inc.
+
 ## Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Bobker, 636 F. Supp. 444 (S.D.N.Y. 1986)
 
 Defines manifest disregard for the law (in the 2nd circuit)
@@ -820,7 +826,11 @@ But recent developments signal a thaw. Green shoots have appeared in Congress, w
 1. Joshi, H. (2023). You Have Got to Be Keating Me: Why the Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act Is a Good Start. 2023. (unread)
 1. Schmitz, A. J. (2005). Untangling the Privacy Paradox in Arbitration. University of Kansas Law Review, 54, 1211. https://heinonline.org/HOL/Page?handle=hein.journals/ukalr54&id=1221&div=&collection= (unread)
 1. Gorskie, J. L. (2012). US Courts and the Anti-Arbitration Injunction. Arbitration International, 28(2), 295–324. https://doi.org/10.1093/arbitration/28.2.295 (unread)
-1. Samra, H. J., & Ramachanderan, R. (n.d.). A Cure for Every Ill? Remedies for “Pathological” Arbitration Clauses. (unread)
+1. Samra, H. J., & Ramachanderan, R. (n.d.). A Cure for Every Ill? Remedies for “Pathological” Arbitration Clauses.
+
+    {{< details "Samra - Cure for Every Ill" >}}
+As a consequence, parties must be cautious not only to thoroughly vet their draft arbitration agreements, but should also be as attentive as possible to legal developments that might render their arbitration agreements unenforceable in the future.
+{{< /details >}}
 1. Edwards, B. (2020). Adversarial Failure. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3622730 (unread)
 1. Garnett, R. (2020). Anti-Arbitration Injunctions: Walking the Tightrope (SSRN Scholarly Paper 3971942). https://papers.ssrn.com/abstract=3971942 (unread)
 1. Jacobs, B. L. (n.d.). Often Wrong, Never in Doubt: How Anti-Arbitration Expectancy Bias May Limit Access to Justice. ACCESS TO JUSTICE, 62.
@@ -917,6 +927,8 @@ Taken together, Justice Scalia’s major federal arbitration law opinions render
 1. Stone, K. V. W. (2018). Rustic Justice: Community and Coercion under the Federal Arbitration Act [Preprint]. LawArXiv. https://doi.org/10.31228/osf.io/6g7e3 (unread)
 1. Sternlight, J. (2002). Is the U.S. Out on a Limb? Comparing the U.S. Approach to Mandatory Consumer and Employment Arbitration to that of the Rest of the World. Scholarly Works. https://scholars.law.unlv.edu/facpub/273 (unread)
 1. Schwartz, D. (2004). Correcting Federalism Mistakes in Statutory Interpretation: The Supreme Court and the Federal Arbitration Act. Law and Contemporary Problems, 67(1), 5–54. https://scholarship.law.duke.edu/lcp/vol67/iss1/2 (unread)
+1. Knapp, C. L. (2002). Taking Contracts Private: The Quiet Revolution in Contract Law. Fordham Law Review, 71(3), 761–798. (unread)
+
 
 ## Blog Post
 

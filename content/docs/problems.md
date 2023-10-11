@@ -18,8 +18,7 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 
 - Arbiters are not required to follow or even know the law. [^liptonlaw] Only in narrow circumstances (in "manifest disregard") where the arbitrators must be found to have "understood and correctly stated the law but proceeded to ignore it." [^merrill]
 
-- It's harder to find a lawyer for cases which will be arbitrated. Contingency is riskier and clients can't be as easily pooled.[^stone1]
-
+- The lower probability of victory, the lack of class representation, and meager legal fees discourage attorneys from representing individuals in arbitration proceedings. This is particularly a problem where the fees will be paid on contigency (most employment and consumer cases). [^stone1]
 
 # Employment
 
@@ -45,6 +44,10 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 - The ban on class actions in particular makes it unlikely that many claims of corporate wrongdoing—particularly those that involve small sums for each in large groups of individuals—will ever be heard. As Justice Breyer opined, “Only a lunatic or a fanatic sues for $30.” [^stone3]
 
 - A commercial entity can cloister itself away from significant financial liability, as well as any correlative damages award meant to deter unsavory behavior [^classdismissed]
+
+# Consumer Credit
+
+- Although proponents claim that arbitration decreases litigation costs for consumers, consumers often do not receive any benefit of reduced costs through forced arbitration.
 
 [^creeping]: Sternlight, J. R. (2005). Creeping Mandatory Arbitration: Is It Just? Scholarly Works, 57(280), 1631–1676. pp 1631
 
