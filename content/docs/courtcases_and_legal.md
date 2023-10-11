@@ -929,6 +929,21 @@ Taken together, Justice Scalia’s major federal arbitration law opinions render
 1. Schwartz, D. (2004). Correcting Federalism Mistakes in Statutory Interpretation: The Supreme Court and the Federal Arbitration Act. Law and Contemporary Problems, 67(1), 5–54. https://scholarship.law.duke.edu/lcp/vol67/iss1/2 (unread)
 1. Knapp, C. L. (2002). Taking Contracts Private: The Quiet Revolution in Contract Law. Fordham Law Review, 71(3), 761–798. (unread)
 
+    {{< details "Knapp - Taking Contracts Private - Conclusion" >}}
+The mandatory arbitration clause is thus sui generis, unlike any
+other boilerplate provision that a stronger party might impose in a
+take-it-or-leave-it contract. Every other provision-even a choice-of-
+law or forum selection clause-can at least be tested by some court of
+law, where the conflicting claims of freedom of contract and freedom
+from economic oppression can be publicly weighed and assessed.
+Enforcement of the mandatory arbitration clause, however, means
+that neither the arbitration clause nor any other portion of that
+adhesion contract can be so tested. Left unchecked, mandatory
+arbitration will effectively "solve" the adhesion contract problem, to
+be sure, but in much the same way as the Austrians in the 1938
+Anschluss solved their Nazi problem: by handing over the keys to the
+city.
+{{< /details >}}
 
 ## Blog Post
 

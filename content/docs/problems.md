@@ -16,9 +16,13 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 
 - A recalcitrant defendant can delay the start of meaningful proceedings a really long time. For example they can appeal the motion to compel and this would stay the civil court proceedings in the meantime[^coinbase]
 
-- Arbiters are not required to follow or even know the law. [^liptonlaw] Only in narrow circumstances (in "manifest disregard") where the arbitrators must be found to have "understood and correctly stated the law but proceeded to ignore it." [^merrill]
+- Arbiters are not required to follow or even know the law. [^liptonlaw] [^privateknappcite2] Only in narrow circumstances (in "manifest disregard") where the arbitrators must be found to have "understood and correctly stated the law but proceeded to ignore it." [^merrill]
 
-- The lower probability of victory, the lack of class representation, and meager legal fees discourage attorneys from representing individuals in arbitration proceedings. This is particularly a problem where the fees will be paid on contigency (most employment and consumer cases). [^stone1]
+- The lower probability of victory, the lack of class representation, and meager legal fees discourage attorneys from representing individuals in arbitration proceedings. This is particularly a problem where the fees will be paid on contigency (most employment and consumer cases). [^stone1] [^privateknappcite3]
+
+- Arbitration requires the waiver of jury trials.  While the jury is probably still out on this issue, there is a general perception that arbitrators give smaller awards than juries. [^privateknappcite1]
+
+- When the contract limits remedies in other ways (reduced time to bring claims, limitations on injuctive relief, etc.) it is normally subject to Judicial review. Not so with arbitration. In fact, stepping "outside the bounds of the contract" are one of the few reasons arbitrator's awards can be vacated. [^privateknappcite4]
 
 # Employment
 
@@ -84,6 +88,15 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 [^sternlight]: Sternlight, J. (2002). Is the U.S. Out on a Limb? Comparing the U.S. Approach to Mandatory Consumer and Employment Arbitration to that of the Rest of the World. Scholarly Works. https://scholars.law.unlv.edu/facpub/273 (via Stone Supra pp 78 footnote [^rustic])
 
 [^schwartzcorrecting]: Schwartz, D. (2004). Correcting Federalism Mistakes in Statutory Interpretation: The Supreme Court and the Federal Arbitration Act. Law and Contemporary Problems, 67(1), 5–54. https://scholarship.law.duke.edu/lcp/vol67/iss1/2 pp 5
+
+[^privateknappcite1]:  Knapp, C. L. (2002). Taking Contracts Private: The Quiet Revolution in Contract Law. Fordham Law Review, 71(3), 761–798. pp 782 (via citation)
+
+[^privateknappcite2]:  Knapp Supra pp 782 [^privateknappcite1]
+
+[^privateknappcite3]:  Knapp Supra pp 784 [^privateknappcite1]
+
+[^privateknappcite4]:  Knapp Supra pp 791 [^privateknappcite1]
+
 
 
 # To Be Sourced:
