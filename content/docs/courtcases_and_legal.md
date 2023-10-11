@@ -940,10 +940,6 @@ Taken together, Justice Scalia’s major federal arbitration law opinions render
 [^footnote7]: Justice SCALIA joins all but footnote 7 of this opinion.
 [^ejusdemgeneris]: [Rules of Statutory Construction and Interpretation](https://www.supremecourt.gov/DocketPDF/18/18-9575/102239/20190611092122150_00000055.pdf) §16
 
-# Scope
-
-The goal of this document is discuss _forced arbitration_ and _class action waivers_ in _consumer disputes_ and _employment disputes_. Other aspects of arbitration are mostly out of scope although occasionally included if somewhat relevant.
-
 # Misc Other Notes
 
 Notes on cases and things not yet started above
