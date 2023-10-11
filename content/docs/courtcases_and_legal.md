@@ -855,7 +855,7 @@ Courts may feel vidually for their possible congressional in For this reason, am
 {{< details "Pull Quote - Sternlight - Creeping Mandatory Arbitration" >}}
 > ...arbitration agreements were not used by U.S. businesses to require consumers, employees, franchisees, or other weaker parties to resolve disputes through private arbitration rather than in court. Instead, the use of arbitration was limited to business-to-business or management/union contexts. Indeed, to the limited extent that the possibility of such arbitration was considered by Congress in 1925, when it passed the FAA, those few who spoke on the issue made clear that they did not view such a use of arbitration as appropriate (pg 1636)`
 {{< /details >}}
-1. Hwang, M., & Chung, K. (2009). Defining the Indefinable&#58; Practical Problems of Confidentiality in Arbitration. Journal of International Arbitration, 26(5). https://kluwerlawonline.com/api/Product/CitationPDFURL?file=Journals\JOIA\JOIA2009034.pdf (unread)
+1. Hwang, M., & Chung, K. (2009). Defining the Indefinable&#58; Practical Problems of Confidentiality in Arbitration. Journal of International Arbitration, 26(5). <https://kluwerlawonline.com/api/Product/CitationPDFURL?file=Journals\JOIA\JOIA2009034.pdf> (unread)
 1. Menkel-Meadow, C. (n.d.). Do the ‘Haves’ Come out Ahead in Alternative Judicial Systems?,: Repeat Players in ADR. 15. (unread)
 1. Hill, E. (2003). Due Process at Low Cost: An Empirical Study of Employment Arbitration Under the Auspices of the American Arbitration Association. https://kb.osu.edu/handle/1811/77065 (unread)
 1. Colvin, A. J. S. (2008). Empirical Research on Employment Arbitration: Clarity Amidst the Sound and Fury? (SSRN Scholarly Paper 1090335). https://papers.ssrn.com/abstract=1090335 (unread)

@@ -14,6 +14,7 @@ There have been many attempts to fix the problem. This table lists some of them.
 | [S.366 - Civil Rights Procedures Protection Act of 1995](https://www.congress.gov/bill/104th-congress/senate-bill/366) | 104th Congress (1995-1996) | - | |
 | [H.R.3748 - Civil Rights Procedures Protection Act of 1996](https://www.congress.gov/bill/104th-congress/house-bill/3748) | 104th Congress (1995-1996) | - |
 | [H.R.872 - Civil Rights Procedures Protection Act of 1999](https://www.congress.gov/bill/106th-congress/house-bill/872/text) | 106th Congress (1999-2000) | Introduced | |
+| [H.R.3010 - Arbitration Fairness Act of 2007](https://www.congress.gov/bill/110th-congress/house-bill/3010) | 110th Congress (2007-2008) | |
 | [S. 647 (IS) - Mandatory Arbitration Transparency Act of 2017](https://www.govinfo.gov/app/details/BILLS-115s647is) | 115th Congress (2017-2018) | |
 | [H.R.1374 - Arbitration Fairness Act of 2017](https://www.congress.gov/bill/115th-congress/house-bill/1374) | 115th Congress (2017-2018) | Stuck in Judiciary Committee | |
 | [S.537 - Arbitration Fairness Act of 2017](https://www.congress.gov/bill/115th-congress/senate-bill/537) | 115th Congress (2017-2018) | Stuck in Judiciary Committee | |
