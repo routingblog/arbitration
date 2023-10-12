@@ -479,7 +479,7 @@ Decision: https://www.supremecourt.gov/opinions/21pdf/20-1573_8p6h.pdf
 The court also predicted what the california courts would rule in a similar case (alolf)
 SCOTUS predicting [Adolph]({{< relref "/#adolph" >}})
 
-## Coinbase v. Bielski, 599 U.S. ___ (2023)
+## Coinbase v. Bielski, 599 U.S. ___ (2023) {id="coinbase-v-bielski"}
 One Line Summary: In federal courts - a pending interlocutory appeal of a motion to compel requires staying court proceedings
 
 - Wikipedia: {{< todo />}}
@@ -759,11 +759,26 @@ See other past [proposed bills]({{< relref "bills" >}})
 
 | Title       | State |
 | ----------- | ----------- |
-| [Code of Civil Procedure - CCP §§3.9.1280 - 1294.4](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1281.98&lawCode=CCP) | California |
+| [Code of Civil Procedure - CCP §§3.9.1280 - 1294.4](https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=CCP&division=&title=9.&part=3.&chapter=&article=) | California |
+
+
+### History
+
+#### CA SB-365 (2023)
+[CA SB-365 Civil procedure: arbitration](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB365) was signed on 10-OCT-23 which ammends CCP §1294.4 to add the text
+
+> Notwithstanding Section 916, the perfecting of such an appeal shall not automatically stay any proceedings in the trial court during the pendency of the appeal.
+
+which effectively reversed [Coinbase]({{< relref "#coinbase-v-bielski" >}}) for California cases.
+
 
 # Rule Making
 
 ## Consumer Financial Protection Bureau
+
+### CFPB-2023-0047 (2023 attempt)
+
+1. PETITION FOR RULEMAKING: To Require Meaningful Consumer Consent Regarding the Use of Arbitration to Resolve Disputes Involving Consumer Financial Products and Services. (n.d.).
 
 ### Arbitration Agreements - 2016 attempt
 
@@ -980,9 +995,3 @@ Notes on cases and things not yet started above
 - American Safety Equipment Corp. v. JP Maguire & Co. - TBD. Commericial Arbitration
 
 - Volt Info. Scis., Inc. v. Bd. of Trustees of Leland Stanford Junior Univ., 109 S. Ct. 1248, 1250 (1989).
-
-SB 365, Wiener. Civil procedure: arbitration.
-passed move.
-### CFPB-2023-0047 (2023 attempt)
-
-1. PETITION FOR RULEMAKING: To Require Meaningful Consumer Consent Regarding the Use of Arbitration to Resolve Disputes Involving Consumer Financial Products and Services. (n.d.).

@@ -34,7 +34,6 @@ There have been many attempts to fix the problem. This table lists some of them.
 
 | Title | State | Summary |
 | ----------- | ----------- | --- |
-| [SB-365 Civil procedure: arbitration](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB365)| California| appeal from certain appeals do not stay state court proceedings |
 
 # Congressional Hearings
 
