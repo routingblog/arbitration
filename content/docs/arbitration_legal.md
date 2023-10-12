@@ -1,7 +1,8 @@
 ---
-title: Court Cases & Legal Analysis
+title: "Arbitration: Court Cases & Legal Analysis"
 type: docs
 weight: 5
+slug: arbitration
 ---
 
 # Supreme Court Decisions
@@ -791,17 +792,6 @@ See other past [proposed bills]({{< relref "bills" >}})
 
 - https://www.regulations.gov/docket/DARS-2010-0059
 
-# Definitions
-
-Pre-Dispute Arbitration Agreement
-: something else (TBD)
-
-Arbitration
-: TBD
-
-ADR
-: Alternate Dispute Resolution
-
 # References
 
 ## Law Journal And Academic Articles
@@ -820,7 +810,6 @@ But recent developments signal a thaw. Green shoots have appeared in Congress, w
 
 1. Glover, J. M. (2022). Mass Arbitration. Stanford Law Review, 74. https://review.law.stanford.edu/wp-content/uploads/sites/3/2022/09/Glover-74-Stan.-L.-Rev.-1283.pdf
 1. Glover, M. (2023). Recent Developments in Mandatory Arbitration Warfare: Winners and Losers (So Far) in Mass Arbitration (SSRN Scholarly Paper 4509465). https://papers.ssrn.com/abstract=4509465 (unread)
-1. Katherine V.W. Stone & Alexander J.S. Colvin. (2015). The arbitration epidemic: Mandatory arbitration deprives workers and consumers of their rights (Briefing Paper 414). Economic Policy Institute. https://www.epi.org/publication/the-arbitration-epidemic/
 1. Skanes, M. R. (2011). THE TRUTH BEHIND “FINAL AND BINDING” ARBITRATION: A STUDY OF VACATED ARBITRATION AWARDS IN THE NEW YORK APPELLATE DIVISION. Albany Law Review, 74(2). https://www.albanylawreview.org/article/69716-the-truth-behind-final-and-binding-arbitration-a-study-of-vacated-arbitration-awards-in-the-new-york-appellate-division
 1. Ware, S. J. (n.d.). Vacating Legally-Erroneous Arbitration Awards.
 1. Levinson, A. (2013). What the Awards Tell Us about Labor Arbitration of Employment Discrimination Claims. University of Michigan Journal of Law Reform, 46.3, 789. https://doi.org/10.36646/mjlr.46.3.what (unread)
@@ -903,7 +892,6 @@ While it stopped short of providing a uniform waiver analysis, the Court began t
 
 1. Drahozal, C. R. (n.d.). Innovation in Arbitration Law: The Case of Delaware. (unread)
 1. Ralston, J. H. (2004). International Arbitration from Athens to Locarno. The Lawbook Exchange, Ltd. (unread)
-1. Fitzpatrick, B. T. (2017). Justice Scalia and Class Actions. Notre Dame Law Review, 92, 1977. https://scholarship.law.vanderbilt.edu/faculty-publications/586 (unread)
 1. Schwartz, D. S. (2016). Justice Scalia’s Jiggery-Pokery in Federal Arbitration Law. Minnesota Law Review: Headnotes, 49, 74–93. https://scholarship.law.umn.edu/headnotes/49
 
     {{< details "Schwartz - Jiggery-Pokery - Conclusion" >}}
@@ -957,6 +945,10 @@ city.
 
 1. Gilles, M. (2016). The Day Doctrine Died: Private Arbitration and the End of Law. UNIVERSITY OF ILLINOIS LAW REVIEW, 2016(2).
 
+## Position Papers or Private Groups
+
+1. Katherine V.W. Stone & Alexander J.S. Colvin. (2015). The arbitration epidemic: Mandatory arbitration deprives workers and consumers of their rights (Briefing Paper 414). Economic Policy Institute. https://www.epi.org/publication/the-arbitration-epidemic/
+
 ## Blog Post
 
 - https://www.sheppardmullin.com/media/publication/1909_Class%20Actions_Arbitration%20Agreements%20and%20Class%20Action%20Waivers%20_Federal,%20CA_.pdf
@@ -974,6 +966,8 @@ city.
 
 - [Overcoming the Latest Supreme Court Arbitration Decision](https://library.nclc.org/article/overcoming-latest-supreme-court-arbitration-decision)
 
+# Footnotes
+
 [^1]: Need to double check this.
 [^ADEA]: [The Age Discrimination in Employment Act of 1967](https://www.eeoc.gov/statutes/age-discrimination-employment-act-1967)
 [^footnote7]: Justice SCALIA joins all but footnote 7 of this opinion.
@@ -986,3 +980,9 @@ Notes on cases and things not yet started above
 - American Safety Equipment Corp. v. JP Maguire & Co. - TBD. Commericial Arbitration
 
 - Volt Info. Scis., Inc. v. Bd. of Trustees of Leland Stanford Junior Univ., 109 S. Ct. 1248, 1250 (1989).
+
+SB 365, Wiener. Civil procedure: arbitration.
+passed move.
+### CFPB-2023-0047 (2023 attempt)
+
+1. PETITION FOR RULEMAKING: To Require Meaningful Consumer Consent Regarding the Use of Arbitration to Resolve Disputes Involving Consumer Financial Products and Services. (n.d.).
