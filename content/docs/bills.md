@@ -45,6 +45,7 @@ May 16, 2019
 {{< youtube id="PGu13Siv33U?start=1257" title="Justice Denied: Forced Arbitration and the Erosion of our Legal System" >}}
 
 # Footnotes
-[^hr4960sec]: Intended to overturn _Mitsubishi_. The SEC opposed this bill because the industry was not expanding its use of mandatory arbitration. Cain Supra footnode 163.
+[^hr4960sec]: Intended to overturn _Mitsubishi_. The SEC opposed this bill because the industry was not expanding its use of mandatory arbitration. [^caincitenote]
+[^caincitenote]: Cain, R. M. (1988). Commercial Disputes and Compulsory Arbitration. The Business Lawyer, footnote 163
 
 # Additional notes for the future
