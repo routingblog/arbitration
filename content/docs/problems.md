@@ -4,11 +4,13 @@ type: docs
 weight: 1
 ---
 
+# Introduction
+
 The Supreme Court has repeatedly ignored the plain meaning of the statutes, congressional intent in writing the FAA, as well the standard rules of statutory interpretation effectively rewriting Title 9 to invent a "national policy favoring arbitration" [^jiggery] [^schwartzcorrecting] as a form of “do it yourself-tort reform". [^sternlight]
 
 # General Information
 
-- Arbitration was designed for entities of equal bargaining power [^creeping] [^comm] [^rustic]
+- Arbitration, when passed, was designed for contract disputes between merchants, not statutory claims or between entities of unequal bargaining power. [^creeping] [^comm] [^rustic] In fact members of Congress expressly disavowed touching either consumer or employment contracts - and even went so far as to make that explicit with respect to employment. [^scaliaclass1]
 
 - Arbitration, as practiced, is unique to the United States [^cain2]
 
@@ -100,6 +102,8 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 [^privateknappcite4]: Knapp Supra pp 791 [^privateknappcite1]
 
 [^gilles]: Gilles, M. (2016). The Day Doctrine Died: Private Arbitration and the End of Law. UNIVERSITY OF ILLINOIS LAW REVIEW, 2016(2). note 1 at 397
+
+[^scaliaclass1]: Fitzpatrick, B. T. (2017). Justice Scalia and Class Actions. Notre Dame Law Review, 92, 1977. https://scholarship.law.vanderbilt.edu/faculty-publications/586 pp 1986 note 58 (via citation)
 
 
 
