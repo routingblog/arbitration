@@ -139,7 +139,7 @@ See other past [proposed bills]({{< relref "bills" >}})
 
 ## Law Journal And Academic Articles
 
-1. Fitzpatrick, B. T. (2017). Justice Scalia and Class Actions. Notre Dame Law Review, 92, 1977. https://scholarship.law.vanderbilt.edu/faculty-publications/586 (unread)
+1. Fitzpatrick, B. T. (2017). Justice Scalia and Class Actions. Notre Dame Law Review, 92, 1977. https://scholarship.law.vanderbilt.edu/faculty-publications/586
 
 ## Position Papers or Private Groups
 
