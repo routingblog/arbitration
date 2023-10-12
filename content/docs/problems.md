@@ -49,6 +49,8 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 
 - A commercial entity can cloister itself away from significant financial liability, as well as any correlative damages award meant to deter unsavory behavior [^classdismissed]
 
+- "by far the most effective" tool to undermine class actions has been "arbitration provisions expressly waiving the right to any collective adjudication" [^gilles]
+
 # Consumer Credit
 
 - Although proponents claim that arbitration decreases litigation costs for consumers, consumers often do not receive any benefit of reduced costs through forced arbitration.
@@ -89,13 +91,16 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 
 [^schwartzcorrecting]: Schwartz, D. (2004). Correcting Federalism Mistakes in Statutory Interpretation: The Supreme Court and the Federal Arbitration Act. Law and Contemporary Problems, 67(1), 5–54. https://scholarship.law.duke.edu/lcp/vol67/iss1/2 pp 5
 
-[^privateknappcite1]:  Knapp, C. L. (2002). Taking Contracts Private: The Quiet Revolution in Contract Law. Fordham Law Review, 71(3), 761–798. pp 782 (via citation)
+[^privateknappcite1]: Knapp, C. L. (2002). Taking Contracts Private: The Quiet Revolution in Contract Law. Fordham Law Review, 71(3), 761–798. pp 782 (via citation)
 
-[^privateknappcite2]:  Knapp Supra pp 782 [^privateknappcite1]
+[^privateknappcite2]: Knapp Supra pp 782 [^privateknappcite1]
 
-[^privateknappcite3]:  Knapp Supra pp 784 [^privateknappcite1]
+[^privateknappcite3]: Knapp Supra pp 784 [^privateknappcite1]
 
-[^privateknappcite4]:  Knapp Supra pp 791 [^privateknappcite1]
+[^privateknappcite4]: Knapp Supra pp 791 [^privateknappcite1]
+
+[^gilles]: Gilles, M. (2016). The Day Doctrine Died: Private Arbitration and the End of Law. UNIVERSITY OF ILLINOIS LAW REVIEW, 2016(2). note 1 at 397
+
 
 
 
