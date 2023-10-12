@@ -313,7 +313,7 @@ Pull Quote:
 
 The footnotes are also interesting since they give more history as to the federal statute.
 
-## AT&T Mobility LLC v. Concepcion, 563 U.S. 333 (2011)A
+## AT&T Mobility LLC v. Concepcion, 563 U.S. 333 (2011) {id="att-mobility-v-concepcion"}
 
 Core Question: does FAA preempt state law on enforcement of arbitration on availability of class-wide relief
 
@@ -327,7 +327,7 @@ Core Question: does FAA preempt state law on enforcement of arbitration on avail
 Pull Quote (from syllabus):
 > Because it “stands as an obstacle to the accomplishment and execution of the full purposes and objectives of Congress,” Hines v. Davidowitz, 312 U. S. 52, 67, California’s Discover Bank rule is preempted by the FAA. Pp. 4–18
 
-## American Express Co. v. Italian Colors Restaurant, 570 US 228 (2013)
+## American Express Co. v. Italian Colors Restaurant, 570 US 228 (2013) {id="amex-v-italian-colors"}
 
 One Line Summary: The FAA does not permit courts to invalidate clauses that mandate individual arbitration
 
