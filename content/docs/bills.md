@@ -28,6 +28,7 @@ There have been many attempts to fix the problem. This table lists some of them.
 | [H.R.4120 - Protecting Older Americans Act of 2023](https://www.congress.gov/bill/118th-congress/house-bill/4120) | 118th Congress (2023-2024) | |
 | [H.R.5125 - End Servicemember Forced Arbitration Act](https://www.congress.gov/bill/118th-congress/house-bill/5125) | 118th Congress (2023-2024) | |
 | · [S.1408 - Ending Forced Arbitration of Race Discrimination Act of 2023](https://www.congress.gov/bill/118th-congress/senate-bill/1408) <br> · [H.R.3038 - Ending Forced Arbitration of Race Discrimination Act of 2023](https://www.congress.gov/bill/118th-congress/house-bill/3038) | 118th Congress (2023-2024) | |
+| [H.R.5516](https://www.congress.gov/bill/118th-congress/house-bill/5516/text) | 118th Congress (2023-2024) | |
 
 # Proposed State Bills
 
