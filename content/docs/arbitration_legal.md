@@ -73,7 +73,7 @@ Pull Quote (from majority):
 ...unless it may be said with positive assurance that the arbitration clause is not susceptible of an interpretation that covers the asserted dispute...
 {{< /details >}}
 
-## Southland Corp. v. Keating, 465 U.S. 1 (1984)
+## Southland Corp. v. Keating, 465 U.S. 1 (1984) {id="southland-v-keating"}
 
 One Line Summary: FAA applies to contracts under state law (due to congressional intent)
 
@@ -176,7 +176,7 @@ Pull Quote from Dissent (pg 42):
 
 ## Allied-Bruce Terminix Cos. v. Dobson 513 US 265 (1995)
 
-One Line Summary: contracting requiring arbitration is applied to all disputes involving commerce even though it isn't interstate
+One Line Summary: contracts requiring arbitration is applied to all disputes involving commerce even though it isn't interstate
 
 - Wikipedia: {{< todo />}} (unread)
 - [Court Opinion (Court Listener)](https://www.courtlistener.com/opinion/117892/allied-bruce-terminix-cos-v-dobson/) (unread)
@@ -191,7 +191,7 @@ Pull Quote (from {{< todo />}}):
 {{< details "{{< todo />}}" >}}
 {{< /details >}}
 
-
+Twenty state attorneys general as amici curiae argued that [Southland]({{< relref "/#southland-v-keating" >}}) should be overruled. [^correcting1]
 
 ## Doctor’s Associates, Inc. v. Casarotto, 517 U.S. 681 (1996)
 
@@ -940,7 +940,8 @@ Taken together, Justice Scalia’s major federal arbitration law opinions render
 1. American Arbitration Association, American Bar Association, & American Medical Association. (1998). Healthcare Due Process Protocol. Commission On Health Care Dispute Resolution.
 1. Stone, K. V. W. (2018). Rustic Justice: Community and Coercion under the Federal Arbitration Act [Preprint]. LawArXiv. https://doi.org/10.31228/osf.io/6g7e3 (unread)
 1. Sternlight, J. (2002). Is the U.S. Out on a Limb? Comparing the U.S. Approach to Mandatory Consumer and Employment Arbitration to that of the Rest of the World. Scholarly Works. https://scholars.law.unlv.edu/facpub/273 (unread)
-1. Schwartz, D. (2004). Correcting Federalism Mistakes in Statutory Interpretation: The Supreme Court and the Federal Arbitration Act. Law and Contemporary Problems, 67(1), 5–54. https://scholarship.law.duke.edu/lcp/vol67/iss1/2 (unread)
+1. Schwartz, D. (2004). Correcting Federalism Mistakes in Statutory Interpretation: The Supreme Court and the Federal Arbitration Act. Law and Contemporary Problems, 67(1), 5–54. https://scholarship.law.duke.edu/lcp/vol67/iss1/2
+    (unread)
 1. Knapp, C. L. (2002). Taking Contracts Private: The Quiet Revolution in Contract Law. Fordham Law Review, 71(3), 761–798. (unread)
 
     {{< details "Knapp - Taking Contracts Private - Conclusion" >}}
@@ -988,6 +989,7 @@ city.
 [^ADEA]: [The Age Discrimination in Employment Act of 1967](https://www.eeoc.gov/statutes/age-discrimination-employment-act-1967)
 [^footnote7]: Justice SCALIA joins all but footnote 7 of this opinion.
 [^ejusdemgeneris]: [Rules of Statutory Construction and Interpretation](https://www.supremecourt.gov/DocketPDF/18/18-9575/102239/20190611092122150_00000055.pdf) §16
+[^correcting1]: Schwartz, D. (2004). Correcting Federalism Mistakes in Statutory Interpretation: The Supreme Court and the Federal Arbitration Act. Law and Contemporary Problems, 67(1), 5–54. https://scholarship.law.duke.edu/lcp/vol67/iss1/2 pp 10
 
 # Misc Other Notes
 
