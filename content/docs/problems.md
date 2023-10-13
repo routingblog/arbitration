@@ -14,7 +14,7 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 
 - Arbitration, as practiced, is unique to the United States [^cain2]
 
-- The FAA was never even intended by the enacting Congress to apply in state court. [^schwartzcorrecting]
+- The FAA was intended to be a procedural statute for the federal courts. It was never intended by the enacting Congress to apply in state court. [^schwartzcorrecting]
 
 - A recalcitrant defendant can delay the start of meaningful proceedings a really long time. For example they can appeal the motion to compel and this would stay the civil court proceedings in the meantime[^coinbase]
 
@@ -104,6 +104,7 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 [^gilles]: Gilles, M. (2016). The Day Doctrine Died: Private Arbitration and the End of Law. UNIVERSITY OF ILLINOIS LAW REVIEW, 2016(2). note 1 at 397
 
 [^scaliaclass1]: Fitzpatrick, B. T. (2017). Justice Scalia and Class Actions. Notre Dame Law Review, 92, 1977. https://scholarship.law.vanderbilt.edu/faculty-publications/586 pp 1986 note 58 (via citation)
+
 
 
 
