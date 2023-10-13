@@ -245,12 +245,12 @@ Pull Quote (from {{< todo />}}):
 {{< details "{{< todo />}}" >}}
 {{< /details >}}
 
-## Preston v. Ferrer
+##  Preston v. Ferrer, 552 U.S. 346 (2008)
 
 One Line Summary: {{< todo />}}
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Preston_v._Ferrer)
-- Court Opinion (Court Listener): {{< todo />}} (unread)
+- [Court Opinion (Court Listener)](https://www.courtlistener.com/opinion/145830/preston-v-ferrer/) (unread)
 - Court Opinion (pdf): {{< todo />}} (unread)
 - [Oyez](https://www.oyez.org/cases/2007/06-1463)
 - Majority Author: {{< todo />}} (unread)
