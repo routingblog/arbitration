@@ -941,7 +941,11 @@ Taken together, Justice Scalia’s major federal arbitration law opinions render
 1. Stone, K. V. W. (2018). Rustic Justice: Community and Coercion under the Federal Arbitration Act [Preprint]. LawArXiv. https://doi.org/10.31228/osf.io/6g7e3 (unread)
 1. Sternlight, J. (2002). Is the U.S. Out on a Limb? Comparing the U.S. Approach to Mandatory Consumer and Employment Arbitration to that of the Rest of the World. Scholarly Works. https://scholars.law.unlv.edu/facpub/273 (unread)
 1. Schwartz, D. (2004). Correcting Federalism Mistakes in Statutory Interpretation: The Supreme Court and the Federal Arbitration Act. Law and Contemporary Problems, 67(1), 5–54. https://scholarship.law.duke.edu/lcp/vol67/iss1/2
-    (unread)
+
+    {{< details "Schwartz - Correcting - Conclusion" >}}
+Southland and its progeny are the result of bad statutory interpretation and even worse federalism. The historical evidence demonstrates that Congress never intended to preempt state law regulating arbitration agreements. To the contrary, the best interpretation of the FAA is that, by virtue of its savings clause, federal courts should normally be bound by state-law restrictions on arbitration enforcement. The evidence against Southland is so strong that it seems that no one defends it on the merits anymore: Southland lives on only because of the Court’s reluctance to overrule a statutory interpretation precedent, its desire to spread arbitration far and wide, or a combination of the two.
+{{< /details >}}
+
 1. Knapp, C. L. (2002). Taking Contracts Private: The Quiet Revolution in Contract Law. Fordham Law Review, 71(3), 761–798. (unread)
 
     {{< details "Knapp - Taking Contracts Private - Conclusion" >}}
