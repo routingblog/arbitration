@@ -7,6 +7,24 @@ slug: arbitration
 
 # Supreme Court Decisions
 
+## Shanferoke Coal & Supply Corp. v. Westchester Service Corp., 293 U.S. 449 (1935)
+
+One Line Summary: {{< todo />}}
+
+- Wikipedia: {{< todo />}} (unread)
+- Court Opinion (Court Listener): {{< todo />}} (unread)
+- Court Opinion (pdf): {{< todo />}} (unread)
+- Oyez: {{< todo />}} (unread)
+- Majority Author: {{< todo />}} (unread)
+- Concurrence: {{< todo />}} (unread)
+- Dissents: {{< todo />}} (unread)
+
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
+{{< /details >}}
+
+
 ## Wilko v. Swan, 346 U.S. 427 (1953) {id="wilko-v-swan"}
 
 One Line Summary: The Securities Act overrides the Federal Arbitration Act.
@@ -21,6 +39,23 @@ One Line Summary: The Securities Act overrides the Federal Arbitration Act.
 
 {{< details "Pull Quote (from majority):" >}}
 Two policies, not easily reconcilable, are involved in this case. Congress has afforded participants in transactions subject to its legislative power an opportunity generally to secure prompt, economical and adequate solution of controversies through arbitration if the parties are willing to accept less certainty of legally correct adjustment. On the other hand, it has enacted the Securities Act to protect the rights of investors and has forbidden a waiver of any of those rights. Recognizing the advantages that prior agreements for arbitration may provide for the solution of commercial controversies, we decide that the intention of Congress concerning the sale of securities is better carried out by holding invalid such an agreement for arbitration of issues arising under the Act.
+{{< /details >}}
+
+## Bernhardt v. Polygraphic Co. 350 U.S. 198 (1956)
+
+One Line Summary: {{< todo />}}
+
+- Wikipedia: {{< todo />}} (unread)
+- Court Opinion (Court Listener): {{< todo />}} (unread)
+- Court Opinion (pdf): {{< todo />}} (unread)
+- Oyez: {{< todo />}} (unread)
+- Majority Author: {{< todo />}} (unread)
+- Concurrence: {{< todo />}} (unread)
+- Dissents: {{< todo />}} (unread)
+
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
 {{< /details >}}
 
 ## Prima Paint Corp. v. Flood & Conklin Mfg. Co., 388 US 395 (1967)
