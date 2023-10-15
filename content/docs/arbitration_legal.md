@@ -853,7 +853,9 @@ which effectively reversed [Coinbase]({{< relref "#coinbase-v-bielski" >}}) for 
 
 ### CFPB-2023-0047 (2023 attempt)
 
-1. PETITION FOR RULEMAKING: To Require Meaningful Consumer Consent Regarding the Use of Arbitration to Resolve Disputes Involving Consumer Financial Products and Services. (n.d.).
+- [Notice](https://www.consumerfinance.gov/rules-policy/petitions-rulemaking/naca-et-al/)
+- [PETITION FOR RULEMAKING: To Require Meaningful Consumer Consent Regarding the Use of Arbitration to Resolve Disputes Involving Consumer Financial Products and Services](https://downloads.regulations.gov/CFPB-2023-0047-0001/content.pdf)
+- [Posted Comments](https://www.regulations.gov/document/CFPB-2023-0047-0001/comment)
 
 ### Arbitration Agreements - 2016 attempt
 
@@ -861,10 +863,6 @@ which effectively reversed [Coinbase]({{< relref "#coinbase-v-bielski" >}}) for 
 - Regulation Comments: https://www.regulations.gov/docket/CFPB-2016-0020
 - [Disapproval Notice](https://www.federalregister.gov/documents/2017/11/22/2017-25324/arbitration-agreements)
 - Congressional Review Act Disapproval: [PUBLIC LAW 115-74](https://www.govinfo.gov/content/pkg/PLAW-115publ74/pdf/PLAW-115publ74.pdf)
-
-
-### Petition to Require Meaningful Consumer Consent Regarding the Use of Arbitration to Resolve Disputes Involving Consumer Financial Products and Services
-- https://www.regulations.gov/docket/CFPB-2023-0047
 
 ### Truth in Lending Act (Regulation Z); Loan Originator Compensation -
 
