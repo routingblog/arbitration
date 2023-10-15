@@ -715,6 +715,8 @@ Pull Quote (from {{< todo />}}):
 
 Defines manifest disregard for the law (in the 2nd circuit)
 
+## Engalla v. Permanente Medical Group, Inc. 43 Cal. Rptr. 2d 621 (Cal. Ct. App. 1995)
+
 
 ### In re: TikTok Inc. Consumer Privacy Litigation, Case No. 1:20-cv-04699
 
