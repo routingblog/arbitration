@@ -960,7 +960,12 @@ Courts may feel vidually for their possible congressional in For this reason, am
 {{< /details >}}
 
 1. Hwang, M., & Chung, K. (2009). Defining the Indefinable&#58; Practical Problems of Confidentiality in Arbitration. Journal of International Arbitration, 26(5). <https://kluwerlawonline.com/api/Product/CitationPDFURL?file=Journals\JOIA\JOIA2009034.pdf> (unread)
-1. Menkel-Meadow, C. (n.d.). Do the ‘Haves’ Come out Ahead in Alternative Judicial Systems?,: Repeat Players in ADR. 15. (unread)
+1. Menkel-Meadow, C. (n.d.). Do the ‘Haves’ Come out Ahead in Alternative Judicial Systems?,: Repeat Players in ADR. 15.
+
+    {{< details "Menkel-Meadow - Do the ‘Haves’ - Conclusion" >}}
+In short, we think we know that the "'Haves' Come out Ahead" in ADR, as they do in litigation, but they may come out ahead in different ways or for different reasons. Therefore, as socio-legal scholars who have much to thank Marc Galanter for, it behooves the legal and social empiricists and reformers among us to collect the data we need so we can be more certain that the solutions we suggest will solve the problems that actually exist and not the ones we simply think exist. If the "'Haves' Come out Ahead" in both litigation and ADR, then where will we go next to achieve social justice in disputing?
+{{< /details >}}
+
 1. Hill, E. (2003). Due Process at Low Cost: An Empirical Study of Employment Arbitration Under the Auspices of the American Arbitration Association. https://kb.osu.edu/handle/1811/77065 (unread)
 1. Colvin, A. J. S. (2008). Empirical Research on Employment Arbitration: Clarity Amidst the Sound and Fury? (SSRN Scholarly Paper 1090335). https://papers.ssrn.com/abstract=1090335 (unread)
 1. Covington, R. N. (1998). Employment Arbitration After Gilmer: Have Labor Courts Come to the United States? (unread)
