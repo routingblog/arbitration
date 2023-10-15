@@ -26,6 +26,8 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 
 - When the contract limits remedies in other ways (reduced time to bring claims, limitations on injuctive relief, etc.) it is normally subject to Judicial review. Not so with arbitration. In fact, stepping "outside the bounds of the contract" are one of the few reasons arbitrator's awards can be vacated. [^privateknappcite4]
 
+- In true civil court the attorneys could have sanctions against them if they pointlessly delay the proceedings. Less so in arbitration.
+
 # Employment
 
 - Plaintiffs’ overall economic outcomes are on average 6.1 times better in federal court than in mandatory arbitration ($143,497 versus $23,548) and 13.9 times better in state court than in mandatory arbitration ($328,008 versus $23,548) [^stone1]
@@ -52,6 +54,8 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 - A commercial entity can cloister itself away from significant financial liability, as well as any correlative damages award meant to deter unsavory behavior [^classdismissed]
 
 - "by far the most effective" tool to undermine class actions has been "arbitration provisions expressly waiving the right to any collective adjudication" [^gilles]
+
+- Most arbitration agreements do not require reasoned or even written opinions, punitive damages, or other remedial possibilities [^galanterhaves1]
 
 # Consumer Credit
 
@@ -105,10 +109,4 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 
 [^scaliaclass1]: Fitzpatrick, B. T. (2017). Justice Scalia and Class Actions. Notre Dame Law Review, 92, 1977. https://scholarship.law.vanderbilt.edu/faculty-publications/586 pp 1986 note 58 (via citation)
 
-
-
-
-
-# To Be Sourced:
-
-- In true civil court the attorneys could have sanctions against them if they pointlessly delay the proceedings. Less so in arbitration.
+[^galanterhaves1]: Galanter, M. (1974). Why the ‘Haves’ Come out Ahead: Speculations on the Limits of Legal Change. Law & Society Review, 9(1), 95–160. https://doi.org/10.2307/3053023 pp 37
