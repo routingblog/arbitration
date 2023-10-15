@@ -46,6 +46,10 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 
 - Arbitrators habitually handle cases for the same corporate defendants over the course of four years. [^classdismissed2]
 
+- Higher-level employees with resources for representation and use of the Commercial Arbitration Rules were more likely to gain favorable results than those lower-level employees who were subject to the Employment Arbitration Rules. [^galanterhaves2]
+
+- Employees in nonunion contexts are still mostly one-shotters and are often unrepresented; also employees in arbitrations against repeat player employers do not fare as well as employees against nonrepeat player employers. [^galanterhaves2]
+
 
 # Class Actions
 
@@ -110,3 +114,5 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 [^scaliaclass1]: Fitzpatrick, B. T. (2017). Justice Scalia and Class Actions. Notre Dame Law Review, 92, 1977. https://scholarship.law.vanderbilt.edu/faculty-publications/586 pp 1986 note 58 (via citation)
 
 [^galanterhaves1]: Galanter, M. (1974). Why the ‘Haves’ Come out Ahead: Speculations on the Limits of Legal Change. Law & Society Review, 9(1), 95–160. https://doi.org/10.2307/3053023 pp 37
+
+[^galanterhaves2]: Galanter supra pp 44 footnote 107 (via citation)
