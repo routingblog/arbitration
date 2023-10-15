@@ -148,6 +148,13 @@ One Line Summary: FAA applies to contracts under state law (due to congressional
 In enacting § 2 of the federal Act, Congress declared a national policy favoring arbitration and withdrew the power of the states to require a judicial forum for the resolution of claims that the contracting parties agreed to resolve by arbitration.
 {{< /details >}}
 
+### Analysis
+
+1. Joshi, H. (2023). You Have Got to Be Keating Me: Why the Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act Is a Good Start. 2023. (unread)
+1. Jacobs, B. L. (n.d.). Often Wrong, Never in Doubt: How Anti-Arbitration Expectancy Bias May Limit Access to Justice. ACCESS TO JUSTICE, 62.
+1. Dunham, K. F. (2009). Southland Corp. v. Keating Revisited: Twenty-Five Years in Which Direction. Charleston Law Review, 4, 331. https://heinonline.org/HOL/Page?handle=hein.journals/charlwrev4&id=335&div=&collection= (unread)
+1. Schwartz, D. (2004). Correcting Federalism Mistakes in Statutory Interpretation: The Supreme Court and the Federal Arbitration Act. Law and Contemporary Problems, 67(1), 5–54. https://scholarship.law.duke.edu/lcp/vol67/iss1/2
+
 ## Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth, Inc., 473 U.S. 614 (1985)
 
 One Line Summary: Sherman act anti-trust claims arising from an international act are arbitrable.
