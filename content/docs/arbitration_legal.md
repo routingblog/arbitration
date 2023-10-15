@@ -1036,6 +1036,7 @@ city.
 
 1. Gilles, M. (2016). The Day Doctrine Died: Private Arbitration and the End of Law. UNIVERSITY OF ILLINOIS LAW REVIEW, 2016(2).
 1. Drahozal, C. R. (n.d.). In Defense of Southland: Reexamining the Legislative History of the Federal Arbitration Act. (unread)
+1. Alleyne, R. (1996). Statutory Discrimination Claims: Rights ‘Waived’ and Lost in the Arbitration Forum. Hofstra Labor & Employment Law Journal, 13(2). https://scholarlycommons.law.hofstra.edu/hlelj/vol13/iss2/3 (unread)
 
 ## Position Papers or Private Groups
 
