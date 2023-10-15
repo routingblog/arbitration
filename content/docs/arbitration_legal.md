@@ -27,7 +27,7 @@ Pull Quote (from {{< todo />}}):
 
 ## Wilko v. Swan, 346 U.S. 427 (1953) {id="wilko-v-swan"}
 
-One Line Summary: The Securities Act overrides the Federal Arbitration Act.
+One Line Summary: The Securities Act overrides the Federal Arbitration Act (the judicial forum is a “a substantial right” and thus non-waivable).
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Wilko_v._Swan)
 - [Oyez](https://www.oyez.org/cases/1940-1955/346us427)
@@ -58,9 +58,26 @@ Pull Quote (from {{< todo />}}):
 {{< details "{{< todo />}}" >}}
 {{< /details >}}
 
+## Steelworkers v. Warrior & Gulf Co., 363 U.S. 574 (1960)
+
+One Line Summary: {{< todo />}}
+
+- [Wikipedia](https://en.wikipedia.org/wiki/United_Steelworkers_v_Warrior_%26_Gulf_Navigation_Co)
+- Court Opinion (Court Listener): {{< todo />}} (unread)
+- Court Opinion (pdf): {{< todo />}} (unread)
+- Oyez: {{< todo />}} (unread)
+- Majority Author: {{< todo />}} (unread)
+- Concurrence: {{< todo />}} (unread)
+- Dissents: {{< todo />}} (unread)
+
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
+{{< /details >}}
+
 ## Prima Paint Corp. v. Flood & Conklin Mfg. Co., 388 US 395 (1967)
 
-One Line Summary: only the intent to arbitrate can be considered in court. Not any other defects in the contract (such as fraud).
+One Line Summary: {{< todo />}}
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Prima_Paint_Corp._v._Flood_%26_Conklin_Manufacturing_Co.)
 - [Oyez](https://www.oyez.org/cases/1966/343)
@@ -74,6 +91,17 @@ One Line Summary: only the intent to arbitrate can be considered in court. Not a
 
 > Since the claim of fraud here relates to inducement of the consulting agreement generally, rather than in the arbitration clause, and there is no evidence that the parties intended to withhold this issue from arbitration, there is no basis for granting a stay under § 3. Pp. 388 U. S. 406-407.
 {{< /details >}}
+
+
+### Analysis
+
+> Recognizing as "broad" a clause requiring arbitration of"[a]ny controversy or claim arising out of or relating to" the agreement
+
+> Holding that if the making of the arbitration agreement is an issue "the federal court may proceed to adjudicate it"
+
+> Holding that contractual language "[a]ny controversy or claims arising out of or relating to this Agreement, or breach thereof" is "easily broad enough to encompass" claim for fraud in inducement of contract
+
+> The Prima Paint Court erred, however, in asserting that the FAA’s basis was “confined to” Congress’s interstate commerce and admiralty power. That assertion is flat out wrong: As we have seen, the legislative history shows that Congress placed primary reliance for enacting the FAA on its control over the procedures of the federal courts. [^correcting2]
 
 ## Scherk v. Alberto-Culver Company 417 US 506 (1974)
 
@@ -105,7 +133,10 @@ Pull Quote (from majority):
 
 {{< details "Moses H Cone" >}}
 ...any doubts concerning the scope of arbitrable issues should be resolved in favor of arbitration...
+
 ...unless it may be said with positive assurance that the arbitration clause is not susceptible of an interpretation that covers the asserted dispute...
+
+Section 2 is a congressional declaration of a liberal federal policy favoring arbitration agreements, notwithstanding any state substantive or procedural policies to the contrary. The effect of the section is to create a body of federal substantive law of arbitrability, applicable to any arbitration agreement within the coverage of the act.
 {{< /details >}}
 
 ## Southland Corp. v. Keating, 465 U.S. 1 (1984) {id="southland-v-keating"}
@@ -227,6 +258,10 @@ Pull Quote (from {{< todo />}}):
 {{< /details >}}
 
 Twenty state attorneys general as amici curiae argued that [Southland]({{< relref "/#southland-v-keating" >}}) should be overruled. [^correcting1]
+
+> "I do not believe that proper application of stare decisis prevents correction of the mistake." 
+>
+> &mdash; <cite>Justice Scalia, dissenting.</cite>
 
 ## Doctor’s Associates, Inc. v. Casarotto, 517 U.S. 681 (1996)
 
@@ -1030,6 +1065,7 @@ city.
 [^footnote7]: Justice SCALIA joins all but footnote 7 of this opinion.
 [^ejusdemgeneris]: [Rules of Statutory Construction and Interpretation](https://www.supremecourt.gov/DocketPDF/18/18-9575/102239/20190611092122150_00000055.pdf) §16
 [^correcting1]: Schwartz, D. (2004). Correcting Federalism Mistakes in Statutory Interpretation: The Supreme Court and the Federal Arbitration Act. Law and Contemporary Problems, 67(1), 5–54. https://scholarship.law.duke.edu/lcp/vol67/iss1/2 pp 10
+[^correcting2]: Schwartz Supra pp 36 [^correcting1]
 
 # Misc Other Notes
 
