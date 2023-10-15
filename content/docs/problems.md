@@ -26,7 +26,9 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 
 - When the contract limits remedies in other ways (reduced time to bring claims, limitations on injuctive relief, etc.) it is normally subject to Judicial review. Not so with arbitration. In fact, stepping "outside the bounds of the contract" are one of the few reasons arbitrator's awards can be vacated. [^privateknappcite4]
 
-- In true civil court the attorneys could have sanctions against them if they pointlessly delay the proceedings. Less so in arbitration.
+- In civil court the attorneys could have sanctions against them if they pointlessly delay the proceedings. Less so in arbitration.
+
+- We have little empirical verification of the claims made both for and against arbitration and ADR, including positive assertions made about reduced cost, speed, and access to dispute mechanisms, as we really do not have much data about whether one-shotters always do worse in institutionally established ADR, although the Bingham 163 and Engalla data do demonstrate some clear areas for concern. [^galanterhaves3]
 
 # Employment
 
@@ -116,3 +118,5 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 [^galanterhaves1]: Galanter, M. (1974). Why the ‘Haves’ Come out Ahead: Speculations on the Limits of Legal Change. Law & Society Review, 9(1), 95–160. https://doi.org/10.2307/3053023 pp 37
 
 [^galanterhaves2]: Galanter supra pp 44 footnote 107 (via citation)
+
+[^galanterhaves3]: Galanter supra pp 58
