@@ -681,6 +681,23 @@ Core Claim (pull quote):
 
 See [Rosencrants]({{< relref "#rosencrants-fn" >}}) for detailed analysis.
 
+### National Labor Relations Board v. Murphy Oil USA, Inc.
+
+One Line Summary: {{< todo />}}
+
+- Wikipedia: {{< todo />}} (unread)
+- Court Opinion (Court Listener): {{< todo />}} (unread)
+- Court Opinion (pdf): {{< todo />}} (unread)
+- Oyez: {{< todo />}} (unread)
+- Majority Author: {{< todo />}} (unread)
+- Concurrence: {{< todo />}} (unread)
+- Dissents: {{< todo />}} (unread)
+
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
+{{< /details >}}
+
 <!-- case template -->
 <!--
 One Line Summary: {{< todo />}}
@@ -1005,8 +1022,6 @@ Taken together, Justice Scalia’s major federal arbitration law opinions render
 1. Dunham, K. F. (2009). Southland Corp. v. Keating Revisited: Twenty-Five Years in Which Direction. Charleston Law Review, 4, 331. https://heinonline.org/HOL/Page?handle=hein.journals/charlwrev4&id=335&div=&collection= (unread)
 1. Lampley, R. L. (2017). The CFPB Anti-Arbitration Proposal: Let’s Just Give Arbitration a Chance. St. Mary’s Law Journal, 48(2). (unread)
 1. hlr. (2023, April 10). The Enforcement Opportunity: From Mass Arbitration to Mass Organizing. Harvard Law Review. https://harvardlawreview.org/print/vol-136/the-enforcement-opportunity-from-mass-arbitration-to-mass-organizing/ (unread)
-1. Colvin, A. J. S. (2018). The growing use of mandatory arbitration (144131; pp. 1–17). Economic Policy Institute.
-
 1. Gilles, M. (n.d.). THE PRIVATE ATTORNEY GENERAL IN A TIME OF HYPER-POLARIZED POLITICS. ARIZONA LAW REVIEW, 65. (unread)
 1. THE SUBSTANTIVE WAIVER DOCTRINE IN EMPLOYMENT ARBITRATION LAW. (n.d.). HARVARD LAW REVIEW. (unread)
 1. Gross, J. I. (n.d.). THE UBERIZATION OF ARBITRATION CLAUSES. (unread)
@@ -1052,6 +1067,7 @@ city.
 ## Position Papers or Private Groups
 
 1. Katherine V.W. Stone & Alexander J.S. Colvin. (2015). The arbitration epidemic: Mandatory arbitration deprives workers and consumers of their rights (Briefing Paper 414). Economic Policy Institute. https://www.epi.org/publication/the-arbitration-epidemic/
+1. Colvin, A. J. S. (2018). The growing use of mandatory arbitration (144131; pp. 1–17). Economic Policy Institute.
 
 ## Blog Post
 
