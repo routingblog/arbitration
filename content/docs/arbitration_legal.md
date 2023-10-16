@@ -213,7 +213,7 @@ Part of Mitsubishi trilogy which allowed arbitration to hear statutory claims.
 
 ## Rodriguez de Quijas v. Shearson/American Express Inc., 490 U.S. 477 (1989) {id="Quijas-v-american-express"}
 
-- One Line Summary: {{< todo >}} (unread)
+- One Line Summary: {{< todo />}} (unread)
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Rodriguez_de_Quijas_v._Shearson/American_Express_Inc.)
 - Court Opinion (Court Listener): {{< todo />}} (unread)
