@@ -1002,7 +1002,8 @@ Taken together, Justice Scalia’s major federal arbitration law opinions render
 1. Dunham, K. F. (2009). Southland Corp. v. Keating Revisited: Twenty-Five Years in Which Direction. Charleston Law Review, 4, 331. https://heinonline.org/HOL/Page?handle=hein.journals/charlwrev4&id=335&div=&collection= (unread)
 1. Lampley, R. L. (2017). The CFPB Anti-Arbitration Proposal: Let’s Just Give Arbitration a Chance. St. Mary’s Law Journal, 48(2). (unread)
 1. hlr. (2023, April 10). The Enforcement Opportunity: From Mass Arbitration to Mass Organizing. Harvard Law Review. https://harvardlawreview.org/print/vol-136/the-enforcement-opportunity-from-mass-arbitration-to-mass-organizing/ (unread)
-1. The growing use of mandatory arbitration: Access to the courts is now barred for more than 60 million American workers. (n.d.). Economic Policy Institute. Retrieved 28 August 2023, from https://www.epi.org/publication/the-growing-use-of-mandatory-arbitration-access-to-the-courts-is-now-barred-for-more-than-60-million-american-workers/ (unread)
+1. Colvin, A. J. S. (2018). The growing use of mandatory arbitration (144131; pp. 1–17). Economic Policy Institute.
+
 1. Gilles, M. (n.d.). THE PRIVATE ATTORNEY GENERAL IN A TIME OF HYPER-POLARIZED POLITICS. ARIZONA LAW REVIEW, 65. (unread)
 1. THE SUBSTANTIVE WAIVER DOCTRINE IN EMPLOYMENT ARBITRATION LAW. (n.d.). HARVARD LAW REVIEW. (unread)
 1. Gross, J. I. (n.d.). THE UBERIZATION OF ARBITRATION CLAUSES. (unread)

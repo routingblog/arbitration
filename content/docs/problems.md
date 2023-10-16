@@ -52,6 +52,8 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 
 - Employees in nonunion contexts are still mostly one-shotters and are often unrepresented; also employees in arbitrations against repeat player employers do not fare as well as employees against nonrepeat player employers. [^galanterhaves2]
 
+- The share of workers subject to mandatory arbitration exceedss 55 percent is growing. Among companies with 1,000 or more employees, 65 percent have mandatory arbitration procedures. 30 percent also include class action waivers in their procedures [^colvin1]
+
 
 # Class Actions
 
@@ -120,3 +122,5 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 [^galanterhaves2]: Galanter supra pp 44 footnote 107 (via citation)
 
 [^galanterhaves3]: Galanter supra pp 58
+
+[^colvin1]: Colvin, A. J. S. (2018). The growing use of mandatory arbitration (144131; pp. 1–17). Economic Policy Institute. pp 2,p
