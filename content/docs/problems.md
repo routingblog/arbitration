@@ -20,7 +20,7 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 
 - Arbiters are not required to follow or even know the law. [^liptonlaw] [^privateknappcite2] Only in narrow circumstances (in "manifest disregard") where the arbitrators must be found to have "understood and correctly stated the law but proceeded to ignore it." [^merrill]
 
-- The lower probability of victory, the lack of class representation, and meager legal fees discourage attorneys from representing individuals in arbitration proceedings. This is particularly a problem where the fees will be paid on contigency (most employment and consumer cases). [^stone1] [^privateknappcite3]
+- The lower probability of victory, the lack of class representation, and meager legal fees discourage attorneys from representing individuals in arbitration proceedings. This is particularly a problem where the fees will be paid on contigency (most employment and consumer cases). [^stone1] [^privateknappcite3] [^colvin2]
 
 - Arbitration requires the waiver of jury trials.  While the jury is probably still out on this issue, there is a general perception that arbitrators give smaller awards than juries. [^privateknappcite1]
 
@@ -34,9 +34,9 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 
 - Plaintiffs’ overall economic outcomes are on average 6.1 times better in federal court than in mandatory arbitration ($143,497 versus $23,548) and 13.9 times better in state court than in mandatory arbitration ($328,008 versus $23,548) [^stone1]
 
-- Employee win rates in mandatory arbitration are much lower than in either federal court or state court, with employees in mandatory arbitration winning only just about a fifth of the time (21.4 percent), which is 59 percent as often as in the federal courts and only 38 percent as often as in state courts[^stone2]
+- Employee win rates in mandatory arbitration are much lower than in either federal court or state court, with employees in mandatory arbitration winning only just about a fifth of the time, which is 59 percent as often as in the federal courts and only 38 percent as often as in state courts[^stone2] [^colvin2]
 
-- Differences in damages awarded are even greater, with the median or typical award in mandatory arbitration being only 21 percent of the median award in the federal courts and 43 percent of the median award in the state courts[^stone2]
+- Differences in damages awarded are even greater, with the median or typical award in mandatory arbitration being only 21 percent of the median award in the federal courts and 43 percent of the median award in the state courts[^stone2] [^colvin2]
 
 - Average outcome in mandatory arbitration is only 16 percent of that in the federal courts and 7 percent of that in state courts [^stone2]
 
@@ -124,3 +124,5 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 [^galanterhaves3]: Galanter supra pp 58
 
 [^colvin1]: Colvin, A. J. S. (2018). The growing use of mandatory arbitration (144131; pp. 1–17). Economic Policy Institute. pp 2,p
+
+[^colvin2]: Colvin, A. J. S. (2014). Mandatory Arbitration and Inequality of Justice in Employment. Berkeley Journal of Employment and Labor Law, 35(1/2), 71–90. https://www.jstor.org/stable/24052567 pp 80
