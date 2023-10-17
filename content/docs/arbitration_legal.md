@@ -837,10 +837,10 @@ Stolt-Nielsen v. Animalfeeds International Corp. - https://www.oyez.org/cases/20
 
 # Statutes
 
-| Common Name | Identifier |
-| ----------- | ---------- |
+| Common Name | Identifier | Notes |
+| ----------- | ---------- | ----- |
 | [Dodd-Frank Act](https://www.govinfo.gov/content/pkg/PLAW-111publ203/html/PLAW-111publ203.htm) | Pub. L. 111-203 I.A §113 |
-| • [Federal Arbitration Act (as amended)](https://uscode.house.gov/view.xhtml?path=/prelim@title9&edition=prelim) <br> • https://www.law.cornell.edu/uscode/text/9 | 9 U.S.C. |
+| • [Federal Arbitration Act (as amended)](https://uscode.house.gov/view.xhtml?path=/prelim@title9&edition=prelim) <br> • https://www.law.cornell.edu/uscode/text/9 | 9 U.S.C. | Originally enacted 1925 |
 | [Motor Vehicle Franchise Contract Arbitration Fairness Act](https://www.law.cornell.edu/uscode/text/15/1226) | 15 U.S. Code § 1226 |
 | • [H.R.4445 - Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act of 2021](https://www.congress.gov/bill/117th-congress/house-bill/4445) <br> • [H.R.4445 pdf](https://www.congress.gov/117/crpt/hrpt234/CRPT-117hrpt234.pdf) <br> • [H. Rept. 117-234](https://www.congress.gov/congressional-report/117th-congress/house-report/234/1)  | H.R.4445 |
 
