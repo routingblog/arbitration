@@ -69,6 +69,8 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 
 - Most arbitration agreements do not require reasoned or even written opinions, punitive damages, or other remedial possibilities [^galanterhaves1]
 
+- By avoiding class actions companies can also avoid FRCP §23(b)(2) injuctive relief. That is, they could avoid judicial orders to stop their behavior generally instead merely in specific cases.
+
 # Consumer Credit
 
 - Although proponents claim that arbitration decreases litigation costs for consumers, consumers often do not receive any benefit of reduced costs through forced arbitration.

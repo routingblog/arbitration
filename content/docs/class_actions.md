@@ -123,6 +123,7 @@ Pull Quote (from {{< todo />}}):
 
 | Common Name | Identifier |
 | ----------- | ---------- |
+| [Federal Rules of Civil Procedure - Rule 23 - Class Actions](https://www.law.cornell.edu/rules/frcp/rule_23) | FRCP §23 |
 
 ## Proposed State and National Bills
 
@@ -139,6 +140,8 @@ See other past [proposed bills]({{< relref "bills" >}})
 
 ## Law Journal And Academic Articles
 
+1. Scheuerman, S. B. (2009). Due Process Forgotten: The Problem of Statutory Damages and Class Actions. Missouri Law Review, 74.
+1. Grande, T. R. (n.d.). Innovative Class Action Techniques—The Use of Rule 23(b)(2) in Consumer Class Actions. Loyola Consumer Law Review, 14. (unread)
 1. Fitzpatrick, B. T. (2017). Justice Scalia and Class Actions. Notre Dame Law Review, 92, 1977. https://scholarship.law.vanderbilt.edu/faculty-publications/586
 
 ## Position Papers or Private Groups
