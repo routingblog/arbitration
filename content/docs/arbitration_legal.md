@@ -1074,6 +1074,12 @@ city.
 Mandatory employment arbitration has expanded to the point where it has now surpassed court litigation as the most common process through which the rights of American workers 12 are adjudicated and enforced. The rise of this problematic practice needs to be given much greater attention in employment policy discussions. If the Supreme Court does not reverse its trend of supporting mandatory arbitration and instead put the brakes on enforcement of class action waivers in its upcoming decision, it will be necessary for Congress to act in order to ensure that American workers have an effective means of enforcing the rights they have been promised.
     {{< /details >}}
 
+## Arbitration Provider Rules
+
+1. Employment Arbitration Minimum Standards | JAMS Mediation, Arbitration, ADR Services. (2009, July 15). https://www.jamsadr.com/employment-minimum-standards/
+1. Consumer Arbitration Minimum Standards | JAMS Mediation, Arbitration, ADR Services. (2009, July 15). https://www.jamsadr.com/consumer-minimum-standards/
+
+
 ## Blog Post
 
 - https://www.sheppardmullin.com/media/publication/1909_Class%20Actions_Arbitration%20Agreements%20and%20Class%20Action%20Waivers%20_Federal,%20CA_.pdf

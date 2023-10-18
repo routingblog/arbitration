@@ -69,6 +69,16 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 
 - Although proponents claim that arbitration decreases litigation costs for consumers, consumers often do not receive any benefit of reduced costs through forced arbitration.
 
+# Opt Out Clauses
+
+Why do some contracts of adhesion have opt-out clauses?
+
+- They reduce the chance that the contract will be held to be procedurally or substantially unconscionable
+
+- They allow the employer to avoid e.g., JAMS minimum standards. In particular they allow the companies to argue that the arbitration is not "required as a condition of employment". [^jams1]
+
+# Footnotes
+
 [^creeping]: Sternlight, J. R. (2005). Creeping Mandatory Arbitration: Is It Just? Scholarly Works, 57(280), 1631–1676. pp 1631
 
 [^comm]: Cain, R. M. (1988). Commercial Disputes and Compulsory Arbitration. The Business Lawyer, pp 65
@@ -126,3 +136,5 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 [^colvin1]: Colvin, A. J. S. (2018). The growing use of mandatory arbitration (144131; pp. 1–17). Economic Policy Institute. pp 2,p
 
 [^colvin2]: Colvin, A. J. S. (2014). Mandatory Arbitration and Inequality of Justice in Employment. Berkeley Journal of Employment and Labor Law, 35(1/2), 71–90. https://www.jstor.org/stable/24052567 pp 80
+
+[^jams1]: Employment Arbitration Minimum Standards | JAMS Mediation, Arbitration, ADR Services. (2009, July 15). https://www.jamsadr.com/employment-minimum-standards/ §B
