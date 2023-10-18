@@ -1078,6 +1078,7 @@ Mandatory employment arbitration has expanded to the point where it has now surp
 
 1. Employment Arbitration Minimum Standards | JAMS Mediation, Arbitration, ADR Services. (2009, July 15). https://www.jamsadr.com/employment-minimum-standards/
 1. Consumer Arbitration Minimum Standards | JAMS Mediation, Arbitration, ADR Services. (2009, July 15). https://www.jamsadr.com/consumer-minimum-standards/
+1. Employment Arbitration Rules and Mediation Procedures. (2017). American Arbitration Association. (unread)
 
 
 ## Blog Post
