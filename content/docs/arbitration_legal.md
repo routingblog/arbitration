@@ -1114,3 +1114,10 @@ Notes on cases and things not yet started above
 - American Safety Equipment Corp. v. JP Maguire & Co. - TBD. Commericial Arbitration
 
 - Volt Info. Scis., Inc. v. Bd. of Trustees of Leland Stanford Junior Univ., 109 S. Ct. 1248, 1250 (1989).
+
+
+Enforcement of agreements with opt-outs
+
+- Mohamed v. Uber Techs., Inc., 848 F.3d 1201,
+- Simeon v. Domino’s Pizza LLC, No. 17-cv-5550, 2019 WL 7882143, at *5 (E.D.N.Y. Feb. 6, 2019)
+- Selman v. FCB Worldwide Inc., No.  B168315, 2004 WL 2729656, at *3 (Cal. Ct. App. Dec. 1, 2004) (unpublished).6
