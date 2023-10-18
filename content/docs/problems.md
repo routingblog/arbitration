@@ -10,7 +10,7 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 
 # General Information
 
-- Arbitration, when passed, was designed for contract disputes between merchants, not statutory claims or between entities of unequal bargaining power. [^creeping] [^comm] [^rustic] In fact members of Congress expressly disavowed touching either consumer or employment contracts - and even went so far as to make that explicit with respect to employment. [^scaliaclass1]
+- Arbitration, when passed, was designed for contract disputes between merchants, not statutory claims or between entities of unequal bargaining power. [^creeping1] [^comm] [^rustic] In fact members of Congress expressly disavowed touching either consumer or employment contracts - and even went so far as to make that explicit with respect to employment. [^scaliaclass1]
 
 - Arbitration, as practiced, is unique to the United States [^cain2]
 
@@ -28,7 +28,11 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 
 - In civil court the attorneys could have sanctions against them if they pointlessly delay the proceedings. Less so in arbitration.
 
-- We have little empirical verification of the claims made both for and against arbitration and ADR, including positive assertions made about reduced cost, speed, and access to dispute mechanisms, as we really do not have much data about whether one-shotters always do worse in institutionally established ADR, although the Bingham 163 and Engalla data do demonstrate some clear areas for concern. [^galanterhaves3]
+- We have little empirical verification of the claims made both for and against arbitration and ADR, including positive assertions made about reduced cost, speed, and access to dispute mechanisms, as we do not have much data about whether one-shotters always do worse in institutionally established ADR, although the Bingham and Engalla data do demonstrate some clear areas for concern. [^galanterhaves3]
+
+# Historical Information
+
+- Until the mid-1980s, arbitration was primary used for international contract disputes and other niches of the dispute resolution [^gilles2]
 
 # Employment
 
@@ -61,7 +65,7 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 
 - A commercial entity can cloister itself away from significant financial liability, as well as any correlative damages award meant to deter unsavory behavior [^classdismissed]
 
-- "by far the most effective" tool to undermine class actions has been "arbitration provisions expressly waiving the right to any collective adjudication" [^gilles]
+- "by far the most effective" tool to undermine class actions has been "arbitration provisions expressly waiving the right to any collective adjudication" [^gilles1]
 
 - Most arbitration agreements do not require reasoned or even written opinions, punitive damages, or other remedial possibilities [^galanterhaves1]
 
@@ -77,9 +81,16 @@ Why do some contracts of adhesion have opt-out clauses?
 
 - They allow the employer to avoid e.g., JAMS minimum standards. In particular they allow the companies to argue that the arbitration is not "required as a condition of employment". [^jams1]
 
+# Confidentiality
+
+# Arbitration And The Law
+
+- Because arbitration agreements are often confidential, and even when not they are not clearly reasoned or published they make it difficult to establish norms and ensure that equally situated persons are treated equally. [^creeping2]
+
+
 # Footnotes
 
-[^creeping]: Sternlight, J. R. (2005). Creeping Mandatory Arbitration: Is It Just? Scholarly Works, 57(280), 1631–1676. pp 1631
+[^creeping1]: Sternlight, J. R. (2005). Creeping Mandatory Arbitration: Is It Just? Scholarly Works, 57(280), 1631–1676. pp 1631
 
 [^comm]: Cain, R. M. (1988). Commercial Disputes and Compulsory Arbitration. The Business Lawyer, pp 65
 
@@ -123,7 +134,7 @@ Why do some contracts of adhesion have opt-out clauses?
 
 [^privateknappcite4]: Knapp Supra pp 791 [^privateknappcite1]
 
-[^gilles]: Gilles, M. (2016). The Day Doctrine Died: Private Arbitration and the End of Law. UNIVERSITY OF ILLINOIS LAW REVIEW, 2016(2). note 1 at 397
+[^gilles1]: Gilles, M. (2016). The Day Doctrine Died: Private Arbitration and the End of Law. UNIVERSITY OF ILLINOIS LAW REVIEW, 2016(2). note 1 at 397
 
 [^scaliaclass1]: Fitzpatrick, B. T. (2017). Justice Scalia and Class Actions. Notre Dame Law Review, 92, 1977. https://scholarship.law.vanderbilt.edu/faculty-publications/586 pp 1986 note 58 (via citation)
 
@@ -138,3 +149,7 @@ Why do some contracts of adhesion have opt-out clauses?
 [^colvin2]: Colvin, A. J. S. (2014). Mandatory Arbitration and Inequality of Justice in Employment. Berkeley Journal of Employment and Labor Law, 35(1/2), 71–90. https://www.jstor.org/stable/24052567 pp 80
 
 [^jams1]: Employment Arbitration Minimum Standards | JAMS Mediation, Arbitration, ADR Services. (2009, July 15). https://www.jamsadr.com/employment-minimum-standards/ §B
+
+[^creeping2]: Sternlight supra pp 1674 [^creeping1]
+
+[^gilles2]: Gilles supra pp 375
