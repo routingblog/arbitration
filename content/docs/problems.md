@@ -61,6 +61,8 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 
 # Class Actions
 
+- The ability to block class actions is the primary motivation to compel arbitration. It is rare for a company to try to force an individual lawsuit into arbitration but common for arbitration clauses to be invoked to block class actions. [^arbstudyfact1]
+
 - The ban on class actions in particular makes it unlikely that many claims of corporate wrongdoing—particularly those that involve small sums for each in large groups of individuals—will ever be heard. As Justice Breyer opined, “Only a lunatic or a fanatic sues for $30.” [^stone3]
 
 - A commercial entity can cloister itself away from significant financial liability, as well as any correlative damages award meant to deter unsavory behavior [^classdismissed]
@@ -73,7 +75,9 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 
 # Consumer Credit
 
-- Although proponents claim that arbitration decreases litigation costs for consumers, consumers often do not receive any benefit of reduced costs through forced arbitration.
+- Although proponents claim that arbitration decreases litigation costs for consumers, consumers often do not receive any benefit of reduced costs through forced arbitration. Only twenty-five consumers with claims of less than $1000 obtained relief in an AAA arbitration in 2010 and 2011. [^gilles6]
+
+- CFPB consumer survey found that 79% of consumers didn’t know whether any credit card agreements they signed had an arbitration clause, and only 7% understood that they could not sue their credit card issuer if their contract did include such a clause. [^gilles6]
 
 # Opt Out Clauses
 
@@ -163,3 +167,7 @@ Why do some contracts of adhesion have opt-out clauses?
 [^gilles4]: Gilles supra pp 390 [^gilles1]
 
 [^gilles5]: Gilles supra pp 394 [^gilles1]
+
+[^gilles6]: Gilles supra pp 402-403. See also footnotes 193-195 [^gilles1]
+
+[^arbstudyfact1]: CFPB Study Finds That Arbitration Agreements Limit Relief for Consumers. (2015). [Fact sheet]. Consumer Financial Protection Bureau.
