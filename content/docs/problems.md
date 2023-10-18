@@ -6,7 +6,7 @@ weight: 1
 
 # Introduction
 
-The Supreme Court has repeatedly ignored the plain meaning of the statutes, congressional intent in writing the FAA, as well the standard rules of statutory interpretation effectively rewriting Title 9 to invent a "national policy favoring arbitration" [^jiggery] [^schwartzcorrecting] as a form of “do it yourself-tort reform". [^sternlight]
+The Supreme Court has repeatedly ignored the plain meaning of the statutes, congressional intent in writing the FAA, as well the standard rules of statutory interpretation effectively rewriting Title 9 to invent a "national policy favoring arbitration" [^jiggery] [^schwartzcorrecting] [^gilles5] as a form of “do it yourself-tort reform". [^sternlight]
 
 # General Information
 
@@ -32,7 +32,7 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 
 # Historical Information
 
-- Until the mid-1980s, arbitration was primary used for international contract disputes and other niches of the dispute resolution [^gilles2]
+- Until the mid-1980s, arbitration was primary used for international contract disputes, collective bargaining agreements, and other large-scale commercial dispute resolution [^gilles2] [^gilles4]
 
 # Employment
 
@@ -86,6 +86,8 @@ Why do some contracts of adhesion have opt-out clauses?
 # Arbitration And The Law
 
 - Because arbitration agreements are often confidential, and even when not they are not clearly reasoned or published they make it difficult to establish norms and ensure that equally situated persons are treated equally. [^creeping2]
+
+- The effects of removing entire classes of litigation from the stream of the common law effectively halts the development of legal common law. [^gilles3]
 
 
 # Footnotes
@@ -152,4 +154,10 @@ Why do some contracts of adhesion have opt-out clauses?
 
 [^creeping2]: Sternlight supra pp 1674 [^creeping1]
 
-[^gilles2]: Gilles supra pp 375
+[^gilles2]: Gilles supra pp 375 [^gilles1]
+
+[^gilles3]: Gilles supra pp 377 [^gilles1]
+
+[^gilles4]: Gilles supra pp 390 [^gilles1]
+
+[^gilles5]: Gilles supra pp 394 [^gilles1]
