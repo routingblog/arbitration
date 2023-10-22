@@ -263,7 +263,7 @@ Pull Quote (from {{< todo />}}):
 
 Twenty state attorneys general as amici curiae argued that [Southland]({{< relref "/#southland-v-keating" >}}) should be overruled. [^correcting1]
 
-> "I do not believe that proper application of stare decisis prevents correction of the mistake." 
+> "I do not believe that proper application of stare decisis prevents correction of the mistake."
 >
 > &mdash; <cite>Justice Scalia, dissenting.</cite>
 
@@ -990,6 +990,11 @@ Southland and its progeny are the result of bad statutory interpretation and eve
 
 1. Gilles, M. (2016). The Day Doctrine Died: Private Arbitration and the End of Law. UNIVERSITY OF ILLINOIS LAW REVIEW, 2016(2).
 
+    {{< details "Gilles - Doctrine - Conclusion" >}}
+It is hard to imagine that this game of high stakes musical chairs would have been a welcome outcome to the Reagan anti-lawsuit reformers. Much as the arbitration revolution does reduce lawsuits (the primary goal of the anti-lawsuit movement), it carries an externality that the reformers’ carefully crafted legislative agendas did not: namely, the cessation of common law development in entire areas of the law. This externality, all else being equal, is as likely to prejudice the interests of conservatives as it is liberals; it all depends on where you are when the music stops.
+    {{< /details >}}
+
+
 ---
 
 1. Knapp, C. L. (2002). Taking Contracts Private: The Quiet Revolution in Contract Law. Fordham Law Review, 71(3), 761–798. (unread)
@@ -1126,7 +1131,7 @@ Enforcement of agreements with opt-outs
 - Simeon v. Domino’s Pizza LLC, No. 17-cv-5550, 2019 WL 7882143, at *5 (E.D.N.Y. Feb. 6, 2019)
 - Selman v. FCB Worldwide Inc., No.  B168315, 2004 WL 2729656, at *3 (Cal. Ct. App. Dec. 1, 2004) (unpublished).6
 
-The footnotes in Giles - Docterine are great!
+The footnotes in Giles - Doctrine are great!
 
 186. There have been a smattering of area-specific legislative prohibitions against mandatory arbitration. See, e.g., Dodd-Frank Wall Street Reform and Consumer Protection Act, 7 U.S.C.A. §26 (providing that an employee cannot waive his right to a judicial forum regarding a dispute that arises under the whistleblower protection section of the act); 10 U.S.C. § 987(e)(3), (f)(4) (voiding arbitration clauses in payday loan or consumer credit contracts, with the exception of residential mortgages and car loans, for members of the military or their families); 15 U.S.C. § 1226(a)(2) (prohibiting automobile manufacturers from imposing pre-dispute arbitration clauses in their franchise agreements with dealers); Truth In Lending Act, 15 U.S.C.A. § 1639c (no mortgage lender may include a pre-dispute arbitration clause in its loan agreements); Sarbanes-Oxley Act, 18 U.S.C. § 1514A(e) (contracts requiring pre-dispute arbitration of whistleblower claims under the Sarbanes-Oxley Act not enforceable); Department of Defense Appropriations Act of 2010, Pub. L. No. 111-118, §8116(a), 123 Stat. 3409, 3454 (prohibits federal contractors who receive funds under the Act for contracts in excess of $1,000,000 from requiring their employees or independent contractors to arbitrate “any claim under Title VII of the Civil Rights Act of 1964 or any tort related to or arising out of sexual assault or harassment”). Numerous bills also seek broader overriding of the Supreme Court’s pro-arbitration jurisprudence. See, e.g., Arbitration Fairness Act of 2011, S. 987, 112th Cong. § 2929 (2011); Arbitration Fairness Act of 2009, H.R. 1020 § 4, 111th Cong, 155 Cong. Rec. H. 1517 (2009); Arbitration Fairness Act of 2007, S. 1782 § 4, 110th Cong, 153 Cong. Rec. S. 9144 (2007). The most recent version of this bill was introduced by Senators Al Franken (D-Minn.), Richard Blumenthal (D-Conn.), and Representative Hank Johnson (D-Ga.) immediately after Concepcion was decided, and would prohibit class action bans in all consumer, employment, and civil-rights related contracts. See David Lazarus, Bill Aims to Restore Consumers’ Right to Sue, L.A. TIMES (Oct. 18, 2011), available at http://articles.latimes.com/2011/ oct/18/business/la-fi-lazarus-20111018. See also Consumer Mobile Fairness Act of 2011, S. 1652, 112th Cong. § 3 (2011). This bill, introduced by Senators Blumenthal and Sheldon Whitehouse (D-Pa.), would void arbitration clauses in mobile phone contracts. While both the Arbitration Fairness Act and the Consumer Mobile Fairness Act were referred to the Senate Judiciary Committee, which held hearings under the chairmanship of Senator Patrick Leahy (D-VT), neither bill cleared the committee. See Michelle L. Caton, Form Over Fairness: How the Supreme Court’s Misreading of the Federal Arbitration Act Has Left Consumers in Lurch, 21 GEO. MASON L. REV. 497, 527 (2014) (“Of the 139 bills introduced into Congress between 1995 and 2010 that sought to restrict or eliminate various uses of mandatory arbitration, only five were eventually passed into law.”).
 
