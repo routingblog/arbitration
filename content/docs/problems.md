@@ -28,7 +28,10 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 
 - In civil court the attorneys could have sanctions against them if they pointlessly delay the proceedings. Less so in arbitration.
 
-- We have little empirical verification of the claims made both for and against arbitration and ADR, including positive assertions made about reduced cost, speed, and access to dispute mechanisms, as we do not have much data about whether one-shotters always do worse in institutionally established ADR, although the Bingham and Engalla data do demonstrate some clear areas for concern. [^galanterhaves3]
+- We have little empirical verification of the claims made both for and against arbitration and ADR, including positive assertions made about reduced cost, speed, and access to dispute mechanisms. [^galanterhaves3] The little empirical data we have consistently shows an anti-employee bias.  Basic questions such as the typical characteristics and outcomes of cases in employment arbitration remain to be definitively answered. [^colvinempirical1]
+
+- Where the employee was self-represented the employee win rate was substantially smaller versus cases where the employee was represented by counsel. Award amounts are also smaller. [^colvinempirical7] This counters the argument that arbitration may reduce the need for attorneys.
+
 
 # Historical Information
 
@@ -36,7 +39,7 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 
 # Employment
 
-- Plaintiffs’ overall economic outcomes are on average 6.1 times better in federal court than in mandatory arbitration ($143,497 versus $23,548) and 13.9 times better in state court than in mandatory arbitration ($328,008 versus $23,548) [^stone1]
+- Plaintiffs’ overall economic outcomes are on average 6.1 times better in federal court than in mandatory arbitration and 13.9 times better in state court than in mandatory arbitration ($328,008 versus $23,548) [^stone1]
 
 - Employee win rates in mandatory arbitration are much lower than in either federal court or state court, with employees in mandatory arbitration winning only just about a fifth of the time, which is 59 percent as often as in the federal courts and only 38 percent as often as in state courts[^stone2] [^colvin2]
 
@@ -44,9 +47,15 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 
 - Average outcome in mandatory arbitration is only 16 percent of that in the federal courts and 7 percent of that in state courts [^stone2]
 
+- Employee win rates are lower in cases based on employer promulgated procedures than in cases based on individually negotiated contracts. [^colvinempirical2]
+
 - The mandatory arbitration–litigation gap in outcomes has a direct effect on the ability of individual workers to recover compensation for the injuries they have suffered. [^stone4]
 
-- When they win against repeat player employers, employees recover only 11% of their claims. When they win in cases involving one-shot employers, they recover 48% of their claims. [^lisarepeat]
+- Repeat player employers fair better than first-timers. [^colvinempirical5] When they win against repeat player employers, employees recover only 11% of their claims. When they win in cases involving one-shot employers, they recover 48% of their claims. [^lisarepeat] [^colvinempirical5] [^note1]
+
+- There is strong evidence for a repeat employer-arbitrator pairing effect in which employees tend to win less often and recover smaller amounts when the employer and the arbitrator are involved in multiple cases together [^colvinempirical8]
+
+- Arbitrators that are picked by the employers more than once
 
 - Arbitrators feel beholden to companies. Beneath every decision is the threat of losing business. [^silverprivate]
 
@@ -94,6 +103,18 @@ Why do some contracts of adhesion have opt-out clauses?
 - Because arbitration agreements are often confidential, and even when not they are not clearly reasoned or published they make it difficult to establish norms and ensure that equally situated persons are treated equally. [^creeping2]
 
 - The effects of removing entire classes of litigation from the stream of the common law effectively halts the development of legal common law. [^gilles3] For example it is judge made rules that define permissible conduct under Title VII, the FLSA, and state employment laws. Private arbitration of these disputes allows defendant-employers to disregard such laws and prevent public development in regards to new behavior. [^gilles7]
+
+# Possible Advantages
+
+While arbitration is generally negative for both employees and consumers there is a little bit of silver lining.
+
+## Speed of Resolution
+
+- Arbitration is actually faster than litigation. Cases typically take around two to two-and-a-half years to reach trial but mean time to disposition for an employment arbitration case that resulted in an award was 361.5 days. [^colvinempirical3]  However, it is also important to recognize that most cases in both litigation and arbitration are settled before a final hearing.
+
+## Fees
+
+- Amongst the studied cases, the employer paid all arbitration fees 97 percent of the time, indicating that the employer-pays rule is generally being enforced in AAA employment arbitration cases. [^colvinempirical4] This is primarily due to state law requiring employers to pay for arbitration fees.
 
 
 # Footnotes
@@ -173,3 +194,21 @@ Why do some contracts of adhesion have opt-out clauses?
 [^gilles7]: Gilles supra pp 421 [^gilles1]
 
 [^arbstudyfact1]: CFPB Study Finds That Arbitration Agreements Limit Relief for Consumers. (2015). [Fact sheet]. Consumer Financial Protection Bureau.
+
+[^colvinempirical1]: Colvin, A. (2011). An Empirical Study of Employment Arbitration: Case Outcomes and Processes. https://hdl.handle.net/1813/75272 pp 4
+
+[^colvinempirical2]: Colvin supra pp 6 (via citation)
+
+[^colvinempirical3]: Colvin supra pp 12
+
+[^colvinempirical4]: Colvin supra pp 14
+
+[^colvinempirical5]: Colvin supra pp 19
+
+[^note1] Research on the litigation process has also discussed the issue of repeat player advantages in that forum. However the arguments raised in that setting focus more on the ability of the repeat player to influence the institutions and rules of the process, for example through lobbying for or against statutory changes. Given that the parties are not directly involved in the selection of the judge in litigation, the same type of repeat player processes analyzed here for employment arbitration are not likely to be an issue in litigation and have not been subject of comparable statistical analysis in empirical studies of employment litigation. [^colvinempirical6]
+
+[^colvinempirical6]: Colvin supra pp 23 footnote 11
+
+[^colvinempirical7]: Colvin supra pp 24
+
+[^colvinempirical7]: Colvin supra pp 24-25, 29

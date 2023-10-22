@@ -995,6 +995,11 @@ It is hard to imagine that this game of high stakes musical chairs would have be
     {{< /details >}}
 
 
+1. Colvin, A. (2011). An Empirical Study of Employment Arbitration: Case Outcomes and Processes. https://hdl.handle.net/1813/75272
+{{< details "Colvin - case outcomes - conclusion" >}}
+On the closely debated issue of repeat player effects in arbitration, this study finds strong evidence of a repeat employer advantage and, more problematically, evidence of an advantage to employers in repeat employer-arbitrator pairings. The existence of an employer advantage in repeat employer-arbitrator pairings may reflect arbitral bias in some of these cases.
+{{< /details >}}
+
 ---
 
 1. Knapp, C. L. (2002). Taking Contracts Private: The Quiet Revolution in Contract Law. Fordham Law Review, 71(3), 761–798. (unread)
@@ -1018,6 +1023,7 @@ city.
 1. Drahozal, C. R. (n.d.). Innovation in Arbitration Law: The Case of Delaware. (unread)
 1. Ralston, J. H. (2004). International Arbitration from Athens to Locarno. The Lawbook Exchange, Ltd. (unread)
 1. Hill, E. (2003). Due Process at Low Cost: An Empirical Study of Employment Arbitration Under the Auspices of the American Arbitration Association. https://kb.osu.edu/handle/1811/77065 (unread)
+
 1. Colvin, A. J. S. (2008). Empirical Research on Employment Arbitration: Clarity Amidst the Sound and Fury? (SSRN Scholarly Paper 1090335). https://papers.ssrn.com/abstract=1090335 (unread)
 1. Covington, R. N. (1998). Employment Arbitration After Gilmer: Have Labor Courts Come to the United States? (unread)
 1. Bingham), A. (formerly, & Blomgren, L. (1997). Employment Arbitration: The Repeat Player Effect (SSRN Scholarly Paper 1324411). https://papers.ssrn.com/abstract=1324411 (unread)
