@@ -854,7 +854,7 @@ See other past [proposed bills]({{< relref "bills" >}})
 | ----------- | ----------- |
 | [CA Code of Civil Procedure - CCP §§3.9.1280 - 1294.4](https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=CCP&division=&title=9.&part=3.&chapter=&article=) | California |
 | [NY C.P.L.R. §8 7501-7516](https://www.nysenate.gov/legislation/laws/CVP/A75) | New York |
-| [CA EDC §94876](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=EDC&sectionNum=94907.&article=11)
+| [CA EDC §94876](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=EDC&sectionNum=94907.&article=11) | California |
 
 
 ### History
