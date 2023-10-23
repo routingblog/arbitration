@@ -112,7 +112,7 @@ While arbitration is generally negative for both employees and consumers there i
 
 ## Speed of Resolution
 
-- Arbitration is actually faster than litigation. Cases typically take around two to two-and-a-half years to reach trial but mean time to disposition for an employment arbitration case that resulted in an award was 361.5 days. [^colvinempirical3]  However, it is also important to recognize that most cases in both litigation and arbitration are settled before a final hearing.
+- Arbitration is actually faster than litigation. Cases typically take around two to two-and-a-half years to reach trial but mean time to disposition for an employment arbitration case that resulted in an award was 361.5 days. [^colvinempirical3]  However, it is also important to recognize that most cases in both litigation and arbitration are settled before a final hearing. Furthermore much of the reason for the reduced length of resolution is that arbitration gives up important procedural rights.
 
 ## Fees
 
