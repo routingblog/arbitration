@@ -18,7 +18,9 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 
 - A recalcitrant defendant can delay the start of meaningful proceedings a really long time. For example they can appeal the motion to compel and this would stay the civil court proceedings in the meantime[^coinbase]
 
-- Arbiters are not required to follow or even know the law. [^liptonlaw] [^privateknappcite2] Only in narrow circumstances (in "manifest disregard") where the arbitrators must be found to have "understood and correctly stated the law but proceeded to ignore it." [^merrill]
+- Arbiters are not required to follow or even know the law. [^liptonlaw] [^privateknappcite2] Their rulings can be overturned only in narrow circumstances (in "manifest disregard") where the arbitrators must be found to have "understood and correctly stated the law but proceeded to ignore it." [^merrill]
+
+- Despite not being required to follow (or know) the law they may have Absolute Immunity from statements they make. Importantly, this is true even if they are not operating in objective good faith. [^kentucky1]
 
 - The lower probability of victory, the lack of class representation, and meager legal fees discourage attorneys from representing individuals in arbitration proceedings. This is particularly a problem where the fees will be paid on contigency (most employment and consumer cases). [^stone1] [^privateknappcite3] [^colvin2]
 
@@ -212,3 +214,5 @@ While arbitration is generally negative for both employees and consumers there i
 [^colvinempirical7]: Colvin supra pp 24
 
 [^colvinempirical7]: Colvin supra pp 24-25, 29
+
+[^kentucky1] For example, see 'NEW ALBANY MAIN STREET PROPERTIES v R. WAYNE STRATTON, CPA; AND JONES, NALE & MATTINGLY PLC, 2022-SC-0254-DG (Supreme Court of Kentucky 24 August 2023)'
