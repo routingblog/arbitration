@@ -150,7 +150,7 @@ In enacting § 2 of the federal Act, Congress declared a national policy favorin
 
 ### Analysis
 
-1. Joshi, H. (2023). You Have Got to Be Keating Me: Why the Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act Is a Good Start. 2023. (unread)
+1. Joshi, H. (2023). You Have Got to Be Keating Me: Why the Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act Is a Good Start. 2023.
 1. Jacobs, B. L. (n.d.). Often Wrong, Never in Doubt: How Anti-Arbitration Expectancy Bias May Limit Access to Justice. ACCESS TO JUSTICE, 62.
 1. Dunham, K. F. (2009). Southland Corp. v. Keating Revisited: Twenty-Five Years in Which Direction. Charleston Law Review, 4, 331. https://heinonline.org/HOL/Page?handle=hein.journals/charlwrev4&id=335&div=&collection= (unread)
 1. Schwartz, D. (2004). Correcting Federalism Mistakes in Statutory Interpretation: The Supreme Court and the Federal Arbitration Act. Law and Contemporary Problems, 67(1), 5–54. https://scholarship.law.duke.edu/lcp/vol67/iss1/2
@@ -1000,11 +1000,15 @@ It is hard to imagine that this game of high stakes musical chairs would have be
 
 
 1. Colvin, A. (2011). An Empirical Study of Employment Arbitration: Case Outcomes and Processes. https://hdl.handle.net/1813/75272
-{{< details "Colvin - case outcomes - conclusion" >}}
+    {{< details "Colvin - case outcomes - conclusion" >}}
 On the closely debated issue of repeat player effects in arbitration, this study finds strong evidence of a repeat employer advantage and, more problematically, evidence of an advantage to employers in repeat employer-arbitrator pairings. The existence of an employer advantage in repeat employer-arbitrator pairings may reflect arbitral bias in some of these cases.
-{{< /details >}}
+    {{< /details >}}
 
 1. Joshi, H. (2023). You Have Got to Be Keating Me: Why the Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act Is a Good Start. 2023.
+
+    {{< details "Joshi - Keating Me - conclusion" >}}
+EFASASHA is incomplete, but a good start. The FAIR Act provides a strong potion against compelled arbitration. Overturning Keating would return the power to determine contract common law to the states. However, some of those states may have an FAA equivalent, still forcing employees into arbitration against their employer. An Act that completely does away with forced arbitration, and which has pre-emptive effect, is the best remedy.
+    {{< /details >}}
 
 
 ---
