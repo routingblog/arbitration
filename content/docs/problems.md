@@ -10,7 +10,7 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 
 # General Information
 
-- Arbitration, when passed, was designed for contract disputes between merchants, not statutory claims or between entities of unequal bargaining power. [^creeping1] [^comm] [^rustic] In fact members of Congress expressly disavowed touching either consumer or employment contracts - and even went so far as to make that explicit with respect to employment. [^scaliaclass1]
+- Arbitration, when passed, was designed for contract disputes between merchants, not statutory claims or between entities of unequal bargaining power. [^creeping1] [^comm] [^rustic] In fact members of Congress expressly disavowed touching either consumer or employment contracts - and even went so far as to make that explicit with respect to employment. [^scaliaclass1] Julius Henry Cohen, the author of United States Arbitration Act,testified that the bill would be applicable in federal courts only. [^keating1]
 
 - Arbitration, as practiced, is unique to the United States [^cain2]
 
@@ -216,3 +216,5 @@ While arbitration is generally negative for both employees and consumers there i
 [^colvinempirical7]: Colvin supra pp 24-25, 29
 
 [^kentucky1] For example, see 'NEW ALBANY MAIN STREET PROPERTIES v R. WAYNE STRATTON, CPA; AND JONES, NALE & MATTINGLY PLC, 2022-SC-0254-DG (Supreme Court of Kentucky 24 August 2023)'
+
+[^keating1]: Joshi, H. (2023). You Have Got to Be Keating Me: Why the Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act Is a Good Start. 2023. pp 120 (see footnote 65)

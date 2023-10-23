@@ -244,6 +244,9 @@ One Line Summary: An ADEA claim can be subjected to compulsory arbitration.
 Pull Quote from Dissent (pg 42):
 > When the FAA was passed in 1925, I doubt that any legislator who voted for it expected it to apply to statutory claims, to form contracts between parties of unequal bargaining power, or to the arbitration of disputes arising out of the employment relationship. In recent years, however, the Court "has effectively rewritten the statute," and abandoned its earlier view that statutory claims were not appropriate subjects for arbitration.
 
+## First Options of Chicago v. Kaplan
+
+
 ## Allied-Bruce Terminix Cos. v. Dobson 513 US 265 (1995)
 
 One Line Summary: contracts requiring arbitration is applied to all disputes involving commerce even though it isn't interstate
@@ -1000,6 +1003,9 @@ It is hard to imagine that this game of high stakes musical chairs would have be
 On the closely debated issue of repeat player effects in arbitration, this study finds strong evidence of a repeat employer advantage and, more problematically, evidence of an advantage to employers in repeat employer-arbitrator pairings. The existence of an employer advantage in repeat employer-arbitrator pairings may reflect arbitral bias in some of these cases.
 {{< /details >}}
 
+1. Joshi, H. (2023). You Have Got to Be Keating Me: Why the Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act Is a Good Start. 2023.
+
+
 ---
 
 1. Knapp, C. L. (2002). Taking Contracts Private: The Quiet Revolution in Contract Law. Fordham Law Review, 71(3), 761–798. (unread)
@@ -1040,7 +1046,6 @@ city.
 1. Colvin, A. J. S. (2014). Mandatory Arbitration and Inequality of Justice in Employment. Berkeley Journal of Employment and Labor Law, 35(1/2), 71–90. https://www.jstor.org/stable/24052567 (unread)
 1. Glover, M. (2023). Recent Developments in Mandatory Arbitration Warfare: Winners and Losers (So Far) in Mass Arbitration (SSRN Scholarly Paper 4509465). https://papers.ssrn.com/abstract=4509465 (unread)
 1. Levinson, A. (2013). What the Awards Tell Us about Labor Arbitration of Employment Discrimination Claims. University of Michigan Journal of Law Reform, 46.3, 789. https://doi.org/10.36646/mjlr.46.3.what (unread)
-1. Joshi, H. (2023). You Have Got to Be Keating Me: Why the Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act Is a Good Start. 2023. (unread)
 1. Schmitz, A. J. (2005). Untangling the Privacy Paradox in Arbitration. University of Kansas Law Review, 54, 1211. https://heinonline.org/HOL/Page?handle=hein.journals/ukalr54&id=1221&div=&collection= (unread)
 1. Gorskie, J. L. (2012). US Courts and the Anti-Arbitration Injunction. Arbitration International, 28(2), 295–324. https://doi.org/10.1093/arbitration/28.2.295 (unread)
 1. Edwards, B. (2020). Adversarial Failure. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3622730 (unread)
