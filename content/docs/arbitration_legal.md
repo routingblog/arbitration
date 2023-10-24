@@ -309,7 +309,7 @@ Pull Quote (from {{< todo />}}):
 
 ## Circuit City v. Adams (2001) {id="circuit-city-v-adams"}
 
-One Line Summary: Maxim of ejusdem generis[^ejusdemgeneris] applies to FAA exclusion of any other class of workers”
+One Line Summary: Maxim of ejusdem generis[^ejusdemgeneris] applies to FAA exclusion of any other class of workers”.  Legislative history was not relevant to interpreting the statute.
 
 - Wikipedia: {{< todo />}} (unread)
 - Court Opinion (Court Listener): {{< todo />}} (unread)

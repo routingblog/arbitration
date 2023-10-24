@@ -26,6 +26,9 @@ Mandatory Arbitration
 ADR
 : Alternate Dispute Resolution. Procedures by which disputes can be resolved other than litigation. For example settlements, mediation, binding or non-binding arbitration.
 
+Separability principle
+: an arbitration clause is treated as a separate agreement to the contract containing it. An agreement to arbitrate may not be nullified by a void main contract.
+
 # Footnotes
 
 [^colvin1]: 1. Colvin, A. J. S. (2018). The growing use of mandatory arbitration (144131; pp. 1–17). Economic Policy Institute. pp 1
