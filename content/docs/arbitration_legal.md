@@ -286,25 +286,21 @@ Montana's first-page notice requirement, which governs not "any contract," but s
 
 The Montana Supreme Court had two justices who refused to sign on to the order remanding the case from the Supreme Court of the United States to the state trial court. [^showdown1]
 
-## Green Tree Financial Corporation-Alabama v. Randolph, 531 US 79 (2000)
+## Green Tree Financial Corp. v. Bazzle 539 U.S. at 444.
 
 One Line Summary: The question of whether a contract forbade class arbitration qualified as one of procedural arbitrability within an arbitrator’s adjudicative scope.
 
+## Green Tree Financial Corporation-Alabama v. Randolph, 531 US 79 (2000)
+
+One Line Summary: An arbitration agreement that is silent on arbitration costs and fees is not unenforceable
+
 - Wikipedia: {{< todo />}} (unread)
-- Court Opinion (Court Listener): {{< todo />}} (unread)
+- [Court Opinion (Court Listener)](https://www.courtlistener.com/opinion/118394/green-tree-financial-corp-ala-v-randolph/) (unread)
 - Court Opinion (pdf): {{< todo />}} (unread)
-- [Oyez](https://www.oyez.org/cases/2000/99-1235) (unread)
+- [Oyez](https://www.oyez.org/cases/2000/99-1235)
 - Majority Author: {{< todo />}} (unread)
 - Concurrence: {{< todo />}} (unread)
 - Dissents: {{< todo />}} (unread)
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
-
-- Court Listener: https://www.courtlistener.com/opinion/118394/green-tree-financial-corp-ala-v-randolph/
-- Oyez Analysis: https://www.oyez.org/cases/2000/99-1235
 
 Pull Quote (from {{< todo />}}):
 
