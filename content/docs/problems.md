@@ -6,7 +6,7 @@ weight: 1
 
 # Introduction
 
-The Supreme Court has repeatedly ignored the plain meaning of the statutes, congressional intent in writing the FAA, as well the standard rules of statutory interpretation effectively rewriting Title 9 to invent a "national policy favoring arbitration" [^jiggery] [^schwartzcorrecting] [^gilles5] as a form of “do it yourself-tort reform". [^sternlight]
+The Supreme Court has repeatedly ignored the plain meaning of the statutes, congressional intent in writing the FAA, as well the standard rules of statutory interpretation effectively rewriting Title 9 to invent a "national policy favoring arbitration" as a form of “do it yourself-tort reform". [^jiggery] [^schwartzcorrecting] [^gilles5] [^sternlight] [^sacredcow4]
 
 Arbitration is inherently a creature contract. The defining feature is not implicitly or speed but rather _party agreement_. As such most of this document is in generalities and discusses typical consumer and employment contracts. Furthermore, it is difficult to study because only a small fraction of awards are published and awards are only a fragment of the overall proceedings. [^ruminations1]
 
@@ -248,3 +248,5 @@ While arbitration is generally negative for both employees and consumers there i
 [^sacredcow3]: Stone supra pp 121
 
 [^newarb1]: Cohen, J. H., & Dayton, K. (1926). The New Federal Arbitration Law. Virginia Law Review, 12(4), 265–286. https://doi.org/10.2307/1065471 pp 119
+
+[^sacredcow4]: Stone supra pp 125
