@@ -16,7 +16,7 @@ Arbitration is inherently a creature contract. The defining feature is not impli
 
 - Arbitration, as practiced, is unique to the United States [^cain2]
 
-- The FAA was intended to be a procedural statute for the federal courts. It was never intended by the enacting Congress to apply in state court. [^schwartzcorrecting]
+- The FAA was intended to be a procedural remedy available in the federal courts [^newarb1]. It was never intended by the enacting Congress to apply in state court. [^schwartzcorrecting]
 
 - A recalcitrant defendant can delay the start of meaningful proceedings a really long time. For example they can appeal the motion to compel and this would stay the civil court proceedings in the meantime[^coinbase]
 
@@ -32,16 +32,19 @@ Arbitration is inherently a creature contract. The defining feature is not impli
 
 - When the contract limits remedies in other ways (reduced time to bring claims, limitations on injuctive relief, etc.) it is normally subject to Judicial review. Not so with arbitration. In fact, stepping "outside the bounds of the contract" are one of the few reasons arbitrator's awards can be vacated. [^privateknappcite4]
 
+- An award can only be vacated if (1) it was procured by corruption or fraud, (2) evident partiality or corruption, (3) the arbitrator refused to hear relevant evidence, or (4) the arbitrator exceeded the power defined in the arbitration agreement. [^uscode1] These exceptions are interpreted narrowly with great deference given to the arbitrator. It may not overturned due to an error of fact, contract interpretation, or law. [^sacredcow3]
+
 - In civil court the attorneys could have sanctions against them if they pointlessly delay the proceedings. Less so in arbitration.
 
 - We have little empirical verification of the claims made both for and against arbitration and ADR, including positive assertions made about reduced cost, speed, and access to dispute mechanisms. [^galanterhaves3] The little empirical data we have consistently shows an anti-employee bias.  Basic questions such as the typical characteristics and outcomes of cases in employment arbitration remain to be definitively answered. [^colvinempirical1]
 
 - Where the employee was self-represented the employee win rate was substantially smaller versus cases where the employee was represented by counsel. Award amounts are also smaller. [^colvinempirical7] This counters the argument that arbitration may reduce the need for attorneys.
 
-
 # Historical Information
 
 - Until the mid-1980s, arbitration was primary used for international contract disputes, collective bargaining agreements, and other large-scale commercial dispute resolution [^gilles2] [^gilles4]
+
+- New York's arbitration act was passed in 1920 followed by the Federal Arbitration act in 1925 largely at the behest of commercial trade organizations. [^sacredcow1] They wanted resolution according the norms of the industry instead of by external law. [^sacredcow2] The speed and cost of dispute resolution was not a significant motivation of the original proponents of arbitration. [^sacredcow3]
 
 # Employment
 
@@ -233,3 +236,15 @@ While arbitration is generally negative for both employees and consumers there i
 [^ruminations1]: Meltzer, B. D. (1967). Ruminations about Ideology, Law, and Labor Arbitration. The University of Chicago Law Review, 34(3), 545. https://doi.org/10.2307/1598847 pp 545
 
 [^drahozal1]: Drahozal, C. R. (n.d.). Is Arbitration Lawless. pp 203
+
+[^sacredcow1]: Stone, K. V. W. (2023). Arbitration—From Sacred Cow to Golden Calf: Three Phases in the History of the Federal Arbitration Act. 23. pp 116
+
+[^sacredcow2]: Stone supra pp 117
+
+[^uscode1]: 9 U.S. Code § 10a
+
+[^sacredcow2]: Stone supra pp 118
+
+[^sacredcow3]: Stone supra pp 121
+
+[^newarb1]: Cohen, J. H., & Dayton, K. (1926). The New Federal Arbitration Law. Virginia Law Review, 12(4), 265–286. https://doi.org/10.2307/1065471 pp 119
