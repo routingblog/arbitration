@@ -211,27 +211,27 @@ While arbitration is generally negative for both employees and consumers there i
 
 [^colvinempirical1]: Colvin, A. (2011). An Empirical Study of Employment Arbitration: Case Outcomes and Processes. https://hdl.handle.net/1813/75272 pp 4
 
-[^colvinempirical2]: Colvin supra pp 6 (via citation)
+[^colvinempirical2]: Colvin supra pp 6 (via citation) [^colvinempirical1]
 
-[^colvinempirical3]: Colvin supra pp 12
+[^colvinempirical3]: Colvin supra pp 12 [^colvinempirical1]
 
-[^colvinempirical4]: Colvin supra pp 14
+[^colvinempirical4]: Colvin supra pp 14 [^colvinempirical1]
 
-[^colvinempirical5]: Colvin supra pp 19
+[^colvinempirical5]: Colvin supra pp 19 [^colvinempirical1]
 
 [^note1] Research on the litigation process has also discussed the issue of repeat player advantages in that forum. However the arguments raised in that setting focus more on the ability of the repeat player to influence the institutions and rules of the process, for example through lobbying for or against statutory changes. Given that the parties are not directly involved in the selection of the judge in litigation, the same type of repeat player processes analyzed here for employment arbitration are not likely to be an issue in litigation and have not been subject of comparable statistical analysis in empirical studies of employment litigation. [^colvinempirical6]
 
-[^colvinempirical6]: Colvin supra pp 23 footnote 11
+[^colvinempirical6]: Colvin supra pp 23 footnote 11 [^colvinempirical1]
 
-[^colvinempirical7]: Colvin supra pp 24
+[^colvinempirical7]: Colvin supra pp 24 [^colvinempirical1]
 
-[^colvinempirical7]: Colvin supra pp 24-25, 29
+[^colvinempirical7]: Colvin supra pp 24-25, 29 [^colvinempirical1]
 
 [^kentucky1] For example, see 'NEW ALBANY MAIN STREET PROPERTIES v R. WAYNE STRATTON, CPA; AND JONES, NALE & MATTINGLY PLC, 2022-SC-0254-DG (Supreme Court of Kentucky 24 August 2023)'
 
 [^keating1]: Joshi, H. (2023). You Have Got to Be Keating Me: Why the Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act Is a Good Start. 2023. pp 120 (see footnote 65)
 
-[^keating2]: Joshi supra pp 126
+[^keating2]: Joshi supra pp 126 [^keating1]
 
 [^ruminations1]: Meltzer, B. D. (1967). Ruminations about Ideology, Law, and Labor Arbitration. The University of Chicago Law Review, 34(3), 545. https://doi.org/10.2307/1598847 pp 545
 
@@ -239,14 +239,14 @@ While arbitration is generally negative for both employees and consumers there i
 
 [^sacredcow1]: Stone, K. V. W. (2023). Arbitration—From Sacred Cow to Golden Calf: Three Phases in the History of the Federal Arbitration Act. 23. pp 116
 
-[^sacredcow2]: Stone supra pp 117
+[^sacredcow2]: Stone supra pp 117 [^sacredcow1]
 
 [^uscode1]: 9 U.S. Code § 10a
 
-[^sacredcow2]: Stone supra pp 118
+[^sacredcow2]: Stone supra pp 118 [^sacredcow1]
 
-[^sacredcow3]: Stone supra pp 121
+[^sacredcow3]: Stone supra pp 121 [^sacredcow1]
 
 [^newarb1]: Cohen, J. H., & Dayton, K. (1926). The New Federal Arbitration Law. Virginia Law Review, 12(4), 265–286. https://doi.org/10.2307/1065471 pp 119
 
-[^sacredcow4]: Stone supra pp 125
+[^sacredcow4]: Stone supra pp 125 [^sacredcow1]

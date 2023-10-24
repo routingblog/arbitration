@@ -133,6 +133,8 @@ Pull Quote (from majority):
 Section 2 is a congressional declaration of a liberal federal policy favoring arbitration agreements, notwithstanding any state substantive or procedural policies to the contrary. The effect of the section is to create a body of federal substantive law of arbitrability, applicable to any arbitration agreement within the coverage of the act.
 {{< /details >}}
 
+Interestingly this was a 6–3 decision, signed by all the liberal justices and to which the conservative justices—Justices Rehnquist, Burger, and O’Connor—dissented. [^sacredcow1]
+
 ## Southland Corp. v. Keating, 465 U.S. 1 (1984) {id="southland-v-keating"}
 
 One Line Summary: FAA applies to contracts under state law (due to congressional intent)
@@ -1010,6 +1012,8 @@ On the closely debated issue of repeat player effects in arbitration, this study
 EFASASHA is incomplete, but a good start. The FAIR Act provides a strong potion against compelled arbitration. Overturning Keating would return the power to determine contract common law to the states. However, some of those states may have an FAA equivalent, still forcing employees into arbitration against their employer. An Act that completely does away with forced arbitration, and which has pre-emptive effect, is the best remedy.
     {{< /details >}}
 
+1. Stone, K. V. W. (2023). Arbitration—From Sacred Cow to Golden Calf: Three Phases in the History of the Federal Arbitration Act. 23.
+
 
 ---
 
@@ -1059,7 +1063,6 @@ city.
 1. Drahozal, C. R. (n.d.). Arbitration Costs and Forum Accessibility: Empirical Evidence. 41. (unread)
 1. Arbitration Study Preliminary Results: Section 1028(a) Study Results To Date. (2013). Consumer Financial Protection Bureau. (unread)
 1. Arbitration Study: Report to Congress, pursuant to Dodd–Frank Wall Street Reform and Consumer Protection Act § 1028(a) (pp. 1–728). (2015). Consumer Financial Protection Bureau. (unread)
-1. Stone, K. V. W. (2023). Arbitration—From Sacred Cow to Golden Calf: Three Phases in the History of the Federal Arbitration Act. 23. (unread)
 1. Gerbitz, C. (n.d.). ARE PRE-DISPUTE AGREEMENTS TO ARBITRATION ONLINE ENFORCEABLE? (unread)
 1. Hummell, H. (2023). Missouri’s Ultimate Dead Hand Control: The Development and Relationship Between Donative Arbitration Provisions and No-Contest Clauses in Wills & Trusts. Journal of Dispute Resolution, 2023(2). https://scholarship.law.missouri.edu/jdr/vol2023/iss2/10 (unread)
 1. Garrett, A. (2023). New Update Available: How the DoorDash and TikTok Cases Will Change the Way Arbitration is Utilized in Class Actions. Journal of Dispute Resolution, 2023(2). https://scholarship.law.missouri.edu/jdr/vol2023/iss2/9 (unread)
@@ -1132,6 +1135,7 @@ Mandatory employment arbitration has expanded to the point where it has now surp
 [^correcting1]: Schwartz, D. (2004). Correcting Federalism Mistakes in Statutory Interpretation: The Supreme Court and the Federal Arbitration Act. Law and Contemporary Problems, 67(1), 5–54. https://scholarship.law.duke.edu/lcp/vol67/iss1/2 pp 10
 [^correcting2]: Schwartz Supra pp 36 [^correcting1]
 [^showdown1]: Reuben, R. C. (1996). Western Showdown: Two Montana judges buck the U.S. Supreme Court. ABA Journal, 82(10), 16–16. https://www.jstor.org/stable/27839725
+[^sacredcow1]: Stone, K. V. W. (2023). Arbitration—From Sacred Cow to Golden Calf: Three Phases in the History of the Federal Arbitration Act. 23. pp 126
 
 
 # Misc Other Notes
