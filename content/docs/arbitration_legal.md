@@ -439,6 +439,23 @@ Pull Quote
 
 Consolidated with: _Ernst & Young LLP v. Morris_ and _National Labor Relations Board v. Murphy Oil USA, Inc._
 
+## Kindred Nursing Center v. Clark
+
+One Line Summary: {{< todo />}}
+
+- Wikipedia: {{< todo />}}
+- Court Opinion (Court Listener): {{< todo />}}
+- Court Opinion (pdf): {{< todo />}}
+- Oyez: {{< todo />}}
+- Majority Author: {{< todo />}}
+- Concurrence: {{< todo />}}
+- Dissents: {{< todo />}}
+
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
+{{< /details >}}
+
 ## Ernst & Young LLP v. Morris (Docket 16-300) (2018)
 One Line Summary: {{< todo />}}
 
