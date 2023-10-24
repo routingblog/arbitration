@@ -8,7 +8,7 @@ weight: 1
 
 The Supreme Court has repeatedly ignored the plain meaning of the statutes, congressional intent in writing the FAA, as well the standard rules of statutory interpretation effectively rewriting Title 9 to invent a "national policy favoring arbitration" [^jiggery] [^schwartzcorrecting] [^gilles5] as a form of “do it yourself-tort reform". [^sternlight]
 
-Arbitration is inherently a creature contract. The defining feature is not implicitly or speed but rather _party agreement_. As such most of this document is in generalities and discusses typical consumer and employment contracts.
+Arbitration is inherently a creature contract. The defining feature is not implicitly or speed but rather _party agreement_. As such most of this document is in generalities and discusses typical consumer and employment contracts. Furthermore, it is difficult to study because only a small fraction of awards are published and awards are only a fragment of the overall proceedings. [^ruminations1]
 
 # General Information
 
@@ -20,9 +20,11 @@ Arbitration is inherently a creature contract. The defining feature is not impli
 
 - A recalcitrant defendant can delay the start of meaningful proceedings a really long time. For example they can appeal the motion to compel and this would stay the civil court proceedings in the meantime[^coinbase]
 
-- Arbiters are not required to follow or even know the law. [^liptonlaw] [^privateknappcite2] Their rulings can be overturned only in narrow circumstances (in "manifest disregard") where the arbitrators must be found to have "understood and correctly stated the law but proceeded to ignore it." [^merrill]
+- Arbitrators are not required to follow or even know the law. [^liptonlaw] [^privateknappcite2] Their rulings can be overturned only in narrow circumstances (in "manifest disregard") where the arbitrators must be found to have "understood and correctly stated the law but proceeded to ignore it." [^merrill]
 
 - Despite not being required to follow (or know) the law they may have Absolute Immunity from statements they make. Importantly, this is true even if they are not operating in objective good faith. [^kentucky1]
+
+- Overall, the evidence on whether arbitrators follow the law in their awards is inconclusive... analysis of statutes by labor arbitrators often is "cursory and conclusory." [^drahozal1]
 
 - The lower probability of victory, the lack of class representation, and meager legal fees discourage attorneys from representing individuals in arbitration proceedings. This is particularly a problem where the fees will be paid on contigency (most employment and consumer cases). [^stone1] [^privateknappcite3] [^colvin2]
 
@@ -227,3 +229,7 @@ While arbitration is generally negative for both employees and consumers there i
 [^keating1]: Joshi, H. (2023). You Have Got to Be Keating Me: Why the Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act Is a Good Start. 2023. pp 120 (see footnote 65)
 
 [^keating2]: Joshi supra pp 126
+
+[^ruminations1]: Meltzer, B. D. (1967). Ruminations about Ideology, Law, and Labor Arbitration. The University of Chicago Law Review, 34(3), 545. https://doi.org/10.2307/1598847 pp 545
+
+[^drahozal1]: Drahozal, C. R. (n.d.). Is Arbitration Lawless. pp 203
