@@ -194,6 +194,8 @@ Pull Quote (from {{< todo />}}):
 {{< details "{{< todo />}}" >}}
 {{< /details >}}
 
+## Perry v. Thomas, 482 U.S. 483 (1987)
+
 ## Shearson/American Express Inc. v. McMahon, 482 U.S. 220 (1987)
 
 One Line Summary: {{< todo />}}
