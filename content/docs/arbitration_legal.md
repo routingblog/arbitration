@@ -719,7 +719,7 @@ Pull Quote (from {{< todo />}}):
 {{< details "{{< todo />}}" >}}
 {{< /details >}}
 
-Bissonnette v. LePage Bakeries Park St., LLC (2023)
+## Bissonnette v. LePage Bakeries Park St., LLC (2023)
 
 One Line Summary: {{< todo />}}
 
@@ -735,6 +735,11 @@ Pull Quote (from {{< todo />}}):
 
 {{< details "{{< todo />}}" >}}
 {{< /details >}}
+
+## Pending Petitions
+
+[Coinbase, Inc. v. Suski](https://www.scotusblog.com/case-files/cases/coinbase-inc-v-suski/)
+[Smith v. Spirrizzi](https://www.scotusblog.com/case-files/cases/smith-v-spirrizzi/)
 
 
 
