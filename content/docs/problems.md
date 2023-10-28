@@ -28,7 +28,7 @@ Arbitration is inherently a creature contract. The defining feature is not impli
 
 - Overall, the evidence on whether arbitrators follow the law in their awards is inconclusive... analysis of statutes by labor arbitrators often is "cursory and conclusory." [^drahozal1]
 
-- The lower probability of victory, the lack of class representation, and meager legal fees discourage attorneys from representing individuals in arbitration proceedings. This is particularly a problem where the fees will be paid on contigency (most employment and consumer cases). [^stone1] [^privateknappcite3] [^colvin2]
+- The lower probability of victory, the lack of class representation, and meager legal fees discourage attorneys from representing individuals in arbitration proceedings. This is particularly a problem where the fees will be paid on contingency (most employment and consumer cases). [^stone1] [^privateknappcite3] [^colvin2]
 
 - Arbitration requires the waiver of jury trials.  While the jury is probably still out on this issue, there is a general perception that arbitrators give smaller awards than juries. [^privateknappcite1]
 
@@ -221,7 +221,7 @@ While arbitration is generally negative for both employees and consumers there i
 
 [^colvinempirical5]: Colvin supra pp 19 [^colvinempirical1]
 
-[^note1] Research on the litigation process has also discussed the issue of repeat player advantages in that forum. However the arguments raised in that setting focus more on the ability of the repeat player to influence the institutions and rules of the process, for example through lobbying for or against statutory changes. Given that the parties are not directly involved in the selection of the judge in litigation, the same type of repeat player processes analyzed here for employment arbitration are not likely to be an issue in litigation and have not been subject of comparable statistical analysis in empirical studies of employment litigation. [^colvinempirical6]
+[^note1]: Research on the litigation process has also discussed the issue of repeat player advantages in that forum. However the arguments raised in that setting focus more on the ability of the repeat player to influence the institutions and rules of the process, for example through lobbying for or against statutory changes. Given that the parties are not directly involved in the selection of the judge in litigation, the same type of repeat player processes analyzed here for employment arbitration are not likely to be an issue in litigation and have not been subject of comparable statistical analysis in empirical studies of employment litigation. [^colvinempirical6]
 
 [^colvinempirical6]: Colvin supra pp 23 footnote 11 [^colvinempirical1]
 
@@ -229,7 +229,7 @@ While arbitration is generally negative for both employees and consumers there i
 
 [^colvinempirical7]: Colvin supra pp 24-25, 29 [^colvinempirical1]
 
-[^kentucky1] For example, see 'NEW ALBANY MAIN STREET PROPERTIES v R. WAYNE STRATTON, CPA; AND JONES, NALE & MATTINGLY PLC, 2022-SC-0254-DG (Supreme Court of Kentucky 24 August 2023)'
+[^kentucky1]: For example, see 'NEW ALBANY MAIN STREET PROPERTIES v R. WAYNE STRATTON, CPA; AND JONES, NALE & MATTINGLY PLC, 2022-SC-0254-DG (Supreme Court of Kentucky 24 August 2023)'
 
 [^keating1]: Joshi, H. (2023). You Have Got to Be Keating Me: Why the Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act Is a Good Start. 2023. pp 120 (see footnote 65)
 
