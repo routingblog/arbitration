@@ -14,7 +14,7 @@ Arbitration is inherently a creature contract. The defining feature is not impli
 
 # General Information
 
-- Arbitration, when passed, was designed for contract disputes between merchants, not statutory claims or between entities of unequal bargaining power. [^creeping1] [^comm] [^rustic] In fact members of Congress expressly disavowed touching either consumer or employment contracts - and even went so far as to make that explicit with respect to employment. [^scaliaclass1] Julius Henry Cohen, the author of United States Arbitration Act,testified that the bill would be applicable in federal courts only. [^keating1]
+- Arbitration, when passed, was designed for contract disputes between merchants, not statutory claims or between entities of unequal bargaining power. [^creeping1] [^comm] [^rustic] [^newarb2]$ In fact members of Congress expressly disavowed touching either consumer or employment contracts - and even went so far as to make that explicit with respect to employment. [^scaliaclass1] Julius Henry Cohen, the author of United States Arbitration Act,testified that the bill would be applicable in federal courts only. [^keating1]
 
 - Arbitration, as practiced, is unique to the United States [^cain2]
 
@@ -46,7 +46,9 @@ Arbitration is inherently a creature contract. The defining feature is not impli
 
 - Until the mid-1980s, arbitration was primary used for international contract disputes, collective bargaining agreements, and other large-scale commercial dispute resolution [^gilles2] [^gilles4]
 
-- New York's arbitration act was passed in 1920 followed by the Federal Arbitration act in 1925 largely at the behest of commercial trade organizations. [^sacredcow1] They wanted resolution according the norms of the industry instead of by external law. [^sacredcow2] The speed and cost of dispute resolution was not a significant motivation of the original proponents of arbitration. [^sacredcow3]
+- New York's arbitration act was passed in 1920 followed by the Federal Arbitration act in 1925 largely at the behest of commercial trade organizations. [^sacredcow1] They wanted resolution according the norms of the industry instead of by external law. [^sacredcow2]
+
+- The Federal Arbitration Act was "is directed primarily toward settlement of commercial dispute" [^newarb2]
 
 # Employment
 
@@ -241,14 +243,12 @@ While arbitration is generally negative for both employees and consumers there i
 
 [^sacredcow1]: Stone, K. V. W. (2023). Arbitration—From Sacred Cow to Golden Calf: Three Phases in the History of the Federal Arbitration Act. 23. pp 116
 
-[^sacredcow2]: Stone supra pp 117 [^sacredcow1]
+[^sacredcow2]: Stone supra pp 117-118 [^sacredcow1]
 
 [^uscode1]: 9 U.S. Code § 10a
-
-[^sacredcow2]: Stone supra pp 118 [^sacredcow1]
-
-[^sacredcow3]: Stone supra pp 121 [^sacredcow1]
 
 [^newarb1]: Cohen, J. H., & Dayton, K. (1926). The New Federal Arbitration Law. Virginia Law Review, 12(4), 265–286. https://doi.org/10.2307/1065471 pp 119
 
 [^sacredcow4]: Stone supra pp 125 [^sacredcow1]
+
+[^newarb2]: Cohen supra pp 265
