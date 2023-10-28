@@ -18,7 +18,8 @@ Arbitration is inherently a creature contract. The defining feature is not impli
 
 - Arbitration, as practiced, is unique to the United States [^cain2]
 
-- The FAA was intended to be a procedural remedy available in the federal courts [^newarb1]. It was never intended by the enacting Congress to apply in state court. [^schwartzcorrecting]
+- The FAA was intended to be a procedural remedy available in the federal courts [^newarb1]. It was never intended by the enacting Congress to apply in state court. [^schwartzcorrecting] In fact, its constitutionality :"rests upon the constitutional provision by which Congress is authorized to establish and control inferior Federal courts"... and not solely upon "upon the exercise of the interstate-commerce". [^newarb5]
+
 
 - A recalcitrant defendant can delay the start of meaningful proceedings a really long time. For example they can appeal the motion to compel and this would stay the civil court proceedings in the meantime[^coinbase]
 
@@ -123,6 +124,9 @@ Why do some contracts of adhesion have opt-out clauses?
 
 - States usually determine their own contract law which can differ on damages, injunctive relief, availability of specific performance, and claims arising from contract law. However, the [Keating]({{< relref "arbitration_legal/#southland-v-keating" >}}) decision stripped state courts of the power to address arbitration provisions and their enforceability. [^keating2]
 
+# Supreme Court Errors
+
+- The [Keating]({{< relref "arbitration_legal/#southland-v-keating" >}}) decision that the FAA is intended to be substantive law rather than procedural law is wrong. [^newarb6]
 
 # Possible Advantages
 
@@ -249,7 +253,7 @@ While arbitration is generally negative for both employees and consumers there i
 
 [^uscode1]: 9 U.S. Code § 10a
 
-[^newarb1]: Cohen, J. H., & Dayton, K. (1926). The New Federal Arbitration Law. Virginia Law Review, 12(4), 265–286. https://doi.org/10.2307/1065471 pp 119
+[^newarb1]: Cohen, J. H., & Dayton, K. (1926). The New Federal Arbitration Law. Virginia Law Review, 12(4), 265–286. https://doi.org/10.2307/1065471 pp 276
 
 [^sacredcow4]: Stone supra pp 125 [^sacredcow1]
 
@@ -258,3 +262,7 @@ While arbitration is generally negative for both employees and consumers there i
 [^newarb3]: Cohen supra pp 266
 
 [^newarb4]: Cohen supra pp 267
+
+[^newarb5]: Cohen supra pp 275
+
+[^newarb6]: Cohen supra pp 276
