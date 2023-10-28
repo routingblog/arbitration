@@ -20,9 +20,6 @@ Arbitration is inherently a creature contract. The defining feature is not impli
 
 - The FAA was intended to be a procedural remedy available in the federal courts [^newarb1]. It was never intended by the enacting Congress to apply in state court. [^schwartzcorrecting] [^newarb7] In fact, its constitutionality :"rests upon the constitutional provision by which Congress is authorized to establish and control inferior Federal courts"... and not solely upon "upon the exercise of the interstate-commerce". [^newarb5]
 
-
-- A recalcitrant defendant can delay the start of meaningful proceedings a really long time. For example they can appeal the motion to compel and this would stay the civil court proceedings in the meantime[^coinbase]
-
 - Arbitrators are not required to follow or even know the law. [^liptonlaw] [^privateknappcite2] Their rulings can be overturned only in narrow circumstances (in "manifest disregard") where the arbitrators must be found to have "understood and correctly stated the law but proceeded to ignore it." [^merrill]
 
 - Despite not being required to follow (or know) the law they may have Absolute Immunity from statements they make. Importantly, this is true even if they are not operating in objective good faith. [^kentucky1]
@@ -42,6 +39,8 @@ Arbitration is inherently a creature contract. The defining feature is not impli
 - We have little empirical verification of the claims made both for and against arbitration and ADR, including positive assertions made about reduced cost, speed, and access to dispute mechanisms. [^galanterhaves3] The little empirical data we have consistently shows an anti-employee bias.  Basic questions such as the typical characteristics and outcomes of cases in employment arbitration remain to be definitively answered. [^colvinempirical1]
 
 - Where the employee was self-represented the employee win rate was substantially smaller versus cases where the employee was represented by counsel. Award amounts are also smaller. [^colvinempirical7] This counters the argument that arbitration may reduce the need for attorneys.
+
+- The author of the FAA said that Arbitration "was not designed to major importance involving constitutional questions or policy in the application of statute" [^newarb8]
 
 # Historical Information
 
@@ -135,6 +134,8 @@ While arbitration is generally negative for both employees and consumers there i
 ## Speed of Resolution
 
 - Arbitration is actually faster than litigation. Cases typically take around two to two-and-a-half years to reach trial but mean time to disposition for an employment arbitration case that resulted in an award was 361.5 days. [^colvinempirical3]  However, it is also important to recognize that most cases in both litigation and arbitration are settled before a final hearing. Furthermore much of the reason for the reduced length of resolution is that arbitration gives up important procedural rights.
+
+- A recalcitrant defendant can delay the start of meaningful proceedings a really long time. For example they can appeal the motion to compel and this would stay the civil court proceedings in the meantime[^coinbase]
 
 ## Fees
 
@@ -268,3 +269,5 @@ While arbitration is generally negative for both employees and consumers there i
 [^newarb6]: Cohen supra pp 276
 
 [^newarb7]: Cohen supra pp 278
+
+[^newarb8]: Cohen supra pp 281
