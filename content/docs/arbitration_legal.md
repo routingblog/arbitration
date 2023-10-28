@@ -1052,7 +1052,7 @@ EFASASHA is incomplete, but a good start. The FAIR Act provides a strong potion 
     {{< /details >}}
 
 1. Stone, K. V. W. (2023). Arbitration—From Sacred Cow to Golden Calf: Three Phases in the History of the Federal Arbitration Act. 23.
-
+1. Cohen, J. H., & Dayton, K. (1926). The New Federal Arbitration Law. Virginia Law Review, 12(4), 265–286. https://doi.org/10.2307/1065471
 
 ---
 
