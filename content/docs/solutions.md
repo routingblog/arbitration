@@ -20,5 +20,11 @@ A simple fix to much of this mess would be remove the words `seamen, railroad em
 
 I am somewhat surprised that I've not seen anyone else suggest this.
 
+# End the preemption of state statutes
+
+The most effective way to build on the work of the Restoring Justice for Workers Act is to end the preemption of state statutes. Congress could amend the FAA such that it no longer preempts state statutes singling out arbitration. Under this solution, states would be free to experiment with arbitration law and potentially derive new equitable solutions. [^realright1]
+
 
 # Footnotes
+
+[^realright1]: Ryan Schimmel. (2023). A Real Right to Litigate: Dismantling Mandatory Arbitration and the Restoring Justice for Workers Act. SETON HALL LEGISLATIVE JOURNAL, 47 pp 106
