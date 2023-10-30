@@ -10,9 +10,11 @@ Arbitration, as currently practiced, is a form of 'Rustic Justice' whose primary
 
 The Supreme Court has repeatedly ignored the plain meaning of the statutes, congressional intent in writing the FAA, as well the standard rules of statutory interpretation effectively rewriting Title 9 to invent a "national policy favoring arbitration" as a form of “do it yourself-tort reform". [^jiggery] [^schwartzcorrecting] [^gilles5] [^sternlight] [^sacredcow4]
 
-Arbitration is inherently a creature contract. The defining feature is not implicitly or speed but rather _party agreement_. As such most of this document is in generalities and discusses typical consumer and employment contracts. Furthermore, it is difficult to study because only a small fraction of awards are published and awards are only a fragment of the overall proceedings. [^ruminations1]
+Arbitration is inherently a creature contract. The defining feature is not implicitly or speed but rather _party agreement_. As such most of this document is in generalities and discusses typical consumer and employment contracts. It is difficult to study because only a small fraction of awards are published and awards are only a fragment of the overall proceedings. [^ruminations1] It is also difficult to study due to the combination of ethical issues preventing unbiased blind studies for real parties. [^realright2]
 
 # General Information
+
+- Any _individual_ signer of any _individual_ "agreement" often has no other choice if they wish to get a job, to establish a credit history, or even to get a good deal on a cell phone. [^glover1]
 
 - Arbitration, when passed, was designed for contract disputes between merchants, not statutory claims or between entities of unequal bargaining power. [^creeping1] [^comm] [^rustic] [^newarb2]$ In fact members of Congress expressly disavowed touching either consumer or employment contracts - and even went so far as to make that explicit with respect to employment. [^scaliaclass1] Julius Henry Cohen, the author of United States Arbitration Act,testified that the bill would be applicable in federal courts only. [^keating1] [^newarb4]
 
@@ -28,27 +30,31 @@ Arbitration is inherently a creature contract. The defining feature is not impli
 
 - The lower probability of victory, the lack of class representation, and meager legal fees discourage attorneys from representing individuals in arbitration proceedings. This is particularly a problem where the fees will be paid on contingency (most employment and consumer cases). [^stone1] [^privateknappcite3] [^colvin2]
 
+- This becomes a cycle where employees struggle to retain representation because of low payouts in arbitration, and employees get lower payouts in arbitration because they are unrepresented. [^realright3]
+
 - Arbitration requires the waiver of jury trials.  While the jury is probably still out on this issue, there is a general perception that arbitrators give smaller awards than juries. [^privateknappcite1]
 
 - When the contract limits remedies in other ways (reduced time to bring claims, limitations on injuctive relief, etc.) it is normally subject to Judicial review. Not so with arbitration. In fact, stepping "outside the bounds of the contract" are one of the few reasons arbitrator's awards can be vacated. [^privateknappcite4]
 
 - An award can only be vacated if (1) it was procured by corruption or fraud, (2) evident partiality or corruption, (3) the arbitrator refused to hear relevant evidence, or (4) the arbitrator exceeded the power defined in the arbitration agreement. [^uscode1] These exceptions are interpreted narrowly with great deference given to the arbitrator. It may not overturned due to an error of fact, contract interpretation, or law. [^sacredcow3]
 
-- In civil court the attorneys could have sanctions against them if they pointlessly delay the proceedings. Less so in arbitration.
+- In civil court the attorneys could have sanctions against them if they pointlessly delay the proceedings. Less so arbitration.
 
 - We have little empirical verification of the claims made both for and against arbitration and ADR, including positive assertions made about reduced cost, speed, and access to dispute mechanisms. [^galanterhaves3] The little empirical data we have consistently shows an anti-employee bias.  Basic questions such as the typical characteristics and outcomes of cases in employment arbitration remain to be definitively answered. [^colvinempirical1]
 
 - Where the employee was self-represented the employee win rate was substantially smaller versus cases where the employee was represented by counsel. Award amounts are also smaller. [^colvinempirical7] This counters the argument that arbitration may reduce the need for attorneys.
 
-- The author of the FAA said that Arbitration "was not designed to major importance involving constitutional questions or policy in the application of statute" [^newarb8]
+- The FAA creates an incentive for entities to self-deregulate through private contract [^glover1]
 
 # Historical Information
+
+- The author of the FAA said that Arbitration "was not designed to major importance involving constitutional questions or policy in the application of statute" [^newarb8]
+
+- The Federal Arbitration Act was "is directed primarily toward settlement of commercial dispute" [^newarb2]
 
 - Until the mid-1980s, arbitration was primary used for international contract disputes, collective bargaining agreements, and other large-scale commercial dispute resolution [^gilles2] [^gilles4]
 
 - New York's arbitration act was passed in 1920 followed by the Federal Arbitration act in 1925 largely at the behest of commercial trade organizations. [^sacredcow1] They wanted resolution according the norms of the industry instead of by external law. [^sacredcow2]
-
-- The Federal Arbitration Act was "is directed primarily toward settlement of commercial dispute" [^newarb2]
 
 - Prior to the various arbitration acts of the mid 1920s the common law doctrine allowed for revocibility. [^newarb3]
 
@@ -82,12 +88,15 @@ Arbitration is inherently a creature contract. The defining feature is not impli
 
 - The share of workers subject to mandatory arbitration exceedss 55 percent is growing. Among companies with 1,000 or more employees, 65 percent have mandatory arbitration procedures. 30 percent also include class action waivers in their procedures [^colvin1]
 
-
 # Class Actions
+
+- Arbitration provisions regularly include class action waivers, and since there is a cost to arbitration, bringing a single claim can be detrimental. [^realright1]
 
 - The ability to block class actions is the primary motivation to compel arbitration. It is rare for a company to try to force an individual lawsuit into arbitration but common for arbitration clauses to be invoked to block class actions. [^arbstudyfact1]
 
-- The ban on class actions in particular makes it unlikely that many claims of corporate wrongdoing—particularly those that involve small sums for each in large groups of individuals—will ever be heard. As Justice Breyer opined, “Only a lunatic or a fanatic sues for $30.” [^stone3]
+- The ban on class actions in particular makes it unlikely that many claims of corporate wrongdoing—particularly those that involve small sums for each in large groups of individuals—will ever be heard. As Justice Breyer opined, “Only a lunatic or a fanatic sues for $30.” [^stone3]  If the filing fees and other prospective costs of arbitration amount to more than what could be gained with a favorable judgment, then a claim will almost certainly not be brought.
+
+- Ninety percent of mandatory arbitration agreements include a class action waiver [^stone5]
 
 - A commercial entity can cloister itself away from significant financial liability, as well as any correlative damages award meant to deter unsavory behavior [^classdismissed]
 
@@ -271,3 +280,13 @@ While arbitration is generally negative for both employees and consumers there i
 [^newarb7]: Cohen supra pp 278
 
 [^newarb8]: Cohen supra pp 281
+
+[^glover1]: Glover, J. M. (n.d.). Disappearing Claims and the Erosion of Substantive Law. pp 3091-3092
+
+[^realright1]: Ryan Schimmel. (2023). A Real Right to Litigate: Dismantling Mandatory Arbitration and the Restoring Justice for Workers Act. SETON HALL LEGISLATIVE JOURNAL, 47. pp 91
+
+[^realright2]: Schimmel supra pp 94
+
+[^realright2]: Schimmel supra pp 95
+
+[^stone5]: Stone supra pp 16

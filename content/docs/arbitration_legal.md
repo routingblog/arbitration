@@ -439,9 +439,11 @@ Pull Quote
 
 Consolidated with: _Ernst & Young LLP v. Morris_ and _National Labor Relations Board v. Murphy Oil USA, Inc._
 
-## Kindred Nursing Center v. Clark
+## Kindred Nursing Ctrs. Ltd. P’ship v. Clark, 137 S. Ct. 1421 (2017).
 
-One Line Summary: {{< todo />}}
+The Kentucky Supreme Court determined that individuals holding power of attorney for another cannot enter into mandatory arbitration agreements. Because the Kentucky Supreme Court singled out arbitration contracts, The United States Supreme Court reasoned that the decision conflicted with the FAA and thus could not stand
+
+One Line Summary: The FAA preempts any state rule discriminating on its face against arbitration
 
 - Wikipedia: {{< todo />}}
 - Court Opinion (Court Listener): {{< todo />}}

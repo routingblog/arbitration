@@ -20,6 +20,9 @@ Arbitration
 Pre-Dispute Arbitration Agreement
 : The contract specifying that the parties agree to use arbitration for _future_ disputes.
 
+Post-Dispute Arbitration Agreement
+: Agreement to use arbitration of a specific claim after an incident occurs.
+
 Mandatory Arbitration
 : The requirement to sign an arbitration agreement as a condition to employment or receiving good or services.
 
