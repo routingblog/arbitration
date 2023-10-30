@@ -771,18 +771,24 @@ Pull Quote (from {{< todo />}}):
 
 ## District Court Cases
 
-## Parm v. Nat'l Bank of Cal., N.A., 835 F.3d 1331
+### Parm v. Nat'l Bank of Cal., N.A., 835 F.3d 1331
 
-## INETIANBOR v. CASHCALL INC (2014)
+{{< todo />}}
 
-## Parnell v. Cashcall, Inc.
+### INETIANBOR v. CASHCALL INC (2014)
 
-## Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Bobker, 636 F. Supp. 444 (S.D.N.Y. 1986)
+{{< todo />}}
+
+### Parnell v. Cashcall, Inc.
+{{< todo />}}
+
+### Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Bobker, 636 F. Supp. 444 (S.D.N.Y. 1986)
 
 Defines manifest disregard for the law (in the 2nd circuit)
 
-## Engalla v. Permanente Medical Group, Inc. 43 Cal. Rptr. 2d 621 (Cal. Ct. App. 1995)
+### Engalla v. Permanente Medical Group, Inc. 43 Cal. Rptr. 2d 621 (Cal. Ct. App. 1995)
 
+{{< todo />}}
 
 ### In re: TikTok Inc. Consumer Privacy Litigation, Case No. 1:20-cv-04699
 
