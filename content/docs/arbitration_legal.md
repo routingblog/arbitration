@@ -930,9 +930,14 @@ which effectively reversed [Coinbase]({{< relref "#coinbase-v-bielski" >}}) for 
 - [Disapproval Notice](https://www.federalregister.gov/documents/2017/11/22/2017-25324/arbitration-agreements)
 - Congressional Review Act Disapproval: [PUBLIC LAW 115-74](https://www.govinfo.gov/content/pkg/PLAW-115publ74/pdf/PLAW-115publ74.pdf)
 
-### Truth in Lending Act (Regulation Z); Loan Originator Compensation -
-
 - https://www.regulations.gov/docket/CFPB-2012-0037
+
+### Truth in Lending Act (Regulation Z); Loan Originator Compensation
+
+https://www.federalregister.gov/documents/2013/02/15/2013-01503/loan-originator-compensation-requirements-under-the-truth-in-lending-act-regulation-z
+
+
+## DFARS Case 2010-D004
 
 ## Centers for Medicare&Medicaid Services
 
@@ -944,7 +949,12 @@ which effectively reversed [Coinbase]({{< relref "#coinbase-v-bielski" >}}) for 
 
 ### Restrictions on the Use of Mandatory Arbitration Agreements (DFARS Case 2010–D004)
 
-- https://www.regulations.gov/docket/DARS-2010-0059
+Defense Federal Acquisition Regulation Supplement; Restrictions on the Use of Mandatory Arbitration Agreements (DFARS Case 2010-D004)
+
+A Rule by the Defense Acquisition Regulations System on 2010-12-08
+
+[Federal Register Rule - DFARS Case 2010-D004](https://www.federalregister.gov/documents/2010/12/08/2010-30669/defense-federal-acquisition-regulation-supplement-restrictions-on-the-use-of-mandatory-arbitration)
+[Regulation Comments](https://www.regulations.gov/docket/DARS-2010-0059)
 
 # References
 
