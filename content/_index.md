@@ -27,7 +27,7 @@ ADR
 : Alternate Dispute Resolution. Procedures by which disputes can be resolved other than litigation. For example settlements, mediation, binding or non-binding arbitration.
 
 Separability principle
-: an arbitration clause is treated as a separate agreement to the contract containing it. An agreement to arbitrate may not be nullified by a void main contract.
+: An arbitration clause is treated as a separate agreement to the contract containing it. An agreement to arbitrate may not be nullified by a void main contract.
 
 # Footnotes
 
