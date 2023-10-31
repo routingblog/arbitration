@@ -20,7 +20,7 @@ Arbitration is inherently a creature contract. The defining feature is not impli
 
 - Arbitration, as practiced, is unique to the United States [^cain2]
 
-- The FAA was intended to be a procedural remedy available in the federal courts [^newarb1]. It was never intended by the enacting Congress to apply in state court. [^schwartzcorrecting] [^newarb7] In fact, its constitutionality :"rests upon the constitutional provision by which Congress is authorized to establish and control inferior Federal courts"... and not solely upon "upon the exercise of the interstate-commerce". [^newarb5]
+- The FAA was intended to be a procedural remedy available in the federal courts [^newarb1]. It was never intended by the enacting Congress to apply in state court. [^schwartzcorrecting] [^newarb7] In fact, its constitutionality "rests upon the constitutional provision by which Congress is authorized to establish and control inferior Federal courts"... and not solely upon "upon the exercise of the interstate-commerce". [^newarb5]
 
 - Arbitrators are not required to follow or even know the law. [^liptonlaw] [^privateknappcite2] Their rulings can be overturned only in narrow circumstances (in "manifest disregard") where the arbitrators must be found to have "understood and correctly stated the law but proceeded to ignore it." [^merrill]
 
