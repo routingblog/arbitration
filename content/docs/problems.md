@@ -128,6 +128,8 @@ Why do some contracts of adhesion have opt-out clauses?
 
 - The effects of removing entire classes of litigation from the stream of the common law effectively halts the development of legal common law. [^gilles3] For example it is judge made rules that define permissible conduct under Title VII, the FLSA, and state employment laws. Private arbitration of these disputes allows defendant-employers to disregard such laws and prevent public development in regards to new behavior. [^gilles7]
 
+- An arbitrator's authority is based on contract and thus has limited incentive to consider the effects of their awards on third parties [^lawless1]
+
 # Federalism
 
 - States usually determine their own contract law which can differ on damages, injunctive relief, availability of specific performance, and claims arising from contract law. However, the [Keating]({{< relref "arbitration_legal/#southland-v-keating" >}}) decision stripped state courts of the power to address arbitration provisions and their enforceability. [^keating2]
@@ -292,3 +294,5 @@ While arbitration is generally negative for both employees and consumers there i
 [^stone5]: Stone supra pp 16
 
 [^igonrance1]: Davis, K. R. (n.d.). When Ignorance of the Law Is No Excuse: Judicial Review of Arbitration Awards. BUFFALO LAW REVIEW, 45. pp 51
+
+[^lawless1]: Drahozal, C. (2006). Is Arbitration Lawless. Loyola of Los Angeles Law Review, 40(1), 187. https://digitalcommons.lmu.edu/llr/vol40/iss1/5 pp 192
