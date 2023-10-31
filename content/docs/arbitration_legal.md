@@ -1030,7 +1030,9 @@ EFASASHA is incomplete, but a good start. The FAIR Act provides a strong potion 
 1. Stone, K. V. W. (2023). Arbitration—From Sacred Cow to Golden Calf: Three Phases in the History of the Federal Arbitration Act. 23.
 1. Cohen, J. H., & Dayton, K. (1926). The New Federal Arbitration Law. Virginia Law Review, 12(4), 265–286. https://doi.org/10.2307/1065471
 1. Ryan Schimmel. (2023). A Real Right to Litigate: Dismantling Mandatory Arbitration and the Restoring Justice for Workers Act. SETON HALL LEGISLATIVE JOURNAL, 47.
+1. Drahozal, C. (2006). Is Arbitration Lawless. Loyola of Los Angeles Law Review, 40(1), 187. https://digitalcommons.lmu.edu/llr/vol40/iss1/5
 
+    This is the strongest "pro-arbitration" note so far. Even so, it merely states that there is "little emperical evidence" that arbitrators don't follow the law and has other fairly weak claims.
 
 ---
 
