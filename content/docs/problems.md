@@ -10,7 +10,7 @@ Arbitration, as currently practiced, is a form of 'Rustic Justice' whose primary
 
 The Supreme Court has repeatedly ignored the plain meaning of the statutes, congressional intent in writing the FAA, as well the standard rules of statutory interpretation effectively rewriting Title 9 to invent a "national policy favoring arbitration" as a form of “do it yourself-tort reform". [^jiggery] [^schwartzcorrecting] [^gilles5] [^sternlight] [^sacredcow4]
 
-Arbitration is inherently a creature contract. The defining feature is not implicitly or speed but rather _party agreement_. As such most of this document is in generalities and discusses typical consumer and employment contracts. It is difficult to study because only a small fraction of awards are published and awards are only a fragment of the overall proceedings. [^ruminations1] It is also difficult to study due to the combination of ethical issues preventing unbiased blind studies for real parties. [^realright2]
+Arbitration is inherently a creature contract. The defining feature is not implicitly or speed but rather _party agreement_. [^igonrance1] As such most of this document is in generalities and discusses typical consumer and employment contracts. It is difficult to study because only a small fraction of awards are published and awards are only a fragment of the overall proceedings. [^ruminations1] It is also difficult to study due to the combination of ethical issues preventing unbiased blind studies for real parties. [^realright2]
 
 # General Information
 
@@ -290,3 +290,5 @@ While arbitration is generally negative for both employees and consumers there i
 [^realright2]: Schimmel supra pp 95
 
 [^stone5]: Stone supra pp 16
+
+[^igonrance1]: Davis, K. R. (n.d.). When Ignorance of the Law Is No Excuse: Judicial Review of Arbitration Awards. BUFFALO LAW REVIEW, 45. pp 51
