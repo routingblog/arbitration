@@ -22,12 +22,6 @@ Arbitration is inherently a creature contract. The defining feature is not impli
 
 - The FAA was intended to be a procedural remedy available in the federal courts [^newarb1]. It was never intended by the enacting Congress to apply in state court. [^schwartzcorrecting] [^newarb7] In fact, its constitutionality "rests upon the constitutional provision by which Congress is authorized to establish and control inferior Federal courts"... and not solely upon "upon the exercise of the interstate-commerce". [^newarb5]
 
-- Arbitrators are not required to follow or even know the law. [^liptonlaw] [^privateknappcite2] Their rulings can be overturned only in narrow circumstances (in "manifest disregard") where the arbitrators must be found to have "understood and correctly stated the law but proceeded to ignore it." [^merrill]
-
-- Despite not being required to follow (or know) the law they may have Absolute Immunity from statements they make. Importantly, this is true even if they are not operating in objective good faith. [^kentucky1]
-
-- Overall, the evidence on whether arbitrators follow the law in their awards is inconclusive... analysis of statutes by labor arbitrators often is "cursory and conclusory." [^drahozal1]
-
 - The lower probability of victory, the lack of class representation, and meager legal fees discourage attorneys from representing individuals in arbitration proceedings. This is particularly a problem where the fees will be paid on contingency (most employment and consumer cases). [^stone1] [^privateknappcite3] [^colvin2]
 
 - This becomes a cycle where employees struggle to retain representation because of low payouts in arbitration, and employees get lower payouts in arbitration because they are unrepresented. [^realright3]
@@ -122,7 +116,20 @@ Why do some contracts of adhesion have opt-out clauses?
 
 # Confidentiality
 
-# Arbitration And The Law
+# Following The Law
+
+- Arbitrators are not required to follow or even know the law. [^liptonlaw] [^privateknappcite2] Their rulings can be overturned only in narrow circumstances (in "manifest disregard") where the arbitrators must be found to have "understood and correctly stated the law but proceeded to ignore it." [^merrill]
+
+- Despite not being required to follow (or know) the law they may have Absolute Immunity from statements they make. Importantly, this is true even if they are not operating in objective good faith. [^kentucky1]
+
+- Overall, the evidence on whether arbitrators follow the law in their awards is inconclusive... analysis of statutes by labor arbitrators often is "cursory and conclusory." [^drahozal1]
+
+
+- Many arbitration awards contain no statement of reasons, so that it is difficult if not impossible to determine whether the arbitrators have followed the law. [^lawless1]
+
+- Even if a court determines that the arbitrators did not follow the law, in most cases the court will uphold the award. [^lawless1]
+
+# Developing The Law
 
 - Because arbitration agreements are often confidential, and even when not they are not clearly reasoned or published they make it difficult to establish norms and ensure that equally situated persons are treated equally. [^creeping2]
 
