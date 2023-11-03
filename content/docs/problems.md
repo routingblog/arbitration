@@ -158,6 +158,11 @@ While arbitration is generally negative for both employees and consumers there i
 
 - Amongst the studied cases, the employer paid all arbitration fees 97 percent of the time, indicating that the employer-pays rule is generally being enforced in AAA employment arbitration cases. [^colvinempirical4] This is primarily due to state law requiring employers to pay for arbitration fees.
 
+# Document Limitations
+
+This document has a few limitations and biases.
+
+- Many of the studies or analysis of arbitration don't differentiate between forced consumer mandatory arbitration, labour arbitration, collective bargaining agreements, or even between businesses. To the extent possible this document tries to focus on and cite details that are either generally true or that focus specifically on consumer and non-collective labour contracts.
 
 # Footnotes
 
