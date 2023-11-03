@@ -1046,6 +1046,10 @@ EFASASHA is incomplete, but a good start. The FAIR Act provides a strong potion 
 
     This is the strongest "pro-arbitration" note so far. Even so, it merely states that there is "little emperical evidence" that arbitrators don't follow the law and has other fairly weak claims.
 
+    {{< details "Drahozal - Lawless - Conclusion" >}}
+    Clearly more research is needed to evaluate the extent to which arbitration actually is "lawless." The research to date, however, suggests that perhaps arbitration is less lawless than is sometimes feared.
+    {{< /details >}}
+
 ---
 
 1. Knapp, C. L. (2002). Taking Contracts Private: The Quiet Revolution in Contract Law. Fordham Law Review, 71(3), 761–798. (unread)
