@@ -18,7 +18,6 @@ One Line Summary: power to grant a stay is not conditioned on power to compel ar
 We think the Court of Appeals was clearly right in concluding that there is no reason to imply that the power to grant a stay is conditioned upon the existence of power to compel arbitration in accordance with § 4 of the Act.
 {{< /details >}}
 
-
 ## Wilko v. Swan, 346 U.S. 427 (1953) {id="wilko-v-swan"}
 
 One Line Summary: The Securities Act overrides the Federal Arbitration Act (the judicial forum is a “a substantial right” and thus non-waivable).
@@ -86,11 +85,9 @@ One Line Summary: {{< todo />}}
 > Since the claim of fraud here relates to inducement of the consulting agreement generally, rather than in the arbitration clause, and there is no evidence that the parties intended to withhold this issue from arbitration, there is no basis for granting a stay under § 3. Pp. 388 U. S. 406-407.
 {{< /details >}}
 
-
 ### Analysis
 
 > Recognizing as "broad" a clause requiring arbitration of"[a]ny controversy or claim arising out of or relating to" the agreement
-
 > Holding that if the making of the arbitration agreement is an issue "the federal court may proceed to adjudicate it"
 
 > Holding that contractual language "[a]ny controversy or claims arising out of or relating to this Agreement, or breach thereof" is "easily broad enough to encompass" claim for fraud in inducement of contract
@@ -782,6 +779,7 @@ Pull Quote (from {{< todo />}}):
 ## California Supreme Court Cases
 
 ### Adolph v. Uber Techs., Inc., No. S274671, 2023 WL 4553702 (Cal. July 17, 2023) {id="adolph"}
+
 - Opinion: https://www.courts.ca.gov/opinions/documents/S274671.PDF
 - represenative PAGA is allowed despite arbitration of individual
 

@@ -68,7 +68,7 @@ Arbitration is inherently a creature contract. The defining feature is not impli
 
 - Repeat player employers fair better than first-timers. [^colvinempirical5] When they win against repeat player employers, employees recover only 11% of their claims. When they win in cases involving one-shot employers, they recover 48% of their claims. [^lisarepeat] [^colvinempirical5] [^note1]
 
-- There is strong evidence for a repeat employer-arbitrator pairing effect in which employees tend to win less often and recover smaller amounts when the employer and the arbitrator are involved in multiple cases together [^colvinempirical8]
+- There is strong evidence for a repeat employer-arbitrator pairing effect in which employees tend to win less often and recover smaller amounts when the employer and the arbitrator are involved in multiple cases together [^c155olvinempirical8]
 
 - Arbitrators that are picked by the employers more than once
 
