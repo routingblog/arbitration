@@ -28,6 +28,7 @@ There have been many attempts to fix the problems. This table lists some of them
 | [H.R.1374 - Arbitration Fairness Act of 2017](https://www.congress.gov/bill/115th-congress/house-bill/1374) | 115th Congress (2017-2018) | Stuck in Judiciary Committee | |
 | [S.537 - Arbitration Fairness Act of 2017](https://www.congress.gov/bill/115th-congress/senate-bill/537) | 115th Congress (2017-2018) | Stuck in Judiciary Committee | |
 | [S.2591 - Arbitration Fairness Act of 2018](https://www.congress.gov/bill/115th-congress/senate-bill/2591) | 115th Congress (2017-2018) | Stuck in Judiciary Committee | |
+| [H.R.7109 - Restoring Justice for Workers Act](https://www.congress.gov/bill/115th-congress/house-bill/7109) | 115th Congress (2017-2018) | Stuck in Judiciary Committee | |
 | [H.R.1423 - FAIR Act](https://www.congress.gov/bill/116th-congress/house-bill/1423) | 116th Congress (2019-2020)| Stuck in Judiciary Committee | |
 | [S.610 - Forced Arbitration Injustice Repeal Act](https://www.congress.gov/bill/116th-congress/senate-bill/610) | 116th Congress (2019-2020)| Stuck in Judiciary Committee | |
 | [S.2459 — Justice for Service Members Act](https://www.congress.gov/bill/116th-congress/senate-bill/2459/text) | 116th Congress (2019-2020) | Stuck in Committee on Veterans' Affairs | |
