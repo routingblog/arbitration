@@ -34,4 +34,4 @@ Separability principle
 
 # Footnotes
 
-[^colvin1]: 1. Colvin, A. J. S. (2018). The growing use of mandatory arbitration (144131; pp. 1–17). Economic Policy Institute. pp 1
+[^colvin1]: Colvin, A. J. S. (2018). The growing use of mandatory arbitration (144131; pp. 1–17). Economic Policy Institute. pp 1
