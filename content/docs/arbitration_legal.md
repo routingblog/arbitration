@@ -97,6 +97,20 @@ One Line Summary: {{< todo />}}
 
 > The Prima Paint Court erred, however, in asserting that the FAA’s basis was “confined to” Congress’s interstate commerce and admiralty power. That assertion is flat out wrong: As we have seen, the legislative history shows that Congress placed primary reliance for enacting the FAA on its control over the procedures of the federal courts. [^correcting2]
 
+## Alexander v. Gardner-Denver Company
+
+One Line Summary: arbitration of a discrimination claim as a grievance in labor union arbitration did not preclude the individual from later asserting the claim in court.
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Alexander_v._Gardner-Denver_Co.)
+- Court Opinion (Court Listener): {{< todo />}} (unread)
+- Court Opinion (pdf): {{< todo />}} (unread)
+- [Oyez](https://www.oyez.org/cases/1973/72-5847)
+- Majority Author: {{< todo />}} (unread)
+- Concurrence: {{< todo />}} (unread)
+- Dissents: {{< todo />}} (unread)
+
+Pull Quote (from {{< todo />}}):
+
 ## Scherk v. Alberto-Culver Company 417 US 506 (1974)
 
 One Line Summary: {{< todo />}}
