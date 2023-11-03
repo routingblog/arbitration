@@ -10,7 +10,7 @@ Arbitration, as currently practiced, is a form of 'Rustic Justice' whose primary
 
 The Supreme Court has repeatedly ignored the plain meaning of the statutes, congressional intent in writing the FAA, as well the standard rules of statutory interpretation effectively rewriting Title 9 to invent a "national policy favoring arbitration" as a form of “do it yourself-tort reform". [^jiggery] [^schwartzcorrecting] [^gilles5] [^sternlight] [^sacredcow4]
 
-Arbitration is inherently a creature contract. The defining feature is not implicitly or speed but rather _party agreement_. [^igonrance1] As such most of this document is in generalities and discusses typical consumer and employment contracts. It is difficult to study because only a small fraction of awards are published and awards are only a fragment of the overall proceedings. [^ruminations1] It is also difficult to study due to the combination of ethical issues preventing unbiased blind studies for real parties. [^realright2]
+Arbitration is inherently a creature contract. The defining feature is not implicitly or speed but rather _party agreement_. [^igonrance1] As such most of this document is in generalities and discusses typical consumer and employment contracts. It is difficult to study because only a small fraction of awards are published and awards are only a fragment of the overall proceedings. [^ruminations1] [^predict1] It is also difficult to study due to the combination of ethical issues preventing unbiased blind studies for real parties. [^realright2]
 
 # General Information
 
@@ -313,3 +313,5 @@ This document has a few limitations and biases.
 [^lawless1]: Drahozal, C. (2006). Is Arbitration Lawless. Loyola of Los Angeles Law Review, 40(1), 187. https://digitalcommons.lmu.edu/llr/vol40/iss1/5 pp 192
 
 [^dirussa]: DiRussa v. Dean Witter Reynolds, Inc., 121 F.3d 818
+
+[^predict1]: Levinson, A. R., O’Hara O’Connor, E. A., & Skiba, P. M. (2020). Predictability of Arbitrators’ Reliance on External Authority? (SSRN Scholarly Paper 3666331). https://papers.ssrn.com/abstract=3666331 pp 1881
