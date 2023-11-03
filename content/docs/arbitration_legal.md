@@ -900,38 +900,7 @@ Stolt-Nielsen v. Animalfeeds International Corp. - https://www.oyez.org/cases/20
 {{< todo />}}
 
 
-# Statutes
-
-| Common Name | Identifier | Notes |
-| ----------- | ---------- | ----- |
-| [Dodd-Frank Act](https://www.govinfo.gov/content/pkg/PLAW-111publ203/html/PLAW-111publ203.htm) | Pub. L. 111-203 I.A §113 |
-| • [Federal Arbitration Act (as amended)](https://uscode.house.gov/view.xhtml?path=/prelim@title9&edition=prelim) <br> • https://www.law.cornell.edu/uscode/text/9 | 9 U.S.C. | Originally enacted 1925 |
-| [Motor Vehicle Franchise Contract Arbitration Fairness Act](https://www.law.cornell.edu/uscode/text/15/1226) | 15 U.S. Code § 1226 |
-| • [H.R.4445 - Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act of 2021](https://www.congress.gov/bill/117th-congress/house-bill/4445) <br> • [H.R.4445 pdf](https://www.congress.gov/117/crpt/hrpt234/CRPT-117hrpt234.pdf) <br> • [H. Rept. 117-234](https://www.congress.gov/congressional-report/117th-congress/house-report/234/1)  | H.R.4445 |
-
-## Proposed State and National Bills
-
-See other past [proposed bills]({{< relref "bills" >}})
-
-## State Statutes
-
-| Title       | State |
-| ----------- | ----------- |
-| [CA Code of Civil Procedure - CCP §§3.9.1280 - 1294.4](https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=CCP&division=&title=9.&part=3.&chapter=&article=) | California |
-| [NY C.P.L.R. §8 7501-7516](https://www.nysenate.gov/legislation/laws/CVP/A75) | New York |
-| [CA EDC §94876](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=EDC&sectionNum=94907.&article=11) | California |
-| [FL Title XXXIX §682](https://www.flsenate.gov/Laws/Statutes/2018/Chapter682/All) | Florida |
-
-
-### History
-
-#### CA SB-365 (2023)
-[CA SB-365 Civil procedure: arbitration](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB365) was signed on 10-OCT-23 which ammends CCP §1294.4 to add the text
-
-> Notwithstanding Section 916, the perfecting of such an appeal shall not automatically stay any proceedings in the trial court during the pendency of the appeal.
-
-which effectively reversed [Coinbase]({{< relref "#coinbase-v-bielski" >}}) for California cases.
-
+See other [bills]({{< relref "bills" >}})
 
 # References
 
