@@ -10,7 +10,7 @@ Mandatory arbitration is a controversial practice in which a business requires e
 
 The goal of this website is discuss _forced arbitration_ and _class action waivers_ in _consumer_ and _employment_ disputes. Other aspects of arbitration are discussed mostly in the context of how they affect these two pieces of the puzzle.
 
-Arbitration is often as a cheaper, faster, and more efficient mechanism to resolve disputes. In reality, arbitration serves to eliminate meaningful recourse for violations of contract or of the law.
+Arbitration is often heralded as a cheaper, faster, and more efficient mechanism to resolve disputes. [In reality]({{< relref "problems" >}}), arbitration serves to eliminate meaningful recourse for violations of contract or of the law.
 
 # Definitions
 
