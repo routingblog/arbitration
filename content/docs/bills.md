@@ -40,6 +40,7 @@ There have been many attempts to fix the problems. This table lists some of them
 | · [S.1408 - Ending Forced Arbitration of Race Discrimination Act of 2023](https://www.congress.gov/bill/118th-congress/senate-bill/1408) <br> · [H.R.3038 - Ending Forced Arbitration of Race Discrimination Act of 2023](https://www.congress.gov/bill/118th-congress/house-bill/3038) | 118th Congress (2023-2024) | |
 | [H.R.4841 - Restoring Justice for Workers Act](https://www.congress.gov/bill/117th-congress/house-bill/4841) | 117th Congress (2021-2022) | |
 | [H.R.5516](https://www.congress.gov/bill/118th-congress/house-bill/5516/text) | 118th Congress (2023-2024) | |
+| [S.1376](https://www.congress.gov/bill/118th-congress/senate-bill/1376/text) | 118th Congress (2023-2024) | |
 
 # Proposed State Bills
 
