@@ -122,7 +122,7 @@ Why do some contracts of adhesion have opt-out clauses?
 
 - Despite not being required to follow (or know) the law they may have Absolute Immunity from statements they make. Importantly, this is true even if they are not operating in objective good faith. [^kentucky1]
 
-- Overall, the evidence on whether arbitrators follow the law in their awards is inconclusive... analysis of statutes by labor arbitrators often is "cursory and conclusory." [^drahozal1]
+- Overall, the evidence on whether arbitrators follow the law in their awards is inconclusive... analysis of statutes by labor arbitrators often is "cursory and conclusory." [^drahozal1] [^greenfield1]
 
 - Many arbitration awards contain no statement of reasons, so that it is difficult if not impossible to determine whether the arbitrators have followed the law. [^lawless1]
 
@@ -264,6 +264,8 @@ While arbitration is generally negative for both employees and consumers there i
 [^ruminations1]: Meltzer, B. D. (1967). Ruminations about Ideology, Law, and Labor Arbitration. The University of Chicago Law Review, 34(3), 545. https://doi.org/10.2307/1598847 pp 545
 
 [^drahozal1]: Drahozal, C. R. (n.d.). Is Arbitration Lawless. pp 203
+
+[^greenfield1]: Greenfield, P. A. (1992). How do Arbitrators Treat External Law? Industrial and Labor Relations Review, 45(4), 683–696. https://doi.org/10.2307/2524586 pp 694
 
 [^sacredcow1]: Stone, K. V. W. (2023). Arbitration—From Sacred Cow to Golden Calf: Three Phases in the History of the Federal Arbitration Act. 23. pp 116
 
