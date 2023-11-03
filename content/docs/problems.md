@@ -82,6 +82,8 @@ Arbitration is inherently a creature contract. The defining feature is not impli
 
 - The share of workers subject to mandatory arbitration exceedss 55 percent is growing. Among companies with 1,000 or more employees, 65 percent have mandatory arbitration procedures. 30 percent also include class action waivers in their procedures [^colvin1]
 
+- The sources of data available to study arbitral behavior may end up painting a rosier picture of labor arbitration than is warranted. More accurate empirical data is limited. [^labourlawless1]
+
 # Class Actions
 
 - Arbitration provisions regularly include class action waivers, and since there is a cost to arbitration, bringing a single claim can be detrimental. [^realright1]
@@ -126,7 +128,10 @@ Why do some contracts of adhesion have opt-out clauses?
 
 - Many arbitration awards contain no statement of reasons, so that it is difficult if not impossible to determine whether the arbitrators have followed the law. [^lawless1]
 
+- The overwhelming majority of awards do not cite to any external authority (statutes, administrative authorities, case law) or secondary sources. [^labourlawless1] [^1]
+
 - Even if a court determines that the arbitrators did not follow the law, in most cases the court will uphold the award. [^lawless1] [^dirussa]
+
 
 # Developing The Law
 
@@ -164,7 +169,7 @@ This document has a few limitations and biases.
 
 - Many of the studies or analysis of arbitration don't differentiate between forced consumer mandatory arbitration, labour arbitration, collective bargaining agreements, or even between businesses. To the extent possible this document tries to focus on and cite details that are either generally true or that focus specifically on consumer and non-collective labour contracts.
 
-# Footnotes
+# References and Footnotes
 
 [^creeping1]: Sternlight, J. R. (2005). Creeping Mandatory Arbitration: Is It Just? Scholarly Works, 57(280), 1631–1676. pp 1631
 
@@ -315,3 +320,7 @@ This document has a few limitations and biases.
 [^dirussa]: DiRussa v. Dean Witter Reynolds, Inc., 121 F.3d 818
 
 [^predict1]: Levinson, A. R., O’Hara O’Connor, E. A., & Skiba, P. M. (2020). Predictability of Arbitrators’ Reliance on External Authority? (SSRN Scholarly Paper 3666331). https://papers.ssrn.com/abstract=3666331 pp 1881
+
+[^labourlawless1]: Levinson, A. R., O’Connor, E. O., & Skiba, P. M. (2021). Is Labor Arbitration Lawless? Florida State University Law Review, 48(2), 443. https://ir.law.fsu.edu/lr/vol48/iss2/4 pp 447-448
+
+[^1]: Arbitrators were more likely to cite to external authority if at least one party was represented by an attorney or if the arbitrators working through an arbitration service provider. [^labourlawless1]
