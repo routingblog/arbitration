@@ -124,10 +124,9 @@ Why do some contracts of adhesion have opt-out clauses?
 
 - Overall, the evidence on whether arbitrators follow the law in their awards is inconclusive... analysis of statutes by labor arbitrators often is "cursory and conclusory." [^drahozal1]
 
-
 - Many arbitration awards contain no statement of reasons, so that it is difficult if not impossible to determine whether the arbitrators have followed the law. [^lawless1]
 
-- Even if a court determines that the arbitrators did not follow the law, in most cases the court will uphold the award. [^lawless1]
+- Even if a court determines that the arbitrators did not follow the law, in most cases the court will uphold the award. [^lawless1] [^dirussa]
 
 # Developing The Law
 
@@ -303,3 +302,5 @@ While arbitration is generally negative for both employees and consumers there i
 [^igonrance1]: Davis, K. R. (n.d.). When Ignorance of the Law Is No Excuse: Judicial Review of Arbitration Awards. BUFFALO LAW REVIEW, 45. pp 51
 
 [^lawless1]: Drahozal, C. (2006). Is Arbitration Lawless. Loyola of Los Angeles Law Review, 40(1), 187. https://digitalcommons.lmu.edu/llr/vol40/iss1/5 pp 192
+
+[^dirussa]: DiRussa v. Dean Witter Reynolds, Inc., 121 F.3d 818
