@@ -1,5 +1,5 @@
 ---
-title: "Court Cases"
+title: "Arbitration: Court Cases"
 type: docs
 weight: 5
 slug: arbitration
@@ -1012,15 +1012,6 @@ city.
 1. Korn, D., & Rosenberg, D. (2013). Concepcion’s Pro-Defendant Biasing of the Arbitration Process: The Class Counsel Solution. University of Michigan Journal of Law Reform, 46.4, 1151. https://doi.org/10.36646/mjlr.46.4.concepcions (unread)
 1. Reuben, R. C. (2005). Confidentiality in Arbitration: Beyond the Myth. University of Kansas Law Review, 54, 1255. https://heinonline.org/HOL/Page?handle=hein.journals/ukalr54&id=1265&div=&collection= (unread)
 1. Ware, S. J. (n.d.). Contractual Arbitration, Mandatory Arbitration, and State Constitutional Jury-Trial Rights. 38. (unread)
-
-## Position Papers or Private Groups
-
-1. Katherine V.W. Stone & Alexander J.S. Colvin. (2015). The arbitration epidemic: Mandatory arbitration deprives workers and consumers of their rights (Briefing Paper 414). Economic Policy Institute. https://www.epi.org/publication/the-arbitration-epidemic/
-1. Colvin, A. J. S. (2018). The growing use of mandatory arbitration (144131; pp. 1–17). Economic Policy Institute.
-
-    {{< details "Colvin - The growing use of mandatory arbitration - Conclusion" >}}
-Mandatory employment arbitration has expanded to the point where it has now surpassed court litigation as the most common process through which the rights of American workers 12 are adjudicated and enforced. The rise of this problematic practice needs to be given much greater attention in employment policy discussions. If the Supreme Court does not reverse its trend of supporting mandatory arbitration and instead put the brakes on enforcement of class action waivers in its upcoming decision, it will be necessary for Congress to act in order to ensure that American workers have an effective means of enforcing the rights they have been promised.
-    {{< /details >}}
 
 ## Arbitration Provider Rules
 
