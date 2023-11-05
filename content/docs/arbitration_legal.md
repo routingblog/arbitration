@@ -297,6 +297,11 @@ Montana's first-page notice requirement, which governs not "any contract," but s
 
 The Montana Supreme Court had two justices who refused to sign on to the order remanding the case from the Supreme Court of the United States to the state trial court. [^showdown1]
 
+## Wright v. Universal Maritime Service Corp., 525 U.S. 70, 80-82 (1998)
+
+## 14 Penn Plaza LLC v. Pyett, 556 U.S. 247, 255 & n.4 (2009)
+
+
 ## Green Tree Financial Corp. v. Bazzle 539 U.S. at 444.
 
 One Line Summary: The question of whether a contract forbade class arbitration qualified as one of procedural arbitrability within an arbitrator’s adjudicative scope.
