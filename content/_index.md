@@ -14,26 +14,6 @@ Arbitration is often heralded as a cheaper, faster, and more efficient mechanism
 
 The goal of this website is to discuss _forced arbitration_ and _class action waivers_ in _consumer_ and _employment_ disputes. Other aspects of arbitration are discussed mostly in the context of how they affect these two pieces of the puzzle.
 
-# Definitions
-
-Arbitration
-: A form of Alternate Dispute Resolution (ADR) in which disputes are decided via private arbitrators rather than the via the court system.
-
-Pre-Dispute Arbitration Agreement
-: The contract specifying that the parties agree to use arbitration for _future_ disputes.
-
-Post-Dispute Arbitration Agreement
-: Agreement to use arbitration of a specific claim after an incident occurs.
-
-Mandatory Arbitration
-: The requirement to sign an arbitration agreement as a condition to employment or receiving good or services.
-
-ADR
-: Alternate Dispute Resolution. Procedures by which disputes can be resolved other than litigation. For example settlements, mediation, binding or non-binding arbitration.
-
-Separability principle
-: An arbitration clause is treated as a separate agreement to the contract containing it. An agreement to arbitrate may not be nullified by a void main contract.
-
 # Footnotes
 
 [^colvin1]: Colvin, A. J. S. (2018). The growing use of mandatory arbitration (144131; pp. 1–17). Economic Policy Institute. pp 1

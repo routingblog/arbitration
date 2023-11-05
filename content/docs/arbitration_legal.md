@@ -718,7 +718,7 @@ Core Claim (pull quote):
 
 #### Analysis
 
-See [Rosencrants]({{< relref "#rosencrants-fn" >}}) for detailed analysis.
+See [Rosencrants]({{< relref "references#rosencrants-fn" >}}) for detailed analysis.
 
 ### National Labor Relations Board v. Murphy Oil USA, Inc.
 
