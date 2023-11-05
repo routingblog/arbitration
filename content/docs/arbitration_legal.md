@@ -932,7 +932,6 @@ city.
 1. Drahozal, C. R. (n.d.). Innovation in Arbitration Law: The Case of Delaware. (unread)
 1. Ralston, J. H. (2004). International Arbitration from Athens to Locarno. The Lawbook Exchange, Ltd. (unread)
 1. Hill, E. (2003). Due Process at Low Cost: An Empirical Study of Employment Arbitration Under the Auspices of the American Arbitration Association. https://kb.osu.edu/handle/1811/77065 (unread)
-
 1. Colvin, A. J. S. (2008). Empirical Research on Employment Arbitration: Clarity Amidst the Sound and Fury? (SSRN Scholarly Paper 1090335). https://papers.ssrn.com/abstract=1090335 (unread)
 1. Covington, R. N. (1998). Employment Arbitration After Gilmer: Have Labor Courts Come to the United States? (unread)
 1. Bingham), A. (formerly, & Blomgren, L. (1997). Employment Arbitration: The Repeat Player Effect (SSRN Scholarly Paper 1324411). https://papers.ssrn.com/abstract=1324411 (unread)
@@ -943,7 +942,6 @@ city.
 1. Estreicher, S., Heise, M., & Sherwyn, D. (2019). Evaluating Employment Arbitration: A Call for Better Empirical Research [Preprint]. LawArXiv. https://doi.org/10.31228/osf.io/mgu62 (unread)
 1. Duston, R. L. (1991). Gilmer v Interstate/Johnson Lane Corp.: A Major Step Forward for Alternative Dispute Resolution, or a Meaningless Decision? The Labor Lawyer, 7(4), 823–848. https://www.jstor.org/stable/40862140 (unread)
 1. Hwang, M., & Chung, K. (2009). Defining the Indefinable&#58; Practical Problems of Confidentiality in Arbitration. Journal of International Arbitration, 26(5). <https://kluwerlawonline.com/api/Product/CitationPDFURL?file=Journals\JOIA\JOIA2009034.pdf> (unread)
-
 1. Drahozal, C. R. (n.d.). In Defense of Southland: Reexamining the Legislative History of the Federal Arbitration Act. (unread)
 1. Alleyne, R. (1996). Statutory Discrimination Claims: Rights ‘Waived’ and Lost in the Arbitration Forum. Hofstra Labor & Employment Law Journal, 13(2). https://scholarlycommons.law.hofstra.edu/hlelj/vol13/iss2/3 (unread)
 1. Colvin, A. J. S. (2014). Mandatory Arbitration and Inequality of Justice in Employment. Berkeley Journal of Employment and Labor Law, 35(1/2), 71–90. https://www.jstor.org/stable/24052567 (unread)
@@ -989,8 +987,6 @@ city.
 
 ## Arbitration Provider Rules
 
-1. Employment Arbitration Minimum Standards | JAMS Mediation, Arbitration, ADR Services. (2009, July 15). https://www.jamsadr.com/employment-minimum-standards/
-1. Consumer Arbitration Minimum Standards | JAMS Mediation, Arbitration, ADR Services. (2009, July 15). https://www.jamsadr.com/consumer-minimum-standards/
 1. Employment Arbitration Rules and Mediation Procedures. (2017). American Arbitration Association. (unread)
 
 
