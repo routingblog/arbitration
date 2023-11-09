@@ -19,6 +19,7 @@ refLinksErrorLevel = "ERROR"
   BookSearch = true
   # Optional, experimental
   BookServiceWorker = true
+  Description = 'Detailed legal information about arbitration'
 [markup]
   [markup.tableOfContents]
     endLevel = 2
