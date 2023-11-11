@@ -122,7 +122,7 @@ EFASASHA is incomplete, but a good start. The FAIR Act provides a strong potion 
     {{< /details >}}
 
 1. Levinson, A. R., O’Connor, E. O., & Skiba, P. M. (2021). Is Labor Arbitration Lawless? Florida State University Law Review, 48(2), 443. https://ir.law.fsu.edu/lr/vol48/iss2/4
-
+1. Xu, A. (2022). Reconsideration of Forced Arbitration in Data Privacy Legislation.
 
 ## Position Papers or Private Groups
 

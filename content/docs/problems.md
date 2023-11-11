@@ -14,6 +14,8 @@ Arbitration is inherently a creature contract. The defining feature is not impli
 
 # General Information
 
+- The underlying issue with forced arbitration is the imbalance of power. [^xu1]
+
 - Any _individual_ signer of any _individual_ "agreement" often has no other choice if they wish to get a job, to establish a credit history, or even to get a good deal on a cell phone. [^glover1]
 
 - Arbitration, when passed, was designed for contract disputes between merchants, not statutory claims or between entities of unequal bargaining power. [^creeping1] [^comm] [^rustic] [^newarb2] In fact members of Congress expressly disavowed touching either consumer or employment contracts - and even went so far as to make that explicit with respect to employment. [^scaliaclass1] Julius Henry Cohen, the author of United States Arbitration Act,testified that the bill would be applicable in federal courts only. [^keating1] [^newarb4]
@@ -324,3 +326,5 @@ This document has a few limitations and biases.
 [^labourlawless1]: Levinson, A. R., O’Connor, E. O., & Skiba, P. M. (2021). Is Labor Arbitration Lawless? Florida State University Law Review, 48(2), 443. https://ir.law.fsu.edu/lr/vol48/iss2/4 pp 447-448
 
 [^1]: Arbitrators were more likely to cite to external authority if at least one party was represented by an attorney or if the arbitrators working through an arbitration service provider. [^labourlawless1]
+
+[^xu1]: Xu, A. (2022). Reconsideration of Forced Arbitration in Data Privacy Legislation.
