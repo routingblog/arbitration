@@ -24,6 +24,10 @@ I am somewhat surprised that I've not seen anyone else suggest this.
 
 The most effective way to build on the work of the Restoring Justice for Workers Act is to end the preemption of state statutes. Congress could amend the FAA such that it no longer preempts state statutes singling out arbitration. Under this solution, states would be free to experiment with arbitration law and potentially derive new equitable solutions. [^realright1]
 
+# Licence of arbiters
+
+# Appellate review of arbitral decisions
+
 
 # Footnotes
 
