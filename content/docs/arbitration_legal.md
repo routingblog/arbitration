@@ -168,7 +168,7 @@ In enacting § 2 of the federal Act, Congress declared a national policy favorin
 1. Dunham, K. F. (2009). Southland Corp. v. Keating Revisited: Twenty-Five Years in Which Direction. Charleston Law Review, 4, 331. https://heinonline.org/HOL/Page?handle=hein.journals/charlwrev4&id=335&div=&collection= (unread)
 1. Schwartz, D. (2004). Correcting Federalism Mistakes in Statutory Interpretation: The Supreme Court and the Federal Arbitration Act. Law and Contemporary Problems, 67(1), 5–54. https://scholarship.law.duke.edu/lcp/vol67/iss1/2
 
-## Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth, Inc., 473 U.S. 614 (1985)
+## Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth, Inc., 473 U.S. 614 (1985) {id="mitsubishi-v-soler"}
 
 One Line Summary: Sherman act anti-trust claims arising from an international act are arbitrable.
 
@@ -207,7 +207,7 @@ Pull Quote (from {{< todo />}}):
 
 ## Perry v. Thomas, 482 U.S. 483 (1987)
 
-## Shearson/American Express Inc. v. McMahon, 482 U.S. 220 (1987)
+## Shearson/American Express Inc. v. McMahon, 482 U.S. 220 (1987) {id="shearson-v-mchanon"}
 
 One Line Summary: {{< todo />}}
 

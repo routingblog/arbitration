@@ -23,3 +23,6 @@ ADR
 
 Separability principle
 : An arbitration clause is treated as a separate agreement to the contract containing it. An agreement to arbitrate may not be nullified by a void main contract.
+
+Mitsubishi trilogy
+: A series of three court cases ([#1]({{< relref "arbitration_legal#shearson-v-mchanon" >}}),[#2]({{< relref "arbitration_legal#mitsubishi-v-soler" >}}),[#3]({{< relref "arbitration_legal#Quijas-v-american-express" >}})) allowing for arbitration of statutory claims.
