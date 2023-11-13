@@ -151,6 +151,13 @@ Why do some contracts of adhesion have opt-out clauses?
 
 - The [Keating]({{< relref "arbitration_legal/#southland-v-keating" >}}) decision that the FAA is intended to be substantive law rather than procedural law is wrong. [^newarb6]
 
+# Kangaroo Court
+
+- Arbitration in such contexts clearly fulfill the definition of a Kangaroo Court. [^kangarooblack]
+  1. A self-appointed tribunal or mock court in which the principles of law and justice are disregarded, perverted, or parodied.
+  2. A court or tribunal characterized by unauthorized or irregular procedures, esp. as to render a fair proceeding impossible.
+  3. A sham legal proceeding.
+
 # Possible Advantages
 
 While arbitration is generally negative for both employees and consumers there is a little bit of silver lining.
@@ -328,3 +335,5 @@ This document has a few limitations and biases.
 [^1]: Arbitrators were more likely to cite to external authority if at least one party was represented by an attorney or if the arbitrators working through an arbitration service provider. [^labourlawless1]
 
 [^xu1]: Xu, A. (2022). Reconsideration of Forced Arbitration in Data Privacy Legislation.
+
+[^kangarooblack]: Kangaroo Court—Black’s Law Dictionary—Ninth Edition. (2009). In Bryan A. Garner (Ed.), Black’s Law Dictionary (Ninth Edition, p. 409). WEST - Thomson Reuters.
