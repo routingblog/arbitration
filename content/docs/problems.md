@@ -120,6 +120,8 @@ Why do some contracts of adhesion have opt-out clauses?
 
 # Confidentiality
 
+- Court records are typically public. Arbitration proceedings are often confidential as a matter of practice or even contract. This makes it difficult to hold companies accountable for the actions. It also makes it difficult to use evidence in one case in another.
+
 # Following The Law
 
 - Arbitrators are not required to follow or even know the law. [^liptonlaw] [^privateknappcite2] Their rulings can be overturned only in narrow circumstances (in "manifest disregard") where the arbitrators must be found to have "understood and correctly stated the law but proceeded to ignore it." [^merrill]
