@@ -118,11 +118,16 @@ EFASASHA is incomplete, but a good start. The FAIR Act provides a strong potion 
     This is the strongest "pro-arbitration" note so far. Even so, it merely states that there is "little emperical evidence" that arbitrators don't follow the law and has other fairly weak claims.
 
     {{< details "Drahozal - Lawless - Conclusion" >}}
-    Clearly more research is needed to evaluate the extent to which arbitration actually is "lawless." The research to date, however, suggests that perhaps arbitration is less lawless than is sometimes feared.
+Clearly more research is needed to evaluate the extent to which arbitration actually is "lawless." The research to date, however, suggests that perhaps arbitration is less lawless than is sometimes feared.
     {{< /details >}}
 
 1. Levinson, A. R., O’Connor, E. O., & Skiba, P. M. (2021). Is Labor Arbitration Lawless? Florida State University Law Review, 48(2), 443. https://ir.law.fsu.edu/lr/vol48/iss2/4
 1. Xu, A. (2022). Reconsideration of Forced Arbitration in Data Privacy Legislation.
+1. Jeffrey Stempel. (2007). Keeping Arbitrations from Becoming Kangaroo Courts. Nevada Law Journal, 8(1). https://scholars.law.unlv.edu/nlj/vol8/iss1/12
+
+    {{< details "Kangaroo - Stempel - Conclusion >}}
+The Supreme Court’s jurisprudential commitment to arbitration remains strong even if its reasoning and appreciation of reality remains open to criticism. Within the fait accompli world of law and politics, we are unlikely to see any complete about-face or substantial curtailment of the pro-arbitrability doctrine the Court has constructed. The realistic response of consumer advocates and other arbitration skeptics should be a focus on arbitral impartiality and adherence to substantive law rather than undue resistance to arbitration clause enforcement. If these factors are present, the U.S. dispute resolution system can be reasonably confident that arbitrations will not become kangaroo courts. To the extent these traits are lacking, arbitration skeptics will continue to have substantial grounds for continuing to criticize the modern world of courtenforced, mass-standardized arbitration.
+    {{< /details >}}
 
 ## Position Papers or Private Groups
 
@@ -145,6 +150,7 @@ Mandatory employment arbitration has expanded to the point where it has now surp
 - Peterson, P. A. L., Morgan. (2023, February 17). Court Obliterates California’s Anti-Arbitration Law. California Employment Law Update. https://calemploymentlawupdate.proskauer.com/2023/02/ninth-circuit-panel-changes-its-mind-and-obliterates-californias-anti-mandatory-employment-arbitration-law/
 - Darin Ranahan. (n.d.). Mandatory Pre-Dispute Arbitration Agreements and Your Rights: A Post-Concepcion Primer. Retrieved 25 August 2023, from https://www.sl-employmentlaw.com/mandatory-pre-dispute-arbitration-agreements-and-your-rights-a-p.html
 - Rachel Thorn. (2021, March 11). Drafting Arbitration Clauses in IP Agreements. World Trademark Review. https://www.worldtrademarkreview.com/global-guide/the-guide-ip-arbitration/2021/article/drafting-arbitration-clauses-in-ip-agreements
+
 
 ## Resources
 
@@ -169,6 +175,7 @@ Mandatory employment arbitration has expanded to the point where it has now surp
 
 # Additional References
 
+<!--
 ## Law Journal And Academic Articles
 
 1. Knapp, C. L. (2002). Taking Contracts Private: The Quiet Revolution in Contract Law. Fordham Law Review, 71(3), 761–798. (unread)
@@ -248,3 +255,10 @@ city.
 ## Arbitration Provider Rules
 
 1. Employment Arbitration Rules and Mediation Procedures. (2017). American Arbitration Association. (unread)
+-->
+
+# Additional Notes
+
+Some additional notes and references that have not yet been incorporated into this overall document include
+
+1. Revised Uniform Arbitration Act (“RUAA”)

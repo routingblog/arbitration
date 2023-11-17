@@ -42,6 +42,8 @@ Arbitration is inherently a creature contract. The defining feature is not impli
 
 - The FAA creates an incentive for entities to self-deregulate through private contract [^glover1]
 
+- Companies may suffer adverse publicity if it is perceived as attempting to use arbitration to gain unfair advantage over its customers, vendors, or the public. Although these economic incentives toward fairness are not trivial, neither are they particularly powerful. A company’s problematic arbitration conduct is unlikely to be significantly salient to its overall customer base or the general public. [^stempelkangaroo4]
+
 # Historical Information
 
 - The author of the FAA said that Arbitration "was not designed to major importance involving constitutional questions or policy in the application of statute" [^newarb8]
@@ -49,6 +51,8 @@ Arbitration is inherently a creature contract. The defining feature is not impli
 - The Federal Arbitration Act was "is directed primarily toward settlement of commercial dispute" [^newarb2]
 
 - Until the mid-1980s, arbitration was primary used for international contract disputes, collective bargaining agreements, and other large-scale commercial dispute resolution [^gilles2] [^gilles4]
+
+- In the pre-1980s world of traditional commercial arbitration, the parties often sought arbitration to have arbitrators familiar with a given industry apply the customary norms of the industry [^stempelkangaroo2]
 
 - New York's arbitration act was passed in 1920 followed by the Federal Arbitration act in 1925 largely at the behest of commercial trade organizations. [^sacredcow1] They wanted resolution according the norms of the industry instead of by external law. [^sacredcow2]
 
@@ -136,6 +140,11 @@ Why do some contracts of adhesion have opt-out clauses?
 
 - Even if a court determines that the arbitrators did not follow the law, in most cases the court will uphold the award. [^lawless1] [^dirussa]
 
+# Qualifications of Arbiters {id=qualification}
+
+- There are no rules for who may be an arbitor (except if specified in the contract)
+
+- In contrast to litigation, where jurists are subject to enforceable rules designed to foster impartiality and resist corruption, there is no government mechanism for attempting to foster arbitrator neutrality and competence. [^stempelkangaroo3]
 
 # Developing The Law
 
@@ -149,16 +158,18 @@ Why do some contracts of adhesion have opt-out clauses?
 
 - States usually determine their own contract law which can differ on damages, injunctive relief, availability of specific performance, and claims arising from contract law. However, the [Keating]({{< relref "arbitration_legal/#southland-v-keating" >}}) decision stripped state courts of the power to address arbitration provisions and their enforceability. [^keating2]
 
-# Supreme Court Errors
+# Supreme Court Errors {id=supreme-court-errors}
 
 - The [Keating]({{< relref "arbitration_legal/#southland-v-keating" >}}) decision that the FAA is intended to be substantive law rather than procedural law is wrong. [^newarb6]
 
 # Kangaroo Court
 
-- Arbitration in such contexts clearly fulfill the definition of a Kangaroo Court. [^kangarooblack]
+- Arbitration in such contexts clearly fulfill any of the three definitions of a Kangaroo Court. [^kangarooblack]
   1. A self-appointed tribunal or mock court in which the principles of law and justice are disregarded, perverted, or parodied.
   2. A court or tribunal characterized by unauthorized or irregular procedures, esp. as to render a fair proceeding impossible.
   3. A sham legal proceeding.
+
+- Alternative definitions of a "kangaroo court" is is a forum in which the structure and operation of the forum result in an inferior brand of adjudication even if the tribunal is not gripped with intentional bias [^stempelkangaroo1]
 
 # Possible Advantages
 
@@ -339,3 +350,11 @@ This document has a few limitations and biases.
 [^xu1]: Xu, A. (2022). Reconsideration of Forced Arbitration in Data Privacy Legislation.
 
 [^kangarooblack]: Kangaroo Court—Black’s Law Dictionary—Ninth Edition. (2009). In Bryan A. Garner (Ed.), Black’s Law Dictionary (Ninth Edition, p. 409). WEST - Thomson Reuters.
+
+[^stempelkangaroo1]: Stempel, J. (2007). Keeping Arbitrations from Becoming Kangaroo Courts. Nevada Law Journal, 8(1). https://scholars.law.unlv.edu/nlj/vol8/iss1/12 pp 256
+
+[^stempelkangaroo2]: Stempel Supra pp 258 [^stempelkangaroo1]
+
+[^stempelkangaroo3]: Stempel Supra pp 260 [^stempelkangaroo1]
+
+[^stempelkangaroo4]: Stempel Supra pp 263 [^stempelkangaroo1]
