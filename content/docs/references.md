@@ -125,7 +125,7 @@ Clearly more research is needed to evaluate the extent to which arbitration actu
 1. Xu, A. (2022). Reconsideration of Forced Arbitration in Data Privacy Legislation.
 1. Jeffrey Stempel. (2007). Keeping Arbitrations from Becoming Kangaroo Courts. Nevada Law Journal, 8(1). https://scholars.law.unlv.edu/nlj/vol8/iss1/12
 
-    {{< details "Kangaroo - Stempel - Conclusion >}}
+    {{< details "Kangaroo - Stempel - Conclusion" >}}
 The Supreme Court’s jurisprudential commitment to arbitration remains strong even if its reasoning and appreciation of reality remains open to criticism. Within the fait accompli world of law and politics, we are unlikely to see any complete about-face or substantial curtailment of the pro-arbitrability doctrine the Court has constructed. The realistic response of consumer advocates and other arbitration skeptics should be a focus on arbitral impartiality and adherence to substantive law rather than undue resistance to arbitration clause enforcement. If these factors are present, the U.S. dispute resolution system can be reasonably confident that arbitrations will not become kangaroo courts. To the extent these traits are lacking, arbitration skeptics will continue to have substantial grounds for continuing to criticize the modern world of courtenforced, mass-standardized arbitration.
     {{< /details >}}
 
