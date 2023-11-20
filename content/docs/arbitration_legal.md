@@ -904,9 +904,6 @@ Bain Cotton Co. v. Chesnutt Cotton Co. https://casetext.com/case/bain-cotton-co-
 Stolt-Nielsen v. Animalfeeds International Corp. - https://www.oyez.org/cases/2009/08-1198 (unread)
 {{< todo />}}
 
-
-See other [bills]({{< relref "bills" >}})
-
 # Footnotes
 
 [^1]: Need to double check this.
