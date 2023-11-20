@@ -114,6 +114,8 @@ Arbitration is inherently a creature contract. The defining feature is not impli
 
 - CFPB consumer survey found that 79% of consumers didn’t know whether any credit card agreements they signed had an arbitration clause, and only 7% understood that they could not sue their credit card issuer if their contract did include such a clause. [^gilles6]
 
+- There is no evidence that arbitration clauses lead to lower prices for consumers. [^cfpbexplainer]
+
 # Opt Out Clauses
 
 Why do some contracts of adhesion have opt-out clauses?
@@ -358,3 +360,5 @@ This document has a few limitations and biases.
 [^stempelkangaroo3]: Stempel Supra pp 260 [^stempelkangaroo1]
 
 [^stempelkangaroo4]: Stempel Supra pp 263 [^stempelkangaroo1]
+
+[^cfpbexplainer]: CFPB Study Finds That Arbitration Agreements Limit Relief for Consumers. (2015). [Fact sheet]. Consumer Financial Protection Bureau. https://files.consumerfinance.gov/f/201503_cfpb_factsheet_arbitration-study.pdf

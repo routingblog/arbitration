@@ -140,21 +140,23 @@ Mandatory employment arbitration has expanded to the point where it has now surp
 
 ## Blog Post
 
-- https://www.sheppardmullin.com/media/publication/1909_Class%20Actions_Arbitration%20Agreements%20and%20Class%20Action%20Waivers%20_Federal,%20CA_.pdf
-- https://civilrights.org/resource/support-h-r-963-the-forced-arbitration-injustice-repeal-fair-act/#
-- Leonard H. Sansanowicz. (2022, September). Arbitration hypnosis. 2022 September. https://www.advocatemagazine.com/article/2022-september/arbitration-hypnosis
-- https://www.advocatemagazine.com/article/2023-september/paga-and-arbitration-from-case-viking-river-cruises-v-moriana-case-to-case-adolph-v-uber-case-who-s-left-standing
-- Patrick J. Bannon, Anthony S. Califano, Molly C. Mooney, & John Ayers-Mann. (n.d.). Are Arbitration Agreements Fair and Consistent With Company Culture? Seyfarth Shaw - Are Arbitration Agreements Fair and Consistent With Company Culture? Retrieved 16 September 2023, from https://www.seyfarth.com/news-insights/are-arbitration-agreements-fair-and-consistent-with-company-culture.html
-- Patrick J. Bannon, Anthony S. Califano, Molly C. Mooney, & John T. Ayers-Mann. (n.d.). Can Arbitration Agreements Protect Employers Against Class Actions? Seyfarth Shaw - Can Arbitration Agreements Protect Employers Against Class Actions? Retrieved 16 September 2023, from https://www.seyfarth.com/news-insights/arbitration-can-arbitration-agreements-protect-employers-against-class-actions.html
-- ContractsProf Blog: Coinbase Users’ Complaints About Hacked Accounts Sent to Arbitration. (n.d.). ContractsProf Blog. Retrieved 17 September 2023, from https://lawprofessors.typepad.com/contractsprof_blog/2023/09/coinbase-users-complaints-about-hacked-accounts-sent-to-arbitration.html
-- Peterson, P. A. L., Morgan. (2023, February 17). Court Obliterates California’s Anti-Arbitration Law. California Employment Law Update. https://calemploymentlawupdate.proskauer.com/2023/02/ninth-circuit-panel-changes-its-mind-and-obliterates-californias-anti-mandatory-employment-arbitration-law/
-- Darin Ranahan. (n.d.). Mandatory Pre-Dispute Arbitration Agreements and Your Rights: A Post-Concepcion Primer. Retrieved 25 August 2023, from https://www.sl-employmentlaw.com/mandatory-pre-dispute-arbitration-agreements-and-your-rights-a-p.html
-- Rachel Thorn. (2021, March 11). Drafting Arbitration Clauses in IP Agreements. World Trademark Review. https://www.worldtrademarkreview.com/global-guide/the-guide-ip-arbitration/2021/article/drafting-arbitration-clauses-in-ip-agreements
+1. https://www.sheppardmullin.com/media/publication/1909_Class%20Actions_Arbitration%20Agreements%20and%20Class%20Action%20Waivers%20_Federal,%20CA_.pdf
+1. https://civilrights.org/resource/support-h-r-963-the-forced-arbitration-injustice-repeal-fair-act/#
+1. Leonard H. Sansanowicz. (2022, September). Arbitration hypnosis. 2022 September. https://www.advocatemagazine.com/article/2022-september/arbitration-hypnosis
+1. https://www.advocatemagazine.com/article/2023-september/paga-and-arbitration-from-case-viking-river-cruises-v-moriana-case-to-case-adolph-v-uber-case-who-s-left-standing
+1. Patrick J. Bannon, Anthony S. Califano, Molly C. Mooney, & John Ayers-Mann. (n.d.). Are Arbitration Agreements Fair and Consistent With Company Culture? Seyfarth Shaw - Are Arbitration Agreements Fair and Consistent With Company Culture? Retrieved 16 September 2023, from https://www.seyfarth.com/news-insights/are-arbitration-agreements-fair-and-consistent-with-company-culture.html
+1. Patrick J. Bannon, Anthony S. Califano, Molly C. Mooney, & John T. Ayers-Mann. (n.d.). Can Arbitration Agreements Protect Employers Against Class Actions? Seyfarth Shaw - Can Arbitration Agreements Protect Employers Against Class Actions? Retrieved 16 September 2023, from https://www.seyfarth.com/news-insights/arbitration-can-arbitration-agreements-protect-employers-against-class-actions.html
+1. ContractsProf Blog: Coinbase Users’ Complaints About Hacked Accounts Sent to Arbitration. (n.d.). ContractsProf Blog. Retrieved 17 September 2023, from https://lawprofessors.typepad.com/contractsprof_blog/2023/09/coinbase-users-complaints-about-hacked-accounts-sent-to-arbitration.html
+1. Peterson, P. A. L., Morgan. (2023, February 17). Court Obliterates California’s Anti-Arbitration Law. California Employment Law Update. https://calemploymentlawupdate.proskauer.com/2023/02/ninth-circuit-panel-changes-its-mind-and-obliterates-californias-anti-mandatory-employment-arbitration-law/
+1. Darin Ranahan. (n.d.). Mandatory Pre-Dispute Arbitration Agreements and Your Rights: A Post-Concepcion Primer. Retrieved 25 August 2023, from https://www.sl-employmentlaw.com/mandatory-pre-dispute-arbitration-agreements-and-your-rights-a-p.html
+1. Rachel Thorn. (2021, March 11). Drafting Arbitration Clauses in IP Agreements. World Trademark Review. https://www.worldtrademarkreview.com/global-guide/the-guide-ip-arbitration/2021/article/drafting-arbitration-clauses-in-ip-agreements
 
 
 ## Resources
 
-- [Overcoming the Latest Supreme Court Arbitration Decision](https://library.nclc.org/article/overcoming-latest-supreme-court-arbitration-decision)
+1. [Overcoming the Latest Supreme Court Arbitration Decision](https://library.nclc.org/article/overcoming-latest-supreme-court-arbitration-decision)
+1. CFPB Study Finds That Arbitration Agreements Limit Relief for Consumers. (2015). [Fact sheet]. Consumer Financial Protection Bureau. https://files.consumerfinance.gov/f/201503_cfpb_factsheet_arbitration-study.pdf
+
 
 ## Arbitration Provider Rules
 
