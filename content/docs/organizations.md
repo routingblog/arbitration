@@ -12,9 +12,11 @@ weight: 100
 - [People's Parity Project](https://peoplesparity.org)
 - [Public Citizen](https://www.citizen.org/topic/justice-the-courts/class-actions/)
 
-{{< hint info >}}
+{{< titlehint level="info" title="foo">}}
+**Disclaimer**
+
 Some of these groups advocate for other issues as well. This list focusses solely on the issue of mandatory arbitration & class actions waivers and no comment is made about the other issues.
-{{< /hint >}}
+{{< /titlehint >}}
 
 ## Resources
 
