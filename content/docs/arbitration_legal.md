@@ -643,23 +643,6 @@ Pull Quote (from {{< todo />}}):
 {{< details "{{< todo />}}" >}}
 {{< /details >}}
 
-## Saxon v. Southwest 142 S. Ct. 1783 (2022)
-
-One Line Summary: {{< todo />}}
-
-- Wikipedia: {{< todo />}}
-- Court Opinion (Court Listener): {{< todo />}}
-- Court Opinion (pdf): {{< todo />}}
-- Oyez: {{< todo />}}
-- Majority Author: {{< todo />}}
-- Concurrence: {{< todo />}}
-- Dissents: {{< todo />}}
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
-
 ## Bissonnette v. LePage Bakeries Park St., LLC
 
 - [Petition For A Writ Of Certiorari](https://www.supremecourt.gov/DocketPDF/23/23-51/272203/20230717155334558_Bissonnette%20Cert%20Petition%20Final.pdf) (unread)
