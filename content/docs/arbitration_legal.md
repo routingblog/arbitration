@@ -904,6 +904,15 @@ Bain Cotton Co. v. Chesnutt Cotton Co. https://casetext.com/case/bain-cotton-co-
 Stolt-Nielsen v. Animalfeeds International Corp. - https://www.oyez.org/cases/2009/08-1198 (unread)
 {{< todo />}}
 
+# Other Cases
+
+### Garza et al v. Ayvaz Pizza, LLC, No. 4:2023cv01379 - Document 34 (S.D. Tex. 2023)
+
+The  parties dispute whether the  predecessor's arbitration agreement could be  assigned to  Defendant, whether it was  assigned, and  whether its  scope is  limited to  claims arising out of  Bustos's employment for MUY.
+
+[MEMORANDUM OPINION AND ORDER](https://law.justia.com/cases/federal/district-courts/texas/txsdce/4:2023cv01379/1912807/34/)
+
+
 # Footnotes
 
 [^1]: Need to double check this.
