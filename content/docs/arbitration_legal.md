@@ -856,48 +856,6 @@ See Ferguson v. Corinthian Colleges, Inc., 733 F.3d 928 (9th Cir. 2013). The Fer
 - https://www.courtlistener.com/opinion/204590/shawn-samson-v-nama-holdings-llc/
 -  https://www.courtlistener.com/opinion/2421269/samson-v-nama-holdings-llc/
 
-## Not Yet Analyzed
-
-### MacClelland v. Cellco
-
-{{< todo />}}
-
-### Brown V Dillards
-
-{{< todo />}}
-
-- https://casetext.com/case/brown-v-dillards-inc (unread)
-
-### 18-3622 - Eliasieh v. Legally Mine, LLC
-- https://www.govinfo.gov/app/details/USCOURTS-cand-3_18-cv-03622 (unread)
-{{< todo />}}
-
-### Howsam v. Dean Witter Reynolds, Inc.
-Howsam v. Dean Witter Reynolds, Inc. - https://www.oyez.org/cases/2002/01-800 (unread)
-{{< todo />}}
-
-### james-jackson-llc-v-willie-gary-llc
-https://casetext.com/case/james-jackson-llc-v-willie-gary-llc (unread)
-{{< todo />}}
-
-### Bain Cotton Co. v. Chesnutt Cotton Co.
-Bain Cotton Co. v. Chesnutt Cotton Co. https://casetext.com/case/bain-cotton-co-v-chesnutt-cotton-co
-- https://www.oyez.org/cases/2002/01-800  - Bain Cotton Co. v. Chesnutt Cotton Co. (unread)
-{{< todo />}}
-
-### Stolt-Nielsen v. Animalfeeds International Corp.
-Stolt-Nielsen v. Animalfeeds International Corp. - https://www.oyez.org/cases/2009/08-1198 (unread)
-{{< todo />}}
-
-# Other Cases
-
-### Garza et al v. Ayvaz Pizza, LLC, No. 4:2023cv01379 - Document 34 (S.D. Tex. 2023)
-
-The  parties dispute whether the  predecessor's arbitration agreement could be  assigned to  Defendant, whether it was  assigned, and  whether its  scope is  limited to  claims arising out of  Bustos's employment for MUY.
-
-[MEMORANDUM OPINION AND ORDER](https://law.justia.com/cases/federal/district-courts/texas/txsdce/4:2023cv01379/1912807/34/)
-
-
 # Footnotes
 
 [^1]: Need to double check this.

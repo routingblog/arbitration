@@ -37,5 +37,48 @@ https://buckleyfirm.com/sites/default/files/Buckley%20Sandler%20Special%20Alert%
 
 - These agreements are sometimes obtained by placing mandatory-arbitration language in an employee handbook and including an agreement to be bound by its terms with a written receipt of the handbook. See O'Neil v. Hilton Head Hosp., 115 F.3d 272, 275 (4th Cir. 1997) (enforcing handbook's mandatory-arbitration clause). Contra Nelson v. Cyprus Bagdad Copper Corp., 119 F.3d 756, 762 (9th Cir. 1997) (holding that an employee, by signing receipt, did not knowingly agree to employee handbook's mandatory-arbitration clause).
 
-- O'Neil v. Hilton Head Hosp. - enforcing agreement to arbitrate claims under the Family and Medical Leave Act
-- Cole v. Burns InternationalSecurity Service 105 F.3d 1465 (D.C. Cir. 1997).
+## Not Yet Analyzed
+
+### O'Neil v. Hilton Head Hosp.
+ enforcing agreement to arbitrate claims under the Family and Medical Leave Act
+
+### Cole v. Burns InternationalSecurity Service 105 F.3d 1465 (D.C. Cir. 1997).
+
+### MacClelland v. Cellco
+
+{{< todo />}}
+
+### Brown V Dillards
+
+{{< todo />}}
+
+- https://casetext.com/case/brown-v-dillards-inc (unread)
+
+### 18-3622 - Eliasieh v. Legally Mine, LLC
+- https://www.govinfo.gov/app/details/USCOURTS-cand-3_18-cv-03622 (unread)
+{{< todo />}}
+
+### Howsam v. Dean Witter Reynolds, Inc.
+Howsam v. Dean Witter Reynolds, Inc. - https://www.oyez.org/cases/2002/01-800 (unread)
+{{< todo />}}
+
+### james-jackson-llc-v-willie-gary-llc
+https://casetext.com/case/james-jackson-llc-v-willie-gary-llc (unread)
+{{< todo />}}
+
+### Bain Cotton Co. v. Chesnutt Cotton Co.
+Bain Cotton Co. v. Chesnutt Cotton Co. https://casetext.com/case/bain-cotton-co-v-chesnutt-cotton-co
+- https://www.oyez.org/cases/2002/01-800  - Bain Cotton Co. v. Chesnutt Cotton Co. (unread)
+{{< todo />}}
+
+### Stolt-Nielsen v. Animalfeeds International Corp.
+Stolt-Nielsen v. Animalfeeds International Corp. - https://www.oyez.org/cases/2009/08-1198 (unread)
+{{< todo />}}
+
+# Other Cases
+
+### Garza et al v. Ayvaz Pizza, LLC, No. 4:2023cv01379 - Document 34 (S.D. Tex. 2023)
+
+The  parties dispute whether the  predecessor's arbitration agreement could be  assigned to  Defendant, whether it was  assigned, and  whether its  scope is  limited to  claims arising out of  Bustos's employment for MUY.
+
+[MEMORANDUM OPINION AND ORDER](https://law.justia.com/cases/federal/district-courts/texas/txsdce/4:2023cv01379/1912807/34/)
