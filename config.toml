@@ -1,4 +1,4 @@
-baseURL = 'https://grimreaper.github.io/arbitration/'
+baseURL = 'https://routingblog.github.io/arbitration/'
 languageCode = 'en-us'
 title = 'Arbitration Information'
 
@@ -13,7 +13,7 @@ refLinksErrorLevel = "ERROR"
 # https://themes.gohugo.io/themes/hugo-book/
 
 [params]
-  BookRepo = 'https://github.com/grimreaper/arbitration'
+  BookRepo = 'https://github.com/routingblog/arbitration'
   BookCommitPath = 'commit'
   BookEditPath = 'edit/master'
   BookSearch = true

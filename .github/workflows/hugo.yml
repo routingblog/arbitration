@@ -50,7 +50,7 @@ jobs:
         run: |
           hugo \
             --minify \
-            --baseURL "https://grimreaper.github.io/arbitration/"
+            --baseURL "https://routingblog.github.io/arbitration/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
