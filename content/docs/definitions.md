@@ -18,6 +18,9 @@ Post-Dispute Arbitration Agreement
 Mandatory Arbitration
 : The requirement to sign an arbitration agreement as a condition to employment or receiving good or services. Typically without the ability to opt-out.
 
+Compulsory arbitration
+: Arbitration commanded by statute [^arbfeesdagger1]
+
 ADR
 : Alternate Dispute Resolution. Procedures by which disputes can be resolved other than litigation. For example settlements, mediation, binding or non-binding arbitration.
 
@@ -26,3 +29,7 @@ Separability principle
 
 Mitsubishi trilogy
 : A series of three court cases ([#1]({{< relref "arbitration_legal#shearson-v-mchanon" >}}),[#2]({{< relref "arbitration_legal#mitsubishi-v-soler" >}}),[#3]({{< relref "arbitration_legal#Quijas-v-american-express" >}})) allowing for arbitration of statutory claims.
+
+# Footnotes
+
+[^arbfeesdagger1]: Reginald Alleyne. (2003). Arbitrators’ Fees: The Dagger in the Heart of Mandatory Arbitration for Statutory Discrimination Claims. 6. pp 17

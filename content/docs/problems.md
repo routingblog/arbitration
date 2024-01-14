@@ -8,11 +8,11 @@ weight: 1
 
 Pre-Dispute Arbitration agreements force people into a form of 'Rustic Justice' whose primary purpose to evade meaningful accountability for violations of contract or statutory rights. It has no place in consumer or employment contracts of adhesion.
 
-The Supreme Court has repeatedly ignored the plain meaning of the statutes, congressional intent in writing the FAA, as well the standard rules of statutory interpretation effectively rewriting Title 9 to invent a "national policy favoring arbitration" as a form of “do it yourself-tort reform". [^jiggery] [^schwartzcorrecting] [^gilles5] [^sternlight] [^sacredcow4]
+The Supreme Court has repeatedly ignored the plain meaning of the statutes, congressional intent in writing the FAA, as well the standard rules of statutory interpretation effectively rewriting Title 9 to invent a "national policy favoring arbitration" as a form of “do it yourself-tort reform". [^jiggery] [^schwartzcorrecting] [^gilles5] [^sternlight] [^sacredcow4] [^arbfeesdagger1]
 
 Arbitration is inherently a creature contract. The defining feature is not implicitly or speed but rather _party agreement_. [^igonrance1] As such most of this document is in generalities and discusses typical consumer and employment contracts. It is difficult to study because only a small fraction of awards are published and awards are only a fragment of the overall proceedings. [^ruminations1] [^predict1] It is also difficult to study due to the combination of ethical issues preventing unbiased blind studies for real parties. [^realright2]
 
-There may be reasons to elect for arbitration post-dispute on the advice of a qualified attorney.
+There may be reasons to elect for arbitration post-dispute on the advice of a qualified attorney. This article also ignores _voluntary arbitration agreement_ such as those negotiated in collective bargaining agreements.
 
 # General Information
 
@@ -91,6 +91,8 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 - The share of workers subject to mandatory arbitration exceedss 55 percent is growing. Among companies with 1,000 or more employees, 65 percent have mandatory arbitration procedures. 30 percent also include class action waivers in their procedures [^colvin1]
 
 - The sources of data available to study arbitral behavior may end up painting a rosier picture of labor arbitration than is warranted. More accurate empirical data is limited. [^labourlawless1]
+
+- Employment arbitrators are often law firm associates or partners who are not labor law specialists. [^arbfeesdagger2]
 
 # Class Actions
 
@@ -364,3 +366,7 @@ This document has a few limitations and biases.
 [^stempelkangaroo4]: Stempel Supra pp 263 [^stempelkangaroo1]
 
 [^cfpbexplainer]: CFPB Study Finds That Arbitration Agreements Limit Relief for Consumers. (2015). [Fact sheet]. Consumer Financial Protection Bureau. https://files.consumerfinance.gov/f/201503_cfpb_factsheet_arbitration-study.pdf
+
+[^arbfeesdagger1]: Reginald Alleyne. (2003). Arbitrators’ Fees: The Dagger in the Heart of Mandatory Arbitration for Statutory Discrimination Claims. 6. pp 7-8
+
+[^arbfeesdagger2]: Alleyne supra pp 16 [^arbfeesdagger1]

@@ -256,6 +256,8 @@ One Line Summary: An ADEA claim can be subjected to compulsory arbitration.
 - Majority Author: Byron White
 - Dissents: John Paul Stevens
 
+Mr. Gilmer, the Court held, would not be harmed by the agreed-upon switch to arbitration because his arbitrator would be bound to follow substantive federal age-discrimination law, and the procedures unilaterally set up by the employer to govern the arbitration proceedings were not unfair. There was no inequality of bargaining power, in part because Mr. Gilmer was an "experienced businessman". [^feedagger]
+
 Pull Quote from Dissent (pg 42):
 > When the FAA was passed in 1925, I doubt that any legislator who voted for it expected it to apply to statutory claims, to form contracts between parties of unequal bargaining power, or to the arbitration of disputes arising out of the employment relationship. In recent years, however, the Court "has effectively rewritten the statute," and abandoned its earlier view that statutory claims were not appropriate subjects for arbitration.
 
@@ -906,3 +908,5 @@ The  parties dispute whether the  predecessor's arbitration agreement could be  
 [^correcting2]: Schwartz Supra pp 36 [^correcting1]
 [^showdown1]: Reuben, R. C. (1996). Western Showdown: Two Montana judges buck the U.S. Supreme Court. ABA Journal, 82(10), 16–16. https://www.jstor.org/stable/27839725
 [^sacredcow1]: Stone, K. V. W. (2023). Arbitration—From Sacred Cow to Golden Calf: Three Phases in the History of the Federal Arbitration Act. 23. pp 126
+
+[^feedagger]: Reginald Alleyne. (2003). Arbitrators’ Fees: The Dagger in the Heart of Mandatory Arbitration for Statutory Discrimination Claims. 6.
