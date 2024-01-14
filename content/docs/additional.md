@@ -6,17 +6,21 @@ weight: 10000
 
 This document is a work in progress. This page is a staging area and miscellaneous incompletely parsed information.
 
+# More Court Cases
 
 - American Safety Equipment Corp. v. JP Maguire & Co. - TBD. Commericial Arbitration
 
 - Volt Info. Scis., Inc. v. Bd. of Trustees of Leland Stanford Junior Univ., 109 S. Ct. 1248, 1250 (1989).
 
+# Opt Outs
 
 Enforcement of agreements with opt-outs
 
 - Mohamed v. Uber Techs., Inc., 848 F.3d 1201,
 - Simeon v. Domino’s Pizza LLC, No. 17-cv-5550, 2019 WL 7882143, at *5 (E.D.N.Y. Feb. 6, 2019)
 - Selman v. FCB Worldwide Inc., No.  B168315, 2004 WL 2729656, at *3 (Cal. Ct. App. Dec. 1, 2004) (unpublished).6
+
+# Other
 
 The footnotes in Giles - Doctrine are great!
 
@@ -26,3 +30,11 @@ The footnotes in Giles - Doctrine are great!
 
 
 https://buckleyfirm.com/sites/default/files/Buckley%20Sandler%20Special%20Alert%20-%20California%20Supreme%20Court%20Invalidates%20Widely%20Used%20Arbitration%20Provisions%20and%20Curtails%20the%20Scope%20of%20Proposition%2064.pdf
+
+
+- See EEOC v. Luce, Forward, Hamilton, & Scripps, 303 F.3d 994 (9th Cir. 2002) (finding that refusal to hire applicant who refused to sign mandatory-arbitration agreement is not unlawful retaliation under Title VII of the Civil Rights Act of 1964), vacated in part and rev'd en banc in part by Nos. 00-57222 & 01-55321, 2003 U.S. App. LEXIS 20007 (9th Cir. 2003). The case overrules Duffield v. Robertson Stephens & Co., 144 F.3d 1182 (9th Cir. 1998).
+
+
+- These agreements are sometimes obtained by placing mandatory-arbitration language in an employee handbook and including an agreement to be bound by its terms with a written receipt of the handbook. See O'Neil v. Hilton Head Hosp., 115 F.3d 272, 275 (4th Cir. 1997) (enforcing handbook's mandatory-arbitration clause). Contra Nelson v. Cyprus Bagdad Copper Corp., 119 F.3d 756, 762 (9th Cir. 1997) (holding that an employee, by signing receipt, did not knowingly agree to employee handbook's mandatory-arbitration clause).
+
+- O'Neil v. Hilton Head Hosp. - enforcing agreement to arbitrate claims under the Family and Medical Leave Act
