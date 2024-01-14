@@ -428,10 +428,10 @@ Pull Quote (from syllabus):
 
 One Line Summary: The FAA does not permit courts to invalidate clauses that mandate individual arbitration
 
-- Wikipedia: {{< todo />}}
+- [Wikipedia](https://en.wikipedia.org/wiki/Am._Express_Co._v._Italian_Colors_Rest.) (unread)
 - Court Opinion (Court Listener): {{< todo />}}
 - Court Opinion (pdf): {{< todo />}}
-- [Oyez](https://www.oyez.org/cases/2012/12-133) (unread)
+- [Oyez](https://www.oyez.org/cases/2012/12-133)
 - Majority Author: Scalia
 - Concurrence: {{< todo />}}
 - Dissents: {{< todo />}}

@@ -38,3 +38,4 @@ https://buckleyfirm.com/sites/default/files/Buckley%20Sandler%20Special%20Alert%
 - These agreements are sometimes obtained by placing mandatory-arbitration language in an employee handbook and including an agreement to be bound by its terms with a written receipt of the handbook. See O'Neil v. Hilton Head Hosp., 115 F.3d 272, 275 (4th Cir. 1997) (enforcing handbook's mandatory-arbitration clause). Contra Nelson v. Cyprus Bagdad Copper Corp., 119 F.3d 756, 762 (9th Cir. 1997) (holding that an employee, by signing receipt, did not knowingly agree to employee handbook's mandatory-arbitration clause).
 
 - O'Neil v. Hilton Head Hosp. - enforcing agreement to arbitrate claims under the Family and Medical Leave Act
+- Cole v. Burns InternationalSecurity Service 105 F.3d 1465 (D.C. Cir. 1997).
