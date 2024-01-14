@@ -377,6 +377,24 @@ Pull Quote (from {{< todo />}}):
 {{< details "{{< todo />}}" >}}
 {{< /details >}}
 
+## Granite Rock Co. v. International Brotherhood of Teamsters
+
+One Line Summary: the presumption that a dispute is arbitrable should only be applied where it derives legitimacy from, a judicial conclusion that arbitration is what the parties intended
+
+- Wikipedia: {{< todo />}}
+- Court Opinion (Court Listener): {{< todo />}}
+- Court Opinion (pdf): {{< todo />}}
+- [Oyez](https://www.oyez.org/cases/2009/08-1214)
+- Majority Author: Clarence Thomas
+- Concurrence: {{< todo />}}
+- Dissents: John Paul Stevens, Sonia Sotomayor
+
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
+{{< /details >}}
+
+
 
 ## Rent-A-Center West v. Jackson,  561 US 63 (2010)
 
