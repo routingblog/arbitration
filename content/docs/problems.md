@@ -120,6 +120,10 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - There is no evidence that arbitration clauses lead to lower prices for consumers. [^cfpbexplainer]
 
+# Cost
+
+- Even when arbitration litigation costs less than judicial litigation, the timing of some required arbitration costs, such as upfront fees for the arbitrator, can make it likely that the arbitration-plaintiff will be unable to proceed in that forum. [^arbfeesdagger3]
+
 # Opt Out Clauses
 
 Why do some contracts of adhesion have opt-out clauses?
@@ -370,3 +374,5 @@ This document has a few limitations and biases.
 [^arbfeesdagger1]: Reginald Alleyne. (2003). Arbitrators’ Fees: The Dagger in the Heart of Mandatory Arbitration for Statutory Discrimination Claims. 6. pp 7-8
 
 [^arbfeesdagger2]: Alleyne supra pp 16 [^arbfeesdagger1]
+
+[^arbfeesdagger3]: Alleyne supra pp 30 [^arbfeesdagger1]
