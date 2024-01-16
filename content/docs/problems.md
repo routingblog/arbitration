@@ -60,7 +60,7 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - Prior to the various arbitration acts of the mid 1920s the common law doctrine allowed for revocibility. [^newarb3]
 
-# Employment
+# Employment {id="employment"}
 
 - Plaintiffs’ overall economic outcomes are on average 6.1 times better in federal court than in mandatory arbitration and 13.9 times better in state court than in mandatory arbitration ($328,008 versus $23,548) [^stone1]
 
@@ -80,7 +80,7 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - Arbitrators that are picked by the employers more than once
 
-- Arbitrators feel beholden to companies. Beneath every decision is the threat of losing business. [^silverprivate]
+- {{< anchor id="beholden" >}} Arbitrators feel beholden to companies. Beneath every decision is the threat of losing business. [^silverprivate]
 
 - Arbitrators habitually handle cases for the same corporate defendants over the course of four years. [^classdismissed2]
 
@@ -123,6 +123,13 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 # Cost
 
 - Even when arbitration litigation costs less than judicial litigation, the timing of some required arbitration costs, such as upfront fees for the arbitrator, can make it likely that the arbitration-plaintiff will be unable to proceed in that forum. [^arbfeesdagger3]
+
+- Arbitration can cost more than a judicial forum such that a claimant can be discouraged from using arbitration when it is voluntary. [^arbfeesdagger3]
+
+- Employees compelled to arbitrate under mandatory-arbitration agreements often bear arbitrator-fee costs that far exceed what a union party would pay for the representation of a bargaining-unit employee [^arbfeesdagger4]
+
+- Making the employer pay the fees does not fully solve the problem as arbiters are [aware of who pays the fees]({{< relref "#beholden" >}}) and produce biased results.
+
 
 # Opt Out Clauses
 
@@ -376,3 +383,5 @@ This document has a few limitations and biases.
 [^arbfeesdagger2]: Alleyne supra pp 16 [^arbfeesdagger1]
 
 [^arbfeesdagger3]: Alleyne supra pp 30 [^arbfeesdagger1]
+
+[^arbfeesdagger3]: Alleyne supra pp 33 [^arbfeesdagger1]
