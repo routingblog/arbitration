@@ -12,6 +12,7 @@ weight: 100
 - [People's Parity Project](https://peoplesparity.org)
 - [Public Citizen](https://www.citizen.org/topic/justice-the-courts/class-actions/)
 - [NACA - National Association of Consumer Advocates](https://www.consumeradvocates.org/advocacy/take-action/forced-arbitration/)
+- [NCLA - National Consumer Law Center](https://www.nclc.org/topic/arbitration/)
 
 {{< titlehint level="info" title="foo">}}
 **Disclaimer**
