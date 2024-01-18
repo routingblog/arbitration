@@ -46,6 +46,7 @@ There have been many attempts to fix the problems. This table lists some of them
 
 | Title | State | Summary |
 | ----------- | ----------- | --- |
+| [SB-716 Excluded employees: binding arbitration](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240SB716) | CA |
 
 # Congressional Hearings
 

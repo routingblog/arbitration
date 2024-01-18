@@ -887,6 +887,14 @@ See Ferguson v. Corinthian Colleges, Inc., 733 F.3d 928 (9th Cir. 2013). The Fer
 - https://www.courtlistener.com/opinion/204590/shawn-samson-v-nama-holdings-llc/
 -  https://www.courtlistener.com/opinion/2421269/samson-v-nama-holdings-llc/
 
+# California
+
+## In re Uber Technologies Wage and Hour Cases
+
+One Liner: The People and the Labor Commissioner are not parties to those arbitration agreements.
+
+- [Justia](https://law.justia.com/cases/california/court-of-appeal/2023/a166355.html)
+
 # Footnotes
 
 [^1]: Need to double check this.
