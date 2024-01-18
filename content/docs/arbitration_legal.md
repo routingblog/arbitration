@@ -308,6 +308,19 @@ The Montana Supreme Court had two justices who refused to sign on to the order r
 
 One Line Summary: The question of whether a contract forbade class arbitration qualified as one of procedural arbitrability within an arbitrator’s adjudicative scope.
 
+- Wikipedia: {{< todo />}} (unread)
+- [Court Opinion](https://supreme.justia.com/cases/federal/us/539/444/case.pdf) (unread)
+- Court Opinion (pdf): {{< todo />}} (unread)
+- [Oyez](https://www.oyez.org/cases/2002/02-634)
+- Plurality Author: Stephen G. Breyer
+- Concurrence: John Paul Stevens (in part)
+- Dissents:  William H. Rehnquist, joined by Justices Sandra Day O'Connor and Anthony M. Kennedy
+
+Pull Quote (from {{< todo />}}):
+
+{{< details "{{< todo />}}" >}}
+{{< /details >}}
+
 ## Green Tree Financial Corporation-Alabama v. Randolph, 531 US 79 (2000)
 
 One Line Summary: An arbitration agreement that is silent on arbitration costs and fees is not unenforceable
