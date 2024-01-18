@@ -877,16 +877,6 @@ arb that precludes ERISA plan-wide relief under Section 502(a) not enforceable
     > Section 4042(a)(3) allows plaintiffs in this case to participate in an SCRA class action in federal court notwithstanding their previous agreement to individual arbitration, regardless of when the SCRA violations are alleged to have occurred. The United States respectfully urges the Court to deny Defendant Citibank, N.A.’s motion to compel arbitration of the SCRA claims.
 - [Order on Motion To Compel Arbitration](https://storage.courtlistener.com/recap/gov.uscourts.nced.196598/gov.uscourts.nced.196598.58.0.pdf)
 
-### Ferguson v. Corinthian Colleges, Inc., 733 F.3d 928 (9th Cir. 2013)
-See Ferguson v. Corinthian Colleges, Inc., 733 F.3d 928 (9th Cir. 2013). The Ferguson panel reversed the lower court’s denial of a motion to compel arbitration, and held the FAA preempted California’s “Broughton-Cruz Rule,” which dictates that injunctive relief sought for the public’s benefit cannot be subjected to mandatory arbitration.
-{{< todo />}}
-
-###  Shawn Samson v. Nama Holdings, LLC, 09-55835 (9th Cir. 2011)
-{{< todo />}}
-	stating judicial estoppel "generally prevents a party from prevailing in one phase of a case on an argument and then relying on a contradictory argument to prevail in another phase." → judicial estoppel and not really an element of arbitration
-- https://www.courtlistener.com/opinion/204590/shawn-samson-v-nama-holdings-llc/
--  https://www.courtlistener.com/opinion/2421269/samson-v-nama-holdings-llc/
-
 # California
 
 ## In re Uber Technologies Wage and Hour Cases
