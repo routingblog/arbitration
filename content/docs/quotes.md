@@ -14,9 +14,15 @@ weight: 1000
 
 1. However, one cannot help but note the incongruity between the movement toward reasoned awards and the extremely limited review of the award, particularly its application of the law. Put another way: What good is a reasoned award that does not follow the law? Under the current system, an arbitrator can issue a reasoned award that conclusively demonstrates legal error and the reviewing court is required to confirm and enforce the award even though it would never do so if the opinion were issued by a court of law. [^kangaroo1]
 
+## Neutrality
+
+1. One may further assume, for argument's sake, that the answer to that question is no; that arbitrators, as stated in the Cole case, do not care who pays them so long as someone pays them, meaning they suffer no actual bias by virtue of being paid solely by the employer. The court's statement may be taken as an accurate description of arbitrators' subjective views on arbitrator compensation sources. It has no bearing on the objectivestandard consideration of "whether a reasonable and informed observer would question the [arbitrator's] impartiality." [^dagger1]
+
 
 # Footnotes
 
 [^ArbitrationIsPower1]: Heinrich Kronstein. (1963). Arbitration is Power. New York University Law Review, 38, 661. https://heinonline.org/HOL/Page?handle=hein.journals/nylr38&id=679&div=&collection= pp 699-700
 
 [^kangaroo1]: Stempel, J. (2007). Keeping Arbitrations from Becoming Kangaroo Courts. Nevada Law Journal, 8(1). https://scholars.law.unlv.edu/nlj/vol8/iss1/12 pp 259
+
+[^dagger1]: Reginald Alleyne. (2003). Arbitrators’ Fees: The Dagger in the Heart of Mandatory Arbitration for Statutory Discrimination Claims. 6. pp 39-40
