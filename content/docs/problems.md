@@ -46,6 +46,12 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - Companies may suffer adverse publicity if it is perceived as attempting to use arbitration to gain unfair advantage over its customers, vendors, or the public. Although these economic incentives toward fairness are not trivial, neither are they particularly powerful. A company’s problematic arbitration conduct is unlikely to be significantly salient to its overall customer base or the general public. [^stempelkangaroo4]
 
+# Bias & Fairness
+
+- Proving the "evident partiality or corruption" of a unilaterally selected arbitration panel member is a near impossibility and, indeed, is rarely an issue in any arbitration proceeding. [^arbfeesdagger4]
+
+- Mandatory arbitration provides for employers the advantage of crafting even objectively fair rules to their advantage. They can decide unilaterally, for example, whether hearing proceedings will be recorded, whether briefs will be filed, and in what time frame, and where the arbitration will be held. Their rules can also dictate the scope of discovery [^arbfeesdagger4]
+
 # Historical Information
 
 - The author of the FAA said that Arbitration "was not designed to major importance involving constitutional questions or policy in the application of statute" [^newarb8]
@@ -385,3 +391,5 @@ This document has a few limitations and biases.
 [^arbfeesdagger3]: Alleyne supra pp 30 [^arbfeesdagger1]
 
 [^arbfeesdagger3]: Alleyne supra pp 33 [^arbfeesdagger1]
+
+[^arbfeesdagger4]: Alleyne supra pp 41 [^arbfeesdagger1]
