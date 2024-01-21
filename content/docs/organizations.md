@@ -23,3 +23,4 @@ Some of these groups advocate for other issues as well. This list focusses solel
 ## Resources
 
 - [Opt Out Templates](https://github.com/lynnpepin/arbitration-opt-out-templates)
+- [Arbitrator Rater](https://www.arbitratorrater.com) - For Consumer Protection Attorneys
