@@ -102,3 +102,6 @@ rejecting argument that non-signing employee had impliedly consented to arbitrat
 # Green Tree Fin. Corp.-Ala. v. Randolph, 531 U.S. 79, 92 (2000)
 
 holding that a plaintiff seeking to invalidate an arbitration agreement on the ground that it is prohibitively expensive bears the burden of proving such expense
+
+# Brown v. Luxottica Retail North America Inc.
+A dispute resolution agreement in the middle of a fifty-one-page employee handbook was neither hidden nor buried
