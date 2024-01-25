@@ -24,6 +24,9 @@ Compulsory arbitration
 ADR
 : Alternate Dispute Resolution. Procedures by which disputes can be resolved other than litigation. For example settlements, mediation, binding or non-binding arbitration.
 
+Labor Arbitration
+: Voluntary arbitration of disputes between unions and employers pursuant to terms negotiated by equally qualified participants [^arbfeesdagger2]
+
 Separability principle
 : An arbitration clause is treated as a separate agreement to the contract containing it. An agreement to arbitrate may not be nullified by a void main contract.
 
@@ -33,3 +36,4 @@ Mitsubishi trilogy
 # Footnotes
 
 [^arbfeesdagger1]: Reginald Alleyne. (2003). Arbitrators’ Fees: The Dagger in the Heart of Mandatory Arbitration for Statutory Discrimination Claims. 6. pp 17
+[^arbfeesdagger2]: Reginald Alleyne. (2003). Arbitrators’ Fees: The Dagger in the Heart of Mandatory Arbitration for Statutory Discrimination Claims. 6. pp 13
