@@ -18,7 +18,6 @@ weight: 1000
 
 1. One may further assume, for argument's sake, that the answer to that question is no; that arbitrators, as stated in the Cole case, do not care who pays them so long as someone pays them, meaning they suffer no actual bias by virtue of being paid solely by the employer. The court's statement may be taken as an accurate description of arbitrators' subjective views on arbitrator compensation sources. It has no bearing on the objectivestandard consideration of "whether a reasonable and informed observer would question the [arbitrator's] impartiality." [^dagger1]
 
-
 # Footnotes
 
 [^ArbitrationIsPower1]: Heinrich Kronstein. (1963). Arbitration is Power. New York University Law Review, 38, 661. https://heinonline.org/HOL/Page?handle=hein.journals/nylr38&id=679&div=&collection= pp 699-700
