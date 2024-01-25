@@ -98,3 +98,7 @@ See Ferguson v. Corinthian Colleges, Inc., 733 F.3d 928 (9th Cir. 2013). The Fer
 rejecting argument that non-signing employee had impliedly consented to arbitration by continuing employment after learning that signing an arbitration agreement was a condition of employment
 
 # Market Ins. Corp. v. Integrity Ins. Co.
+
+# Green Tree Fin. Corp.-Ala. v. Randolph, 531 U.S. 79, 92 (2000)
+
+holding that a plaintiff seeking to invalidate an arbitration agreement on the ground that it is prohibitively expensive bears the burden of proving such expense
