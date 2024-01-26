@@ -105,3 +105,5 @@ holding that a plaintiff seeking to invalidate an arbitration agreement on the g
 
 # Brown v. Luxottica Retail North America Inc.
 A dispute resolution agreement in the middle of a fifty-one-page employee handbook was neither hidden nor buried
+
+# In re StockX Customer Data Sec. Breach Litig.

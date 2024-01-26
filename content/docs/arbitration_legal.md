@@ -791,7 +791,6 @@ One Line Summary: Whether [9 U.S.C. § 3](https://www.law.cornell.edu/uscode/tex
 [SCOTUSBlog](https://www.scotusblog.com/case-files/cases/smith-v-spirrizzi/)
 
 
-
 <!-- case template -->
 <!--
 One Line Summary: {{< todo />}}
