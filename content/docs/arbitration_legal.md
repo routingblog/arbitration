@@ -778,8 +778,17 @@ Pull Quote (from {{< todo />}}):
 
 ## Pending Petitions
 
-[Coinbase, Inc. v. Suski](https://www.scotusblog.com/case-files/cases/coinbase-inc-v-suski/)
-[Smith v. Spirrizzi](https://www.scotusblog.com/case-files/cases/smith-v-spirrizzi/)
+### Coinbase, Inc. v. Suski
+
+One Line Summary: If a second contract is silent but the parties already have an existing contract, who decides (court or arbiter) if the second contract is subject to arbitration.
+
+[SCOTUSBlog](https://www.scotusblog.com/case-files/cases/coinbase-inc-v-suski/)
+
+### Smith v. Spizzirri
+
+One Line Summary: Whether [9 U.S.C. § 3](https://www.law.cornell.edu/uscode/text/9/3) requires the court to stay a lawsuit pending arbitration or if they have discretion to dismiss.
+
+[SCOTUSBlog](https://www.scotusblog.com/case-files/cases/smith-v-spirrizzi/)
 
 
 
