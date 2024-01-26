@@ -151,6 +151,9 @@ Mandatory employment arbitration has expanded to the point where it has now surp
 1. Peterson, P. A. L., Morgan. (2023, February 17). Court Obliterates California’s Anti-Arbitration Law. California Employment Law Update. https://calemploymentlawupdate.proskauer.com/2023/02/ninth-circuit-panel-changes-its-mind-and-obliterates-californias-anti-mandatory-employment-arbitration-law/
 1. Darin Ranahan. (n.d.). Mandatory Pre-Dispute Arbitration Agreements and Your Rights: A Post-Concepcion Primer. Retrieved 25 August 2023, from https://www.sl-employmentlaw.com/mandatory-pre-dispute-arbitration-agreements-and-your-rights-a-p.html
 1. Rachel Thorn. (2021, March 11). Drafting Arbitration Clauses in IP Agreements. World Trademark Review. https://www.worldtrademarkreview.com/global-guide/the-guide-ip-arbitration/2021/article/drafting-arbitration-clauses-in-ip-agreements
+1. Nancy Niki Lubrano & Brian E. Cole II. (n.d.). CDF Wage and Hour Task Force – Monthly Tips. CDF Labor Law: California Labor & Employment Law Blog. Retrieved 25 January 2024, from https://www.callaborlaw.com/entry/cdf-wage-and-hour-task-force-monthly-tips-february-2023
+
+
 
 
 ## Resources
@@ -167,7 +170,6 @@ Mandatory employment arbitration has expanded to the point where it has now surp
 ## Definitions
 
 1. Kangaroo Court—Black’s Law Dictionary—Ninth Edition. (2009). In Bryan A. Garner (Ed.), Black’s Law Dictionary (Ninth Edition, p. 409). WEST - Thomson Reuters.
-
 
 # Class Actions
 
