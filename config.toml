@@ -2,7 +2,7 @@ baseURL = 'https://arbitrationinformation.org/'
 languageCode = 'en-us'
 title = 'Arbitration Information'
 
-theme = ["hugo-book"]
+theme = ["hugo-theme-relearn"]
 
 # (Optional) Set this to true to enable 'Last Modified by' date and git author
 #  information on 'doc' type pages.
@@ -15,6 +15,11 @@ enableRobotsTXT = true
 # https://themes.gohugo.io/themes/hugo-book/
 
 [params]
+  author.name = "Eitan Adler"
+  description = 'Detailed legal information about arbitration'
+  editURL = "https://github.com/routingblog/arbitration/edit/master/content/"
+  showVisitedLinks = false
+
   BookRepo = 'https://github.com/routingblog/arbitration'
   BookCommitPath = 'commit'
   BookEditPath = 'edit/master'
@@ -29,3 +34,7 @@ enableRobotsTXT = true
     startLevel = 1
   [markup.goldmark.renderer]
     unsafe = true
+[outputs]
+  home = ["HTML", "RSS", "SEARCH", "SEARCHPAGE", "PRINT"]
+  section = ["HTML", "RSS", "PRINT"]
+  page = ["HTML", "RSS", "PRINT"]
