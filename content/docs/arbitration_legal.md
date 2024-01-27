@@ -789,6 +789,7 @@ One Line Summary: If a second contract is silent but the parties already have an
 One Line Summary: Whether [9 U.S.C. § 3](https://www.law.cornell.edu/uscode/text/9/3) requires the court to stay a lawsuit pending arbitration or if they have discretion to dismiss.
 
 [SCOTUSBlog](https://www.scotusblog.com/case-files/cases/smith-v-spirrizzi/)
+[Brief In Opposition](https://www.supremecourt.gov/DocketPDF/22/22-1218/292137/20231204111737023_Spizzirri%20BIO.pdf)
 
 
 <!-- case template -->
