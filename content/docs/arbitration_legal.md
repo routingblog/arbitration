@@ -725,7 +725,13 @@ Pull Quote (from {{< todo />}}):
 {{< details "{{< todo />}}" >}}
 {{< /details >}}
 
-###  Morgan v. Sundance, Inc. 596 US _ (2022) {id="morgan-v-sundance"}
+## Badgerow v. Walters 596 US _ (2022)
+
+One Line Summary: Federal courts do not have subject matter jurisdiction to confirm or vacate an arbitration award under section 4.
+
+[Oyez](https://www.oyez.org/cases/2021/20-1143)
+
+##  Morgan v. Sundance, Inc. 596 US _ (2022) {id="morgan-v-sundance"}
 
 One Line Summary: courts cannot create arbitration-specific procedural rules
 
