@@ -796,6 +796,7 @@ One Line Summary: Whether [9 U.S.C. § 3](https://www.law.cornell.edu/uscode/tex
 
 [SCOTUSBlog](https://www.scotusblog.com/case-files/cases/smith-v-spirrizzi/)
 [Brief In Opposition](https://www.supremecourt.gov/DocketPDF/22/22-1218/292137/20231204111737023_Spizzirri%20BIO.pdf)
+[Reply Brief For The Petitioners](https://www.supremecourt.gov/DocketPDF/22/22-1218/293969/20231221104650950_smith%20v.%20spizzirri%20--%20cert.%20reply%20--%20FILED.pdf)
 
 
 <!-- case template -->
