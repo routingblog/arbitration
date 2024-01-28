@@ -29,3 +29,8 @@ enableRobotsTXT = true
     startLevel = 1
   [markup.goldmark.renderer]
     unsafe = true
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+  case = 'cases'
