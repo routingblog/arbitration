@@ -194,6 +194,14 @@ Why do some contracts of adhesion have opt-out clauses?
 
 - Alternative definitions of a "kangaroo court" is is a forum in which the structure and operation of the forum result in an inferior brand of adjudication even if the tribunal is not gripped with intentional bias [^stempelkangaroo1]
 
+# Mass Arbitration
+
+While mass arbitration has been used as a tool to help even the playing field it has several problems:
+
+- It requires that the law firm do the marketing and outreach to find affected employees or consumers. In a class action court case this happens as a part of discovery.
+- It requires that affected individuals affirmatively sign up instead of allowing for representative actions.
+- This is especially a concern since people may be worried by real or perceived risk of affirmatively signing up.
+
 # Possible Advantages
 
 While arbitration is generally negative for both employees and consumers there is a little bit of silver lining.

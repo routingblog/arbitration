@@ -107,3 +107,9 @@ holding that a plaintiff seeking to invalidate an arbitration agreement on the g
 A dispute resolution agreement in the middle of a fifty-one-page employee handbook was neither hidden nor buried
 
 # In re StockX Customer Data Sec. Breach Litig.
+
+# EPSON AMERICA, INC., a California corporation, vs Arnoff et. al
+
+[Complaint](https://fingfx.thomsonreuters.com/gfx/legaldocs/myvmkgxxlvr/frankel-epsonmassarbitration--arnoffcomplaint.pdf)
+Seeking declaratory judgement that individuals did not engage in good-faith efforts at informal dispute resolution.
+This could make arbitration even more expensive.
