@@ -35,21 +35,8 @@ Two policies, not easily reconcilable, are involved in this case. Congress has a
 {{< /details >}}
 
 ## Bernhardt v. Polygraphic Co. 350 U.S. 198 (1956)
+{{< todo />}}
 
-One Line Summary: {{< todo />}}
-
-- Wikipedia: {{< todo />}} (unread)
-- Court Opinion (Court Listener): {{< todo />}} (unread)
-- Court Opinion (pdf): {{< todo />}} (unread)
-- Oyez: {{< todo />}} (unread)
-- Majority Author: {{< todo />}} (unread)
-- Concurrence: {{< todo />}} (unread)
-- Dissents: {{< todo />}} (unread)
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
 
 ## Steelworkers v. Warrior & Gulf Co., 363 U.S. 574 (1960)
 
@@ -59,20 +46,8 @@ One Line Summary: Whether the decision to contract out work is strictly a functi
 
 - [Wikipedia](https://en.wikipedia.org/wiki/United_Steelworkers_v_Warrior_%26_Gulf_Navigation_Co)
 - [Court Opinion (Court Listener)](https://www.courtlistener.com/opinion/106085/united-steelworkers-v-warrior-gulf-navigation-co/) (unread)
-- Court Opinion (pdf): {{< todo />}} (unread)
-- Oyez: {{< todo />}} (unread)
-- Majority Author: {{< todo />}} (unread)
-- Concurrence: {{< todo />}} (unread)
-- Dissents: {{< todo />}} (unread)
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
 
 ## Prima Paint Corp. v. Flood & Conklin Mfg. Co., 388 US 395 (1967)
-
-One Line Summary: {{< todo />}}
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Prima_Paint_Corp._v._Flood_%26_Conklin_Manufacturing_Co.)
 - [Oyez](https://www.oyez.org/cases/1966/343)
@@ -101,29 +76,11 @@ One Line Summary: {{< todo />}}
 One Line Summary: arbitration of a discrimination claim as a grievance in labor union arbitration did not preclude the individual from later asserting the claim in court.
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Alexander_v._Gardner-Denver_Co.)
-- Court Opinion (Court Listener): {{< todo />}} (unread)
-- Court Opinion (pdf): {{< todo />}} (unread)
 - [Oyez](https://www.oyez.org/cases/1973/72-5847)
-- Majority Author: {{< todo />}} (unread)
-- Concurrence: {{< todo />}} (unread)
-- Dissents: {{< todo />}} (unread)
-
-Pull Quote (from {{< todo />}}):
 
 ## Scherk v. Alberto-Culver Company 417 US 506 (1974)
 
-One Line Summary: {{< todo />}}
-
-- Wikipedia: {{< todo />}} (unread)
-- Court Opinion (Court Listener): {{< todo />}} (unread)
-- Court Opinion (pdf): {{< todo />}} (unread)
 - [Oyez](https://www.oyez.org/cases/1973/73-781)
-- Majority Author: {{< todo />}} (unread)
-- Concurrence: {{< todo />}} (unread)
-- Dissents: {{< todo />}} (unread)
-
-Pull Quote (from {{< todo />}}):
-
 
 ## Moses H. Cone Memorial Hospital v. Mercury Construction Corp., 460 U.S. 1 (1983)
 
@@ -176,78 +133,32 @@ One Line Summary: Sherman act anti-trust claims arising from an international ac
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Mitsubishi_Motors_Corp._v._Soler_Chrysler-Plymouth,_Inc.) (unread)
 - [Court Opinion (Court Listener)](https://www.courtlistener.com/opinion/111513/mitsubishi-motors-corp-v-soler-chrysler-plymouth-inc/) (unread)
-- Court Opinion (pdf): {{< todo />}} (unread)
 - [Oyez](https://www.oyez.org/cases/1984/83-1569) (unread)
-- Majority Author: {{< todo />}} (unread)
-- Concurrence: {{< todo />}} (unread)
-- Dissents: {{< todo />}} (unread)
 - Status: Made irrelevant by [Motor Vehicle Franchise Contract Arbitration Fairness Act (15 U.S. Code § 1226)](https://www.law.cornell.edu/uscode/text/15/1226)
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
 
 Part of Mitsubishi trilogy which allowed arbitration to hear statutory claims.
 
 ## Dean Witter Reynolds Inc. v. Byrd, 470 U.S. 213 (1985)
-
-One Line Summary: {{< todo />}}
-
-- Wikipedia: {{< todo />}} (unread)
-- Court Opinion (Court Listener): {{< todo />}} (unread)
-- Court Opinion (pdf): {{< todo />}} (unread)
-- Oyez: {{< todo />}} (unread)
-- Majority Author: {{< todo />}} (unread)
-- Concurrence: {{< todo />}} (unread)
-- Dissents: {{< todo />}} (unread)
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
+{{< todo />}}
 
 ## Perry v. Thomas, 482 U.S. 483 (1987)
+{{< todo />}}
 
 ## Shearson/American Express Inc. v. McMahon, 482 U.S. 220 (1987) {id="shearson-v-mchanon"}
 
-One Line Summary: {{< todo />}}
-
 - [Wikipedia](https://en.wikipedia.org/wiki/Shearson/American_Express_Inc._v._McMahon) (unread)
 - [Court Opinion (Court Listener)](https://www.courtlistener.com/opinion/111910/shearsonamerican-express-inc-v-mcmahon/) (unread)
-- Court Opinion (pdf): {{< todo />}} (unread)
 - [Oyez](https://www.oyez.org/cases/1986/86-44) (unread)
-- Majority Author: {{< todo />}} (unread)
-- Concurrence: {{< todo />}} (unread)
-- Dissents: {{< todo />}} (unread)
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
 
 Part of Mitsubishi trilogy which allowed arbitration to hear statutory claims.
 
 ## Rodriguez de Quijas v. Shearson/American Express Inc., 490 U.S. 477 (1989) {id="Quijas-v-american-express"}
 
-One Line Summary: {{< todo />}} (unread)
-
 - [Wikipedia](https://en.wikipedia.org/wiki/Rodriguez_de_Quijas_v._Shearson/American_Express_Inc.)
-- Court Opinion (Court Listener): {{< todo />}} (unread)
-- Court Opinion (pdf): {{< todo />}} (unread)
 - [Oyez](https://www.oyez.org/cases/1988/88-385)
-- Majority Author: {{< todo />}} (unread)
-- Concurrence: {{< todo />}} (unread)
-- Dissents: {{< todo />}} (unread)
 - Reverses [Wilko]({{< relref "/#wilko-v-swan" >}})
 
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
-
 Part of Mitsubishi trilogy which allowed arbitration to hear statutory claims.
-
 
 ## Gilmer v. Interstate/Johnson Lane Corp. 500 U.S. 20 (1991)
 
@@ -269,23 +180,17 @@ Gilmer takes the positive attributes of labor arbitration, involving institution
 
 ## First Options of Chicago v. Kaplan
 
+{{< todo />}}
 
 ## Allied-Bruce Terminix Cos. v. Dobson 513 US 265 (1995)
 
 One Line Summary: contracts requiring arbitration is applied to all disputes involving commerce even though it isn't interstate
 
-- Wikipedia: {{< todo />}} (unread)
 - [Court Opinion (Court Listener)](https://www.courtlistener.com/opinion/117892/allied-bruce-terminix-cos-v-dobson/) (unread)
-- Court Opinion (pdf): {{< todo />}} (unread)
 - [Oyez](https://www.oyez.org/cases/1994/93-1001)
 - Majority Author: Stephen G. Breyer (unread)
 - Concurrence: Sandra Day O'Connor (unread)
 - Dissents: Scalia, Clarence Thomas (unread)
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
 
 Twenty state attorneys general as amici curiae argued that [Southland]({{< relref "/#southland-v-keating" >}}) should be overruled. [^correcting1]
 
@@ -306,131 +211,60 @@ Montana's first-page notice requirement, which governs not "any contract," but s
 The Montana Supreme Court had two justices who refused to sign on to the order remanding the case from the Supreme Court of the United States to the state trial court. [^showdown1]
 
 ## Wright v. Universal Maritime Service Corp., 525 U.S. 70, 80-82 (1998)
+{{< todo />}}
 
 ## 14 Penn Plaza LLC v. Pyett, 556 U.S. 247, 255 & n.4 (2009)
-
+{{< todo />}}
 
 ## Green Tree Financial Corp. v. Bazzle 539 U.S. at 444.
 
 One Line Summary: The question of whether a contract forbade class arbitration qualified as one of procedural arbitrability within an arbitrator’s adjudicative scope.
 
-- Wikipedia: {{< todo />}} (unread)
 - [Court Opinion](https://supreme.justia.com/cases/federal/us/539/444/case.pdf) (unread)
-- Court Opinion (pdf): {{< todo />}} (unread)
 - [Oyez](https://www.oyez.org/cases/2002/02-634)
 - Plurality Author: Stephen G. Breyer
 - Concurrence: John Paul Stevens (in part)
 - Dissents:  William H. Rehnquist, joined by Justices Sandra Day O'Connor and Anthony M. Kennedy
 
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
-
 ## Green Tree Financial Corporation-Alabama v. Randolph, 531 US 79 (2000)
 
 One Line Summary: An arbitration agreement that is silent on arbitration costs and fees is not unenforceable
 
-- Wikipedia: {{< todo />}} (unread)
 - [Court Opinion (Court Listener)](https://www.courtlistener.com/opinion/118394/green-tree-financial-corp-ala-v-randolph/) (unread)
-- Court Opinion (pdf): {{< todo />}} (unread)
 - [Oyez](https://www.oyez.org/cases/2000/99-1235)
-- Majority Author: {{< todo />}} (unread)
-- Concurrence: {{< todo />}} (unread)
-- Dissents: {{< todo />}} (unread)
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
 
 ## Circuit City v. Adams (2001) {id="circuit-city-v-adams"}
 
 One Line Summary: Maxim of ejusdem generis[^ejusdemgeneris] applies to FAA exclusion of any other class of workers”.  Legislative history was not relevant to interpreting the statute.
 
-- Wikipedia: {{< todo />}} (unread)
-- Court Opinion (Court Listener): {{< todo />}} (unread)
-- Court Opinion (pdf): {{< todo />}} (unread)
 - [Oyez](https://www.oyez.org/cases/2000/99-1379)
 - Majority Author: Anthony M. Kennedy
-- Concurrence: {{< todo />}} (unread)
 - Dissents: Stevens (joined by Ginsburg, Breyer) and Souter
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
 
 ##  Preston v. Ferrer, 552 U.S. 346 (2008)
 
-One Line Summary: {{< todo />}}
-
 - [Wikipedia](https://en.wikipedia.org/wiki/Preston_v._Ferrer)
 - [Court Opinion (Court Listener)](https://www.courtlistener.com/opinion/145830/preston-v-ferrer/) (unread)
-- Court Opinion (pdf): {{< todo />}} (unread)
 - [Oyez](https://www.oyez.org/cases/2007/06-1463)
-- Majority Author: {{< todo />}} (unread)
-- Concurrence: {{< todo />}} (unread)
-- Dissents: {{< todo />}} (unread)
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
-
 
 ## Buckeye Check Cashing, Inc. v. Cardegna,  546 US 440 (2006)
 
-One Line Summary: {{< todo />}}
-
 - [Wikipedia](https://en.wikipedia.org/wiki/Buckeye_Check_Cashing,_Inc._v._Cardegna)
-- Court Opinion (Court Listener): {{< todo />}}
-- Court Opinion (pdf): {{< todo />}}
 - [Oyez](https://www.oyez.org/cases/2005/04-1264)
-- Majority Author: {{< todo />}}
-- Concurrence: {{< todo />}}
-- Dissents: {{< todo />}}
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
 
 ## Granite Rock Co. v. International Brotherhood of Teamsters
 
 One Line Summary: the presumption that a dispute is arbitrable should only be applied where it derives legitimacy from, a judicial conclusion that arbitration is what the parties intended
 
-- Wikipedia: {{< todo />}}
-- Court Opinion (Court Listener): {{< todo />}}
-- Court Opinion (pdf): {{< todo />}}
 - [Oyez](https://www.oyez.org/cases/2009/08-1214)
 - Majority Author: Clarence Thomas
-- Concurrence: {{< todo />}}
 - Dissents: John Paul Stevens, Sonia Sotomayor
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
-
-
 
 ## Rent-A-Center West v. Jackson,  561 US 63 (2010)
 
 One Line Summary: arbitrator will determine the enforceability of the agreement (as opposed to disputing existence of arbitration).
 
-- Wikipedia: {{< todo />}}
-- Court Opinion (Court Listener): {{< todo />}}
-- Court Opinion (pdf): {{< todo />}}
 - [Oyez](https://www.oyez.org/cases/2009/09-497)
-- Majority Author: {{< todo />}}
-- Concurrence: {{< todo />}}
-- Dissents: {{< todo />}}
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
 
 ## Hall Street Associates, L.L.C. v. Mattel, Inc., 552 US 576 (2008)
 
@@ -466,17 +300,8 @@ Pull Quote (from syllabus):
 One Line Summary: The FAA does not permit courts to invalidate clauses that mandate individual arbitration
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Am._Express_Co._v._Italian_Colors_Rest.) (unread)
-- Court Opinion (Court Listener): {{< todo />}}
-- Court Opinion (pdf): {{< todo />}}
 - [Oyez](https://www.oyez.org/cases/2012/12-133)
 - Majority Author: Scalia
-- Concurrence: {{< todo />}}
-- Dissents: {{< todo />}}
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
 
 ## Epic Sys. Corp. v. Lewis, No. 16-285, 2018 WL 2292444, at *26 (2018)
 
@@ -500,34 +325,7 @@ The Kentucky Supreme Court determined that individuals holding power of attorney
 
 One Line Summary: The FAA preempts any state rule discriminating on its face against arbitration
 
-- Wikipedia: {{< todo />}}
-- Court Opinion (Court Listener): {{< todo />}}
-- Court Opinion (pdf): {{< todo />}}
-- Oyez: {{< todo />}}
-- Majority Author: {{< todo />}}
-- Concurrence: {{< todo />}}
-- Dissents: {{< todo />}}
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
-
 ## Ernst & Young LLP v. Morris (Docket 16-300) (2018)
-One Line Summary: {{< todo />}}
-
-- Wikipedia: {{< todo />}}
-- Court Opinion (Court Listener): {{< todo />}}
-- Court Opinion (pdf): {{< todo />}}
-- Oyez: {{< todo />}}
-- Majority Author: {{< todo />}}
-- Concurrence: {{< todo />}}
-- Dissents: {{< todo />}}
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
 
 NLRA did not override FAA.
 
@@ -535,21 +333,6 @@ NLRA did not override FAA.
 - Related to National Labor Relations Board v. Murphy Oil USA, Inc.
 
 ## 17-988 Lamps Plus, Inc. V. Varela (2019).
-One Line Summary: {{< todo />}}
-
-- Wikipedia: {{< todo />}}
-- Court Opinion (Court Listener): {{< todo />}}
-- Court Opinion (pdf): {{< todo />}}
-- Oyez: {{< todo />}}
-- Majority Author: {{< todo />}}
-- Concurrence: {{< todo />}}
-- Dissents: {{< todo />}}
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
-
 
 Under the Federal Arbitration Act (FAA), an arbitration agreement that is ambiguous as to the availability of class arbitration does not manifest sufficient consent by the parties to submit to class arbitration. In a 5-4 opinion authored by Chief Justice John Roberts, the Court held that the arbitration agreement between Varela and his employer, Lamps Plus, which contained only general language commonly used in arbitration agreements, did not provide the necessary contractual basis for compelling class arbitration.
 
@@ -557,71 +340,27 @@ Under the Federal Arbitration Act (FAA), an arbitration agreement that is ambigu
 One Line Summary: The court decides if FAA applies. 9 U.S. Code §1 exemptions apply to “agreements to perform work” not just employment agreements.
 
 - [Wikipedia](https://en.wikipedia.org/wiki/New_Prime_Inc._v._Oliveira)
-- Court Opinion (Court Listener): {{< todo />}} (8-0) (unread)
-- Court Opinion (pdf): {{< todo />}}
+- [Court Opinion](https://www.supremecourt.gov/opinions/18pdf/17-340_o7kq.pdf) (8-0) (unread)
 - [Oyez](https://www.oyez.org/cases/2018/17-340)
 - Majority Author: Neil Gorsuch
 - Concurrence: Ginsburg
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
-
-https://www.supremecourt.gov/opinions/18pdf/17-340_o7kq.pdf (majority:  Gorsuch) (8-0)
-https://www.scotusblog.com/case-files/cases/new-prime-inc-v-oliveira/
+- [SCOTUSBlog](https://www.scotusblog.com/case-files/cases/new-prime-inc-v-oliveira/)
 
 ## Henry Schein, Inc. v. Archer & White Sales, Inc., 586 U.S. (2019)
-One Line Summary: {{< todo />}}
-
-- Wikipedia: {{< todo />}}
-- Court Opinion (Court Listener): {{< todo />}}
-- Court Opinion (pdf): {{< todo />}}
-- Oyez: {{< todo />}}
-- Majority Author: {{< todo />}}
-- Concurrence: {{< todo />}}
-- Dissents: {{< todo />}}
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
-
-"when the parties' contract delegates the arbitrability question to an arbitrator, a court may not override the contract.
+One Line Summary: when the parties' contract delegates the arbitrability question to an arbitrator, a court may not override the contract.
 
 ## Southwest Airlines Co. v. Saxon, 142 S. Ct. 1783 (2022)
 
 One Line Summary: employees who are “physically loading cargo directly on and off an airplane headed out of State” are within 9 U.S. Code §1 exemption
 
-- Wikipedia: {{< todo />}}
-- Court Opinion (Court Listener): {{< todo />}}
 - [Court Opinion (pdf)](https://www.supremecourt.gov/opinions/21pdf/21-309_o758.pdf)
 - [Oyez](https://www.oyez.org/cases/2021/21-309)
 - Majority Author: Justice Clarence Thomas (8-0)
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
-
-https://www.supremecourt.gov/docket/docketfiles/html/public/21-309.html
+- [Supreme Court Docket](https://www.supremecourt.gov/docket/docketfiles/html/public/21-309.html)
 
 ## Viking River Cruises, Inc. v. Moriana, 20-1573 (2022)
-One Line Summary: {{< todo />}}
 
-- Wikipedia: {{< todo />}}
-- Court Opinion (Court Listener): {{< todo />}}
-- Court Opinion (pdf): {{< todo />}}
 - [Oyez](https://www.oyez.org/cases/2021/20-1573) (unread)
-- Majority Author: {{< todo />}}
-- Concurrence: {{< todo />}}
-- Dissents: {{< todo />}}
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
-
 
 Core Issue (pull quote)
 > whether the Federal Arbitration Act, 9 U. S. C. §1 et seq., preempts a rule of California law that invalidates contractual waivers of the right to assert representative claims under California’s Labor Code Private Attorneys General Act of 2004, Cal. Lab. Code §2698 et seq
@@ -634,53 +373,11 @@ SCOTUS predicting [Adolph]({{< relref "/#adolph" >}})
 ## Coinbase v. Bielski, 599 U.S. ___ (2023) {id="coinbase-v-bielski"}
 One Line Summary: In federal courts - a pending interlocutory appeal of a motion to compel requires staying court proceedings
 
-- Wikipedia: {{< todo />}}
-- Court Opinion (Court Listener): {{< todo />}}
-- Court Opinion (pdf): {{< todo />}}
-- Oyez: {{< todo />}}
-- Majority Author: {{< todo />}}
-- Concurrence: {{< todo />}}
-- Dissents: {{< todo />}}
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
-
 ## Argent Trust Company v. Harrison 23-30 (pending petition)
-One Line Summary: {{< todo />}}
-
-- Wikipedia: {{< todo />}}
-- Court Opinion (Court Listener): {{< todo />}}
-- Court Opinion (pdf): {{< todo />}}
-- Oyez: {{< todo />}}
-- Majority Author: {{< todo />}}
-- Concurrence: {{< todo />}}
-- Dissents: {{< todo />}}
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
-
 Issue: Whether a participant in a plan governed by the Employee Retirement Income Security Act who asserts statutory claims under that statute can be compelled, pursuant to a binding arbitration provision, to submit his claims to individual arbitration.
 
 ## New Prime Inc. v. Oliveira 139 S. Ct. 532 (2019)
 
-One Line Summary: {{< todo />}}
-
-- Wikipedia: {{< todo />}}
-- Court Opinion (Court Listener): {{< todo />}}
-- Court Opinion (pdf): {{< todo />}}
-- Oyez: {{< todo />}}
-- Majority Author: {{< todo />}}
-- Concurrence: {{< todo />}}
-- Dissents: {{< todo />}}
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
 
 ## Bissonnette v. LePage Bakeries Park St., LLC
 
@@ -692,38 +389,9 @@ Presented Question: To be exempt from the Federal Arbitration Act, must a class 
 
 ## Oxford Health Plans LLC v. Sutter, 133 S. Ct. 2064, 2071 (2013)
 
-One Line Summary: {{< todo />}}
-
-- Wikipedia: {{< todo />}} (unread)
-- Court Opinion (Court Listener): {{< todo />}} (unread)
-- Court Opinion (pdf): {{< todo />}} (unread)
-- Oyez: {{< todo />}} (unread)
-- Majority Author: {{< todo />}} (unread)
-- Concurrence: {{< todo />}} (unread)
-- Dissents: {{< todo />}} (unread)
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
-
 
 ## DIRECTV, Inc. v. Imburgia, 136 S. Ct. 463, 464 (2015).
 
-One Line Summary: {{< todo />}}
-
-- Wikipedia: {{< todo />}} (unread)
-- Court Opinion (Court Listener): {{< todo />}} (unread)
-- Court Opinion (pdf): {{< todo />}} (unread)
-- Oyez: {{< todo />}} (unread)
-- Majority Author: {{< todo />}} (unread)
-- Concurrence: {{< todo />}} (unread)
-- Dissents: {{< todo />}} (unread)
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
 
 ## Badgerow v. Walters 596 US _ (2022)
 
@@ -767,20 +435,7 @@ Pull Quote (from {{< todo />}}):
 
 ## Bissonnette v. LePage Bakeries Park St., LLC (2023)
 
-One Line Summary: {{< todo />}}
-
-- Wikipedia: {{< todo />}} (unread)
-- Court Opinion (Court Listener): {{< todo />}} (unread)
-- Court Opinion (pdf): {{< todo />}} (unread)
 - [Oyez](https://www.oyez.org/cases/2023/23-51)
-- Majority Author: {{< todo />}} (unread)
-- Concurrence: {{< todo />}} (unread)
-- Dissents: {{< todo />}} (unread)
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
 
 ## Pending Petitions
 
