@@ -202,6 +202,10 @@ While mass arbitration has been used as a tool to help even the playing field it
 - It requires that affected individuals affirmatively sign up instead of allowing for representative actions.
 - This is especially a concern since people may be worried by real or perceived risk of affirmatively signing up.
 
+# Anti-SLAPP
+
+- Arbitration is not an “official proceeding authorized by law” and thus not subject to anti-<abbr title="Strategic lawsuits against public participation">SLAPP</abbr> protection. [^CenturyChamberlain1]
+
 # Possible Advantages
 
 While arbitration is generally negative for both employees and consumers there is a little bit of silver lining.
@@ -401,3 +405,5 @@ This document has a few limitations and biases.
 [^arbfeesdagger3]: Alleyne supra pp 33 [^arbfeesdagger1]
 
 [^arbfeesdagger4]: Alleyne supra pp 41 [^arbfeesdagger1]
+
+[^CenturyChamberlain1]: Century 21 Chamberlain v. Haberman, 173 Cal.App.4th 1, 92 Cal. Rptr. 3d 249 (Cal. Ct. App. 2009)
