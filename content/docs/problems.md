@@ -204,7 +204,7 @@ While mass arbitration has been used as a tool to help even the playing field it
 
 # Anti-SLAPP
 
-- Arbitration is not an “official proceeding authorized by law” and thus not subject to anti-<abbr title="Strategic lawsuits against public participation">SLAPP</abbr> protection. [^CenturyChamberlain1]
+- Arbitration is not an “official proceeding authorized by law” and thus not subject to anti-<abbr title="Strategic Lawsuits Against Public Participation">SLAPP</abbr> protection. [^CenturyChamberlain1]
 
 # Possible Advantages
 
