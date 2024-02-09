@@ -1,0 +1,9 @@
+abbr {
+  font-feature-settings: "c2sc", "smcp";
+}
+@supports (font-variant-caps: all-small-caps) {
+  abbr {
+    font-variant-caps: all-small-caps;
+    font-feature-settings: normal;
+  }
+}
