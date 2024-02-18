@@ -9,12 +9,12 @@ slug: classactions
 
 ## Wal-Mart Stores, Inc. v. Dukes
 
-One Line Summary: {{< todo />}}
+One Line Summary: Commonality element 23(a)(2) of class action requires that class consist of people with the same injury.
 
 - Wikipedia: {{< todo />}} (unread)
 - Court Opinion (Court Listener): {{< todo />}} (unread)
 - Court Opinion (pdf): {{< todo />}} (unread)
-- Oyez: {{< todo />}} (unread)
+- [Oyez](https://www.oyez.org/cases/2010/10-277)
 - Majority Author: {{< todo />}} (unread)
 - Concurrence: {{< todo />}} (unread)
 - Dissents: {{< todo />}} (unread)
