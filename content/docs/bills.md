@@ -61,6 +61,7 @@ May 16, 2019
 | ----------- | ----------- |
 | [CA Code of Civil Procedure - CCP §§3.9.1280 - 1294.4](https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=CCP&division=&title=9.&part=3.&chapter=&article=) | California |
 | [CA Mandatory Fee Arbitration Act “MFAA” Bus. & Prof. Code 3.4.13 §§6200-6206](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=BPC&division=3.&title=&part=&chapter=4.&article=13.) | CA |
+| [Labor Code Private Attorneys General Act of 2004 - Lab. Code § 2698](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=LAB&sectionNum=2698.) | CA |
 | [NY C.P.L.R. §8 7501-7516](https://www.nysenate.gov/legislation/laws/CVP/A75) | New York |
 | [CA EDC §94876](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=EDC&sectionNum=94907.&article=11) | California |
 | [FL Title XXXIX §682](https://www.flsenate.gov/Laws/Statutes/2018/Chapter682/All) | Florida |
