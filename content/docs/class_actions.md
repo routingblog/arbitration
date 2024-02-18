@@ -11,69 +11,18 @@ slug: classactions
 
 One Line Summary: Commonality element 23(a)(2) of class action requires that class consist of people with the same injury.
 
-- Wikipedia: {{< todo />}} (unread)
-- Court Opinion (Court Listener): {{< todo />}} (unread)
-- Court Opinion (pdf): {{< todo />}} (unread)
 - [Oyez](https://www.oyez.org/cases/2010/10-277)
-- Majority Author: {{< todo />}} (unread)
-- Concurrence: {{< todo />}} (unread)
-- Dissents: {{< todo />}} (unread)
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
 
 ## Comcast Corp. v. Behrend
-
-One Line Summary: {{< todo />}}
-
-- Wikipedia: {{< todo />}} (unread)
-- Court Opinion (Court Listener): {{< todo />}} (unread)
-- Court Opinion (pdf): {{< todo />}} (unread)
-- Oyez: {{< todo />}} (unread)
-- Majority Author: {{< todo />}} (unread)
-- Concurrence: {{< todo />}} (unread)
-- Dissents: {{< todo />}} (unread)
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
+{{< todo />}}
 
 ## Shady Grove Orthopedic Associates, P.A. v. Allstate Insurance Co.
+{{< todo />}}
 
-One Line Summary: {{< todo />}}
-
-- Wikipedia: {{< todo />}} (unread)
-- Court Opinion (Court Listener): {{< todo />}} (unread)
-- Court Opinion (pdf): {{< todo />}} (unread)
-- Oyez: {{< todo />}} (unread)
-- Majority Author: {{< todo />}} (unread)
-- Concurrence: {{< todo />}} (unread)
-- Dissents: {{< todo />}} (unread)
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
 
 ## Devlin v. Scardellet
 
-One Line Summary: {{< todo />}}
-
-- Wikipedia: {{< todo />}} (unread)
-- Court Opinion (Court Listener): {{< todo />}} (unread)
-- Court Opinion (pdf): {{< todo />}} (unread)
-- Oyez: {{< todo />}} (unread)
-- Majority Author: {{< todo />}} (unread)
-- Concurrence: {{< todo />}} (unread)
-- Dissents: {{< todo />}} (unread)
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
+{{< todo />}}
 
 <!-- case template -->
 <!--
@@ -95,24 +44,10 @@ Pull Quote (from {{< todo />}}):
 
 -->
 
-## Labor Law Collective Action
+# Labor Law Collective Action
 
 ## Hoffmann-La Roche Inc. v. Sperling,
-
-One Line Summary: {{< todo />}}
-
-- Wikipedia: {{< todo />}} (unread)
-- Court Opinion (Court Listener): {{< todo />}} (unread)
-- Court Opinion (pdf): {{< todo />}} (unread)
-- Oyez: {{< todo />}} (unread)
-- Majority Author: {{< todo />}} (unread)
-- Concurrence: {{< todo />}} (unread)
-- Dissents: {{< todo />}} (unread)
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
+{{< todo />}}
 
 ## See Also
 
