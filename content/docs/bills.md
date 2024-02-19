@@ -46,6 +46,7 @@ There have been many attempts to fix the problems. This table lists some of them
 
 | Title | State | Summary |
 | ----------- | ----------- | --- |
+| [California Fair Pay and Employer Accountability Act](https://oag.ca.gov/system/files/initiatives/pdfs/21-0027A1%20%28Employee%20Civil%20Action%29.pdf) | CA | changes to PAGA law |
 
 # Congressional Hearings
 
