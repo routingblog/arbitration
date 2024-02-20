@@ -14,7 +14,17 @@ This article is information about (federal) administration rulemakings on the to
 
 - [Notice](https://www.consumerfinance.gov/rules-policy/petitions-rulemaking/naca-et-al/)
 - [PETITION FOR RULEMAKING: To Require Meaningful Consumer Consent Regarding the Use of Arbitration to Resolve Disputes Involving Consumer Financial Products and Services](https://downloads.regulations.gov/CFPB-2023-0047-0001/content.pdf)
+- [Docket](https://www.regulations.gov/docket/CFPB-2023-0047)
 - [Regulation Comments](https://www.regulations.gov/document/CFPB-2023-0047-0001/comment)
+
+### CFPB-2023-0002 - Proposed Rule
+
+Title: Registry of Supervised Nonbanks that Use Form Contracts to Impose Terms and Conditions that Seek to Waive or Limit Consumer Legal Protections.
+
+- [Docket](https://www.regulations.gov/docket/CFPB-2023-0002)
+- [Federal Register](https://www.federalregister.gov/documents/2023/02/01/2023-00704/registry-of-supervised-nonbanks-that-use-form-contracts-to-impose-terms-and-conditions-that-seek-to)
+
+
 
 ### CFPB-2016-0020 - 2016 attempt
 
