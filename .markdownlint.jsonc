@@ -1,0 +1,10 @@
+{
+  // line length
+  "MD013": false,
+  // single top level in same doc
+  "MD025": false,
+  // bare url
+  "MD034": false,
+  // MD026/no-trailing-punctuation
+  "MD026": false
+}

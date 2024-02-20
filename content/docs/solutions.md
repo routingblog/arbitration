@@ -17,7 +17,6 @@ There have been a few [carve outs]({{< relref "bills#statutes" >}}) to exempt sp
 - it reduces the political pressure to eliminate consumer&employment arbitration.
 - it does nothing to solve the underlying problems of arbitration. It merely reduces the sphere in which these problems occur.
 
-
 # Overturning Southland Corp. v. Keating
 
 Arbitration was intended to be a procedural rule for federal courts. In [Keating]({{< relref "arbitration_legal#southland-v-keating" >}}) the Supreme Court [erroneously]({{< relref "problems#supreme-court-errors" >}}) rules that arbitration is substantive. A simple fix here is for congress to solidify its intention explicitly.
@@ -42,11 +41,9 @@ The same norms and requirements of neutrality that apply to jurists should be im
 
 Jeffrey Stempel also suggests a licence system to be qualified to serve on consumer or employment[^1] tribunals. Such a system would be a substantial change from the current system. It would likely be a net positive from today but this document does not explore the suggestion in depth. [^kangaroo3]
 
-
 # Appellate review of arbitral decisions
 
 Adjudication carries with it the right of appeal, including full review of the trial court’s application of the law (with limited review of the trial court’s factual determinations). Review of arbitration awards is considerably more limited. In litigation, review of trial court decisions can involve challenges to factfinding (evaluated under a “clearly erroneous” standard”), exercises of judicial discretion (evaluated under an “abuse of discretion” standard), and application of the law (evaluated by the appellate court’s “de novo” review of the law). Arbitration would be improved by replacement of the current deferential “manifest disregard” of law standard of review for arbitration awards with appellate review similar to that accorded trial court decisions. [^kangaroo4]
-
 
 # Footnotes
 

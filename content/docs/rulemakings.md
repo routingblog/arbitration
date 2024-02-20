@@ -24,8 +24,6 @@ Title: Registry of Supervised Nonbanks that Use Form Contracts to Impose Terms a
 - [Docket](https://www.regulations.gov/docket/CFPB-2023-0002)
 - [Federal Register](https://www.federalregister.gov/documents/2023/02/01/2023-00704/registry-of-supervised-nonbanks-that-use-form-contracts-to-impose-terms-and-conditions-that-seek-to)
 
-
-
 ### CFPB-2016-0020 - 2016 attempt
 
 - [Final Rule](https://www.federalregister.gov/documents/2017/07/19/2017-14225/arbitration-agreements)
@@ -40,7 +38,6 @@ Title: Registry of Supervised Nonbanks that Use Form Contracts to Impose Terms a
 Truth in Lending Act (Regulation Z); Loan Originator Compensation
 
 https://www.federalregister.gov/documents/2013/02/15/2013-01503/loan-originator-compensation-requirements-under-the-truth-in-lending-act-regulation-z
-
 
 ## Centers for Medicare&Medicaid Services
 

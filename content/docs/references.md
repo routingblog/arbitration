@@ -41,7 +41,6 @@ Regardless of the “objective” reality of the fairness or lack thereof of arb
 
     This is really about collective bargaining agreements and arbitration provisions therein and thus somewhat out of scope for this page.
 
-
     {{< details "Rubenstein - Assignment of Labor Arbitration" >}}
 Stated somewhat differently, there should be a type of presumption, similar to that utilized under the Restatement (Second) of Contracts, in favor of assignment of labor arbitration and the right to appeal from arbitration absent express language in the collective bargaining agreement prohibiting it.
 {{< /details >}}
@@ -53,7 +52,6 @@ Corporations view the gap in bargaining power between themselves and individuals
 {{< /details >}}
 
     Note: some of the most practical options for what it is likely to pass congress for fixing the [problems]({{< relref "/problems" >}})
-
 1. Cain, R. M. (1988). Commercial Disputes and Compulsory Arbitration. The Business Lawyer, 44(1), 65–84. https://www.jstor.org/stable/40687165
 
     {{< details "Cain - Commercial Disputes and Compulsory Arbitration - Conclusion" >}}
@@ -97,7 +95,6 @@ Southland and its progeny are the result of bad statutory interpretation and eve
     {{< details "Gilles - Doctrine - Conclusion" >}}
 It is hard to imagine that this game of high stakes musical chairs would have been a welcome outcome to the Reagan anti-lawsuit reformers. Much as the arbitration revolution does reduce lawsuits (the primary goal of the anti-lawsuit movement), it carries an externality that the reformers’ carefully crafted legislative agendas did not: namely, the cessation of common law development in entire areas of the law. This externality, all else being equal, is as likely to prejudice the interests of conservatives as it is liberals; it all depends on where you are when the music stops.
     {{< /details >}}
-
 
 1. Colvin, A. (2011). An Empirical Study of Employment Arbitration: Case Outcomes and Processes. https://hdl.handle.net/1813/75272
     {{< details "Colvin - case outcomes - conclusion" >}}
@@ -160,7 +157,6 @@ Mandatory employment arbitration has expanded to the point where it has now surp
 
 1. [Overcoming the Latest Supreme Court Arbitration Decision](https://library.nclc.org/article/overcoming-latest-supreme-court-arbitration-decision)
 1. CFPB Study Finds That Arbitration Agreements Limit Relief for Consumers. (2015). [Fact sheet]. Consumer Financial Protection Bureau. https://files.consumerfinance.gov/f/201503_cfpb_factsheet_arbitration-study.pdf
-
 
 ## Arbitration Provider Rules
 
