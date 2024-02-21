@@ -45,9 +45,13 @@ Jeffrey Stempel also suggests a licence system to be qualified to serve on consu
 
 Adjudication carries with it the right of appeal, including full review of the trial court’s application of the law (with limited review of the trial court’s factual determinations). Review of arbitration awards is considerably more limited. In litigation, review of trial court decisions can involve challenges to factfinding (evaluated under a “clearly erroneous” standard”), exercises of judicial discretion (evaluated under an “abuse of discretion” standard), and application of the law (evaluated by the appellate court’s “de novo” review of the law). Arbitration would be improved by replacement of the current deferential “manifest disregard” of law standard of review for arbitration awards with appellate review similar to that accorded trial court decisions. [^kangaroo4]
 
+# Qui Tam Actions
+
+The FAA has been misinterpreted to preempt state level over contract law. [^newarb1] [^schwartzcorrecting] [^newarb7] However, the state can't be compelled to be a party to the contract. This means that statutory civil penalties for violations of consumer protection and employment laws, together with a Qui Tam mechanism to permit private enforcement of those penalties, offers an unorthodox but possibly fruitful alternative to achieving the deterrent effect of class proceedings. [^skincat1]
+
 # Footnotes
 
-[^realright1]: Ryan Schimmel. (2023). A Real Right to Litigate: Dismantling Mandatory Arbitration and the Restoring Justice for Workers Act. SETON HALL LEGISLATIVE JOURNAL, 47 pp 106A
+[^realright1]: Ryan Schimmel. (2023). A Real Right to Litigate: Dismantling Mandatory Arbitration and the Restoring Justice for Workers Act. SETON HALL LEGISLATIVE JOURNAL, 47 pp 106
 
 [^kangaroo1]: Stempel, J. (2007). Keeping Arbitrations from Becoming Kangaroo Courts. Nevada Law Journal, 8(1). https://scholars.law.unlv.edu/nlj/vol8/iss1/12
 
@@ -58,3 +62,11 @@ Adjudication carries with it the right of appeal, including full review of the t
 [^kangaroo4]: Stempel supra pp 266 [^kangaroo1]
 
 [^1]: the article refers to such cases as "mass arbitration". However this term is more commonly used for many similar cases be directed at a single defendant.
+
+[^skincat1]: Alexander, J. (2013). To Skin a Cat: Qui Tam Actions as a State Legislative Response to Concepcion. University of Michigan Journal of Law Reform, 46(4), 1203–1247. https://doi.org/10.36646/mjlr.46.4.skin
+
+[^newarb1]: Cohen, J. H., & Dayton, K. (1926). The New Federal Arbitration Law. Virginia Law Review, 12(4), 265–286. https://doi.org/10.2307/1065471 pp 276
+
+[^schwartzcorrecting]: Schwartz, D. (2004). Correcting Federalism Mistakes in Statutory Interpretation: The Supreme Court and the Federal Arbitration Act. Law and Contemporary Problems, 67(1), 5–54. https://scholarship.law.duke.edu/lcp/vol67/iss1/2 pp 5
+
+[^newarb7]: Cohen supra pp 278
