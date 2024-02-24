@@ -507,6 +507,8 @@ Defines manifest disregard for the law (in the 2nd circuit)
 {{< todo />}}
 ### Abernathy v. DoorDash, Inc., 438 F. Supp. 3d 1062
 
+One Line Summary: mass arbitration is not sufficient to get out of arbitration agreement
+
 {{< todo />}}
 
 ### Zenia Chavarria v. Ralphs Grocery Company, 733 F.3d 916 (9th Cir. 2013)

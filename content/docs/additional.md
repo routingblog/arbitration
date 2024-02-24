@@ -110,3 +110,7 @@ A dispute resolution agreement in the middle of a fifty-one-page employee handbo
 [Complaint](https://fingfx.thomsonreuters.com/gfx/legaldocs/myvmkgxxlvr/frankel-epsonmassarbitration--arnoffcomplaint.pdf)
 Seeking declaratory judgement that individuals did not engage in good-faith efforts at informal dispute resolution.
 This could make arbitration even more expensive.
+
+# Todd Shipyards Corp. v. Cunard Line, Ltd., 943 F.2d 1056, 1060 (9th Cir. 1991)
+
+# HayDay Farms, Inc. v. FeeDx Holdings, Inc., 55 F.4th 1232, 1236 (9th Cir. 2022)
