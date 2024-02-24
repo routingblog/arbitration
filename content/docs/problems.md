@@ -14,6 +14,8 @@ Arbitration is inherently a creature contract. The defining feature is not impli
 
 There may be reasons to elect for arbitration post-dispute on the advice of a qualified attorney. This article also ignores _voluntary arbitration agreement_ such as those negotiated in collective bargaining agreements.
 
+<!--more-->
+
 # General Information
 
 - The underlying issue with forced arbitration is the imbalance of power. [^xu1]
