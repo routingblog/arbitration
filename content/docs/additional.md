@@ -114,3 +114,5 @@ This could make arbitration even more expensive.
 # Todd Shipyards Corp. v. Cunard Line, Ltd., 943 F.2d 1056, 1060 (9th Cir. 1991)
 
 # HayDay Farms, Inc. v. FeeDx Holdings, Inc., 55 F.4th 1232, 1236 (9th Cir. 2022)
+
+# Paula Wallrich et al v. Samsung Electronics America et al, 7th U.S. Circuit Court of Appeals, No. 23-2842.
