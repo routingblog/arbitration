@@ -58,7 +58,7 @@ One Line Summary: Whether the decision to contract out work is strictly a functi
 
 {{< details "Pull Quote:" >}}
 > a federal court may not consider a claim of fraud in the inducement of the contract generally, but "may consider only the issues relating to the making and performance of the agreement to arbitrate." Pp. 388 U. S. 402-404.
-
+>
 > Since the claim of fraud here relates to inducement of the consulting agreement generally, rather than in the arbitration clause, and there is no evidence that the parties intended to withhold this issue from arbitration, there is no basis for granting a stay under § 3. Pp. 388 U. S. 406-407.
 {{< /details >}}
 
@@ -66,9 +66,9 @@ One Line Summary: Whether the decision to contract out work is strictly a functi
 
 > Recognizing as "broad" a clause requiring arbitration of"[a]ny controversy or claim arising out of or relating to" the agreement
 > Holding that if the making of the arbitration agreement is an issue "the federal court may proceed to adjudicate it"
-
+>
 > Holding that contractual language "[a]ny controversy or claims arising out of or relating to this Agreement, or breach thereof" is "easily broad enough to encompass" claim for fraud in inducement of contract
-
+>
 > The Prima Paint Court erred, however, in asserting that the FAA’s basis was “confined to” Congress’s interstate commerce and admiralty power. That assertion is flat out wrong: As we have seen, the legislative history shows that Congress placed primary reliance for enacting the FAA on its control over the procedures of the federal courts. [^correcting2]
 
 ## Alexander v. Gardner-Denver Company
