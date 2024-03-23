@@ -19,4 +19,8 @@
   "MD032" : false,
   // MD024/no-duplicate-heading
   "MD024": false,
+  // MD029/ol-prefix
+  "MD029": false,
+  // MD037/no-space-in-emphasis
+  "MD037": false,
 }
