@@ -132,7 +132,7 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - Even when arbitration litigation costs less than judicial litigation, the timing of some required arbitration costs, such as upfront fees for the arbitrator, can make it likely that the arbitration-plaintiff will be unable to proceed in that forum. [^arbfeesdagger3]
 
-- Arbitration can cost more than a judicial forum such that a claimant can be discouraged from using arbitration when it is voluntary. [^arbfeesdagger3]
+- Arbitration can cost more than a judicial forum such that a claimant can be discouraged from using arbitration when it is voluntary. [^arbfeesdagger5]
 
 - Employees compelled to arbitrate under mandatory-arbitration agreements often bear arbitrator-fee costs that far exceed what a union party would pay for the representation of a bargaining-unit employee [^arbfeesdagger4]
 
@@ -404,7 +404,7 @@ This document has a few limitations and biases.
 
 [^arbfeesdagger3]: Alleyne supra pp 30 [^arbfeesdagger1]
 
-[^arbfeesdagger3]: Alleyne supra pp 33 [^arbfeesdagger1]
+[^arbfeesdagger5]: Alleyne supra pp 33 [^arbfeesdagger1]
 
 [^arbfeesdagger4]: Alleyne supra pp 41 [^arbfeesdagger1]
 
