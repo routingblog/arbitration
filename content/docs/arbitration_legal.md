@@ -241,7 +241,7 @@ One Line Summary: Maxim of ejusdem generis[^ejusdemgeneris] applies to FAA exclu
 - Majority Author: Anthony M. Kennedy
 - Dissents: Stevens (joined by Ginsburg, Breyer) and Souter
 
-##  Preston v. Ferrer, 552 U.S. 346 (2008)
+## Preston v. Ferrer, 552 U.S. 346 (2008)
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Preston_v._Ferrer)
 - [Court Opinion (Court Listener)](https://www.courtlistener.com/opinion/145830/preston-v-ferrer/) (unread)
@@ -399,7 +399,7 @@ One Line Summary: Federal courts do not have subject matter jurisdiction to conf
 
 [Oyez](https://www.oyez.org/cases/2021/20-1143)
 
-##  Morgan v. Sundance, Inc. 596 US _ (2022) {id="morgan-v-sundance"}
+## Morgan v. Sundance, Inc. 596 US _ (2022) {id="morgan-v-sundance"}
 
 One Line Summary: courts cannot create arbitration-specific procedural rules
 
