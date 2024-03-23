@@ -194,7 +194,7 @@ Why do some contracts of adhesion have opt-out clauses?
   2. A court or tribunal characterized by unauthorized or irregular procedures, esp. as to render a fair proceeding impossible.
   3. A sham legal proceeding.
 
-- Alternative definitions of a "kangaroo court" is is a forum in which the structure and operation of the forum result in an inferior brand of adjudication even if the tribunal is not gripped with intentional bias [^stempelkangaroo1]
+- An alternative definition of a "kangaroo court" is a forum in which the structure and operation of the forum result in an inferior brand of adjudication even if the tribunal is not gripped with intentional bias [^stempelkangaroo1]
 
 # Mass Arbitration
 
