@@ -1,6 +1,13 @@
 {
+  // things I don't care about
   // line length
   "MD013": false,
+  "no-duplicate-heading": {
+    "siblings_only": true
+  },
+
+  // eventually need to fix
+
   // single top level in same doc
   "MD025": false,
   // bare url
@@ -17,8 +24,6 @@
   "MD028": false,
   // MD032/blanks-around-lists
   "MD032" : false,
-  // MD024/no-duplicate-heading
-  "MD024": false,
   // MD029/ol-prefix
   "MD029": false,
   // MD037/no-space-in-emphasis
