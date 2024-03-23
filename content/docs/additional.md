@@ -86,7 +86,7 @@ See Ferguson v. Corinthian Colleges, Inc., 733 F.3d 928 (9th Cir. 2013). The Fer
 
 ##  Shawn Samson v. Nama Holdings, LLC, 09-55835 (9th Cir. 2011)
 {{< todo />}}
-	stating judicial estoppel "generally prevents a party from prevailing in one phase of a case on an argument and then relying on a contradictory argument to prevail in another phase." → judicial estoppel and not really an element of arbitration
+stating judicial estoppel "generally prevents a party from prevailing in one phase of a case on an argument and then relying on a contradictory argument to prevail in another phase." → judicial estoppel and not really an element of arbitration
 - https://www.courtlistener.com/opinion/204590/shawn-samson-v-nama-holdings-llc/
 -  https://www.courtlistener.com/opinion/2421269/samson-v-nama-holdings-llc/
 
