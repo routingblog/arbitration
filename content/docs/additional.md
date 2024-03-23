@@ -74,7 +74,7 @@ Stolt-Nielsen v. Animalfeeds International Corp. - https://www.oyez.org/cases/20
 
 # Other Cases
 
-### Garza et al v. Ayvaz Pizza, LLC, No. 4:2023cv01379 - Document 34 (S.D. Tex. 2023)
+## Garza et al v. Ayvaz Pizza, LLC, No. 4:2023cv01379 - Document 34 (S.D. Tex. 2023)
 
 The  parties dispute whether the  predecessor's arbitration agreement could be  assigned to  Defendant, whether it was  assigned, and  whether its  scope is  limited to  claims arising out of  Bustos's employment for MUY.
 
