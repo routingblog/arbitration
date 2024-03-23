@@ -79,9 +79,4 @@ See other past [proposed bills]({{< relref "bills" >}})
 
 # Footnotes
 
-[^1]: Need to double check this.
-[^ADEA]: [The Age Discrimination in Employment Act of 1967](https://www.eeoc.gov/statutes/age-discrimination-employment-act-1967)
-[^footnote7]: Justice SCALIA joins all but footnote 7 of this opinion.
-[^ejusdemgeneris]: [Rules of Statutory Construction and Interpretation](https://www.supremecourt.gov/DocketPDF/18/18-9575/102239/20190611092122150_00000055.pdf) §16
-
 # Misc Other Notes

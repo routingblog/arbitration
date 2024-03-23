@@ -162,7 +162,7 @@ Part of Mitsubishi trilogy which allowed arbitration to hear statutory claims.
 
 ## Gilmer v. Interstate/Johnson Lane Corp. 500 U.S. 20 (1991)
 
-One Line Summary: An ADEA claim can be subjected to compulsory arbitration.
+One Line Summary: An ADEA[^ADEA] claim can be subjected to compulsory arbitration.
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Gilmer_v._Interstate/Johnson_Lane_Corp.)
 - [LoC Opinion](https://tile.loc.gov/storage-services/service/ll/usrep/usrep500/usrep500020/usrep500020.pdf) (unread)
