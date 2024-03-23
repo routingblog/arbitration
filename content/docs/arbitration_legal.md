@@ -412,11 +412,11 @@ Core Claim (pull quote):
 > Held: ....erred in conditioning a waiver of the right to arbitrate on a showing of prejudice.
 > The text of the FAA makes clear that courts are not to create arbitration-specific procedural rules ...
 
-#### Analysis
+### Analysis
 
 See [Rosencrants]({{< relref "references#rosencrants-fn" >}}) for detailed analysis.
 
-### National Labor Relations Board v. Murphy Oil USA, Inc.
+## National Labor Relations Board v. Murphy Oil USA, Inc.
 
 One Line Summary: {{< todo />}}
 
