@@ -19,8 +19,6 @@
   "MD034": false,
   // MD026/no-trailing-punctuation
   "MD026": false,
-  // MD032/blanks-around-lists
-  "MD032" : false,
   // MD029/ol-prefix
   "MD029": false,
 }

@@ -533,11 +533,13 @@ Pull Quote (from syllabus):
 #### Analysis
 
 {{< todo />}}
+
 - https://onlabor.org/an-explainer-ninth-circuit-on-mandatory-arbitration-in-employment-contracts-chavarria-v-ralphs-grocery/
 
 ### Richards v. Ernst & Young, LLP, 11-17530, 2013 WL 4437601 (9th Cir. Aug. 21, 2013).
 
 {{< todo />}}
+
 - Status: **Effectively Reversed by [Morgan]({{< relref "#morgan-v-sundance" >}})** [^1]{{< todo />}}
 
 ### Harrison v. Envision Holding Management Inc. Board of Directors, et al., No. 22-1098 (United States Court of Appeals for the Tenth Circuit). (2023)

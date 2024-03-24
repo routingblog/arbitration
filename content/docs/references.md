@@ -61,6 +61,7 @@ Courts may feel vidually for their possible congressional in For this reason, am
 1. Sternlight, J. R. (2005). Creeping Mandatory Arbitration: Is It Just? Scholarly Works, 57(280), 1631–1676.
 
     {{< details "Pull Quote - Sternlight - Creeping Mandatory Arbitration" >}}
+
 > ...arbitration agreements were not used by U.S. businesses to require consumers, employees, franchisees, or other weaker parties to resolve disputes through private arbitration rather than in court. Instead, the use of arbitration was limited to business-to-business or management/union contexts. Indeed, to the limited extent that the possibility of such arbitration was considered by Congress in 1925, when it passed the FAA, those few who spoke on the issue made clear that they did not view such a use of arbitration as appropriate (pg 1636)`
 {{< /details >}}
 
