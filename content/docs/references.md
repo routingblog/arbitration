@@ -150,9 +150,6 @@ Mandatory employment arbitration has expanded to the point where it has now surp
 1. Rachel Thorn. (2021, March 11). Drafting Arbitration Clauses in IP Agreements. World Trademark Review. https://www.worldtrademarkreview.com/global-guide/the-guide-ip-arbitration/2021/article/drafting-arbitration-clauses-in-ip-agreements
 1. Nancy Niki Lubrano & Brian E. Cole II. (n.d.). CDF Wage and Hour Task Force – Monthly Tips. CDF Labor Law: California Labor & Employment Law Blog. Retrieved 25 January 2024, from https://www.callaborlaw.com/entry/cdf-wage-and-hour-task-force-monthly-tips-february-2023
 
-
-
-
 ## Resources
 
 1. [Overcoming the Latest Supreme Court Arbitration Decision](https://library.nclc.org/article/overcoming-latest-supreme-court-arbitration-decision)

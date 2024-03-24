@@ -19,7 +19,6 @@ One Line Summary: Commonality element 23(a)(2) of class action requires that cla
 ## Shady Grove Orthopedic Associates, P.A. v. Allstate Insurance Co.
 {{< todo />}}
 
-
 ## Devlin v. Scardellet
 
 {{< todo />}}

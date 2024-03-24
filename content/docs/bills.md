@@ -67,7 +67,6 @@ May 16, 2019
 | [CA EDC §94876](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=EDC&sectionNum=94907.&article=11) | California |
 | [FL Title XXXIX §682](https://www.flsenate.gov/Laws/Statutes/2018/Chapter682/All) | Florida |
 
-
 ## History
 
 ### CA SB-365 (2023)

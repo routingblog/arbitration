@@ -10,12 +10,13 @@
 
   // single top level in same doc
   "MD025": false,
+  //"MD025": {
+  //  "front_matter_title": "title"
+  //},
   // bare url
   "MD034": false,
   // MD026/no-trailing-punctuation
   "MD026": false,
-  // MD012/no-multiple-blanks
-  "MD012": false,
   // MD022/blanks-around-headings
   "MD022": false,
   // MD033/no-inline-html

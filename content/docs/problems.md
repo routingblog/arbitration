@@ -138,7 +138,6 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - Making the employer pay the fees does not fully solve the problem as arbiters are [aware of who pays the fees]({{< relref "#beholden" >}}) and produce biased results.
 
-
 # Opt Out Clauses
 
 Why do some contracts of adhesion have opt-out clauses?

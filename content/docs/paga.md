@@ -19,7 +19,6 @@ One Line Summary: the Court of Appeal properly concluded that a trial court “c
 
 [Decision](https://www.courts.ca.gov/opinions/documents/S274340.PDF)
 
-
 # California Fair Pay and Employer Accountability Act of 2024 (CFPEAA).
 
 The employment bar is working on destroying one of the few tools employees for enforcing their rights. Despite what its name says, this act will certainly **hurt** employees and reduce employer accountability.

@@ -37,7 +37,6 @@ Two policies, not easily reconcilable, are involved in this case. Congress has a
 ## Bernhardt v. Polygraphic Co. 350 U.S. 198 (1956)
 {{< todo />}}
 
-
 ## Steelworkers v. Warrior & Gulf Co., 363 U.S. 574 (1960)
 
 This primarily relates to labor arbitration (e.g. collective arbitration agreement).
@@ -91,7 +90,6 @@ One Line Summary: Established that the FAA applies to actions in state court and
 - [Oyez](https://www.oyez.org/cases/1982/81-1203)
 - Majority Author: William Brennan
 - Dissents:  William Rehnquist joined by Burger, O'Connor
-
 
 Pull Quote (from majority):
 
@@ -378,7 +376,6 @@ Issue: Whether a participant in a plan governed by the Employee Retirement Incom
 
 ## New Prime Inc. v. Oliveira 139 S. Ct. 532 (2019)
 
-
 ## Bissonnette v. LePage Bakeries Park St., LLC
 
 - [Petition For A Writ Of Certiorari](https://www.supremecourt.gov/DocketPDF/23/23-51/272203/20230717155334558_Bissonnette%20Cert%20Petition%20Final.pdf) (unread)
@@ -389,9 +386,7 @@ Presented Question: To be exempt from the Federal Arbitration Act, must a class 
 
 ## Oxford Health Plans LLC v. Sutter, 133 S. Ct. 2064, 2071 (2013)
 
-
 ## DIRECTV, Inc. v. Imburgia, 136 S. Ct. 463, 464 (2015).
-
 
 ## Badgerow v. Walters 596 US _ (2022)
 
@@ -452,7 +447,6 @@ One Line Summary: Whether [9 U.S.C. § 3](https://www.law.cornell.edu/uscode/tex
 [SCOTUSBlog](https://www.scotusblog.com/case-files/cases/smith-v-spirrizzi/)
 [Brief In Opposition](https://www.supremecourt.gov/DocketPDF/22/22-1218/292137/20231204111737023_Spizzirri%20BIO.pdf)
 [Reply Brief For The Petitioners](https://www.supremecourt.gov/DocketPDF/22/22-1218/293969/20231221104650950_smith%20v.%20spizzirri%20--%20cert.%20reply%20--%20FILED.pdf)
-
 
 <!-- case template -->
 <!--
@@ -525,13 +519,10 @@ Pull Quote (from syllabus):
 
 > [Morgan]({{< relref "#morgan-v-sundance" >}}) teaches that there is no strong federal policy favoring enforcement of arbitration agreements.
 
-
 #### Analysis
-
 
 {{< todo />}}
 - https://onlabor.org/an-explainer-ninth-circuit-on-mandatory-arbitration-in-employment-contracts-chavarria-v-ralphs-grocery/
-
 
 ### Richards v. Ernst & Young, LLP, 11-17530, 2013 WL 4437601 (9th Cir. Aug. 21, 2013).
 
