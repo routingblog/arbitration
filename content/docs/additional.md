@@ -37,6 +37,7 @@ https://buckleyfirm.com/sites/default/files/Buckley%20Sandler%20Special%20Alert%
 ## Not Yet Analyzed
 
 ### O'Neil v. Hilton Head Hosp.
+
  enforcing agreement to arbitrate claims under the Family and Medical Leave Act
 
 ### Cole v. Burns InternationalSecurity Service 105 F.3d 1465 (D.C. Cir. 1997).
@@ -52,23 +53,28 @@ https://buckleyfirm.com/sites/default/files/Buckley%20Sandler%20Special%20Alert%
 - https://casetext.com/case/brown-v-dillards-inc (unread)
 
 ### 18-3622 - Eliasieh v. Legally Mine, LLC
+
 - https://www.govinfo.gov/app/details/USCOURTS-cand-3_18-cv-03622 (unread)
 {{< todo />}}
 
 ### Howsam v. Dean Witter Reynolds, Inc.
+
 Howsam v. Dean Witter Reynolds, Inc. - https://www.oyez.org/cases/2002/01-800 (unread)
 {{< todo />}}
 
 ### james-jackson-llc-v-willie-gary-llc
+
 https://casetext.com/case/james-jackson-llc-v-willie-gary-llc (unread)
 {{< todo />}}
 
 ### Bain Cotton Co. v. Chesnutt Cotton Co.
+
 Bain Cotton Co. v. Chesnutt Cotton Co. https://casetext.com/case/bain-cotton-co-v-chesnutt-cotton-co
 - https://www.oyez.org/cases/2002/01-800  - Bain Cotton Co. v. Chesnutt Cotton Co. (unread)
 {{< todo />}}
 
 ### Stolt-Nielsen v. Animalfeeds International Corp.
+
 Stolt-Nielsen v. Animalfeeds International Corp. - https://www.oyez.org/cases/2009/08-1198 (unread)
 {{< todo />}}
 
@@ -81,10 +87,12 @@ The  parties dispute whether the  predecessor's arbitration agreement could be  
 [MEMORANDUM OPINION AND ORDER](https://law.justia.com/cases/federal/district-courts/texas/txsdce/4:2023cv01379/1912807/34/)
 
 ## Ferguson v. Corinthian Colleges, Inc., 733 F.3d 928 (9th Cir. 2013)
+
 See Ferguson v. Corinthian Colleges, Inc., 733 F.3d 928 (9th Cir. 2013). The Ferguson panel reversed the lower court’s denial of a motion to compel arbitration, and held the FAA preempted California’s “Broughton-Cruz Rule,” which dictates that injunctive relief sought for the public’s benefit cannot be subjected to mandatory arbitration.
 {{< todo />}}
 
 ## Shawn Samson v. Nama Holdings, LLC, 09-55835 (9th Cir. 2011)
+
 {{< todo />}}
 stating judicial estoppel "generally prevents a party from prevailing in one phase of a case on an argument and then relying on a contradictory argument to prevail in another phase." → judicial estoppel and not really an element of arbitration
 - https://www.courtlistener.com/opinion/204590/shawn-samson-v-nama-holdings-llc/
@@ -101,6 +109,7 @@ rejecting argument that non-signing employee had impliedly consented to arbitrat
 holding that a plaintiff seeking to invalidate an arbitration agreement on the ground that it is prohibitively expensive bears the burden of proving such expense
 
 # Brown v. Luxottica Retail North America Inc.
+
 A dispute resolution agreement in the middle of a fifty-one-page employee handbook was neither hidden nor buried
 
 # In re StockX Customer Data Sec. Breach Litig.
@@ -118,4 +127,5 @@ This could make arbitration even more expensive.
 # Paula Wallrich et al v. Samsung Electronics America et al, 7th U.S. Circuit Court of Appeals, No. 23-2842.
 
 # Test
+
 test content v5

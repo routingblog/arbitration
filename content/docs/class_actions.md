@@ -14,9 +14,11 @@ One Line Summary: Commonality element 23(a)(2) of class action requires that cla
 - [Oyez](https://www.oyez.org/cases/2010/10-277)
 
 ## Comcast Corp. v. Behrend
+
 {{< todo />}}
 
 ## Shady Grove Orthopedic Associates, P.A. v. Allstate Insurance Co.
+
 {{< todo />}}
 
 ## Devlin v. Scardellet
@@ -46,6 +48,7 @@ Pull Quote (from {{< todo />}}):
 # Labor Law Collective Action
 
 ## Hoffmann-La Roche Inc. v. Sperling,
+
 {{< todo />}}
 
 ## See Also

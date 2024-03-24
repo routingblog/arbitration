@@ -70,6 +70,7 @@ May 16, 2019
 ## History
 
 ### CA SB-365 (2023)
+
 [CA SB-365 Civil procedure: arbitration](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB365) was signed on 10-OCT-23 which ammends CCP §1294.4 to add the text
 
 > Notwithstanding Section 916, the perfecting of such an appeal shall not automatically stay any proceedings in the trial court during the pendency of the appeal.
@@ -77,6 +78,7 @@ May 16, 2019
 which effectively reversed [Coinbase]({{< relref "arbitration_legal#coinbase-v-bielski" >}}) for California cases.
 
 # Footnotes
+
 [^hr4960sec]: Intended to overturn _Mitsubishi_. The SEC opposed this bill because the industry was not expanding its use of mandatory arbitration. [^caincitenote]
 [^caincitenote]: Cain, R. M. (1988). Commercial Disputes and Compulsory Arbitration. The Business Lawyer, footnote 163
 

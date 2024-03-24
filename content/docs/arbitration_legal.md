@@ -35,6 +35,7 @@ Two policies, not easily reconcilable, are involved in this case. Congress has a
 {{< /details >}}
 
 ## Bernhardt v. Polygraphic Co. 350 U.S. 198 (1956)
+
 {{< todo />}}
 
 ## Steelworkers v. Warrior & Gulf Co., 363 U.S. 574 (1960)
@@ -137,9 +138,11 @@ One Line Summary: Sherman act anti-trust claims arising from an international ac
 Part of Mitsubishi trilogy which allowed arbitration to hear statutory claims.
 
 ## Dean Witter Reynolds Inc. v. Byrd, 470 U.S. 213 (1985)
+
 {{< todo />}}
 
 ## Perry v. Thomas, 482 U.S. 483 (1987)
+
 {{< todo />}}
 
 ## Shearson/American Express Inc. v. McMahon, 482 U.S. 220 (1987) {id="shearson-v-mchanon"}
@@ -209,9 +212,11 @@ Montana's first-page notice requirement, which governs not "any contract," but s
 The Montana Supreme Court had two justices who refused to sign on to the order remanding the case from the Supreme Court of the United States to the state trial court. [^showdown1]
 
 ## Wright v. Universal Maritime Service Corp., 525 U.S. 70, 80-82 (1998)
+
 {{< todo />}}
 
 ## 14 Penn Plaza LLC v. Pyett, 556 U.S. 247, 255 & n.4 (2009)
+
 {{< todo />}}
 
 ## Green Tree Financial Corp. v. Bazzle 539 U.S. at 444.
@@ -335,6 +340,7 @@ NLRA did not override FAA.
 Under the Federal Arbitration Act (FAA), an arbitration agreement that is ambiguous as to the availability of class arbitration does not manifest sufficient consent by the parties to submit to class arbitration. In a 5-4 opinion authored by Chief Justice John Roberts, the Court held that the arbitration agreement between Varela and his employer, Lamps Plus, which contained only general language commonly used in arbitration agreements, did not provide the necessary contractual basis for compelling class arbitration.
 
 ## 17-340 New Prime Inc. V. Oliveira (01/15/2019), (Supreme Court 2019)
+
 One Line Summary: The court decides if FAA applies. 9 U.S. Code §1 exemptions apply to “agreements to perform work” not just employment agreements.
 
 - [Wikipedia](https://en.wikipedia.org/wiki/New_Prime_Inc._v._Oliveira)
@@ -345,6 +351,7 @@ One Line Summary: The court decides if FAA applies. 9 U.S. Code §1 exemptions a
 - [SCOTUSBlog](https://www.scotusblog.com/case-files/cases/new-prime-inc-v-oliveira/)
 
 ## Henry Schein, Inc. v. Archer & White Sales, Inc., 586 U.S. (2019)
+
 One Line Summary: when the parties' contract delegates the arbitrability question to an arbitrator, a court may not override the contract.
 
 ## Southwest Airlines Co. v. Saxon, 142 S. Ct. 1783 (2022)
@@ -369,9 +376,11 @@ The court also predicted what the california courts would rule in a similar case
 SCOTUS predicting [Adolph]({{< relref "/#adolph" >}})
 
 ## Coinbase v. Bielski, 599 U.S. ___ (2023) {id="coinbase-v-bielski"}
+
 One Line Summary: In federal courts - a pending interlocutory appeal of a motion to compel requires staying court proceedings
 
 ## Argent Trust Company v. Harrison 23-30 (pending petition)
+
 Issue: Whether a participant in a plan governed by the Employee Retirement Income Security Act who asserts statutory claims under that statute can be compelled, pursuant to a binding arbitration provision, to submit his claims to individual arbitration.
 
 ## New Prime Inc. v. Oliveira 139 S. Ct. 532 (2019)
@@ -486,6 +495,7 @@ Pull Quote (from {{< todo />}}):
 {{< todo />}}
 
 ### Parnell v. Cashcall, Inc.
+
 {{< todo />}}
 
 ### Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Bobker, 636 F. Supp. 444 (S.D.N.Y. 1986)
@@ -499,6 +509,7 @@ Defines manifest disregard for the law (in the 2nd circuit)
 ### In re: TikTok Inc. Consumer Privacy Litigation, Case No. 1:20-cv-04699
 
 {{< todo />}}
+
 ### Abernathy v. DoorDash, Inc., 438 F. Supp. 3d 1062
 
 One Line Summary: mass arbitration is not sufficient to get out of arbitration agreement

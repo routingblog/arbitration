@@ -5,6 +5,7 @@ weight: 100
 ---
 
 # Definitions
+
 ADR
 : Alternate Dispute Resolution. Procedures by which disputes can be resolved other than litigation. For example settlements, mediation, binding or non-binding arbitration.
 
