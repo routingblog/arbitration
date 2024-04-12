@@ -165,6 +165,10 @@ Mandatory employment arbitration has expanded to the point where it has now surp
 
 1. Kangaroo Court—Black’s Law Dictionary—Ninth Edition. (2009). In Bryan A. Garner (Ed.), Black’s Law Dictionary (Ninth Edition, p. 409). WEST - Thomson Reuters.
 
+## Drafting
+
+1. [On Contracts](https://www.oncontracts.com/arb-prefs/)
+
 # Class Actions
 
 ## Law Journal And Academic Articles
