@@ -397,6 +397,10 @@ Issue: Whether a participant in a plan governed by the Employee Retirement Incom
 Presented Question: To be exempt from the Federal Arbitration Act, must a class of workers that is actively engaged in interstate transportation also be employed by a company in the transportation industry?
 {{< /details >}}
 
+    {{< details "Decision - Pull Quote" >}}
+A transportation worker need not work in the transportation industry to fall within the exemption from the FAA provided by §1 of the Act
+{{< /details >}}
+
 ## Oxford Health Plans LLC v. Sutter, 133 S. Ct. 2064, 2071 (2013)
 
 ## DIRECTV, Inc. v. Imburgia, 136 S. Ct. 463, 464 (2015).
