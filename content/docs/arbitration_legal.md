@@ -397,7 +397,7 @@ Issue: Whether a participant in a plan governed by the Employee Retirement Incom
 Presented Question: To be exempt from the Federal Arbitration Act, must a class of workers that is actively engaged in interstate transportation also be employed by a company in the transportation industry?
 {{< /details >}}
 
-    {{< details "Decision - Pull Quote" >}}
+{{< details "Decision - Pull Quote" >}}
 A transportation worker need not work in the transportation industry to fall within the exemption from the FAA provided by §1 of the Act
 {{< /details >}}
 
