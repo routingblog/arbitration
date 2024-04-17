@@ -11,3 +11,5 @@ weight: 10000
 1. Khorri Atkinson. (2024, January 24). Justices’ Latest Arbitration Case Threatens Litigation Strategy. Bloomberg Law. https://news.bloomberglaw.com/daily-labor-report/justices-latest-arbitration-case-threatens-litigation-strategy
 
 1. Justices exempt bakery-truck drivers from arbitration requirement. (2024, April 12). SCOTUSblog. https://www.scotusblog.com/2024/04/justices-exempt-bakery-truck-drivers-from-arbitration-requirement/
+
+1. Jeremy Telman. (2024, March 5). ContractsProf Blog: What Batch Arbitration Looks Like. ContractsProf Blog. https://lawprofessors.typepad.com/contractsprof_blog/2024/03/what-batch-arbitration-looks-like.html
