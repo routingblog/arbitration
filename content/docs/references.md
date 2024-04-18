@@ -176,9 +176,9 @@ Mandatory employment arbitration has expanded to the point where it has now surp
 1. Scheuerman, S. B. (2009). Due Process Forgotten: The Problem of Statutory Damages and Class Actions. Missouri Law Review, 74.
 1. Fitzpatrick, B. T. (2017). Justice Scalia and Class Actions. Notre Dame Law Review, 92, 1977. https://scholarship.law.vanderbilt.edu/faculty-publications/586
 
+<!--
 # Additional References
 
-<!--
 ## Law Journal And Academic Articles
 
 1. Knapp, C. L. (2002). Taking Contracts Private: The Quiet Revolution in Contract Law. Fordham Law Review, 71(3), 761–798. (unread)
@@ -258,10 +258,8 @@ city.
 ## Arbitration Provider Rules
 
 1. Employment Arbitration Rules and Mediation Procedures. (2017). American Arbitration Association. (unread)
--->
 
-# Additional Notes
-
-Some additional notes and references that have not yet been incorporated into this overall document include
+# Footnotes
 
 1. Revised Uniform Arbitration Act (“RUAA”)
+-->
