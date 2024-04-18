@@ -6,6 +6,10 @@ weight: 1
 
 # Introduction
 
+Mandatory arbitration is a practice in which a business requires employees or consumers to agree to arbitrate legal disputes with the business rather than going to court. Such agreements are generally enforceable and effectively bar employees or consumers from going to court, instead diverting legal claims into an arbitration procedure that is established by the agreement drafted by the company and required as a condition of employment or of doing business with it.  The claim is these processes are cheaper, faster, and more efficient, while remaining fair. In reality they serve to eliminate meaningful recourse for violations of contract or of the law.
+
+# Problems
+
 Pre-Dispute Arbitration agreements force people into a form of 'Rustic Justice' whose primary purpose to evade meaningful accountability for violations of contract or statutory rights. It has no place in consumer or employment contracts of adhesion.
 
 The Supreme Court has repeatedly ignored the plain meaning of the statutes, congressional intent in writing the <abbr title="Federal Arbitration Act">FAA</abbr>, as well the standard rules of statutory interpretation effectively rewriting Title 9 to invent a "national policy favoring arbitration" as a form of “do it yourself-tort reform". [^jiggery] [^schwartzcorrecting] [^gilles5] [^sternlight] [^sacredcow4] [^arbfeesdagger1]
