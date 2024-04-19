@@ -13,3 +13,5 @@ weight: 10000
 1. Justices exempt bakery-truck drivers from arbitration requirement. (2024, April 12). SCOTUSblog. https://www.scotusblog.com/2024/04/justices-exempt-bakery-truck-drivers-from-arbitration-requirement/
 
 1. Jeremy Telman. (2024, March 5). ContractsProf Blog: What Batch Arbitration Looks Like. ContractsProf Blog. https://lawprofessors.typepad.com/contractsprof_blog/2024/03/what-batch-arbitration-looks-like.html
+
+1. Even Arbitrations Are Not Safe from the Prejudgment Remedy | Axinn, Veltrop & Harkrider LLP - JDSupra. (2024, April 15). Jdsupra. https://www.jdsupra.com/legalnews/even-arbitrations-are-not-safe-from-the-7767505/
