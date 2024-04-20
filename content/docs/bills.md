@@ -57,7 +57,7 @@ There have been many attempts to fix the problems. This table lists some of them
 
 May 16, 2019
 
-{{< youtube id="PGu13Siv33U?start=1257" title="Justice Denied: Forced Arbitration and the Erosion of our Legal System" >}}
+{{< youtube id="PGu13Siv33U" start="1257" loading="lazy" title="Justice Denied: Forced Arbitration and the Erosion of our Legal System" >}}
 
 # State Statutes
 
