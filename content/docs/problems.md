@@ -52,11 +52,13 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - Companies may suffer adverse publicity if it is perceived as attempting to use arbitration to gain unfair advantage over its customers, vendors, or the public. Although these economic incentives toward fairness are not trivial, neither are they particularly powerful. A company’s problematic arbitration conduct is unlikely to be significantly salient to its overall customer base or the general public. [^stempelkangaroo4]
 
+- Empirical Data is hard to obtain. [^rand1] Companies may not provide relevant information to consumers even when legally required. [^rand2]
+
 # Bias & Fairness
 
 - Proving the "evident partiality or corruption" of a unilaterally selected arbitration panel member is a near impossibility and, indeed, is rarely an issue in any arbitration proceeding. [^arbfeesdagger4]
 
-- Mandatory arbitration provides for employers the advantage of crafting even objectively fair rules to their advantage. They can decide unilaterally, for example, whether hearing proceedings will be recorded, whether briefs will be filed, and in what time frame, and where the arbitration will be held. Their rules can also dictate the scope of discovery [^arbfeesdagger4]
+- Mandatory arbitration provides for employers the advantage of crafting even objectively fair rules to their advantage. They can decide unilaterally, for example, whether hearing proceedings will be recorded, whether briefs will be filed, and in what time frame, and where the arbitration will be held. Their rules can also dictate the scope of discovery. [^arbfeesdagger4]
 
 # Historical Information
 
@@ -412,3 +414,7 @@ This document has a few limitations and biases.
 [^arbfeesdagger4]: Alleyne supra pp 41 [^arbfeesdagger1]
 
 [^CenturyChamberlain1]: Century 21 Chamberlain v. Haberman, 173 Cal.App.4th 1, 92 Cal. Rptr. 3d 249 (Cal. Ct. App. 2009)
+
+[^rand1]: Linda J. Demaine & Deborah R. Hensler. (2004). ‘Volunteering’ to Arbitrate through Predispute Arbitration Clauses: The Average Consumer’s Experience | RAND. RAND Corporation. https://www.rand.org/pubs/reprints/RP1156.html pp58
+
+[^rand2]: Demaine supra pp 60 [^rand1]
