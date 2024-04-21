@@ -231,9 +231,11 @@ While arbitration is generally negative for both employees and consumers there i
 
 - A recalcitrant defendant can delay the start of meaningful proceedings a really long time. For example they can appeal the motion to compel and this would stay the civil court proceedings in the meantime[^coinbase]
 
-## Fees
+## Fees & Costs
 
 - Amongst the studied cases, the employer paid all arbitration fees 97 percent of the time, indicating that the employer-pays rule is generally being enforced in AAA employment arbitration cases. [^colvinempirical4] This is primarily due to state law requiring employers to pay for arbitration fees.
+
+- In consumer contracts, many have the business cover fees and costs. Some agreements cap consumer fees. In other cases the arbiter allocates the fee. [^rand4]
 
 # Document Limitations
 
@@ -428,3 +430,5 @@ This document has a few limitations and biases.
 [^rand2]: Demaine supra pp 60 [^rand1]
 
 [^rand3]: Demaine supra pp 65 [^rand1]
+
+[^rand4]: Demaine supra pp 71 [^rand1]
