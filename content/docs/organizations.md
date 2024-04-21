@@ -14,6 +14,7 @@ weight: 100
 - [NACA - National Association of Consumer Advocates](https://www.consumeradvocates.org/advocacy/take-action/forced-arbitration/)
 - [NCLA - National Consumer Law Center](https://www.nclc.org/topic/arbitration/)
 - [American Association for Justice](https://www.justice.org/advocacy/our-issues/fair-act-landing)
+- [Public Justice](https://www.publicjustice.net/)
 
 {{< titlehint level="info" title="foo">}}
 **Disclaimer**
