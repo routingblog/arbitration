@@ -54,6 +54,10 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - Empirical Data is hard to obtain. [^rand1] Companies may not provide relevant information to consumers even when legally required. [^rand2]
 
+# Informed Choice
+
+- Many contracts do not inform the customer that they are waiving the right to a jury trial or the right to proceed in any other forum. [^rand3]
+
 # Bias & Fairness
 
 - Proving the "evident partiality or corruption" of a unilaterally selected arbitration panel member is a near impossibility and, indeed, is rarely an issue in any arbitration proceeding. [^arbfeesdagger4]
@@ -212,6 +216,10 @@ While mass arbitration has been used as a tool to help even the playing field it
 # Anti-SLAPP
 
 - Arbitration is not an “official proceeding authorized by law” and thus not subject to anti-<abbr title="Strategic Lawsuits Against Public Participation">SLAPP</abbr> protection. [^CenturyChamberlain1]
+
+# Alternative Forums
+
+- Many arbitration agreements exempt claims brought in small claims court. [^rands3]
 
 # Possible Advantages
 
@@ -418,3 +426,5 @@ This document has a few limitations and biases.
 [^rand1]: Linda J. Demaine & Deborah R. Hensler. (2004). ‘Volunteering’ to Arbitrate through Predispute Arbitration Clauses: The Average Consumer’s Experience | RAND. RAND Corporation. https://www.rand.org/pubs/reprints/RP1156.html pp58
 
 [^rand2]: Demaine supra pp 60 [^rand1]
+
+[^rand3]: Demaine supra pp 65 [^rand1]
