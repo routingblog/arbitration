@@ -221,6 +221,10 @@ While mass arbitration has been used as a tool to help even the playing field it
 
 - Many arbitration agreements exempt claims brought in small claims court. [^rands3]
 
+# Equality
+
+- Most contracts appear in many respects to put the consumer on equal terms with the business that drafted them. This helps defend against claims of unconscionably. However, limitations on discovery hurt consumers more than business (as the business holds most of the relevant information). Administrative and filing fees fall disproportionately on the consumer (even when split equally).  Class actions are almost always precluded. The types of claims most often brought by business against consumers (such as IP disputes) are precluded.  The appearance of equality is deceptive. [^rand5]
+
 # Possible Advantages
 
 While arbitration is generally negative for both employees and consumers there is a little bit of silver lining.
@@ -432,3 +436,5 @@ This document has a few limitations and biases.
 [^rand3]: Demaine supra pp 65 [^rand1]
 
 [^rand4]: Demaine supra pp 71 [^rand1]
+
+[^rand5]: Demaine supra pp 73 [^rand1]
