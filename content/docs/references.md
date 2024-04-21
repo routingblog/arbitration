@@ -137,6 +137,9 @@ The Supreme Court’s jurisprudential commitment to arbitration remains strong e
 Mandatory employment arbitration has expanded to the point where it has now surpassed court litigation as the most common process through which the rights of American workers 12 are adjudicated and enforced. The rise of this problematic practice needs to be given much greater attention in employment policy discussions. If the Supreme Court does not reverse its trend of supporting mandatory arbitration and instead put the brakes on enforcement of class action waivers in its upcoming decision, it will be necessary for Congress to act in order to ensure that American workers have an effective means of enforcing the rights they have been promised.
     {{< /details >}}
 1. Linda J. Demaine & Deborah R. Hensler. (2004). ‘Volunteering’ to Arbitrate through Predispute Arbitration Clauses: The Average Consumer’s Experience | RAND. RAND Corporation. https://www.rand.org/pubs/reprints/RP1156.html
+    {{< details "RAND - The Average Consumer’s Experience" >}}
+In summary, the evidence to dates suggests that there is little reason to believe that consumer arbitration is—in the conjecture of the Court—only another forum.
+    {{< /details >}}
 
 ## Blog Post
 
