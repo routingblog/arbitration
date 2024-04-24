@@ -34,6 +34,10 @@ jobs:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
+      - name: Configure GitHub Pages
+        id: pages
+        uses: actions/configure-pages@v5.0.0
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3.0.0
         with:
@@ -48,7 +52,7 @@ jobs:
         run: |
           hugo \
             --minify \
-            --baseURL "https://arbitrationinformation.org/"
+            --baseURL "${{ steps.pages.outputs.base_url }}/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3.0.1
