@@ -4,7 +4,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: articulate/actions-markdownlint@v1
+      - uses: articulate/actions-markdownlint@v1.1.0
         with:
           config: markdownlint-config.json
           files: 'docs/**/*.md'
