@@ -16,6 +16,7 @@ weight: 100
 - [American Association for Justice](https://www.justice.org/advocacy/our-issues/fair-act-landing)
   - [The Faces of Forced Arbitration](https://facesofforcedarbitration.com/)
 - [Public Justice](https://www.publicjustice.net/)
+- [CANHR - California Advocates For Nursing Home Reform](https://canhr.org/)
 
 {{< titlehint level="info" title="foo">}}
 **Disclaimer**
