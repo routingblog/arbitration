@@ -201,6 +201,8 @@ Twenty state attorneys general as amici curiae argued that [Southland]({{< relre
 
 ## Doctor’s Associates, Inc. v. Casarotto, 517 U.S. 681 (1996)
 
+One Line Summary: The FAA must also inquire whether it singles out arbitration or treats arbitration provisions with ‘suspect status’
+
 - LoC Decision: https://www.loc.gov/item/usrep517681/
 - Court Listener: https://www.courtlistener.com/opinion/118029/doctors-associates-inc-v-casarotto/
 - Supreme Court Database Record: [1995-055-01](http://scdb.wustl.edu/analysisCaseDetail.php?cid=1995-055-01)
