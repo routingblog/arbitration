@@ -225,6 +225,8 @@ While mass arbitration has been used as a tool to help even the playing field it
 
 - Most contracts appear in many respects to put the consumer on equal terms with the business that drafted them. This helps defend against claims of unconscionably. However, limitations on discovery hurt consumers more than business (as the business holds most of the relevant information). Administrative and filing fees fall disproportionately on the consumer (even when split equally).  Class actions are almost always precluded. The types of claims most often brought by business against consumers (such as IP disputes) are precluded.  The appearance of equality is deceptive. [^rand5]
 
+- The majority of negotiated business contracts lack arbitration clauses. This suggests that that companies value, even prefer, litigation as the means for resolving disputes with peers. The systematic eschewing of arbitration clauses in business-to-business contracts also casts doubt on the corporations’ asserted beliefs in the superior fairness and efficiency of arbitration clauses. [^summersoilder1]
+
 # Possible Advantages
 
 While arbitration is generally negative for both employees and consumers there is a little bit of silver lining.
@@ -438,3 +440,5 @@ This document has a few limitations and biases.
 [^rand4]: Demaine supra pp 71 [^rand1]
 
 [^rand5]: Demaine supra pp 73 [^rand1]
+
+[^summersoilder1]: Eisenberg, T., Miller, G., & Sherwin, E. (2008). Arbitration’s Summer Soldiers: An Empirical Study of Arbitration Clauses in Consumer and Nonconsumer Contracts. Cornell Law Faculty Publications. https://scholarship.law.cornell.edu/lsrp_papers/106
