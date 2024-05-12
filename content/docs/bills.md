@@ -40,9 +40,8 @@ There have been many attempts to fix the problems. This table lists some of them
 | [H.R.5125 - End Servicemember Forced Arbitration Act](https://www.congress.gov/bill/118th-congress/house-bill/5125) | 118th Congress (2023-2024) | ||
 | · [S.1408 - Ending Forced Arbitration of Race Discrimination Act of 2023](https://www.congress.gov/bill/118th-congress/senate-bill/1408) <br> · [H.R.3038 - Ending Forced Arbitration of Race Discrimination Act of 2023](https://www.congress.gov/bill/118th-congress/house-bill/3038) | 118th Congress (2023-2024) | ||
 | [H.R.4841 - Restoring Justice for Workers Act](https://www.congress.gov/bill/117th-congress/house-bill/4841) | 117th Congress (2021-2022) | ||
-| [H.R.5516](https://www.congress.gov/bill/118th-congress/house-bill/5516/text) | 118th Congress (2023-2024) | ||
+| [H.R.5516 - To amend title 38, United States Code, to clarify the employment and reemployment rights of members of the uniformed services to other law](https://www.congress.gov/bill/118th-congress/house-bill/5516/text) | 118th Congress (2023-2024) | ||
 | [S.567 - Richard L. Trumka Protecting the Right to Organize Act of 2023](https://www.congress.gov/bill/118th-congress/senate-bill/567) | 118th Congress (2023-2024) | ||
-| [S.1376](https://www.congress.gov/bill/118th-congress/senate-bill/1376/text) | 118th Congress (2023-2024) | ||
 | [S.3585 - A bill to amend title 9, United States Code, with respect to arbitration of disputes involving human trafficking.](https://www.congress.gov/bill/118th-congress/senate-bill/3585) | 118th Congress (2023-2024) | ||
 | [S.3715 - A bill to amend the Securities Exchange Act of 1934 to prohibit mandatory pre-dispute arbitration agreements, and for other purposes.](https://www.congress.gov/bill/118th-congress/senate-bill/3715) | 118th Congress (2023-2024) | ||
 | [S.1979 - Protecting Older Americans Act of 2023](https://www.congress.gov/bill/118th-congress/senate-bill/1979/text) | 118th Congress (2023-2024)  | ||
