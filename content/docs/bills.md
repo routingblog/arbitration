@@ -18,7 +18,7 @@ weight: 5
 
 There have been many attempts to fix the problems. This table lists some of them.
 
-| ID & Title  | Congress | Status | Committee Report |
+| ID & Title  | Congress | Status | Committee Report / Notes|
 | ----------- | ---- | ------ | ------ |
 | [H.R.4960 - Securities Arbitration Reform Act of 1988](https://www.congress.gov/bill/100th-congress/house-bill/4960)[^hr4960sec] | 100th Congress (1987-1988) | - | |
 | [S.366 - Civil Rights Procedures Protection Act of 1995](https://www.congress.gov/bill/104th-congress/senate-bill/366) | 104th Congress (1995-1996) | - | |
@@ -46,6 +46,8 @@ There have been many attempts to fix the problems. This table lists some of them
 | [S.3585 - A bill to amend title 9, United States Code, with respect to arbitration of disputes involving human trafficking.](https://www.congress.gov/bill/118th-congress/senate-bill/3585) | 118th Congress (2023-2024) | ||
 | [S.3715 - A bill to amend the Securities Exchange Act of 1934 to prohibit mandatory pre-dispute arbitration agreements, and for other purposes.](https://www.congress.gov/bill/118th-congress/senate-bill/3715) | 118th Congress (2023-2024) | ||
 | [S.1979 - Protecting Older Americans Act of 2023](https://www.congress.gov/bill/118th-congress/senate-bill/1979/text) | 118th Congress (2023-2024)  | ||
+| [The American Privacy Rights Act](https://crsreports.congress.gov/product/pdf/LSB/LSB11161) |  || disallows arbitration for 'substantial privacy harm' |
+| [H.R.7119 - Fairness in Nursing Home Arbitration Act](https://www.congress.gov/bill/118th-congress/house-bill/7119) | 118th Congress (2023-2024) | ||
 
 # Proposed State Bills
 

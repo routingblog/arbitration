@@ -17,3 +17,5 @@ weight: 10000
 1. Even Arbitrations Are Not Safe from the Prejudgment Remedy | Axinn, Veltrop & Harkrider LLP - JDSupra. (2024, April 15). Jdsupra. https://www.jdsupra.com/legalnews/even-arbitrations-are-not-safe-from-the-7767505/
 
 1. Lewis L. Maltby & Theodore J. St. Antoine. (2024, May 9). Congress could soon spell the end of employment arbitration—but it’s not all good news for American workers. Fortune. https://fortune.com/2024/05/09/congress-end-employment-arbitration-american-workers-careers-politics/
+
+1. Diego Areas Munhoz. (2024, May 3). Lawmakers Pursue Gradual Path to Tackling Mandatory Arbitration. Bloomberg Law. https://news.bloomberglaw.com/daily-labor-report/lawmakers-pursue-gradual-path-to-tackling-mandatory-arbitration
