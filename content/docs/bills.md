@@ -48,6 +48,8 @@ There have been many attempts to fix the problems. This table lists some of them
 | [S.1979 - Protecting Older Americans Act of 2023](https://www.congress.gov/bill/118th-congress/senate-bill/1979/text) | 118th Congress (2023-2024)  | ||
 | [The American Privacy Rights Act](https://crsreports.congress.gov/product/pdf/LSB/LSB11161) |  || disallows arbitration for 'substantial privacy harm' |
 | [H.R.7119 - Fairness in Nursing Home Arbitration Act](https://www.congress.gov/bill/118th-congress/house-bill/7119) | 118th Congress (2023-2024) | ||
+| [H.R.7641 - Justice for Patients Act](https://www.congress.gov/bill/118th-congress/house-bill/7641) | 118th Congress (2023-2024) | ||
+| [S.3107 - Court Legal Access and Student Support Act of 2023](https://www.congress.gov/bill/118th-congress/senate-bill/3107/text) | 118th Congress (2023-2024) | ||
 
 # Proposed State Bills
 
