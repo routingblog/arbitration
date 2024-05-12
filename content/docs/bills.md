@@ -45,6 +45,7 @@ There have been many attempts to fix the problems. This table lists some of them
 | [S.1376](https://www.congress.gov/bill/118th-congress/senate-bill/1376/text) | 118th Congress (2023-2024) | ||
 | [S.3585 - A bill to amend title 9, United States Code, with respect to arbitration of disputes involving human trafficking.](https://www.congress.gov/bill/118th-congress/senate-bill/3585) | 118th Congress (2023-2024) | ||
 | [S.3715 - A bill to amend the Securities Exchange Act of 1934 to prohibit mandatory pre-dispute arbitration agreements, and for other purposes.](https://www.congress.gov/bill/118th-congress/senate-bill/3715) | 118th Congress (2023-2024) | ||
+| [S.1979 - Protecting Older Americans Act of 2023](https://www.congress.gov/bill/118th-congress/senate-bill/1979/text) | 118th Congress (2023-2024)  | ||
 
 # Proposed State Bills
 
