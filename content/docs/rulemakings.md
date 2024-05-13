@@ -6,6 +6,8 @@ weight: 8
 
 This article is information about (federal) administration rulemakings on the topic.
 
+<!--more-->
+
 # Rule Making
 
 ## Consumer Financial Protection Bureau

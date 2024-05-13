@@ -4,6 +4,10 @@ type: docs
 weight: 5
 ---
 
+Every bill, statute, passed, or proposed, that we know of.
+
+<!--more-->
+
 # National Statutes
 
 | Common Name | Identifier | Notes |
