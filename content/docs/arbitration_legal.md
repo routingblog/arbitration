@@ -578,6 +578,13 @@ arb that precludes ERISA plan-wide relief under Section 502(a) not enforceable
     > Section 4042(a)(3) allows plaintiffs in this case to participate in an SCRA class action in federal court notwithstanding their previous agreement to individual arbitration, regardless of when the SCRA violations are alleged to have occurred. The United States respectfully urges the Court to deny Defendant Citibank, N.A.’s motion to compel arbitration of the SCRA claims.
 - [Order on Motion To Compel Arbitration](https://storage.courtlistener.com/recap/gov.uscourts.nced.196598/gov.uscourts.nced.196598.58.0.pdf)
 
+# Writ of Certiorari
+
+## HomeServices of America, Inc., et al., Petitioners v. Scott Burnett, et al.
+
+Supreme Court Log: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-840.html
+Status: Cert Denied
+
 # California
 
 ## In re Uber Technologies Wage and Hour Cases
