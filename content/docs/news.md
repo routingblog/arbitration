@@ -19,3 +19,5 @@ weight: 10000
 1. Lewis L. Maltby & Theodore J. St. Antoine. (2024, May 9). Congress could soon spell the end of employment arbitration—but it’s not all good news for American workers. Fortune. https://fortune.com/2024/05/09/congress-end-employment-arbitration-american-workers-careers-politics/
 
 1. Diego Areas Munhoz. (2024, May 3). Lawmakers Pursue Gradual Path to Tackling Mandatory Arbitration. Bloomberg Law. https://news.bloomberglaw.com/daily-labor-report/lawmakers-pursue-gradual-path-to-tackling-mandatory-arbitration
+
+1. Justices Say Cases Sent to Arbitration Must Be Put on Hold (2). (n.d.). Retrieved 19 May 2024, from https://news.bloomberglaw.com/daily-labor-report/supreme-court-says-cases-sent-to-arbitration-must-be-put-on-hold
