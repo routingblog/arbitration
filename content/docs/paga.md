@@ -13,11 +13,22 @@ This law directly interrelates with arbitration agreements. [^shrinkingtoolbox]
 
 # Court Cases
 
-# Estrada v. Royalty Carpet Mills, Inc.
+## Supreme Court
+
+### Estrada v. Royalty Carpet Mills, Inc.
 
 One Line Summary: the Court of Appeal properly concluded that a trial court “cannot dismiss a PAGA claim based on manageability.”
 
 [Decision](https://www.courts.ca.gov/opinions/documents/S274340.PDF)
+
+### Lyft, Inc. v. Seifu (petition)
+
+- [Supreme Court Docket](https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-769.html)
+- [FindLaw Analysis](https://caselaw.findlaw.com/court/ca-court-of-appeal/2195081.html)
+
+## Other Courts
+
+### Balderas v. Fresh Start Harvesting, Inc.
 
 # California Fair Pay and Employer Accountability Act of 2024 (CFPEAA).
 
