@@ -21,3 +21,5 @@ weight: 10000
 1. Diego Areas Munhoz. (2024, May 3). Lawmakers Pursue Gradual Path to Tackling Mandatory Arbitration. Bloomberg Law. https://news.bloomberglaw.com/daily-labor-report/lawmakers-pursue-gradual-path-to-tackling-mandatory-arbitration
 
 1. Justices Say Cases Sent to Arbitration Must Be Put on Hold (2). (n.d.). Retrieved 19 May 2024, from https://news.bloomberglaw.com/daily-labor-report/supreme-court-says-cases-sent-to-arbitration-must-be-put-on-hold
+
+1. Rideshare companies ask justices to reexamine California worker-protection law. (2024, April 10). SCOTUSblog. https://www.scotusblog.com/2024/04/rideshare-companies-ask-justices-to-reexamine-california-worker-protection-law/
