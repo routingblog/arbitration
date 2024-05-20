@@ -140,6 +140,7 @@ Mandatory employment arbitration has expanded to the point where it has now surp
     {{< details "RAND - The Average Consumer’s Experience" >}}
 In summary, the evidence to dates suggests that there is little reason to believe that consumer arbitration is—in the conjecture of the Court—only another forum.
     {{< /details >}}
+1. Myriam Gilles. (2024, April 8). Small Print, Big Impact: Examining the Effects of Forced Arbitration. https://www.judiciary.senate.gov/imo/media/doc/2024-04-09_-_testimony_-_gilles.pdf
 
 ## Reports
 
