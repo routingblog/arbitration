@@ -1,7 +1,7 @@
 ---
 title: Rule Makings
 type: docs
-weight: 8
+weight: 10
 ---
 
 This article is information about (federal) administration rulemakings on the topic.
