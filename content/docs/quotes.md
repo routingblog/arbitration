@@ -18,6 +18,10 @@ weight: 1000
 
 1. One may further assume, for argument's sake, that the answer to that question is no; that arbitrators, as stated in the Cole case, do not care who pays them so long as someone pays them, meaning they suffer no actual bias by virtue of being paid solely by the employer. The court's statement may be taken as an accurate description of arbitrators' subjective views on arbitrator compensation sources. It has no bearing on the objectivestandard consideration of "whether a reasonable and informed observer would question the [arbitrator's] impartiality." [^dagger1]
 
+## Class Actions
+
+1. Class action-banning forced arbitration clauses were not designed to achieve fair, expeditious or cost-effective resolutions – indeed, they were not designed to be used at all. … The proof of this is evident in the recent phenomenon of “mass arbitration,” in which victims simultaneously file thousands of individual arbitrations, forcing corporate defendants to confront claims of wrongdoing and make good on their contractual promises to pay the costs of arbitrating large numbers of individual claims. … The resistance of these companies to individually arbitrating these cases ― after unilaterally forcing these provisions on their workers and consumers ― makes clear that the corporate preference for forced arbitration was never about fairness and efficiency, but about suppressing worker and consumer cases and avoiding accountability at all costs.[^gillesletter1]
+
 # Footnotes
 
 [^ArbitrationIsPower1]: Heinrich Kronstein. (1963). Arbitration is Power. New York University Law Review, 38, 661. https://heinonline.org/HOL/Page?handle=hein.journals/nylr38&id=679&div=&collection= pp 699-700
@@ -25,3 +29,5 @@ weight: 1000
 [^kangaroo1]: Stempel, J. (2007). Keeping Arbitrations from Becoming Kangaroo Courts. Nevada Law Journal, 8(1). https://scholars.law.unlv.edu/nlj/vol8/iss1/12 pp 259
 
 [^dagger1]: Reginald Alleyne. (2003). Arbitrators’ Fees: The Dagger in the Heart of Mandatory Arbitration for Statutory Discrimination Claims. 6. pp 39-40
+
+[^gillesletter1]: Myriam Gilles. (2024, April 8). Small Print, Big Impact: Examining the Effects of Forced Arbitration. https://www.judiciary.senate.gov/imo/media/doc/2024-04-09_-_testimony_-_gilles.pdf
