@@ -141,6 +141,10 @@ Mandatory employment arbitration has expanded to the point where it has now surp
 In summary, the evidence to dates suggests that there is little reason to believe that consumer arbitration is—in the conjecture of the Court—only another forum.
     {{< /details >}}
 
+## Reports
+
+1. Wells Fargo and Forced Consumer Arbitration. (2017). Level Playing Field. http://fairarbitrationnow.org/wp-content/uploads/LPF-Wells-Fargo-Report-September-2017-Update.pdf
+
 ## Blog Post
 
 1. https://www.sheppardmullin.com/media/publication/1909_Class%20Actions_Arbitration%20Agreements%20and%20Class%20Action%20Waivers%20_Federal,%20CA_.pdf
