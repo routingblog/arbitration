@@ -166,6 +166,7 @@ In summary, the evidence to dates suggests that there is little reason to believ
 
 1. Employment Arbitration Minimum Standards | JAMS Mediation, Arbitration, ADR Services. (2009, July 15). https://www.jamsadr.com/employment-minimum-standards/
 1. Consumer Arbitration Minimum Standards | JAMS Mediation, Arbitration, ADR Services. (2009, July 15). https://www.jamsadr.com/consumer-minimum-standards/
+1. Consumer Minimum Standards | JAMS Mediation, Arbitration, ADR Services. (2020, February 13). JAMS. https://archive.is/lAHgf
 
 ## Definitions
 
