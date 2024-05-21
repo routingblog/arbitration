@@ -227,6 +227,14 @@ While mass arbitration has been used as a tool to help even the playing field it
 
 - The majority of negotiated business contracts lack arbitration clauses. This suggests that companies value, even prefer, litigation as the means for resolving disputes with peers. The systematic eschewing of arbitration clauses in business-to-business contracts also casts doubt on the corporations’ asserted beliefs in the superior fairness and efficiency of arbitration clauses. [^summersoilder1]
 
+# Super Contract
+
+Arbitration has special carve outs in the law that make them unique amongst other contract.
+
+- Arbitration law follows federal common law even though contract law is typically state law. [^PP1]
+
+- Arbitration clauses must be enforced even when they are part of an illegal contract. [^wealthxfer1] [^rentacentercase]
+
 # Possible Advantages
 
 While arbitration is generally negative for both employees and consumers there is a little bit of silver lining.
@@ -442,3 +450,9 @@ This document has a few limitations and biases.
 [^rand5]: Demaine supra pp 73 [^rand1]
 
 [^summersoilder1]: Eisenberg, T., Miller, G., & Sherwin, E. (2008). Arbitration’s Summer Soldiers: An Empirical Study of Arbitration Clauses in Consumer and Nonconsumer Contracts. Cornell Law Faculty Publications. https://scholarship.law.cornell.edu/lsrp_papers/106
+
+[^PP1]: Islo preprint
+
+[^wealthxfer1]: Deepak Gupta & Lina Khan. (2017). Arbitration as Wealth Transfer. Policy Review.
+
+[^rentacentercase]: Rent-A-Center W., Inc. v. Jackson, 561 U.S. 63 (2010).
