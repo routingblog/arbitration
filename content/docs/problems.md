@@ -24,8 +24,6 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - The underlying issue with forced arbitration is the imbalance of power. [^xu1]
 
-- Any _individual_ signer of any _individual_ "agreement" often has no other choice if they wish to get a job, to establish a credit history, or even to get a good deal on a cell phone. [^glover1]
-
 - Arbitration, when passed, was designed for contract disputes between merchants, not statutory claims or between entities of unequal bargaining power. [^creeping1] [^comm] [^rustic] [^newarb2] In fact members of Congress expressly disavowed touching either consumer or employment contracts - and even went so far as to make that explicit with respect to employment. [^scaliaclass1] Julius Henry Cohen, the author of United States Arbitration Act,testified that the bill would be applicable in federal courts only. [^keating1] [^newarb4]
 
 - Arbitration, as practiced, is unique to the United States [^cain2]
@@ -54,9 +52,15 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - Empirical Data is hard to obtain. [^rand1] Companies may not provide relevant information to consumers even when legally required. [^rand2]
 
-# Informed Choice
+# Meaningful & Informed Choice
 
 - Many contracts do not inform the customer that they are waiving the right to a jury trial or the right to proceed in any other forum. [^rand3]
+
+- A CFPB consumer survey found that 79% of consumers didn’t know whether any credit card agreements they signed had an arbitration clause, and only 7% understood that they could not sue their credit card issuer if their contract did include such a clause. [^gilles6]
+
+- Any _individual_ signer of any _individual_ "agreement" often has no other choice if they wish to get a job, to establish a credit history, or even cell phone service. [^glover1]
+
+- Concentration at the firm level has handed a relatively small number of companies outsized influence over the contractual terms that govern most transactions. This same consolidation has further tilted the balance of power away from workers and consumers, rendering them largely captive to whatever contractual terms businesses choose to impose. [^wealthxfer2]
 
 # Bias & Fairness
 
@@ -133,8 +137,6 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 # Consumer Credit
 
 - Although proponents claim that arbitration decreases litigation costs for consumers, consumers often do not receive any benefit of reduced costs through forced arbitration. Only twenty-five consumers with claims of less than $1000 obtained relief in an AAA arbitration in 2010 and 2011. [^gilles6]
-
-- CFPB consumer survey found that 79% of consumers didn’t know whether any credit card agreements they signed had an arbitration clause, and only 7% understood that they could not sue their credit card issuer if their contract did include such a clause. [^gilles6]
 
 - There is no evidence that arbitration clauses lead to lower prices for consumers. [^cfpbexplainer]
 
@@ -453,6 +455,8 @@ This document has a few limitations and biases.
 
 [^PP1]: Islo preprint
 
-[^wealthxfer1]: Deepak Gupta & Lina Khan. (2017). Arbitration as Wealth Transfer. Policy Review.
+[^wealthxfer1]: Deepak Gupta & Lina Khan. (2017). Arbitration as Wealth Transfer. Policy Review. pp 499
 
 [^rentacentercase]: Rent-A-Center W., Inc. v. Jackson, 561 U.S. 63 (2010).
+
+[^wealthxfer2]: Gupta supra pp 503 [^wealthxfer1]
