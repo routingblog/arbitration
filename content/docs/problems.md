@@ -28,7 +28,7 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - Arbitration, as practiced, is unique to the United States [^cain2]
 
-- The FAA was intended to be a procedural remedy available in the federal courts [^newarb1]. It was never intended by the enacting Congress to apply in state court. [^schwartzcorrecting] [^newarb7] In fact, its constitutionality "rests upon the constitutional provision by which Congress is authorized to establish and control inferior Federal courts"... and not solely upon "upon the exercise of the interstate-commerce". [^newarb5]
+- The FAA was intended to be a procedural remedy available in the federal courts [^newarb1]. It was never intended by the enacting Congress to apply in state court. [^schwartzcorrecting] [^newarb7] [^wealthxfer4] In fact, its constitutionality "rests upon the constitutional provision by which Congress is authorized to establish and control inferior Federal courts"... and not solely upon "upon the exercise of the interstate-commerce". [^newarb5]
 
 - The lower probability of victory, the lack of class representation, and meager legal fees discourage attorneys from representing individuals in arbitration proceedings. This is particularly a problem where the fees will be paid on contingency (most employment and consumer cases). [^stone1] [^privateknappcite3] [^colvin2]
 
@@ -51,6 +51,8 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 - Companies may suffer adverse publicity if it is perceived as attempting to use arbitration to gain unfair advantage over its customers, vendors, or the public. Although these economic incentives toward fairness are not trivial, neither are they particularly powerful. A company’s problematic arbitration conduct is unlikely to be significantly salient to its overall customer base or the general public. [^stempelkangaroo4]
 
 - Empirical Data is hard to obtain. [^rand1] Companies may not provide relevant information to consumers even when legally required. [^rand2]
+
+- Forced arbitration clauses and class action bans are now a basic feature of form contracts [^wealthxfer3]
 
 # Meaningful & Informed Choice
 
@@ -459,4 +461,8 @@ This document has a few limitations and biases.
 
 [^rentacentercase]: Rent-A-Center W., Inc. v. Jackson, 561 U.S. 63 (2010).
 
-[^wealthxfer2]: Gupta supra pp 503 [^wealthxfer1]
+[^wealthxfer2]: Gupta supra pp 508 [^wealthxfer1]
+
+[^wealthxfer3]: Gupta supra pp 503 [^wealthxfer1]
+
+[^wealthxfer4]: Gupta supra pp 505 [^wealthxfer1]
