@@ -22,6 +22,10 @@ weight: 1000
 
 1. Class action-banning forced arbitration clauses were not designed to achieve fair, expeditious or cost-effective resolutions – indeed, they were not designed to be used at all. … The proof of this is evident in the recent phenomenon of “mass arbitration,” in which victims simultaneously file thousands of individual arbitrations, forcing corporate defendants to confront claims of wrongdoing and make good on their contractual promises to pay the costs of arbitrating large numbers of individual claims. … The resistance of these companies to individually arbitrating these cases ― after unilaterally forcing these provisions on their workers and consumers ― makes clear that the corporate preference for forced arbitration was never about fairness and efficiency, but about suppressing worker and consumer cases and avoiding accountability at all costs.[^gillesletter1]
 
+## Congressional Intent
+
+1. The Court has abandoned all pretense of ascertaining congressional intent with respect to the Federal Arbitration Act, building instead, case by case, an edifice of its own creation. …  I have no doubt that Congress could enact, in the first instance, a federal arbitration statute that displaces most state arbitration laws. But I also have no doubt that, in 1925, Congress enacted no such statute. [^termix1]
+
 # Footnotes
 
 [^ArbitrationIsPower1]: Heinrich Kronstein. (1963). Arbitration is Power. New York University Law Review, 38, 661. https://heinonline.org/HOL/Page?handle=hein.journals/nylr38&id=679&div=&collection= pp 699-700
@@ -31,3 +35,5 @@ weight: 1000
 [^dagger1]: Reginald Alleyne. (2003). Arbitrators’ Fees: The Dagger in the Heart of Mandatory Arbitration for Statutory Discrimination Claims. 6. pp 39-40
 
 [^gillesletter1]: Myriam Gilles. (2024, April 8). Small Print, Big Impact: Examining the Effects of Forced Arbitration. https://www.judiciary.senate.gov/imo/media/doc/2024-04-09_-_testimony_-_gilles.pdf
+
+[^termix1]: Allied-Bruce Terminix Cos. v. Dobson, 513 U.S. 265 (1995) (JUSTICE O'CONNOR, concurring.)
