@@ -56,6 +56,7 @@ There have been many attempts to fix the problems. This table lists some of them
 | [H.R.7119 - Fairness in Nursing Home Arbitration Act](https://www.congress.gov/bill/118th-congress/house-bill/7119) | 118th Congress (2023-2024) | ||
 | [H.R.7641 - Justice for Patients Act](https://www.congress.gov/bill/118th-congress/house-bill/7641) | 118th Congress (2023-2024) | ||
 | [S.3107 - Court Legal Access and Student Support Act of 2023](https://www.congress.gov/bill/118th-congress/senate-bill/3107/text) | 118th Congress (2023-2024) | ||
+| [H.R.6039 - CLASS Act of 2023](https://www.congress.gov/bill/118th-congress/house-bill/6039/text) | 118th Congress (2023-2024) | ||
 
 # Proposed State Bills
 
