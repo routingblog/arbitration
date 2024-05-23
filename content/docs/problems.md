@@ -30,10 +30,6 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - The FAA was intended to be a procedural remedy available in the federal courts [^newarb1]. It was never intended by the enacting Congress to apply in state court. [^schwartzcorrecting] [^newarb7] [^wealthxfer4] In fact, its constitutionality "rests upon the constitutional provision by which Congress is authorized to establish and control inferior Federal courts"... and not solely upon "upon the exercise of the interstate-commerce". [^newarb5]
 
-- The lower probability of victory, the lack of class representation, and meager legal fees discourage attorneys from representing individuals in arbitration proceedings. This is particularly a problem where the fees will be paid on contingency (most employment and consumer cases). [^stone1] [^privateknappcite3] [^colvin2]
-
-- This becomes a cycle where employees struggle to retain representation because of low payouts in arbitration, and employees get lower payouts in arbitration because they are unrepresented. [^realright3]
-
 - Arbitration requires the waiver of jury trials.  While the jury is probably still out on this issue, there is a general perception that arbitrators give smaller awards than juries. [^privateknappcite1]
 
 - When the contract limits remedies in other ways (reduced time to bring claims, limitations on injuctive relief, etc.) it is normally subject to Judicial review. Not so with arbitration. In fact, stepping "outside the bounds of the contract" are one of the few reasons arbitrator's awards can be vacated. [^privateknappcite4]
@@ -44,6 +40,8 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - We have little empirical verification of the claims made both for and against arbitration and ADR, including positive assertions made about reduced cost, speed, and access to dispute mechanisms. [^galanterhaves3] The little empirical data we have consistently shows an anti-employee bias.  Basic questions such as the typical characteristics and outcomes of cases in employment arbitration remain to be definitively answered. [^colvinempirical1]
 
+- Comparing outcomes in litigation and arbitration actually underestimates the regressive effect, since it fails to capture individuals dissuaded from initiating action altogether. [^wealthxfer5]
+
 - Where the employee was self-represented the employee win rate was substantially smaller versus cases where the employee was represented by counsel. Award amounts are also smaller. [^colvinempirical7] This counters the argument that arbitration may reduce the need for attorneys.
 
 - The FAA creates an incentive for entities to self-deregulate through private contract [^glover1]
@@ -53,6 +51,12 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 - Empirical Data is hard to obtain. [^rand1] Companies may not provide relevant information to consumers even when legally required. [^rand2]
 
 - Forced arbitration clauses and class action bans are now a basic feature of form contracts [^wealthxfer3]
+
+# Access To Counsel
+
+- The lower probability of victory, the lack of class representation, and meager legal fees discourage attorneys from representing individuals in arbitration proceedings. This is particularly a problem where the fees will be paid on contingency (most employment and consumer cases). [^stone1] [^privateknappcite3] [^colvin2]
+
+- This becomes a cycle where employees struggle to retain representation because of low payouts in arbitration, and employees get lower payouts in arbitration because they are unrepresented. [^realright3]
 
 # Meaningful & Informed Choice
 
@@ -466,3 +470,5 @@ This document has a few limitations and biases.
 [^wealthxfer3]: Gupta supra pp 503 [^wealthxfer1]
 
 [^wealthxfer4]: Gupta supra pp 505 [^wealthxfer1]
+
+[^wealthxfer5]: Gupta supra pp 512 [^wealthxfer1]
