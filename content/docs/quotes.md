@@ -26,6 +26,10 @@ weight: 1000
 
 1. The Court has abandoned all pretense of ascertaining congressional intent with respect to the Federal Arbitration Act, building instead, case by case, an edifice of its own creation. …  I have no doubt that Congress could enact, in the first instance, a federal arbitration statute that displaces most state arbitration laws. But I also have no doubt that, in 1925, Congress enacted no such statute. [^termix1]
 
+# General Quotes
+
+1. “I’ll let you write the substance, you let me write the procedure, and I’ll screw you every time.” [^dingell1]
+
 # Footnotes
 
 [^ArbitrationIsPower1]: Heinrich Kronstein. (1963). Arbitration is Power. New York University Law Review, 38, 661. https://heinonline.org/HOL/Page?handle=hein.journals/nylr38&id=679&div=&collection= pp 699-700
@@ -37,3 +41,5 @@ weight: 1000
 [^gillesletter1]: Myriam Gilles. (2024, April 8). Small Print, Big Impact: Examining the Effects of Forced Arbitration. https://www.judiciary.senate.gov/imo/media/doc/2024-04-09_-_testimony_-_gilles.pdf
 
 [^termix1]: Allied-Bruce Terminix Cos. v. Dobson, 513 U.S. 265 (1995) (JUSTICE O'CONNOR, concurring.)
+
+[^dingell1]: Regulatory Reform Act: Hearing on H.R. 2327. Before the Subcomm. on Admin. Law and Governmental Regulations of the House Comm. on the Judiciary, 98th Cong. 312 (1983) (statement of Rep. John Dingell).
