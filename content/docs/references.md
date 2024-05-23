@@ -127,6 +127,7 @@ Clearly more research is needed to evaluate the extent to which arbitration actu
 The Supreme Court’s jurisprudential commitment to arbitration remains strong even if its reasoning and appreciation of reality remains open to criticism. Within the fait accompli world of law and politics, we are unlikely to see any complete about-face or substantial curtailment of the pro-arbitrability doctrine the Court has constructed. The realistic response of consumer advocates and other arbitration skeptics should be a focus on arbitral impartiality and adherence to substantive law rather than undue resistance to arbitration clause enforcement. If these factors are present, the U.S. dispute resolution system can be reasonably confident that arbitrations will not become kangaroo courts. To the extent these traits are lacking, arbitration skeptics will continue to have substantial grounds for continuing to criticize the modern world of courtenforced, mass-standardized arbitration.
     {{< /details >}}
 1. Reginald Alleyne. (2003). Arbitrators’ Fees: The Dagger in the Heart of Mandatory Arbitration for Statutory Discrimination Claims. 6.
+1. Deepak Gupta & Lina Khan. (2017). Arbitration as Wealth Transfer. Policy Review, 35, 499–520.
 
 ## Position Papers or Private Groups
 
