@@ -265,6 +265,10 @@ This document has a few limitations and biases.
 
 - Many of the studies or analysis of arbitration don't differentiate between forced consumer mandatory arbitration, labour arbitration, collective bargaining agreements, or even between businesses. To the extent possible this document tries to focus on and cite details that are either generally true or that focus specifically on consumer and non-collective labour contracts.
 
+# Anti Trust
+
+- Proving antitrust damages requires costly economic analysis, private plaintiffs generally cannot bring suits unless they can split expenses, be it through joining as a class or sharing costs some other way. By allowing class action waivers to stand in [Italian Colors]({{< relref "arbitration_legal#amex-v-italian-colors" >}}) the monopolist gets to use its monopoly power to insist on a contract effectively depriving its victims of all legal recourse. [^wealthxfer6] [^itcolors1]
+
 # References and Footnotes
 
 [^creeping1]: Sternlight, J. R. (2005). Creeping Mandatory Arbitration: Is It Just? Scholarly Works, 57(280), 1631–1676. pp 1631
@@ -472,3 +476,7 @@ This document has a few limitations and biases.
 [^wealthxfer4]: Gupta supra pp 505 [^wealthxfer1]
 
 [^wealthxfer5]: Gupta supra pp 512 [^wealthxfer1]
+
+[^itcolors1]: Am. Express Co. v. Italian Colors Rest., 133 S. Ct. 2304, 2313 (2013) (Kagan, J., dissenting).
+
+[^wealthxfer6]: Gupta supra pp 516 [^wealthxfer1]
