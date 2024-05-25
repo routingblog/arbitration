@@ -259,6 +259,10 @@ While arbitration is generally negative for both employees and consumers there i
 
 - In consumer contracts, many have the business cover fees and costs. Some agreements cap consumer fees. In other cases the arbiter allocates the fee. [^rand4]
 
+## Confidentiality
+
+- Court records are typically public. Arbitration proceedings are often confidential as a matter of practice or even contract. A lawsuit may bring embarassing or personal topics into the public record.
+
 # Document Limitations
 
 This document has a few limitations and biases.

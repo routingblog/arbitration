@@ -83,6 +83,7 @@ May 16, 2019
 | [NY C.P.L.R. §8 7501-7516](https://www.nysenate.gov/legislation/laws/CVP/A75) | New York |
 | [CA EDC §94876](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=EDC&sectionNum=94907.&article=11) | California |
 | [FL Title XXXIX §682](https://www.flsenate.gov/Laws/Statutes/2018/Chapter682/All) | Florida |
+| [Chapter 73 Arbitration](https://www.legis.state.pa.us/cfdocs/legis/LI/consCheck.cfm?txtType=HTM&ttl=42&div=0&chpt=73) | Pennsylvania |
 
 ## History
 
