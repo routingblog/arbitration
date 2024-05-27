@@ -180,7 +180,7 @@ In summary, the evidence to dates suggests that there is little reason to believ
 
 ## Drafting
 
-1. [On Contracts](https://www.oncontracts.com/arb-prefs/)
+1. Dell C. "D C. " Toedt III. (2017, April 20). Arbitrator Style and Preferences — My Questionnaire Responses. On Contracts. https://www.oncontracts.com/arb-prefs/
 
 # Class Actions
 
@@ -188,6 +188,12 @@ In summary, the evidence to dates suggests that there is little reason to believ
 
 1. Scheuerman, S. B. (2009). Due Process Forgotten: The Problem of Statutory Damages and Class Actions. Missouri Law Review, 74.
 1. Fitzpatrick, B. T. (2017). Justice Scalia and Class Actions. Notre Dame Law Review, 92, 1977. https://scholarship.law.vanderbilt.edu/faculty-publications/586
+
+# Background Reading
+
+This is a selection of relevent reading without directly opining on arbitration (or class actions):
+
+1. Marc Galanter. (1974). Why the ‘Haves’ Come out Ahead: Speculations on the Limits of Legal Change. Law & Society Review, 9(1), 95–160. https://doi.org/10.2307/3053023
 
 <!--
 # Additional References
