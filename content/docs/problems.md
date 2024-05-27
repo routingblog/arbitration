@@ -138,7 +138,7 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - Most arbitration agreements do not require reasoned or even written opinions, punitive damages, or other remedial possibilities [^galanterhaves1]
 
-- By avoiding class actions companies can also avoid FRCP §23(b)(2) injuctive relief. That is, they could avoid judicial orders to stop their behavior generally instead merely in specific cases.
+- By avoiding class actions companies can also avoid <abbr title="Federal Rules of Civil Procedure">FRCP</abbr> §23(b)(2) injuctive relief. That is, they could avoid judicial orders to stop their behavior generally instead merely in specific cases.
 
 # Consumer Credit
 
