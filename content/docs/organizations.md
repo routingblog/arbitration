@@ -17,6 +17,7 @@ weight: 100
   - [The Faces of Forced Arbitration](https://facesofforcedarbitration.com/)
 - [Public Justice](https://www.publicjustice.net/)
 - [CANHR - California Advocates For Nursing Home Reform](https://canhr.org/)
+- [Better Markets](https://bettermarkets.org/)
 
 {{< titlehint level="info" title="foo">}}
 **Disclaimer**
