@@ -22,6 +22,8 @@ Every bill, statute, passed, or proposed, that we know of.
 | • [Food, Conservation, and Energy Act of 2008](https://www.congress.gov/110/plaws/publ246/PLAW-110publ246.pdf) <br> • [Packers and Stockyards - Packers Generally - General Provisions - Arbitration](https://www.law.cornell.edu/uscode/text/7/197c) | 7 U.S. Code § 197c | See §210 |
 | [18 U.S. Code § 1514A - Civil action to protect against retaliation in fraud cases](https://www.law.cornell.edu/uscode/text/18/1514A) | 16 18 U.S.C. § 1514A(e)(2). ||
 | [National Defense Authorization Act For Fiscal Year 2020](https://www.congress.gov/116/plaws/publ92/PLAW-116publ92.pdf) | Public Law 116–92—DEC. 20, 2019 | see §550F. |
+| [CONSUMER CREDIT PROTECTION ACT / Truth in Lending Act](https://www.law.cornell.edu/uscode/text/15/1639c)| Public Law 90-321; 82 Stat. 146; 15 U.S.C. 1601 et seq.| see § 129B. 15 U.S.C. 1639b(e)|
+| [10 U.S. Code § 987 - Military Lending Act](https://www.law.cornell.edu/uscode/text/10/987) | 10 U.S. Code § 987 | see 10 U.S. Code § 987(e) |
 
 # Proposed National Bills
 
