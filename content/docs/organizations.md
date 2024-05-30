@@ -18,6 +18,7 @@ weight: 100
 - [Public Justice](https://www.publicjustice.net/)
 - [CANHR - California Advocates For Nursing Home Reform](https://canhr.org/)
 - [Better Markets](https://bettermarkets.org/)
+- [Americans for Financial Reform](https://ourfinancialsecurity.org/tag/arbitration/)
 
 {{< titlehint level="info" title="foo">}}
 **Disclaimer**
