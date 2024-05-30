@@ -509,6 +509,13 @@ Pull Quote (from {{< todo />}}):
 - Opinion: https://www.courts.ca.gov/opinions/documents/S274671.PDF
 - represenative PAGA is allowed despite arbitration of individual
 
+## California Non-Supreme Court Cases
+
+### Ochoa v. Ford Motor Co. (In re Ford Motor Warranty Cases)
+
+Quote:
+“FMC could not compel arbitration based on plaintiffs' agreements with the dealers that sold them the vehicles. Equitable estoppel does not apply because, contrary to FMC's arguments, plaintiffs' claims against it in no way rely on the agreements.”
+
 ## District Court Cases
 
 ### Parm v. Nat'l Bank of Cal., N.A., 835 F.3d 1331
