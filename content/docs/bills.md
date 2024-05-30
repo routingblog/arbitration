@@ -21,6 +21,7 @@ Every bill, statute, passed, or proposed, that we know of.
 | [Servicemembers Civil Relief - Private right of action Specifically](https://www.law.cornell.edu/uscode/text/50/chapter-50) | 50 U.S. Code § 4042 ||
 | • [Food, Conservation, and Energy Act of 2008](https://www.congress.gov/110/plaws/publ246/PLAW-110publ246.pdf) <br> • [Packers and Stockyards - Packers Generally - General Provisions - Arbitration](https://www.law.cornell.edu/uscode/text/7/197c) | 7 U.S. Code § 197c | See §210 |
 | [18 U.S. Code § 1514A - Civil action to protect against retaliation in fraud cases](https://www.law.cornell.edu/uscode/text/18/1514A) | 16 18 U.S.C. § 1514A(e)(2). ||
+| [National Defense Authorization Act For Fiscal Year 2020](https://www.congress.gov/116/plaws/publ92/PLAW-116publ92.pdf) | Public Law 116–92—DEC. 20, 2019 | see §550F. |
 
 # Proposed National Bills
 
