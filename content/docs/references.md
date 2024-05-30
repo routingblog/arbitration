@@ -163,6 +163,10 @@ In summary, the evidence to dates suggests that there is little reason to believ
 1. Donna Ballman. (2018, April 13). Are You A Liar? Arbitration Is The Forum For You. Screw You Guys, I’m Going Home. http://employeeatty.blogspot.com/2018/04/are-you-liar-arbitration-is-forum-for.html
 1. Emil. (2023, April 21). Arbitration Agreements: Don’t Sign Pre-Dispute Arbitration Agreements - CANHR. California Advocates For Nursing Home Reform. https://canhr.org/arbitration-agreements-dont-sign-agreements/, https://canhr.org/arbitration-agreements-dont-sign-agreements/
 
+## Books
+
+1. Chapter 1 Preliminary Issues. (2020). In David Seligman & Karla Gilbride, Consumer Arbitration Agreements: Consumer Law Practice (8th ed.). National Consumer Law Center. https://library.nclc.org/book/consumer-arbitration-agreements/12a14-agreement-applicable-dispute-and-both-parties
+
 ## Resources
 
 1. [Overcoming the Latest Supreme Court Arbitration Decision](https://library.nclc.org/article/overcoming-latest-supreme-court-arbitration-decision)
