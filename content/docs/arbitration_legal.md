@@ -221,6 +221,10 @@ The Montana Supreme Court had two justices who refused to sign on to the order r
 
 {{< todo />}}
 
+## Stolt-Nielsen S. A. v. AnimalFeeds Int’l Corp., 559 U.S. 662 (2010)
+
+{{< todo />}}
+
 ## Green Tree Financial Corp. v. Bazzle 539 U.S. at 444.
 
 One Line Summary: The question of whether a contract forbade class arbitration qualified as one of procedural arbitrability within an arbitrator’s adjudicative scope.
