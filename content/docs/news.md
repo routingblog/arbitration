@@ -8,20 +8,19 @@ weight: 10000
 
 1. New Supreme Court Arbitration Ruling: A Double-Edged Sword. (2024, May 29). NCLC Digital Library. https://library.nclc.org/article/new-supreme-court-arbitration-ruling-double-edged-sword
 
-1. Lisa M. Schweitzer & Emily P. King. (2024, April 3). Delaware Bankruptcy Judge Declines to Order Arbitration of Key Pension Claims | Cleary Gottlieb. https://www.clearygottlieb.com/news-and-insights/publication-listing/delaware-bankruptcy-judge-declines-to-order-arbitration-of-key-pension-claims
-
-1. Khorri Atkinson. (2024, January 24). Justices’ Latest Arbitration Case Threatens Litigation Strategy. Bloomberg Law. https://news.bloomberglaw.com/daily-labor-report/justices-latest-arbitration-case-threatens-litigation-strategy
-
-1. Justices exempt bakery-truck drivers from arbitration requirement. (2024, April 12). SCOTUSblog. https://www.scotusblog.com/2024/04/justices-exempt-bakery-truck-drivers-from-arbitration-requirement/
-
-1. Jeremy Telman. (2024, March 5). ContractsProf Blog: What Batch Arbitration Looks Like. ContractsProf Blog. https://lawprofessors.typepad.com/contractsprof_blog/2024/03/what-batch-arbitration-looks-like.html
-
-1. Even Arbitrations Are Not Safe from the Prejudgment Remedy | Axinn, Veltrop & Harkrider LLP - JDSupra. (2024, April 15). Jdsupra. https://www.jdsupra.com/legalnews/even-arbitrations-are-not-safe-from-the-7767505/
+1. Rideshare companies ask justices to reexamine California worker-protection law. (2024, April 10). SCOTUSblog. https://www.scotusblog.com/2024/04/rideshare-companies-ask-justices-to-reexamine-california-worker-protection-law/
 
 1. Lewis L. Maltby & Theodore J. St. Antoine. (2024, May 9). Congress could soon spell the end of employment arbitration—but it’s not all good news for American workers. Fortune. https://fortune.com/2024/05/09/congress-end-employment-arbitration-american-workers-careers-politics/
 
 1. Diego Areas Munhoz. (2024, May 3). Lawmakers Pursue Gradual Path to Tackling Mandatory Arbitration. Bloomberg Law. https://news.bloomberglaw.com/daily-labor-report/lawmakers-pursue-gradual-path-to-tackling-mandatory-arbitration
 
-1. Justices Say Cases Sent to Arbitration Must Be Put on Hold (2). (n.d.). Retrieved 19 May 2024, from https://news.bloomberglaw.com/daily-labor-report/supreme-court-says-cases-sent-to-arbitration-must-be-put-on-hold
+1. Even Arbitrations Are Not Safe from the Prejudgment Remedy | Axinn, Veltrop & Harkrider LLP - JDSupra. (2024, April 15). Jdsupra. https://www.jdsupra.com/legalnews/even-arbitrations-are-not-safe-from-the-7767505/
+1. Lisa M. Schweitzer & Emily P. King. (2024, April 3). Delaware Bankruptcy Judge Declines to Order Arbitration of Key Pension Claims | Cleary Gottlieb. https://www.clearygottlieb.com/news-and-insights/publication-listing/delaware-bankruptcy-judge-declines-to-order-arbitration-of-key-pension-claims
 
-1. Rideshare companies ask justices to reexamine California worker-protection law. (2024, April 10). SCOTUSblog. https://www.scotusblog.com/2024/04/rideshare-companies-ask-justices-to-reexamine-california-worker-protection-law/
+1. Justices exempt bakery-truck drivers from arbitration requirement. (2024, April 12). SCOTUSblog. https://www.scotusblog.com/2024/04/justices-exempt-bakery-truck-drivers-from-arbitration-requirement/
+
+1. Jeremy Telman. (2024, March 5). ContractsProf Blog: What Batch Arbitration Looks Like. ContractsProf Blog. https://lawprofessors.typepad.com/contractsprof_blog/2024/03/what-batch-arbitration-looks-like.html
+
+1. Khorri Atkinson. (2024, January 24). Justices’ Latest Arbitration Case Threatens Litigation Strategy. Bloomberg Law. https://news.bloomberglaw.com/daily-labor-report/justices-latest-arbitration-case-threatens-litigation-strategy
+
+1. Justices Say Cases Sent to Arbitration Must Be Put on Hold (2). (n.d.). Retrieved 19 May 2024, from https://news.bloomberglaw.com/daily-labor-report/supreme-court-says-cases-sent-to-arbitration-must-be-put-on-hold
