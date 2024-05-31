@@ -162,6 +162,7 @@ In summary, the evidence to dates suggests that there is little reason to believ
 1. Nancy Niki Lubrano & Brian E. Cole II. (n.d.). CDF Wage and Hour Task Force – Monthly Tips. CDF Labor Law: California Labor & Employment Law Blog. Retrieved 25 January 2024, from https://www.callaborlaw.com/entry/cdf-wage-and-hour-task-force-monthly-tips-february-2023
 1. Donna Ballman. (2018, April 13). Are You A Liar? Arbitration Is The Forum For You. Screw You Guys, I’m Going Home. http://employeeatty.blogspot.com/2018/04/are-you-liar-arbitration-is-forum-for.html
 1. Emil. (2023, April 21). Arbitration Agreements: Don’t Sign Pre-Dispute Arbitration Agreements - CANHR. California Advocates For Nursing Home Reform. https://canhr.org/arbitration-agreements-dont-sign-agreements/, https://canhr.org/arbitration-agreements-dont-sign-agreements/
+1. Dominic Charles. (2023, February 28). What Would the End of McCarran-Ferguson Mean for Arbitration? The Arbitration Brief. https://thearbitrationbrief.com/2023/02/28/what-would-the-end-of-mccarran-ferguson-mean-for-arbitration/
 
 ## Books
 
