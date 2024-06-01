@@ -227,7 +227,7 @@ While mass arbitration has been used as a tool to help even the playing field it
 
 # Alternative Forums
 
-- Many arbitration agreements exempt claims brought in small claims court. [^rands3]
+- Many arbitration agreements exempt claims brought in small claims court. [^rand3]
 
 # Equality
 
