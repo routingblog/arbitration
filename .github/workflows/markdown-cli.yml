@@ -9,4 +9,4 @@ jobs:
           config: markdownlint-config.json
           files: 'docs/**/*.md'
           ignore: node_modules
-          version: 0.28.1
+          version: 0.41.0
