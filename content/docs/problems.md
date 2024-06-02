@@ -122,6 +122,10 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - Employment arbitrators are often law firm associates or partners who are not labor law specialists. [^arbfeesdagger2]
 
+# Investment
+
+- Investment advisers are not required to disclose information about arbitrations with their clients. [^secreport]
+
 # Class Actions
 
 - Arbitration provisions regularly include class action waivers, and since there is a cost to arbitration, bringing a single claim can be detrimental. [^realright1]
@@ -484,3 +488,5 @@ This document has a few limitations and biases.
 [^itcolors1]: Am. Express Co. v. Italian Colors Rest., 133 S. Ct. 2304, 2313 (2013) (Kagan, J., dissenting).
 
 [^wealthxfer6]: Gupta supra pp 516 [^wealthxfer1]
+
+[^secreport]: Stacy Puente. (2023). Mandatory Arbitration among SEC-Registered Investment Advisers. U.S. Securities and Exchange Commission | Office of the Investor Advocate.
