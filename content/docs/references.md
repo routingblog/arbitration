@@ -146,6 +146,7 @@ In summary, the evidence to dates suggests that there is little reason to believ
 ## Reports
 
 1. Wells Fargo and Forced Consumer Arbitration. (2017). Level Playing Field. http://fairarbitrationnow.org/wp-content/uploads/LPF-Wells-Fargo-Report-September-2017-Update.pdf
+1. Stacy Puente. (2023). Mandatory Arbitration among SEC-Registered Investment Advisers. U.S. Securities and Exchange Commission | Office of the Investor Advocate.
 
 ## Blog Post
 
