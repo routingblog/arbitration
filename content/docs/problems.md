@@ -255,7 +255,7 @@ While arbitration is generally negative for both employees and consumers there i
 
 - Arbitration is actually faster than litigation. Cases typically take around two to two-and-a-half years to reach trial but mean time to disposition for an employment arbitration case that resulted in an award was 361.5 days. [^colvinempirical3]  However, it is also important to recognize that most cases in both litigation and arbitration are settled before a final hearing. Furthermore much of the reason for the reduced length of resolution is that arbitration gives up important procedural rights.
 
-- A recalcitrant defendant can delay the start of meaningful proceedings a really long time. For example they can appeal the motion to compel and this would stay the civil court proceedings in the meantime[^coinbase]
+- A recalcitrant defendant can delay the start of meaningful proceedings a long time.
 
 ## Fees & Costs
 
@@ -282,8 +282,6 @@ This document has a few limitations and biases.
 [^creeping1]: Sternlight, J. R. (2005). Creeping Mandatory Arbitration: Is It Just? Scholarly Works, 57(280), 1631–1676. pp 1631
 
 [^comm]: Cain, R. M. (1988). Commercial Disputes and Compulsory Arbitration. The Business Lawyer, pp 65
-
-[^coinbase]: Coinbase v. Bielski, 599 U.S. ___ (2023)
 
 [^stone1]:  Katherine V.W. Stone & Alexander J.S. Colvin. (2015). The arbitration epidemic: Mandatory arbitration deprives workers and consumers of their rights (Briefing Paper 414). Economic Policy Institute. https://www.epi.org/publication/the-arbitration-epidemic/ pp 21
 
