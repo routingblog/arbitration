@@ -19,6 +19,8 @@ weight: 10000
 
 1. Justices exempt bakery-truck drivers from arbitration requirement. (2024, April 12). SCOTUSblog. https://www.scotusblog.com/2024/04/justices-exempt-bakery-truck-drivers-from-arbitration-requirement/
 
+1. Tony Oncidi. (2024, March 21). Really, Really Pay Those Arbitration Fees Within 30 Days – Really! California Employment Law Update. https://calemploymentlawupdate.proskauer.com/2024/03/really-really-pay-those-arbitration-fees-within-30-days-really/
+
 1. Jeremy Telman. (2024, March 5). ContractsProf Blog: What Batch Arbitration Looks Like. ContractsProf Blog. https://lawprofessors.typepad.com/contractsprof_blog/2024/03/what-batch-arbitration-looks-like.html
 
 1. Khorri Atkinson. (2024, January 24). Justices’ Latest Arbitration Case Threatens Litigation Strategy. Bloomberg Law. https://news.bloomberglaw.com/daily-labor-report/justices-latest-arbitration-case-threatens-litigation-strategy
