@@ -7,6 +7,8 @@ weight: 10000
 # News
 
 1. New Supreme Court Arbitration Ruling: A Double-Edged Sword. (2024, May 29). NCLC Digital Library. https://library.nclc.org/article/new-supreme-court-arbitration-ruling-double-edged-sword
+|
+1. Tony Oncidi & Laura Vaughn. (2024, May 28). Anti-Arbitration Statute Gets Zapped! California Employment Law Update. https://calemploymentlawupdate.proskauer.com/2024/05/anti-arbitration-statute-gets-zapped/
 
 1. Rideshare companies ask justices to reexamine California worker-protection law. (2024, April 10). SCOTUSblog. https://www.scotusblog.com/2024/04/rideshare-companies-ask-justices-to-reexamine-california-worker-protection-law/
 
