@@ -12,13 +12,8 @@
 
   // single top level in same doc
   "MD025": false,
-  //"MD025": {
-  //  "front_matter_title": "title"
-  //},
   // bare url
   "MD034": false,
   // MD026/no-trailing-punctuation
-  "MD026": false,
-  // MD029/ol-prefix
-  "MD029": false,
+  "MD026": false
 }
