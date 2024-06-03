@@ -27,4 +27,6 @@ weight: 10000
 
 1. Khorri Atkinson. (2024, January 24). Justices’ Latest Arbitration Case Threatens Litigation Strategy. Bloomberg Law. https://news.bloomberglaw.com/daily-labor-report/justices-latest-arbitration-case-threatens-litigation-strategy
 
+1. Seema Nanda & 2023. (2023, March 20). Mandatory Arbitration Won’t Stop Us from Enforcing the Law. DOL Blog. http://blog.dol.gov/2023/03/20/mandatory-arbitration-wont-stop-us-from-enforcing-the-law
+
 1. Justices Say Cases Sent to Arbitration Must Be Put on Hold (2). (n.d.). Retrieved 19 May 2024, from https://news.bloomberglaw.com/daily-labor-report/supreme-court-says-cases-sent-to-arbitration-must-be-put-on-hold
