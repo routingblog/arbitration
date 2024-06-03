@@ -52,6 +52,10 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - Forced arbitration clauses and class action bans are now a basic feature of form contracts [^wealthxfer3]
 
+# Claim Suppression
+
+- In 2018, there were an estimated 826,537,000 consumer arbitration provisions in force yet consumers filed only 6000 arbitrations each year. [^gillesletter]
+
 # Access To Counsel
 
 - The lower probability of victory, the lack of class representation, and meager legal fees discourage attorneys from representing individuals in arbitration proceedings. This is particularly a problem where the fees will be paid on contingency (most employment and consumer cases). [^stone1] [^privateknappcite3] [^colvin2]
@@ -488,3 +492,5 @@ This document has a few limitations and biases.
 [^wealthxfer6]: Gupta supra pp 516 [^wealthxfer1]
 
 [^secreport]: Stacy Puente. (2023). Mandatory Arbitration among SEC-Registered Investment Advisers. U.S. Securities and Exchange Commission | Office of the Investor Advocate.
+
+[^gillesletter]: Myriam Gilles. (2021, February 9). Testimony Before the House Committee on the Judiciary Subcommittee on Antitrust, Commercial, and Administrative Law [Letter to David Cicilline]. https://docs.house.gov/meetings/JU/JU05/20210211/111171/HHRG-117-JU05-Wstate-GillesM-20210211.pdf
