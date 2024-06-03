@@ -188,6 +188,10 @@ In summary, the evidence to dates suggests that there is little reason to believ
 
 1. Dell C. "D C. " Toedt III. (2017, April 20). Arbitrator Style and Preferences — My Questionnaire Responses. On Contracts. https://www.oncontracts.com/arb-prefs/
 
+## Letters
+
+1. Myriam Gilles. (2021, February 9). Testimony Before the House Committee on the Judiciary Subcommittee on Antitrust, Commercial, and Administrative Law [Letter to David Cicilline]. https://docs.house.gov/meetings/JU/JU05/20210211/111171/HHRG-117-JU05-Wstate-GillesM-20210211.pdf
+
 # Class Actions
 
 ## Law Journal And Academic Articles
