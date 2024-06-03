@@ -169,9 +169,10 @@ In summary, the evidence to dates suggests that there is little reason to believ
 
 1. Chapter 1 Preliminary Issues. (2020). In David Seligman & Karla Gilbride, Consumer Arbitration Agreements: Consumer Law Practice (8th ed.). National Consumer Law Center. https://library.nclc.org/book/consumer-arbitration-agreements/12a14-agreement-applicable-dispute-and-both-parties
 
-## Resources
+## General Legal
 
-1. [Overcoming the Latest Supreme Court Arbitration Decision](https://library.nclc.org/article/overcoming-latest-supreme-court-arbitration-decision)
+1. Dell C. "D C. " Toedt III. (2017, April 20). Arbitrator Style and Preferences — My Questionnaire Responses. On Contracts. https://www.oncontracts.com/arb-prefs/
+1. Jonathan Sheldon. (2023, July 17). Overcoming the Latest Supreme Court Arbitration Decision | NCLC Digital Library. https://library.nclc.org/article/overcoming-latest-supreme-court-arbitration-decision#content-1
 1. CFPB Study Finds That Arbitration Agreements Limit Relief for Consumers. (2015). [Fact sheet]. Consumer Financial Protection Bureau. https://files.consumerfinance.gov/f/201503_cfpb_factsheet_arbitration-study.pdf
 
 ## Arbitration Provider Rules
@@ -183,10 +184,6 @@ In summary, the evidence to dates suggests that there is little reason to believ
 ## Definitions
 
 1. Kangaroo Court—Black’s Law Dictionary—Ninth Edition. (2009). In Bryan A. Garner (Ed.), Black’s Law Dictionary (Ninth Edition, p. 409). WEST - Thomson Reuters.
-
-## Drafting
-
-1. Dell C. "D C. " Toedt III. (2017, April 20). Arbitrator Style and Preferences — My Questionnaire Responses. On Contracts. https://www.oncontracts.com/arb-prefs/
 
 ## Letters
 
