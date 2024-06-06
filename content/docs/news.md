@@ -10,6 +10,8 @@ weight: 10000
 |
 1. Tony Oncidi & Laura Vaughn. (2024, May 28). Anti-Arbitration Statute Gets Zapped! California Employment Law Update. https://calemploymentlawupdate.proskauer.com/2024/05/anti-arbitration-statute-gets-zapped/
 
+1. Kimberly Marselas. (2024, May 21). Widely used ‘secrecy’ clauses under fire in nursing home arbitration case. McKnight’s Long-Term Care News. https://www.mcknights.com/news/widely-used-secrecy-clauses-under-fire-in-nursing-home-arbitration-case/
+
 1. Rideshare companies ask justices to reexamine California worker-protection law. (2024, April 10). SCOTUSblog. https://www.scotusblog.com/2024/04/rideshare-companies-ask-justices-to-reexamine-california-worker-protection-law/
 
 1. Lewis L. Maltby & Theodore J. St. Antoine. (2024, May 9). Congress could soon spell the end of employment arbitration—but it’s not all good news for American workers. Fortune. https://fortune.com/2024/05/09/congress-end-employment-arbitration-american-workers-careers-politics/
