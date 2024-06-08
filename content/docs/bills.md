@@ -69,6 +69,7 @@ There have been many attempts to fix the problems. This table lists some of them
 | Title | State | Summary |
 | ----------- | ----------- | --- |
 | [California Fair Pay and Employer Accountability Act](https://oag.ca.gov/system/files/initiatives/pdfs/21-0027A1%20%28Employee%20Civil%20Action%29.pdf) | CA | changes to PAGA law |
+| [SB-940 Civil disputes](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB940) | CA | many improvements to arb requirements for contracts |
 
 # Congressional Hearings
 
