@@ -49,6 +49,10 @@ Adjudication carries with it the right of appeal, including full review of the t
 
 The FAA has been misinterpreted to preempt state level over contract law. [^newarb1] [^schwartzcorrecting] [^newarb7] However, the state can't be compelled to be a party to the contract. This means that statutory civil penalties for violations of consumer protection and employment laws, together with a Qui Tam mechanism to permit private enforcement of those penalties, offers an unorthodox but possibly fruitful alternative to achieving the deterrent effect of class proceedings. [^skincat1]
 
+# Revocability
+
+One simple fix for arbitration is to allow the _customer_ or _employee_ to revoke their consent at any time - but not the corporation. This would allow for arbitration to remain as an option - while encouraging the agreements to become fair.
+
 # Footnotes
 
 [^realright1]: Ryan Schimmel. (2023). A Real Right to Litigate: Dismantling Mandatory Arbitration and the Restoring Justice for Workers Act. SETON HALL LEGISLATIVE JOURNAL, 47 pp 106
