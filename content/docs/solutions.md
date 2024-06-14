@@ -53,6 +53,8 @@ The FAA has been misinterpreted to preempt state level over contract law. [^newa
 
 One simple fix for arbitration is to allow the _customer_ or _employee_ to revoke their consent at any time - but not the corporation. This would allow for arbitration to remain as an option - while encouraging the agreements to become fair.
 
+I have not seen anyone else propose this change.
+
 # Footnotes
 
 [^realright1]: Ryan Schimmel. (2023). A Real Right to Litigate: Dismantling Mandatory Arbitration and the Restoring Justice for Workers Act. SETON HALL LEGISLATIVE JOURNAL, 47 pp 106
