@@ -601,8 +601,9 @@ arb that precludes ERISA plan-wide relief under Section 502(a) not enforceable
 
 ## HomeServices of America, Inc., et al., Petitioners v. Scott Burnett, et al.
 
-Supreme Court Log: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-840.html
-Status: Cert Denied
+Status: **Certiorari rejected**
+
+- [Supreme Court Docket](https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-840.html)
 
 # California
 
