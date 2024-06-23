@@ -6,7 +6,7 @@ weight: 10000
 
 # News
 
-1. Frankel, A., & Frankel, A. (2024, June 20). In Live Nation case, appeals court mulls mass arbitration breakthrough. Reuters. https://www.reuters.com/legal/litigation/column-live-nation-case-appeals-court-mulls-mass-arbitration-breakthrough-2024-06-20/
+1. Frankel, A. (2024, June 20). In Live Nation case, appeals court mulls mass arbitration breakthrough. Reuters. https://www.reuters.com/legal/litigation/column-live-nation-case-appeals-court-mulls-mass-arbitration-breakthrough-2024-06-20/
 
 1. : Matthew D. Craig. (2024, June 13). California Appeals Court Holds Arbitration Agreement Unenforceabl. The National Law Review. https://natlawreview.com/article/california-appeals-court-finds-employers-arbitration-agreement-cost-sharing-and-out
 
