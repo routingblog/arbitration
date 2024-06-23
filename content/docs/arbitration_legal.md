@@ -608,9 +608,12 @@ Status: Cert Denied
 
 ## In re Uber Technologies Wage and Hour Cases
 
+Status: **Certiorari rejected**
+
 One Liner: The People and the Labor Commissioner are not parties to those arbitration agreements.
 
-- [Justia](https://law.justia.com/cases/california/court-of-appeal/2023/a166355.html)
+- [Supreme Court Docket](https://www.supremecourt.gov/docket/docketfiles/html/public/23-645.html)
+- [SCOTUSBlog](https://www.scotusblog.com/case-files/cases/uber-technologies-inc-v-gregg-2/)
 
 # Footnotes
 
