@@ -4,6 +4,8 @@ type: docs
 weight: 10000
 ---
 
+test
+
 # News
 
 1. Frankel, A. (2024, June 20). In Live Nation case, appeals court mulls mass arbitration breakthrough. Reuters. https://www.reuters.com/legal/litigation/column-live-nation-case-appeals-court-mulls-mass-arbitration-breakthrough-2024-06-20/
