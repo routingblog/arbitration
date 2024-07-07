@@ -51,7 +51,7 @@ Stated somewhat differently, there should be a type of presumption, similar to t
 Corporations view the gap in bargaining power between themselves and individuals as an opportunity to engage in an arbitrage of the law. With each edit, law firms strengthen arbitration provisions to survive courts’ skeptical analyses and handcuff claimants to an arbitrator’s largely unreviewable and peripherally biased decision.
 {{< /details >}}
 
-    Note: some of the most practical options for what it is likely to pass congress for fixing the [problems]({{< relref "/problems" >}})
+    Note: some of the most practical options for what it is likely to pass congress for fixing the [problems]({{< relref "problems" >}})
 1. Cain, R. M. (1988). Commercial Disputes and Compulsory Arbitration. The Business Lawyer, 44(1), 65–84. https://www.jstor.org/stable/40687165
 
     {{< details "Cain - Commercial Disputes and Compulsory Arbitration - Conclusion" >}}
