@@ -6,6 +6,8 @@ weight: 10000
 
 # News
 
+1. Widower rejects claim that Disney+ membership means he can’t sue for wrongful death. (2024, August 13). Law & Crime. https://lawandcrime.com/lawsuit/borders-on-the-absurd-dead-womans-estate-rejects-disneys-claim-that-widowers-disney-membership-means-wrongful-death-lawsuit-must-be-arbitrated/
+
 1. Frankel, A. (2024, June 20). In Live Nation case, appeals court mulls mass arbitration breakthrough. Reuters. https://www.reuters.com/legal/litigation/column-live-nation-case-appeals-court-mulls-mass-arbitration-breakthrough-2024-06-20/
 
 1. : Matthew D. Craig. (2024, June 13). California Appeals Court Holds Arbitration Agreement Unenforceabl. The National Law Review. https://natlawreview.com/article/california-appeals-court-finds-employers-arbitration-agreement-cost-sharing-and-out
