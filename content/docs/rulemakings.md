@@ -39,7 +39,7 @@ Title: Registry of Supervised Nonbanks that Use Form Contracts to Impose Terms a
 
 Truth in Lending Act (Regulation Z); Loan Originator Compensation
 
-https://www.federalregister.gov/documents/2013/02/15/2013-01503/loan-originator-compensation-requirements-under-the-truth-in-lending-act-regulation-z
+- https://www.federalregister.gov/documents/2013/02/15/2013-01503/loan-originator-compensation-requirements-under-the-truth-in-lending-act-regulation-z
 
 ## Centers for Medicare & Medicaid Services
 
@@ -55,8 +55,8 @@ Defense Federal Acquisition Regulation Supplement; Restrictions on the Use of Ma
 
 A Rule by the Defense Acquisition Regulations System on 2010-12-08
 
-[Federal Register Rule - DFARS Case 2010-D004](https://www.federalregister.gov/documents/2010/12/08/2010-30669/defense-federal-acquisition-regulation-supplement-restrictions-on-the-use-of-mandatory-arbitration)
-[Regulation Comments](https://www.regulations.gov/docket/DARS-2010-0059)
+- [Federal Register Rule - DFARS Case 2010-D004](https://www.federalregister.gov/documents/2010/12/08/2010-30669/defense-federal-acquisition-regulation-supplement-restrictions-on-the-use-of-mandatory-arbitration)
+- [Regulation Comments](https://www.regulations.gov/docket/DARS-2010-0059)
 
 ## Department Of Labor -  Employment and Training Administration
 
@@ -64,7 +64,7 @@ A Rule by the Defense Acquisition Regulations System on 2010-12-08
 
 Improving Protections for Workers in Temporary Agricultural Employment in the United States
 
-[Regulation Comments](https://www.regulations.gov/docket/ETA-2023-0003)
+- [Regulation Comments](https://www.regulations.gov/docket/ETA-2023-0003)
 
 ## U.S. Department of Education - Federal Student Aid
 
@@ -72,7 +72,5 @@ Improving Protections for Workers in Temporary Agricultural Employment in the Un
 
 Full Name: Final Regulations: Borrower Defense to Repayment, Pre-dispute Arbitration, Interest Capitalization, Total and Permanent Disability Discharges, Closed School Discharges, Public Service Loan Forgiveness, and False Certification Discharges
 
-[FSA Partners website](https://fsapartners.ed.gov/knowledge-center/library/federal-registers/2022-11-01/final-regulations-borrower-defense-repayment-pre-dispute-arbitration-interest-capitalization-total-and-permanent-disability-discharges-closed-school-discharges-public-service-loan-forgiveness-and)
-[Federal Register Regulation](https://www.federalregister.gov/documents/2022/11/01/2022-23447/institutional-eligibility-under-the-higher-education-act-of-1965-as-amended-student-assistance)
-
-https://fsapartners.ed.gov/knowledge-center/library/federal-registers/2022-11-01/final-regulations-borrower-defense-repayment-pre-dispute-arbitration-interest-capitalization-total-and-permanent-disability-discharges-closed-school-discharges-public-service-loan-forgiveness-and
+- [FSA Partners website](https://fsapartners.ed.gov/knowledge-center/library/federal-registers/2022-11-01/final-regulations-borrower-defense-repayment-pre-dispute-arbitration-interest-capitalization-total-and-permanent-disability-discharges-closed-school-discharges-public-service-loan-forgiveness-and)
+- [Federal Register Regulation](https://www.federalregister.gov/documents/2022/11/01/2022-23447/institutional-eligibility-under-the-higher-education-act-of-1965-as-amended-student-assistance)
