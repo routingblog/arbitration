@@ -24,7 +24,7 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - The underlying issue with forced arbitration is the imbalance of power. [^xu1]
 
-- Arbitration, when passed, was designed for contract disputes between merchants, not statutory claims or between entities of unequal bargaining power. [^creeping1] [^comm] [^rustic] [^newarb2] In fact members of Congress expressly disavowed touching either consumer or employment contracts - and even went so far as to make that explicit with respect to employment. [^scaliaclass1] Julius Henry Cohen, the author of United States Arbitration Act,testified that the bill would be applicable in federal courts only. [^keating1] [^newarb4]
+- Arbitration, when passed, was designed for contract disputes between merchants, not statutory claims or between entities of unequal bargaining power. [^creeping1] [^comm] [^rustic] [^newarb2] In fact members of Congress expressly disavowed touching either consumer or employment contracts - and even went so far as to make that explicit with respect to employment. [^scaliaclass1] Julius Henry Cohen, the author of United States Arbitration Act, testified that the bill would be applicable in federal courts only. [^keating1] [^newarb4]
 
 - Arbitration, as practiced, is unique to the United States [^cain2]
 
