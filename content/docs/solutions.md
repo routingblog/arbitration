@@ -51,7 +51,7 @@ The FAA has been misinterpreted to preempt state level over contract law. [^newa
 
 # Revocability
 
-One simple fix for arbitration is to allow the _customer_ or _employee_ to revoke their consent at any time - but not the corporation. This would allow for arbitration to remain as an option - while encouraging the agreements to become fair.
+One simple fix for arbitration is to allow the _customer_ or _employee_ to revoke their consent at any time - but not the corporation. This would allow for arbitration to remain as an option - while encouraging the agreements to become fair. This is a type of [Fair cake-cutting](https://en.wikipedia.org/wiki/Fair_cake-cutting).
 
 I have not seen anyone else propose this change.
 

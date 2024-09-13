@@ -113,7 +113,7 @@ EFASASHA is incomplete, but a good start. The FAIR Act provides a strong potion 
 1. Ryan Schimmel. (2023). A Real Right to Litigate: Dismantling Mandatory Arbitration and the Restoring Justice for Workers Act. SETON HALL LEGISLATIVE JOURNAL, 47.
 1. Drahozal, C. (2006). Is Arbitration Lawless. Loyola of Los Angeles Law Review, 40(1), 187. https://digitalcommons.lmu.edu/llr/vol40/iss1/5
 
-    This is the strongest "pro-arbitration" note so far. Even so, it merely states that there is "little emperical evidence" that arbitrators don't follow the law and has other fairly weak claims.
+    This is one of the stronger "pro-arbitration" note so far. Even so, it merely states that there is "little emperical evidence" that arbitrators don't follow the law and has other fairly weak claims.
 
     {{< details "Drahozal - Lawless - Conclusion" >}}
 Clearly more research is needed to evaluate the extent to which arbitration actually is "lawless." The research to date, however, suggests that perhaps arbitration is less lawless than is sometimes feared.
@@ -128,6 +128,9 @@ The Supreme Court’s jurisprudential commitment to arbitration remains strong e
     {{< /details >}}
 1. Reginald Alleyne. (2003). Arbitrators’ Fees: The Dagger in the Heart of Mandatory Arbitration for Statutory Discrimination Claims. 6.
 1. Deepak Gupta & Lina Khan. (2017). Arbitration as Wealth Transfer. Policy Review, 35, 499–520.
+1. Harry C. Katz, David Sherwyn, & Paul Wagner. (2023). Congress Was Wrong: Arbitration Is More Plaintiff-Friendly than Litigation, and We Can Make It Even More Just. ABA Journal of Labor and Employment Law, 37, 309. https://www.americanbar.org/content/dam/aba/publications/aba_journal_of_labor_employment_law/v37/number-3/jlel-vol37-no3-3.pdf
+
+    This is one of the stronger "pro-arbitration" notes. Even so, it proposes some radical reforms and does not defend the current system.
 
 ## Position Papers or Private Groups
 

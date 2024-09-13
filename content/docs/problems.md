@@ -6,7 +6,7 @@ weight: 1
 
 # Introduction
 
-Mandatory arbitration is a practice in which a business requires employees or consumers to agree to arbitrate legal disputes with the business rather than going to court. Such agreements are generally enforceable and effectively bar employees or consumers from going to court, instead diverting legal claims into an arbitration procedure that is established by the agreement drafted by the company and required as a condition of employment or of doing business with it.  The claim is these processes are cheaper, faster, and more efficient, while remaining fair. In reality they serve to eliminate meaningful recourse for violations of contract or of the law.
+Arbitration is a form of <abbr title="Alternative Dispute Resolution">ADR</abbr> which litigates disutes outside of the formal court machinery. Mandatory arbitration is a practice in which a business requires employees or consumers to agree to arbitrate legal disputes with the business rather than going to court. Such agreements are generally enforceable and effectively bar employees or consumers from going to court, instead diverting legal claims into an arbitration procedure that is established by the agreement drafted by the company and required as a condition of employment or of doing business with it.  The claim is these processes are cheaper, faster, and more efficient, while remaining fair. In reality they serve to eliminate meaningful recourse for violations of contract or of the law.
 
 # Problems
 
@@ -38,8 +38,6 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - In civil court the attorneys could have sanctions against them if they pointlessly delay the proceedings. Less so arbitration.
 
-- We have little empirical verification of the claims made both for and against arbitration and ADR, including positive assertions made about reduced cost, speed, and access to dispute mechanisms. [^galanterhaves3] The little empirical data we have consistently shows an anti-employee bias.  Basic questions such as the typical characteristics and outcomes of cases in employment arbitration remain to be definitively answered. [^colvinempirical1]
-
 - Comparing outcomes in litigation and arbitration actually underestimates the regressive effect, since it fails to capture individuals dissuaded from initiating action altogether. [^wealthxfer5]
 
 - Where the employee was self-represented the employee win rate was substantially smaller versus cases where the employee was represented by counsel. Award amounts are also smaller. [^colvinempirical7] This counters the argument that arbitration may reduce the need for attorneys.
@@ -51,6 +49,12 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 - Empirical Data is hard to obtain. [^rand1] Companies may not provide relevant information to consumers even when legally required. [^rand2]
 
 - Forced arbitration clauses and class action bans are now a basic feature of form contracts [^wealthxfer3]
+
+# Empirical Data & Research
+
+- We have little empirical verification of the claims made both for and against arbitration and ADR, including positive assertions made about reduced cost, speed, and access to dispute mechanisms. [^galanterhaves3] The little empirical data we have consistently shows an anti-employee bias.  Basic questions such as the typical characteristics and outcomes of cases in employment arbitration remain to be definitively answered. [^colvinempirical1]
+
+- Although the plaintiff compensation rate would be very instructive of the role of litigation, because of a lack of data, it cannot be computed from prior research [^congresswrong4]
 
 # Claim Suppression
 
@@ -130,7 +134,7 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - Investment advisers are not required to disclose information about arbitrations with their clients. [^secreport]
 
-# Class Actions
+# Class Actions {id="class-actions"}
 
 - Arbitration provisions regularly include class action waivers, and since there is a cost to arbitration, bringing a single claim can be detrimental. [^realright1]
 
@@ -226,7 +230,9 @@ Why do some contracts of adhesion have opt-out clauses?
 While mass arbitration has been used as a tool to help even the playing field it has several problems:
 
 - It requires that the law firm do the marketing and outreach to find affected employees or consumers. In a class action court case this happens as a part of discovery.
+
 - It requires that affected individuals affirmatively sign up instead of allowing for representative actions.
+
 - This is especially a concern since people may be worried by real or perceived risk of affirmatively signing up.
 
 # Anti-SLAPP
@@ -251,7 +257,23 @@ Arbitration has special carve outs in the law that make them unique amongst othe
 
 - Arbitration clauses must be enforced even when they are part of an illegal contract. [^wealthxfer1] [^rentacentercase]
 
-# Possible Advantages
+# Anti Trust
+
+- Proving antitrust damages requires costly economic analysis, private plaintiffs generally cannot bring suits unless they can split expenses, be it through joining as a class or sharing costs some other way. By allowing class action waivers to stand in [Italian Colors]({{< relref "arbitration_legal#amex-v-italian-colors" >}}) the monopolist gets to use its monopoly power to insist on a contract effectively depriving its victims of all legal recourse. [^wealthxfer6] [^itcolors1]
+
+# Even Its Proponents Want To Change It
+
+- Even consumer-oriented proponents of arbitration or other forms of ADR want to reform it rather than keep the system as-is. [^congresswrong1]
+
+- The proponents of arbitration to resolve disputes do not address class-action waivers. [^congresswrong2]
+
+# Regulatory Authorities
+
+Some have argued that regulatory authorities are better positioned to resolve systematic issues instead of relying on [class actions]({{< relref "#class-actions" >}}) class-actions or similar actions.
+
+- The EEOC does not have sufficient resources to litigate the majority of cases. [^congresswrong3]
+
+# Possible Advantages or Arguments in Favour
 
 While arbitration is generally negative for both employees and consumers there is a little bit of silver lining.
 
@@ -271,15 +293,31 @@ While arbitration is generally negative for both employees and consumers there i
 
 - Court records are typically public. Arbitration proceedings are often confidential as a matter of practice or even contract. A lawsuit may bring embarassing or personal topics into the public record.
 
+## Due Process Protocols
+
+- Some providers have minimum protocols to enforce 'due process' and this may be enforced by the courts. [^fn1]
+
+## The Courts Aren't Better
+
+- The current system for resolving employment claim emanates from a tort-based litigation system. Unlike torts, employment disputes are not only inevitable, but they are also, in some ways, healthy. Disputes can raise issues that need to be corrected at the workplace. Disputes are best resolved at the lowest level with minimal involvement from outsiders. [^congresswrong2]
+
 # Document Limitations
 
 This document has a few limitations and biases.
 
+## Missing Specificity
+
 - Many of the studies or analysis of arbitration don't differentiate between forced consumer mandatory arbitration, labour arbitration, collective bargaining agreements, or even between businesses. To the extent possible this document tries to focus on and cite details that are either generally true or that focus specifically on consumer and non-collective labour contracts.
 
-# Anti Trust
+## The Research Is Wrong
 
-- Proving antitrust damages requires costly economic analysis, private plaintiffs generally cannot bring suits unless they can split expenses, be it through joining as a class or sharing costs some other way. By allowing class action waivers to stand in [Italian Colors]({{< relref "arbitration_legal#amex-v-italian-colors" >}}) the monopolist gets to use its monopoly power to insist on a contract effectively depriving its victims of all legal recourse. [^wealthxfer6] [^itcolors1]
+- Much of the research about arbitration may be wrong in ways that invalidate the claims on this page. For example, some research "fail to include dispositive motions in their analysis". [^congresswrong1]
+
+- Since arbitration is faster than litigation, there may be less backpay. This makes direct comparisons more difficult. [^congresswrong4]
+
+## Labor Contracts Use Arbitration
+
+- Unions and management often conflict, almost all will agree that grievance and arbitration procedures facilitate conflict resolution in an efficient and effective manner. Of course, the union grievance arbitration system has two parties of relatively equal power, while there is no organization representing the individual employee in employment arbitration. [^congresswrong2]
 
 # References and Footnotes
 
@@ -494,3 +532,13 @@ This document has a few limitations and biases.
 [^secreport]: Stacy Puente. (2023). Mandatory Arbitration among SEC-Registered Investment Advisers. U.S. Securities and Exchange Commission | Office of the Investor Advocate.
 
 [^gillesletter]: Myriam Gilles. (2021, February 9). Testimony Before the House Committee on the Judiciary Subcommittee on Antitrust, Commercial, and Administrative Law [Letter to David Cicilline]. https://docs.house.gov/meetings/JU/JU05/20210211/111171/HHRG-117-JU05-Wstate-GillesM-20210211.pdf
+
+[^congresswrong1]: Harry C. Katz, David Sherwyn, & Paul Wagner. (2023). Congress Was Wrong: Arbitration Is More Plaintiff-Friendly than Litigation, and We Can Make It Even More Just. ABA Journal of Labor and Employment Law, 37, 309. https://www.americanbar.org/content/dam/aba/publications/aba_journal_of_labor_employment_law/v37/number-3/jlel-vol37-no3-3.pdf (pp310)
+
+[^congresswrong2]: "Congress Was Wrong" supra pp 313
+
+[^congresswrong3]: "Congress Was Wrong" supra pp 317
+
+[^congresswrong4]: "Congress Was Wrong" supra pp 322
+
+[^fn1]: This is currently unsourced as the author has not yet had a chance to fully read through the complete documents. Nonetheless it is better to keep all arguments against this page in order to ensure that they are addressed.
