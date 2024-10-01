@@ -1,5 +1,5 @@
 ---
-title: Basic Problems
+title: Pros and Cons
 type: docs
 weight: 1
 ---
