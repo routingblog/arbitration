@@ -13,6 +13,12 @@ Arbitration is often heralded as a cheaper, faster, and more efficient mechanism
 
 The goal of this website is to discuss _forced arbitration_ and _class action waivers_ in _consumer_ and _employment_ disputes. Other aspects of arbitration are discussed mostly in the context of how they affect these two pieces of the puzzle.
 
+This site specifically excludes post-dispute arbitration. It also excludes attorney fee arbitration programs as administrated by state bar associations.
+
+# Bias
+
+It is a goal that this site have comprehensive and complete information about pre-dispute arbitration agreements. It isn't intended to be biased in either direction except as the facts may lay out. To the extent that bias exists, the aim is in favour of fairness and consumer rights (rather than about arbitration per se).
+
 # Footnotes
 
 [^colvin1]: Colvin, A. J. S. (2018). The growing use of mandatory arbitration (144131; pp. 1–17). Economic Policy Institute. pp 1
