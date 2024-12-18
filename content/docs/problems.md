@@ -72,7 +72,7 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - A CFPB consumer survey found that 79% of consumers didn’t know whether any credit card agreements they signed had an arbitration clause, and only 7% understood that they could not sue their credit card issuer if their contract did include such a clause. [^gilles6]
 
-- Any _individual_ signer of any _individual_ "agreement" often has no other choice if they wish to get a job, to establish a credit history, or even cell phone service. [^glover1]
+- Any _individual_ signer of any specific "agreement" often has no other choice if they wish to get a job, to establish a credit history, or even cell phone service. [^glover1]
 
 - Concentration at the firm level has handed a relatively small number of companies outsized influence over the contractual terms that govern most transactions. This same consolidation has further tilted the balance of power away from workers and consumers, rendering them largely captive to whatever contractual terms businesses choose to impose. [^wealthxfer2]
 
