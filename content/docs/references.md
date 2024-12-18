@@ -4,9 +4,15 @@ type: docs
 weight: 100
 ---
 
-# Arbitration
+# References
 
-## Law Journal And Academic Articles
+{{< notice note >}}
+This page includes only references which I've read in full - including every footnote. There are many more which I've not yet read. It will be updated the backlog is worked through.
+{{< /notice >}}
+
+## Arbitration
+
+### Law Journal And Academic Articles
 
 1. Alcolea, L. C. (2022). Arbitration and the Right to Have Your Day in Court: Meeting Again at the Turning of the Tide. Pepperdine Dispute Resolution Law Journal, 22(2), 539–580. https://digitalcommons.pepperdine.edu/drlj/vol22/iss2/6/
 
@@ -132,7 +138,7 @@ The Supreme Court’s jurisprudential commitment to arbitration remains strong e
 
     This is one of the stronger "pro-arbitration" notes. Even so, it proposes some radical reforms and does not defend the current system.
 
-## Position Papers or Private Groups
+### Position Papers or Private Groups
 
 1. Katherine V.W. Stone & Alexander J.S. Colvin. (2015). The arbitration epidemic: Mandatory arbitration deprives workers and consumers of their rights (Briefing Paper 414). Economic Policy Institute. https://www.epi.org/publication/the-arbitration-epidemic/
 1. Colvin, A. J. S. (2018). The growing use of mandatory arbitration (144131; pp. 1–17). Economic Policy Institute.
@@ -146,12 +152,12 @@ In summary, the evidence to dates suggests that there is little reason to believ
     {{< /details >}}
 1. Myriam Gilles. (2024, April 8). Small Print, Big Impact: Examining the Effects of Forced Arbitration. https://www.judiciary.senate.gov/imo/media/doc/2024-04-09_-_testimony_-_gilles.pdf
 
-## Reports
+### Reports
 
 1. Wells Fargo and Forced Consumer Arbitration. (2017). Level Playing Field. http://fairarbitrationnow.org/wp-content/uploads/LPF-Wells-Fargo-Report-September-2017-Update.pdf
 1. Stacy Puente. (2023). Mandatory Arbitration among SEC-Registered Investment Advisers. U.S. Securities and Exchange Commission | Office of the Investor Advocate.
 
-## Blog Post
+### Blog Post
 
 1. https://www.sheppardmullin.com/media/publication/1909_Class%20Actions_Arbitration%20Agreements%20and%20Class%20Action%20Waivers%20_Federal,%20CA_.pdf
 1. https://civilrights.org/resource/support-h-r-963-the-forced-arbitration-injustice-repeal-fair-act/#
@@ -168,47 +174,47 @@ In summary, the evidence to dates suggests that there is little reason to believ
 1. Emil. (2023, April 21). Arbitration Agreements: Don’t Sign Pre-Dispute Arbitration Agreements - CANHR. California Advocates For Nursing Home Reform. https://canhr.org/arbitration-agreements-dont-sign-agreements/, https://canhr.org/arbitration-agreements-dont-sign-agreements/
 1. Dominic Charles. (2023, February 28). What Would the End of McCarran-Ferguson Mean for Arbitration? The Arbitration Brief. https://thearbitrationbrief.com/2023/02/28/what-would-the-end-of-mccarran-ferguson-mean-for-arbitration/
 
-## Books
+### Books
 
 1. Chapter 1 Preliminary Issues. (2020). In David Seligman & Karla Gilbride, Consumer Arbitration Agreements: Consumer Law Practice (8th ed.). National Consumer Law Center. https://library.nclc.org/book/consumer-arbitration-agreements/12a14-agreement-applicable-dispute-and-both-parties
 
-## General Legal
+### General Legal
 
 1. Dell C. "D C. " Toedt III. (2017, April 20). Arbitrator Style and Preferences — My Questionnaire Responses. On Contracts. https://www.oncontracts.com/arb-prefs/
 1. Jonathan Sheldon. (2023, July 17). Overcoming the Latest Supreme Court Arbitration Decision | NCLC Digital Library. https://library.nclc.org/article/overcoming-latest-supreme-court-arbitration-decision#content-1
 1. CFPB Study Finds That Arbitration Agreements Limit Relief for Consumers. (2015). [Fact sheet]. Consumer Financial Protection Bureau. https://files.consumerfinance.gov/f/201503_cfpb_factsheet_arbitration-study.pdf
 
-## Arbitration Provider Rules
+### Arbitration Provider Rules
 
 1. Employment Arbitration Minimum Standards | JAMS Mediation, Arbitration, ADR Services. (2009, July 15). https://www.jamsadr.com/employment-minimum-standards/
 1. Consumer Arbitration Minimum Standards | JAMS Mediation, Arbitration, ADR Services. (2009, July 15). https://www.jamsadr.com/consumer-minimum-standards/
 1. Consumer Minimum Standards | JAMS Mediation, Arbitration, ADR Services. (2020, February 13). JAMS. https://archive.is/lAHgf
 
-## Definitions
+### Definitions
 
 1. Kangaroo Court—Black’s Law Dictionary—Ninth Edition. (2009). In Bryan A. Garner (Ed.), Black’s Law Dictionary (Ninth Edition, p. 409). WEST - Thomson Reuters.
 
-## Letters
+### Letters
 
 1. Myriam Gilles. (2021, February 9). Testimony Before the House Committee on the Judiciary Subcommittee on Antitrust, Commercial, and Administrative Law [Letter to David Cicilline]. https://docs.house.gov/meetings/JU/JU05/20210211/111171/HHRG-117-JU05-Wstate-GillesM-20210211.pdf
 
-# Class Actions
+## Class Actions
 
-## Law Journal And Academic Articles
+### Law Journal And Academic Articles
 
 1. Scheuerman, S. B. (2009). Due Process Forgotten: The Problem of Statutory Damages and Class Actions. Missouri Law Review, 74.
 1. Fitzpatrick, B. T. (2017). Justice Scalia and Class Actions. Notre Dame Law Review, 92, 1977. https://scholarship.law.vanderbilt.edu/faculty-publications/586
 
-# Background Reading
+## Background Reading
 
 This is a selection of relevent reading without directly opining on arbitration (or class actions):
 
 1. Marc Galanter. (1974). Why the ‘Haves’ Come out Ahead: Speculations on the Limits of Legal Change. Law & Society Review, 9(1), 95–160. https://doi.org/10.2307/3053023
 
 <!--
-# Additional References
+## Additional References
 
-## Law Journal And Academic Articles
+### Law Journal And Academic Articles
 
 1. Knapp, C. L. (2002). Taking Contracts Private: The Quiet Revolution in Contract Law. Fordham Law Review, 71(3), 761–798. (unread)
 
@@ -284,11 +290,11 @@ city.
 1. Reuben, R. C. (2005). Confidentiality in Arbitration: Beyond the Myth. University of Kansas Law Review, 54, 1255. https://heinonline.org/HOL/Page?handle=hein.journals/ukalr54&id=1265&div=&collection= (unread)
 1. Ware, S. J. (n.d.). Contractual Arbitration, Mandatory Arbitration, and State Constitutional Jury-Trial Rights. 38. (unread)
 
-## Arbitration Provider Rules
+### Arbitration Provider Rules
 
 1. Employment Arbitration Rules and Mediation Procedures. (2017). American Arbitration Association. (unread)
 
-# Footnotes
+## Footnotes
 
 1. Revised Uniform Arbitration Act (“RUAA”)
 -->

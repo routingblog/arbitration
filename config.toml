@@ -2,7 +2,7 @@ baseURL = 'https://arbitrationinformation.org/'
 languageCode = 'en-us'
 title = 'Arbitration Information'
 
-theme = ["hugo-book", "hugo-shortcode-roneo-collection"]
+theme = ["hugo-notice", "hugo-book", "hugo-shortcode-roneo-collection"]
 
 # (Optional) Set this to true to enable 'Last Modified by' date and git author
 #  information on 'doc' type pages.
