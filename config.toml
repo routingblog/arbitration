@@ -12,6 +12,8 @@ refLinksErrorLevel = "ERROR"
 
 enableRobotsTXT = true
 
+sectionPagesMenu = 'main'
+
 # https://themes.gohugo.io/themes/hugo-book/
 
 [params]
@@ -22,6 +24,8 @@ enableRobotsTXT = true
   # Optional, experimental
   BookServiceWorker = true
   Description = 'Detailed legal information about arbitration'
+  BookSection = 'docs'
+
 [markup]
   [markup.tableOfContents]
     endLevel = 2
@@ -33,4 +37,3 @@ enableRobotsTXT = true
 [taxonomies]
   category = 'categories'
   tag = 'tags'
-  case = 'cases'
