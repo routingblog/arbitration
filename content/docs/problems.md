@@ -6,13 +6,13 @@ weight: 1
 
 # Introduction
 
-Arbitration is a form of <abbr title="Alternative Dispute Resolution">ADR</abbr> which litigates disutes outside of the formal court machinery. Mandatory arbitration is a practice in which a business requires employees or consumers to agree to arbitrate legal disputes with the business rather than going to court. Such agreements are generally enforceable and effectively bar employees or consumers from going to court, instead diverting legal claims into an arbitration procedure that is established by the agreement drafted by the company and required as a condition of employment or of doing business with it.  The claim is these processes are cheaper, faster, and more efficient, while remaining fair. In reality they serve to eliminate meaningful recourse for violations of contract or of the law.
+Arbitration is a form of {{< gloss/abbrx "ADR" >}} which litigates disutes outside of the formal court machinery. Mandatory arbitration is a practice in which a business requires employees or consumers to agree to arbitrate legal disputes with the business rather than going to court. Such agreements are generally enforceable and effectively bar employees or consumers from going to court, instead diverting legal claims into an arbitration procedure that is established by the agreement drafted by the company and required as a condition of employment or of doing business with it.  The claim is these processes are cheaper, faster, and more efficient, while remaining fair. In reality they serve to eliminate meaningful recourse for violations of contract or of the law.
 
 # Problems
 
 Pre-Dispute Arbitration agreements force people into a form of 'Rustic Justice' whose primary purpose to evade meaningful accountability for violations of contract or statutory rights. It has no place in consumer or employment contracts of adhesion.
 
-The Supreme Court has repeatedly ignored the plain meaning of the statutes, congressional intent in writing the <abbr title="Federal Arbitration Act">FAA</abbr>, as well the standard rules of statutory interpretation effectively rewriting Title 9 to invent a "national policy favoring arbitration" as a form of “do it yourself-tort reform". [^jiggery] [^schwartzcorrecting] [^gilles5] [^sternlight] [^sacredcow4] [^arbfeesdagger1]
+The Supreme Court has repeatedly ignored the plain meaning of the statutes, congressional intent in writing the {{< gloss/abbrx "FAA" >}}, as well the standard rules of statutory interpretation effectively rewriting Title 9 to invent a "national policy favoring arbitration" as a form of “do it yourself-tort reform". [^jiggery] [^schwartzcorrecting] [^gilles5] [^sternlight] [^sacredcow4] [^arbfeesdagger1]
 
 Arbitration is inherently a creature contract. The defining feature is not simplicitly or speed but rather _party agreement_. [^igonrance1] As such most of this document is in generalities and discusses typical consumer and employment contracts. It is difficult to study because only a small fraction of awards are published and awards are only a fragment of the overall proceedings. [^ruminations1] [^predict1] It is also difficult to study due to the combination of ethical issues preventing unbiased blind studies for real parties. [^realright2]
 
@@ -28,7 +28,7 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - Arbitration, as practiced, is unique to the United States [^cain2]
 
-- The FAA was intended to be a procedural remedy available in the federal courts [^newarb1]. It was never intended by the enacting Congress to apply in state court. [^schwartzcorrecting] [^newarb7] [^wealthxfer4] In fact, its constitutionality "rests upon the constitutional provision by which Congress is authorized to establish and control inferior Federal courts"... and not solely upon "upon the exercise of the interstate-commerce". [^newarb5]
+- The {{< gloss/abbrx "FAA" >}} was intended to be a procedural remedy available in the federal courts [^newarb1]. It was never intended by the enacting Congress to apply in state court. [^schwartzcorrecting] [^newarb7] [^wealthxfer4] In fact, its constitutionality "rests upon the constitutional provision by which Congress is authorized to establish and control inferior Federal courts"... and not solely upon "upon the exercise of the interstate-commerce". [^newarb5]
 
 - Arbitration requires the waiver of jury trials.  While the jury is probably still out on this issue, there is a general perception that arbitrators give smaller awards than juries. [^privateknappcite1]
 
@@ -42,7 +42,7 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - Where the employee was self-represented the employee win rate was substantially smaller versus cases where the employee was represented by counsel. Award amounts are also smaller. [^colvinempirical7] This counters the argument that arbitration may reduce the need for attorneys.
 
-- The FAA creates an incentive for entities to self-deregulate through private contract [^glover1]
+- The {{< gloss/abbrx "FAA" >}} creates an incentive for entities to self-deregulate through private contract [^glover1]
 
 - Companies may suffer adverse publicity if it is perceived as attempting to use arbitration to gain unfair advantage over its customers, vendors, or the public. Although these economic incentives toward fairness are not trivial, neither are they particularly powerful. A company’s problematic arbitration conduct is unlikely to be significantly salient to its overall customer base or the general public. [^stempelkangaroo4]
 
@@ -84,7 +84,7 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 # Historical Information
 
-- The author of the FAA said that Arbitration "was not designed to major importance involving constitutional questions or policy in the application of statute" [^newarb8]
+- The author of the {{< gloss/abbrx "FAA" >}} said that Arbitration "was not designed to major importance involving constitutional questions or policy in the application of statute" [^newarb8]
 
 - The Federal Arbitration Act was "is directed primarily toward settlement of commercial dispute" [^newarb2]
 
@@ -214,7 +214,7 @@ Why do some contracts of adhesion have opt-out clauses?
 
 # Supreme Court Errors {id=supreme-court-errors}
 
-- The [Keating]({{< relref "arbitration_legal/#southland-v-keating" >}}) decision that the FAA is intended to be substantive law rather than procedural law is wrong. [^newarb6]
+- The [Keating]({{< relref "arbitration_legal/#southland-v-keating" >}}) decision that the {{< gloss/abbrx "FAA" >}} is intended to be substantive law rather than procedural law is wrong. [^newarb6]
 
 # Kangaroo Court
 

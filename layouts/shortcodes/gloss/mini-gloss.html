@@ -1,0 +1,10 @@
+{{- $entry := (.Get 0) -}}
+
+<dl>
+{{- range sort .Site.Data.termbase "term" -}}
+    {{- if (eq .category $entry) -}}
+    <dt>{{- .term }} {{ with .abbreviation }} ({{ . -}}) {{- end -}} </dt>
+    <dd>{{- .definition -}}</dd>
+    {{- end -}}
+{{- end -}}
+</dl>
