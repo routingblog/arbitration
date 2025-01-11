@@ -7,7 +7,7 @@
   <div class="book-post-content">
     {{- .Content -}}
   </div>
-  {{range .RegularPages}}
+  {{range .RegularPages.ByWeight }}
     {{- .Content -}}
   {{end}}
 </ul>
