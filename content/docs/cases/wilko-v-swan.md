@@ -3,6 +3,7 @@ title: "Wilko v. Swan, 346 U.S. 427 (1953)"
 section: cases
 categories:
     - supremecourtcase
+weight: 1953
 ---
 
 ## Wilko v. Swan, 346 U.S. 427 (1953) #

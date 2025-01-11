@@ -3,6 +3,7 @@ title: "Shanferoke Coal & Supply Corp. v. Westchester Service Corp., 293 U.S. 44
 section: cases
 categories:
     - supremecourtcase
+weight: 1935
 ---
 
 ## Shanferoke Coal & Supply Corp. v. Westchester Service Corp., 293 U.S. 449 (1935)
