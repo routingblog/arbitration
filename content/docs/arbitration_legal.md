@@ -12,19 +12,6 @@ See [the new version of this page]({{< ref "cases" >}}).
 
 # Supreme Court Decisions
 
-## Bernhardt v. Polygraphic Co. 350 U.S. 198 (1956)
-
-{{< todo />}}
-
-## Steelworkers v. Warrior & Gulf Co., 363 U.S. 574 (1960)
-
-This primarily relates to labor arbitration (e.g. collective arbitration agreement).
-
-One Line Summary: Whether the decision to contract out work is strictly a function of management or is arbitral.
-
-- [Wikipedia](https://en.wikipedia.org/wiki/United_Steelworkers_v_Warrior_%26_Gulf_Navigation_Co)
-- [Court Opinion (Court Listener)](https://www.courtlistener.com/opinion/106085/united-steelworkers-v-warrior-gulf-navigation-co/) (unread)
-
 ## Prima Paint Corp. v. Flood & Conklin Mfg. Co., 388 US 395 (1967)
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Prima_Paint_Corp._v._Flood_%26_Conklin_Manufacturing_Co.)
@@ -114,10 +101,6 @@ One Line Summary: Sherman act anti-trust claims arising from an international ac
 - Status: Made irrelevant by [Motor Vehicle Franchise Contract Arbitration Fairness Act (15 U.S. Code § 1226)](https://www.law.cornell.edu/uscode/text/15/1226)
 
 Part of Mitsubishi trilogy which allowed arbitration to hear statutory claims.
-
-## Dean Witter Reynolds Inc. v. Byrd, 470 U.S. 213 (1985)
-
-{{< todo />}}
 
 ## Perry v. Thomas, 482 U.S. 483 (1987)
 
