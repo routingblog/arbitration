@@ -1,5 +1,5 @@
 ---
-title: "Arbitration: Court Cases (old)"
+title: "Arbitration: Other Cases"
 type: docs
 weight: 5
 slug: arbitration
