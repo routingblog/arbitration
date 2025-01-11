@@ -465,24 +465,6 @@ One Line Summary: If a second contract is silent but the parties already have an
 [SCOTUSBlog Case File](https://www.scotusblog.com/case-files/cases/coinbase-inc-v-suski/)
 [SCOTUSBlog Explanation](https://www.scotusblog.com/2024/05/courts-rather-than-arbitrators-to-decide-whether-dogecoin-dispute-goes-to-arbitration/)
 
-<!-- case template -->
-<!--
-One Line Summary: {{< todo />}}
-
-- Wikipedia: {{< todo />}} (unread)
-- Court Opinion (Court Listener): {{< todo />}} (unread)
-- Court Opinion (pdf): {{< todo />}} (unread)
-- Oyez: {{< todo />}} (unread)
-- Majority Author: {{< todo />}} (unread)
-- Concurrence: {{< todo />}} (unread)
-- Dissents: {{< todo />}} (unread)
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
--->
-
 # Non Supreme Court Federal Cases
 
 ## California Supreme Court Cases
