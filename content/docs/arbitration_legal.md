@@ -174,23 +174,6 @@ One Line Summary: Federal courts do not have subject matter jurisdiction to conf
 
 [Oyez](https://www.oyez.org/cases/2021/20-1143)
 
-## Morgan v. Sundance, Inc. 596 US _ (2022) {id="morgan-v-sundance"}
-
-One Line Summary: courts cannot create arbitration-specific procedural rules
-
-- Decision: https://www.supremecourt.gov/opinions/21pdf/21-328_m6ho.pdf
-- Author: Elena Kagan (unanimous)
-
-Core Claim (pull quote):
-
-> This Court granted certiorari to resolve the split over whether federal courts may adopt an arbitration-specific waiver rule demanding a showing of prejudice.
-> Held: ....erred in conditioning a waiver of the right to arbitrate on a showing of prejudice.
-> The text of the FAA makes clear that courts are not to create arbitration-specific procedural rules ...
-
-### Analysis
-
-See [Rosencrants]({{< relref "references#rosencrants-fn" >}}) for detailed analysis.
-
 # Non Supreme Court Federal Cases
 
 ## California Supreme Court Cases
@@ -251,7 +234,7 @@ Pull Quote (from syllabus):
 
 ### Armstrong v. Michaels Stores, Inc., 59 F.4 th 1101, 1014 (9th Cir. Feb. 13, 2023).
 
-> [Morgan]({{< relref "#morgan-v-sundance" >}}) teaches that there is no strong federal policy favoring enforcement of arbitration agreements.
+> [Morgan]({{< ref "cases/morgan-v-sundance" >}}) teaches that there is no strong federal policy favoring enforcement of arbitration agreements.
 
 #### Analysis
 
@@ -263,7 +246,7 @@ Pull Quote (from syllabus):
 
 {{< todo />}}
 
-- Status: **Effectively Reversed by [Morgan]({{< relref "#morgan-v-sundance" >}})** [^1]{{< todo />}}
+- Status: **Effectively Reversed by [Morgan]({{< ref "cases/morgan-v-sundance" >}})** [^1]{{< todo />}}
 
 ### Harrison v. Envision Holding Management Inc. Board of Directors, et al., No. 22-1098 (United States Court of Appeals for the Tenth Circuit). (2023)
 

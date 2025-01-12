@@ -79,7 +79,7 @@ In short, we think we know that the "'Haves' Come out Ahead" in ADR, as they do 
 
 1. {{< anchor id="rosencrants-fn" >}} Rosencrants, P. E. (2023). “Heads I win, tails you lose”: The End of Employers’ Exploitation of the Federal Arbitration Waiver Prejudice Requirement. MISSOURI LAW REVIEW, 87. https://scholarship.law.missouri.edu/mlr/vol87/iss4/11/
 
-    See [ Morgan v. Sundance, Inc. 596 US _ (2022)]({{< relref "#morgan-v-sundance" >}}).
+    See [ Morgan v. Sundance, Inc. 596 US _ (2022)]({{< ref "cases/morgan-v-sundance" >}}).
 
     {{< details "Rosencrants - Heads I Win - Conclusion" >}}
 While it stopped short of providing a uniform waiver analysis, the Court began to level the playing field between employees and employers bound by arbitration agreements by abolishing the prejudice requirement in waiver analysis. Employers who require job applicants to agree to mandatory arbitration begin the relationship with an imbalance of bargaining power. Employers’ use, as in Morgan, of strategic delays in invoking arbitration wrongly disadvantages employees and undermines the attributes of arbitration that Congress sought to invoke when it enacted the FAA. Removing the prejudice requirement was an important step toward safeguarding employee rights.
