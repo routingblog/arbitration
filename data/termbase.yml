@@ -4,3 +4,6 @@
 - term: ADR
   definition: Alternative Dispute Resolution
   category: legal
+- term: ADEA
+  definition: The Age Discrimination in Employment Act of 1967
+  category: legal

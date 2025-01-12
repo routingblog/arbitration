@@ -61,24 +61,6 @@ Part of Mitsubishi trilogy which allowed arbitration to hear statutory claims.
 
 Part of Mitsubishi trilogy which allowed arbitration to hear statutory claims.
 
-## Gilmer v. Interstate/Johnson Lane Corp. 500 U.S. 20 (1991)
-
-One Line Summary: An ADEA[^ADEA] claim can be subjected to compulsory arbitration.
-
-- [Wikipedia](https://en.wikipedia.org/wiki/Gilmer_v._Interstate/Johnson_Lane_Corp.)
-- [LoC Opinion](https://tile.loc.gov/storage-services/service/ll/usrep/usrep500/usrep500020/usrep500020.pdf) (unread)
-- Majority Author: Byron White
-- Dissents: John Paul Stevens
-
-Mr. Gilmer, the Court held, would not be harmed by the agreed-upon switch to arbitration because his arbitrator would be bound to follow substantive federal age-discrimination law, and the procedures unilaterally set up by the employer to govern the arbitration proceedings were not unfair. There was no inequality of bargaining power, in part because Mr. Gilmer was an "experienced businessman". [^feedagger]
-
-Pull Quote from Dissent (pg 42):
-> When the FAA was passed in 1925, I doubt that any legislator who voted for it expected it to apply to statutory claims, to form contracts between parties of unequal bargaining power, or to the arbitration of disputes arising out of the employment relationship. In recent years, however, the Court "has effectively rewritten the statute," and abandoned its earlier view that statutory claims were not appropriate subjects for arbitration.
-
-### Analysis
-
-Gilmer takes the positive attributes of labor arbitration, involving institutional parties on both sides and procedural rules mutually negotiated by employers and unions, and apparently equates them with the entirely distinct mandatory-arbitration process. [feedagger]
-
 ## Allied-Bruce Terminix Cos. v. Dobson 513 US 265 (1995)
 
 One Line Summary: contracts requiring arbitration is applied to all disputes involving commerce even though it isn't interstate
@@ -370,10 +352,7 @@ One Liner: The People and the Labor Commissioner are not parties to those arbitr
 # Footnotes
 
 [^1]: Need to double check this.
-[^ADEA]: [The Age Discrimination in Employment Act of 1967](https://www.eeoc.gov/statutes/age-discrimination-employment-act-1967)
 [^footnote7]: Justice SCALIA joins all but footnote 7 of this opinion.
 [^ejusdemgeneris]: [Rules of Statutory Construction and Interpretation](https://www.supremecourt.gov/DocketPDF/18/18-9575/102239/20190611092122150_00000055.pdf) §16
 [^correcting1]: Schwartz, D. (2004). Correcting Federalism Mistakes in Statutory Interpretation: The Supreme Court and the Federal Arbitration Act. Law and Contemporary Problems, 67(1), 5–54. https://scholarship.law.duke.edu/lcp/vol67/iss1/2 pp 10
 [^showdown1]: Reuben, R. C. (1996). Western Showdown: Two Montana judges buck the U.S. Supreme Court. ABA Journal, 82(10), 16–16. https://www.jstor.org/stable/27839725
-
-[^feedagger]: Reginald Alleyne. (2003). Arbitrators’ Fees: The Dagger in the Heart of Mandatory Arbitration for Statutory Discrimination Claims. 6.
