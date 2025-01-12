@@ -154,10 +154,6 @@ Decision: https://www.supremecourt.gov/opinions/21pdf/20-1573_8p6h.pdf
 The court also predicted what the california courts would rule in a similar case (alolf)
 SCOTUS predicting [Adolph]({{< relref "/#adolph" >}})
 
-## Coinbase v. Bielski, 599 U.S. ___ (2023) {id="coinbase-v-bielski"}
-
-One Line Summary: In federal courts - a pending interlocutory appeal of a motion to compel requires staying court proceedings
-
 ## Argent Trust Company v. Harrison 23-30 (pending petition)
 
 Issue: Whether a participant in a plan governed by the Employee Retirement Income Security Act who asserts statutory claims under that statute can be compelled, pursuant to a binding arbitration provision, to submit his claims to individual arbitration.

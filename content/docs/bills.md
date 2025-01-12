@@ -100,7 +100,7 @@ May 16, 2019
 
 > Notwithstanding Section 916, the perfecting of such an appeal shall not automatically stay any proceedings in the trial court during the pendency of the appeal.
 
-which effectively reversed [Coinbase]({{< relref "arbitration_legal#coinbase-v-bielski" >}}) for California cases.
+which effectively reversed [Coinbase]({{< ref "cases/coinbase-v-bielski" >}}) for California cases.
 
 # Footnotes
 
