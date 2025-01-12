@@ -12,38 +12,9 @@ See [the new version of this page]({{< ref "cases" >}}).
 
 # Supreme Court Decisions
 
-## Alexander v. Gardner-Denver Company
-
-One Line Summary: arbitration of a discrimination claim as a grievance in labor union arbitration did not preclude the individual from later asserting the claim in court.
-
-- [Wikipedia](https://en.wikipedia.org/wiki/Alexander_v._Gardner-Denver_Co.)
-- [Oyez](https://www.oyez.org/cases/1973/72-5847)
-
 ## Scherk v. Alberto-Culver Company 417 US 506 (1974)
 
 - [Oyez](https://www.oyez.org/cases/1973/73-781)
-
-## Moses H. Cone Memorial Hospital v. Mercury Construction Corp., 460 U.S. 1 (1983)
-
-One Line Summary: Established that the FAA applies to actions in state court and a policy of rapid and unobstructed enforcement of arbitration agreements.
-
-- [Wikipedia](https://en.wikipedia.org/wiki/Moses_H._Cone_Memorial_Hospital_v._Mercury_Construction_Corp.)
-- [Court Opinion (Court Listener)](https://www.courtlistener.com/opinion/110873/moses-h-cone-memorial-hospital-v-mercury-construction-corp/) (unread)
-- [Oyez](https://www.oyez.org/cases/1982/81-1203)
-- Majority Author: William Brennan
-- Dissents:  William Rehnquist joined by Burger, O'Connor
-
-Pull Quote (from majority):
-
-{{< details "Moses H Cone" >}}
-...any doubts concerning the scope of arbitrable issues should be resolved in favor of arbitration...
-
-...unless it may be said with positive assurance that the arbitration clause is not susceptible of an interpretation that covers the asserted dispute...
-
-Section 2 is a congressional declaration of a liberal federal policy favoring arbitration agreements, notwithstanding any state substantive or procedural policies to the contrary. The effect of the section is to create a body of federal substantive law of arbitrability, applicable to any arbitration agreement within the coverage of the act.
-{{< /details >}}
-
-Interestingly this was a 6–3 decision, signed by all the liberal justices and to which the conservative justices—Justices Rehnquist, Burger, and O’Connor—dissented. [^sacredcow1]
 
 ## Southland Corp. v. Keating, 465 U.S. 1 (1984) {id="southland-v-keating"}
 
@@ -142,13 +113,6 @@ Montana's first-page notice requirement, which governs not "any contract," but s
 
 The Montana Supreme Court had two justices who refused to sign on to the order remanding the case from the Supreme Court of the United States to the state trial court. [^showdown1]
 
-## Green Tree Financial Corporation-Alabama v. Randolph, 531 US 79 (2000)
-
-One Line Summary: An arbitration agreement that is silent on arbitration costs and fees is not unenforceable
-
-- [Court Opinion (Court Listener)](https://www.courtlistener.com/opinion/118394/green-tree-financial-corp-ala-v-randolph/) (unread)
-- [Oyez](https://www.oyez.org/cases/2000/99-1235)
-
 ## Circuit City v. Adams (2001) {id="circuit-city-v-adams"}
 
 One Line Summary: Maxim of ejusdem generis[^ejusdemgeneris] applies to FAA exclusion of any other class of workers”.  Legislative history was not relevant to interpreting the statute.
@@ -156,12 +120,6 @@ One Line Summary: Maxim of ejusdem generis[^ejusdemgeneris] applies to FAA exclu
 - [Oyez](https://www.oyez.org/cases/2000/99-1379)
 - Majority Author: Anthony M. Kennedy
 - Dissents: Stevens (joined by Ginsburg, Breyer) and Souter
-
-## Preston v. Ferrer, 552 U.S. 346 (2008)
-
-- [Wikipedia](https://en.wikipedia.org/wiki/Preston_v._Ferrer)
-- [Court Opinion (Court Listener)](https://www.courtlistener.com/opinion/145830/preston-v-ferrer/) (unread)
-- [Oyez](https://www.oyez.org/cases/2007/06-1463)
 
 ## Buckeye Check Cashing, Inc. v. Cardegna,  546 US 440 (2006)
 
@@ -171,20 +129,6 @@ One Line Summary: challenges to legality of contract with an arbitration clause 
 - [Oyez](https://www.oyez.org/cases/2005/04-1264)
 - Majority Author: Antonin Scalia
 - Dissents: Clarence Thomas
-
-## Granite Rock Co. v. International Brotherhood of Teamsters
-
-One Line Summary: the presumption that a dispute is arbitrable should only be applied where it derives legitimacy from, a judicial conclusion that arbitration is what the parties intended
-
-- [Oyez](https://www.oyez.org/cases/2009/08-1214)
-- Majority Author: Clarence Thomas
-- Dissents: John Paul Stevens, Sonia Sotomayor
-
-## Rent-A-Center West v. Jackson,  561 US 63 (2010)
-
-One Line Summary: arbitrator will determine the enforceability of the agreement (as opposed to disputing existence of arbitration).
-
-- [Oyez](https://www.oyez.org/cases/2009/09-497)
 
 ## Hall Street Associates, L.L.C. v. Mattel, Inc., 552 US 576 (2008)
 
@@ -222,28 +166,6 @@ One Line Summary: The FAA does not permit courts to invalidate clauses that mand
 - [Wikipedia](https://en.wikipedia.org/wiki/Am._Express_Co._v._Italian_Colors_Rest.) (unread)
 - [Oyez](https://www.oyez.org/cases/2012/12-133)
 - Majority Author: Scalia
-
-## Epic Sys. Corp. v. Lewis, No. 16-285, 2018 WL 2292444, at *26 (2018)
-
-Core Finding: [Section 7 (29 U.S. Code Chapter §7)](https://www.law.cornell.edu/uscode/text/29/chapter-7) of the NLRA does not conflict or supersede FAA arbitration. Such waivers are enforceable.
-
-- Oyez: https://www.oyez.org/cases/2017/16-285
-- [Opinion (Supreme Court)](https://www.supremecourt.gov/opinions/17pdf/16-285_q8l1.pdf)
-- Syllabus Author: Breyer
-- Majority Author: Neil Gorsuch
-- Concurrence: Clarence Thomas
-- Dissents: Ginsburg (author) joined by Breyer, Sotomayor, Kagan
-
-Pull Quote
-> As a matter of policy these questions are surely debatable. But as a matter of law the answer is clear. Congress has instructed federal courts to enforce arbitration agreements according to their terms—including terms providing for individualized proceedings.
-
-Consolidated with: _Ernst & Young LLP v. Morris_ and _National Labor Relations Board v. Murphy Oil USA, Inc._
-
-## Kindred Nursing Ctrs. Ltd. P’ship v. Clark, 137 S. Ct. 1421 (2017).
-
-The Kentucky Supreme Court determined that individuals holding power of attorney for another cannot enter into mandatory arbitration agreements. Because the Kentucky Supreme Court singled out arbitration contracts, The United States Supreme Court reasoned that the decision conflicted with the FAA and thus could not stand
-
-One Line Summary: The FAA preempts any state rule discriminating on its face against arbitration
 
 ## Ernst & Young LLP v. Morris (Docket 16-300) (2018)
 
@@ -291,28 +213,6 @@ One Line Summary: In federal courts - a pending interlocutory appeal of a motion
 
 Issue: Whether a participant in a plan governed by the Employee Retirement Income Security Act who asserts statutory claims under that statute can be compelled, pursuant to a binding arbitration provision, to submit his claims to individual arbitration.
 
-## New Prime Inc. v. Oliveira 139 S. Ct. 532 (2019)
-
-## Bissonnette v. LePage Bakeries Park St., LLC
-
-- [Petition For A Writ Of Certiorari](https://www.supremecourt.gov/DocketPDF/23/23-51/272203/20230717155334558_Bissonnette%20Cert%20Petition%20Final.pdf) (unread)
-- [Decision](https://www.supremecourt.gov/opinions/23pdf/23-51_6647.pdf)
-- Majority Author: Justice Roberts (9-0)
-- [ScotusBlog](https://www.scotusblog.com/case-files/cases/bissonnette-v-lepage-bakeries-park-st-llc/)
-- [Oyez](https://www.oyez.org/cases/2023/23-51)
-
-{{< details "Petition For A Writ Of Certiorari - question to be presented" >}}
-Presented Question: To be exempt from the Federal Arbitration Act, must a class of workers that is actively engaged in interstate transportation also be employed by a company in the transportation industry?
-{{< /details >}}
-
-{{< details "Decision - Pull Quote" >}}
-A transportation worker need not work in the transportation industry to fall within the exemption from the FAA provided by §1 of the Act
-{{< /details >}}
-
-## Oxford Health Plans LLC v. Sutter, 133 S. Ct. 2064, 2071 (2013)
-
-{{< todo />}}
-
 ## DIRECTV, Inc. v. Imburgia, 136 S. Ct. 463, 464 (2015).
 
 One Line Summary: Explicit statement about governance by "Federal Arbitration Act" overrides statement that the entire arbitration provision was unenforceable if the “law of your state” made class-arbitration waivers unenforceable.
@@ -341,27 +241,6 @@ Core Claim (pull quote):
 ### Analysis
 
 See [Rosencrants]({{< relref "references#rosencrants-fn" >}}) for detailed analysis.
-
-## National Labor Relations Board v. Murphy Oil USA, Inc.
-
-One Line Summary: {{< todo />}}
-
-- Wikipedia: {{< todo />}} (unread)
-- Court Opinion (Court Listener): {{< todo />}} (unread)
-- Court Opinion (pdf): {{< todo />}} (unread)
-- Oyez: {{< todo />}} (unread)
-- Majority Author: {{< todo />}} (unread)
-- Concurrence: {{< todo />}} (unread)
-- Dissents: {{< todo />}} (unread)
-
-Pull Quote (from {{< todo />}}):
-
-{{< details "{{< todo />}}" >}}
-{{< /details >}}
-
-## Bissonnette v. LePage Bakeries Park St., LLC (2023)
-
-- [Oyez](https://www.oyez.org/cases/2023/23-51)
 
 ### Smith v. Spizzirri, U.S., No. 22-1218 (2024)
 
@@ -500,6 +379,5 @@ One Liner: The People and the Labor Commissioner are not parties to those arbitr
 [^ejusdemgeneris]: [Rules of Statutory Construction and Interpretation](https://www.supremecourt.gov/DocketPDF/18/18-9575/102239/20190611092122150_00000055.pdf) §16
 [^correcting1]: Schwartz, D. (2004). Correcting Federalism Mistakes in Statutory Interpretation: The Supreme Court and the Federal Arbitration Act. Law and Contemporary Problems, 67(1), 5–54. https://scholarship.law.duke.edu/lcp/vol67/iss1/2 pp 10
 [^showdown1]: Reuben, R. C. (1996). Western Showdown: Two Montana judges buck the U.S. Supreme Court. ABA Journal, 82(10), 16–16. https://www.jstor.org/stable/27839725
-[^sacredcow1]: Stone, K. V. W. (2023). Arbitration—From Sacred Cow to Golden Calf: Three Phases in the History of the Federal Arbitration Act. 23. pp 126
 
 [^feedagger]: Reginald Alleyne. (2003). Arbitrators’ Fees: The Dagger in the Heart of Mandatory Arbitration for Statutory Discrimination Claims. 6.

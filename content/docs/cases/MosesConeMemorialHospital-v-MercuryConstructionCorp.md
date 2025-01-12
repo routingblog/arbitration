@@ -25,3 +25,5 @@ Section 2 is a congressional declaration of a liberal federal policy favoring ar
 {{< /details >}}
 
 Interestingly this was a 6–3 decision, signed by all the liberal justices and to which the conservative justices—Justices Rehnquist, Burger, and O’Connor—dissented. [^sacredcow1]
+
+[^sacredcow1]: Stone, K. V. W. (2023). Arbitration—From Sacred Cow to Golden Calf: Three Phases in the History of the Federal Arbitration Act. 23. pp 126
