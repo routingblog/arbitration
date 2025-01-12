@@ -123,13 +123,6 @@ One Line Summary: The FAA does not permit courts to invalidate clauses that mand
 - [Oyez](https://www.oyez.org/cases/2012/12-133)
 - Majority Author: Scalia
 
-## Ernst & Young LLP v. Morris (Docket 16-300) (2018)
-
-NLRA did not override FAA.
-
-- Related to Epic Systems Corp. v. Lewis
-- Related to National Labor Relations Board v. Murphy Oil USA, Inc.
-
 ## 17-988 Lamps Plus, Inc. V. Varela (2019).
 
 Under the Federal Arbitration Act (FAA), an arbitration agreement that is ambiguous as to the availability of class arbitration does not manifest sufficient consent by the parties to submit to class arbitration. In a 5-4 opinion authored by Chief Justice John Roberts, the Court held that the arbitration agreement between Varela and his employer, Lamps Plus, which contained only general language commonly used in arbitration agreements, did not provide the necessary contractual basis for compelling class arbitration.
