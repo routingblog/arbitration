@@ -231,13 +231,6 @@ One Line Summary: Whether [9 U.S.C. § 3](https://www.law.cornell.edu/uscode/tex
 - [Reply Brief For The Petitioners](https://www.supremecourt.gov/DocketPDF/22/22-1218/293969/20231221104650950_smith%20v.%20spizzirri%20--%20cert.%20reply%20--%20FILED.pdf)
 - Majority Author: Sotomayor (unanimous)
 
-## Coinbase, Inc. v. Suski
-
-One Line Summary: If a second contract is silent but the parties already have an existing contract, the court decides if the second contract is subject to arbitration.
-
-[SCOTUSBlog Case File](https://www.scotusblog.com/case-files/cases/coinbase-inc-v-suski/)
-[SCOTUSBlog Explanation](https://www.scotusblog.com/2024/05/courts-rather-than-arbitrators-to-decide-whether-dogecoin-dispute-goes-to-arbitration/)
-
 # Non Supreme Court Federal Cases
 
 ## California Supreme Court Cases
