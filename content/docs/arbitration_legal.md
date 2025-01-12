@@ -112,10 +112,6 @@ Pull Quote from Dissent (pg 42):
 
 Gilmer takes the positive attributes of labor arbitration, involving institutional parties on both sides and procedural rules mutually negotiated by employers and unions, and apparently equates them with the entirely distinct mandatory-arbitration process. [feedagger]
 
-## First Options of Chicago v. Kaplan
-
-{{< todo />}}
-
 ## Allied-Bruce Terminix Cos. v. Dobson 513 US 265 (1995)
 
 One Line Summary: contracts requiring arbitration is applied to all disputes involving commerce even though it isn't interstate
@@ -145,28 +141,6 @@ Montana's first-page notice requirement, which governs not "any contract," but s
 {{< /details >}}
 
 The Montana Supreme Court had two justices who refused to sign on to the order remanding the case from the Supreme Court of the United States to the state trial court. [^showdown1]
-
-## Wright v. Universal Maritime Service Corp., 525 U.S. 70, 80-82 (1998)
-
-{{< todo />}}
-
-## 14 Penn Plaza LLC v. Pyett, 556 U.S. 247, 255 & n.4 (2009)
-
-{{< todo />}}
-
-## Stolt-Nielsen S. A. v. AnimalFeeds Int’l Corp., 559 U.S. 662 (2010)
-
-{{< todo />}}
-
-## Green Tree Financial Corp. v. Bazzle 539 U.S. at 444.
-
-One Line Summary: The question of whether a contract forbade class arbitration qualified as one of procedural arbitrability within an arbitrator’s adjudicative scope.
-
-- [Court Opinion](https://supreme.justia.com/cases/federal/us/539/444/case.pdf) (unread)
-- [Oyez](https://www.oyez.org/cases/2002/02-634)
-- Plurality Author: Stephen G. Breyer
-- Concurrence: John Paul Stevens (in part)
-- Dissents:  William H. Rehnquist, joined by Justices Sandra Day O'Connor and Anthony M. Kennedy
 
 ## Green Tree Financial Corporation-Alabama v. Randolph, 531 US 79 (2000)
 
@@ -241,10 +215,6 @@ Core Question: does FAA preempt state law on enforcement of arbitration on avail
 Pull Quote (from syllabus):
 > Because it “stands as an obstacle to the accomplishment and execution of the full purposes and objectives of Congress,” Hines v. Davidowitz, 312 U. S. 52, 67, California’s Discover Bank rule is preempted by the FAA. Pp. 4–18
 
-## Marmet Health Care Center, Inc. v. Brown, 565 U.S. 530 (2012)
-
-{{< todo />}}
-
 ## American Express Co. v. Italian Colors Restaurant, 570 US 228 (2013) {id="amex-v-italian-colors"}
 
 One Line Summary: The FAA does not permit courts to invalidate clauses that mandate individual arbitration
@@ -300,15 +270,6 @@ One Line Summary: The court decides if FAA applies. 9 U.S. Code §1 exemptions a
 ## Henry Schein, Inc. v. Archer & White Sales, Inc., 586 U.S. (2019)
 
 One Line Summary: when the parties' contract delegates the arbitrability question to an arbitrator, a court may not override the contract.
-
-## Southwest Airlines Co. v. Saxon, 142 S. Ct. 1783 (2022)
-
-One Line Summary: employees who are “physically loading cargo directly on and off an airplane headed out of State” are within 9 U.S. Code §1 exemption
-
-- [Court Opinion (pdf)](https://www.supremecourt.gov/opinions/21pdf/21-309_o758.pdf)
-- [Oyez](https://www.oyez.org/cases/2021/21-309)
-- Majority Author: Justice Clarence Thomas (8-0)
-- [Supreme Court Docket](https://www.supremecourt.gov/docket/docketfiles/html/public/21-309.html)
 
 ## Viking River Cruises, Inc. v. Moriana, 20-1573 (2022)
 
