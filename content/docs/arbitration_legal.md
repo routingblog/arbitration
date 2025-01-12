@@ -12,10 +12,6 @@ See [the new version of this page]({{< ref "cases" >}}).
 
 # Supreme Court Decisions
 
-## Scherk v. Alberto-Culver Company 417 US 506 (1974)
-
-- [Oyez](https://www.oyez.org/cases/1973/73-781)
-
 ## Southland Corp. v. Keating, 465 U.S. 1 (1984) {id="southland-v-keating"}
 
 One Line Summary: FAA applies to contracts under state law (due to congressional intent)
