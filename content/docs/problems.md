@@ -210,7 +210,7 @@ Why do some contracts of adhesion have opt-out clauses?
 
 # Federalism
 
-- States usually determine their own contract law which can differ on damages, injunctive relief, availability of specific performance, and claims arising from contract law. However, the [Keating]({{< relref "arbitration_legal/#southland-v-keating" >}}) decision stripped state courts of the power to address arbitration provisions and their enforceability. [^keating2]
+- States usually determine their own contract law which can differ on damages, injunctive relief, availability of specific performance, and claims arising from contract law. However, the [Keating]({{< ref "cases/southland-v-keating" >}}) decision stripped state courts of the power to address arbitration provisions and their enforceability. [^keating2]
 
 # Supreme Court Errors {id=supreme-court-errors}
 

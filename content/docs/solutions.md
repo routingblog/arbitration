@@ -19,7 +19,7 @@ There have been a few [carve outs]({{< relref "bills#statutes" >}}) to exempt sp
 
 # Overturning Southland Corp. v. Keating
 
-Arbitration was intended to be a procedural rule for federal courts. In [Keating]({{< relref "arbitration_legal#southland-v-keating" >}}) the Supreme Court [erroneously]({{< relref "problems#supreme-court-errors" >}}) rules that arbitration is substantive. A simple fix here is for congress to solidify its intention explicitly.
+Arbitration was intended to be a procedural rule for federal courts. In [Keating]({{< relref "cases/southland-v-keating" >}}) the Supreme Court [erroneously]({{< relref "problems#supreme-court-errors" >}}) rules that arbitration is substantive. A simple fix here is for congress to solidify its intention explicitly.
 
 # Overturning Allied-Bruce Terminix Cos. v. Dobson
 

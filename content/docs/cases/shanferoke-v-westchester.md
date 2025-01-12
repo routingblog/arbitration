@@ -1,6 +1,5 @@
 ---
 title: "Shanferoke Coal & Supply Corp. v. Westchester Service Corp., 293 U.S. 449 (1935)"
-section: cases
 categories:
     - supremecourtcase
 weight: 1935
