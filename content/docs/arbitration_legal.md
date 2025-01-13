@@ -127,10 +127,6 @@ One Line Summary: The court decides if FAA applies. 9 U.S. Code §1 exemptions a
 - Concurrence: Ginsburg
 - [SCOTUSBlog](https://www.scotusblog.com/case-files/cases/new-prime-inc-v-oliveira/)
 
-## Henry Schein, Inc. v. Archer & White Sales, Inc., 586 U.S. (2019)
-
-One Line Summary: when the parties' contract delegates the arbitrability question to an arbitrator, a court may not override the contract.
-
 # Non Supreme Court Federal Cases
 
 ## California Supreme Court Cases
