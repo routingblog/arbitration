@@ -142,10 +142,6 @@ One Line Summary: The court decides if FAA applies. 9 U.S. Code §1 exemptions a
 
 One Line Summary: when the parties' contract delegates the arbitrability question to an arbitrator, a court may not override the contract.
 
-## Argent Trust Company v. Harrison 23-30 (pending petition)
-
-Issue: Whether a participant in a plan governed by the Employee Retirement Income Security Act who asserts statutory claims under that statute can be compelled, pursuant to a binding arbitration provision, to submit his claims to individual arbitration.
-
 # Non Supreme Court Federal Cases
 
 ## California Supreme Court Cases
@@ -239,6 +235,14 @@ arb that precludes ERISA plan-wide relief under Section 502(a) not enforceable
 - [Order on Motion To Compel Arbitration](https://storage.courtlistener.com/recap/gov.uscourts.nced.196598/gov.uscourts.nced.196598.58.0.pdf)
 
 # Writ of Certiorari
+
+## Argent Trust Company v. Harrison 23-30
+
+Status: **Certiorari rejected**
+
+- [Supreme Cour Docket](https://www.supremecourt.gov/docket/docketfiles/html/public/23-30.html)
+
+Issue: Whether a participant in a plan governed by the Employee Retirement Income Security Act who asserts statutory claims under that statute can be compelled, pursuant to a binding arbitration provision, to submit his claims to individual arbitration.
 
 ## HomeServices of America, Inc., et al., Petitioners v. Scott Burnett, et al.
 
