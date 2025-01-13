@@ -2,9 +2,13 @@
 {{- range sort .Site.Data.termbase "term" -}}
     <dl>
       <dt><dfn>{{- .term }}</dfn></dt>
-      <dd>
-        <em>{{- .expansion -}}</em>
-      </dd>
-      <dd class="secondary_dfn">{{- .definition -}}</dd>
+      {{ if .expansion }}
+        <dd>
+          <em>{{- .expansion -}}</em>
+        </dd>
+      {{ end }}
+      {{ if .definition }}
+        <dd class="secondary_dfn">{{ .definition | $.Page.RenderString }}</dd>
+      {{ end }}
     </dl>
 {{- end -}}

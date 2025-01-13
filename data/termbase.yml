@@ -8,3 +8,26 @@
 - term: ADEA
   expansion: The Age Discrimination in Employment Act of 1967
   category: legal
+- term: Arbitration
+  definition: A form of Alternate Dispute Resolution (ADR) in which disputes are decided via private arbitrators rather than the via the court system.
+
+- term: Compulsory arbitration
+  definition: Arbitration commanded by statute
+
+- term: Labor Arbitration
+  definition: Voluntary arbitration of disputes between unions and employers pursuant to terms negotiated by equally qualified participants
+
+- term: Mandatory Arbitration
+  definition: The requirement to sign an arbitration agreement as a condition to employment or receiving good or services. Typically without the ability to opt-out.
+
+- term: Mitsubishi trilogy
+  definition: A series of three court cases ([#1]({{< relref "arbitration_legal#shearson-v-mchanon" >}}),[#2]({{< ref "cases/mitsubishi-v-soler" >}}),[#3]({{< relref "arbitration_legal#Quijas-v-american-express" >}})) allowing for arbitration of statutory claims.
+
+- term: Pre-Dispute Arbitration Agreement
+  definition: The contract specifying that the parties agree to use arbitration for _future_ disputes.
+
+- term: Post-Dispute Arbitration Agreement
+  definition: Agreement to use arbitration of a specific claim after an incident occurs.
+
+- term: Separability principle
+  definition: An arbitration clause is treated as a separate agreement to the contract containing it. An agreement to arbitrate may not be nullified by a void main contract.
