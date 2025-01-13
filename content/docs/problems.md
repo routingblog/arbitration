@@ -259,7 +259,7 @@ Arbitration has special carve outs in the law that make them unique amongst othe
 
 # Anti Trust
 
-- Proving antitrust damages requires costly economic analysis, private plaintiffs generally cannot bring suits unless they can split expenses, be it through joining as a class or sharing costs some other way. By allowing class action waivers to stand in [Italian Colors]({{< relref "arbitration_legal#amex-v-italian-colors" >}}) the monopolist gets to use its monopoly power to insist on a contract effectively depriving its victims of all legal recourse. [^wealthxfer6] [^itcolors1]
+- Proving antitrust damages requires costly economic analysis, private plaintiffs generally cannot bring suits unless they can split expenses, be it through joining as a class or sharing costs some other way. By allowing class action waivers to stand in [Italian Colors]({{< ref "cases/amex-v-italian-colors" >}}) the monopolist gets to use its monopoly power to insist on a contract effectively depriving its victims of all legal recourse. [^wealthxfer6] [^itcolors1]
 
 # Even Its Proponents Want To Change It
 
