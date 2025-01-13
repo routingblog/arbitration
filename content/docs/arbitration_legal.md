@@ -5,51 +5,6 @@ weight: 5
 slug: arbitration
 ---
 
-{{< notice tip >}}
-We are working on reorganising these cases. In the meantime they are split amongst two pages.
-See [the new version of this page]({{< ref "cases" >}}).
-{{< /notice >}}
-
-# Supreme Court Decisions
-
-## Shearson/American Express Inc. v. McMahon, 482 U.S. 220 (1987) {id="shearson-v-mchanon"}
-
-- [Wikipedia](https://en.wikipedia.org/wiki/Shearson/American_Express_Inc._v._McMahon) (unread)
-- [Court Opinion (Court Listener)](https://www.courtlistener.com/opinion/111910/shearsonamerican-express-inc-v-mcmahon/) (unread)
-- [Oyez](https://www.oyez.org/cases/1986/86-44) (unread)
-
-Part of Mitsubishi trilogy which allowed arbitration to hear statutory claims.
-
-## Rodriguez de Quijas v. Shearson/American Express Inc., 490 U.S. 477 (1989) {id="Quijas-v-american-express"}
-
-- [Wikipedia](https://en.wikipedia.org/wiki/Rodriguez_de_Quijas_v._Shearson/American_Express_Inc.)
-- [Oyez](https://www.oyez.org/cases/1988/88-385)
-- Reverses [Wilko]({{< relref "/#wilko-v-swan" >}})
-
-Part of Mitsubishi trilogy which allowed arbitration to hear statutory claims.
-
-## Circuit City v. Adams (2001) {id="circuit-city-v-adams"}
-
-One Line Summary: Maxim of ejusdem generis[^ejusdemgeneris] applies to FAA exclusion of any other class of workers”.  Legislative history was not relevant to interpreting the statute.
-
-- [Oyez](https://www.oyez.org/cases/2000/99-1379)
-- Majority Author: Anthony M. Kennedy
-- Dissents: Stevens (joined by Ginsburg, Breyer) and Souter
-
-## AT&T Mobility LLC v. Concepcion, 563 U.S. 333 (2011) {id="att-mobility-v-concepcion"}
-
-Core Question: does FAA preempt state law on enforcement of arbitration on availability of class-wide relief
-
-- Majority Author: Scalia
-- Concurrence: Thomas
-- Dissents: Breyer joined by Ginsburg, Sotomayor, Kagan
-- [Oyez](https://www.oyez.org/cases/2010/09-893)
-- [Opinion](https://storage.courtlistener.com/pdf/2011/04/27/att_mobility_llc_v._concepcion.pdf) (unread)
-- [Oral Argument Transcript](https://www.supremecourt.gov/oral_arguments/argument_transcripts/2010/09-893.pdf) (unread)
-
-Pull Quote (from syllabus):
-> Because it “stands as an obstacle to the accomplishment and execution of the full purposes and objectives of Congress,” Hines v. Davidowitz, 312 U. S. 52, 67, California’s Discover Bank rule is preempted by the FAA. Pp. 4–18
-
 # Non Supreme Court Federal Cases
 
 ## California Supreme Court Cases
@@ -172,4 +127,3 @@ One Liner: The People and the Labor Commissioner are not parties to those arbitr
 # Footnotes
 
 [^1]: Need to double check this.
-[^ejusdemgeneris]: [Rules of Statutory Construction and Interpretation](https://www.supremecourt.gov/DocketPDF/18/18-9575/102239/20190611092122150_00000055.pdf) §16

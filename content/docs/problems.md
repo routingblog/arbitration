@@ -214,7 +214,7 @@ Why do some contracts of adhesion have opt-out clauses?
 
 # Supreme Court Errors {id=supreme-court-errors}
 
-- The [Keating]({{< relref "arbitration_legal/#southland-v-keating" >}}) decision that the {{< gloss/abbrx "FAA" >}} is intended to be substantive law rather than procedural law is wrong. [^newarb6]
+- The [Keating]({{< ref "cases/southland-v-keating" >}}) decision that the {{< gloss/abbrx "FAA" >}} is intended to be substantive law rather than procedural law is wrong. [^newarb6]
 
 # Kangaroo Court
 

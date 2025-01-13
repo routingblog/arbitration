@@ -54,7 +54,7 @@ Pull Quote (from {{< todo />}}):
 ## See Also
 
 - [American Express Co. v. Italian Colors Restaurant]({{< ref "cases/amex-v-italian-colors" >}})
-- [AT&T Mobility LLC v. Concepcion]({{< relref "arbitration_legal#att-mobility-v-concepcion" >}})
+- [AT&T Mobility LLC v. Concepcion]({{< ref "cases/att-mobility-v-concepcion" >}})
 
 # Statutes
 

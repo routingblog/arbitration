@@ -19,13 +19,13 @@ There have been a few [carve outs]({{< relref "bills#statutes" >}}) to exempt sp
 
 # Overturning Southland Corp. v. Keating
 
-Arbitration was intended to be a procedural rule for federal courts. In [Keating]({{< relref "cases/southland-v-keating" >}}) the Supreme Court [erroneously]({{< relref "problems#supreme-court-errors" >}}) rules that arbitration is substantive. A simple fix here is for congress to solidify its intention explicitly.
+Arbitration was intended to be a procedural rule for federal courts. In [Keating]({{< ref "cases/southland-v-keating" >}}) the Supreme Court [erroneously]({{< relref "problems#supreme-court-errors" >}}) rules that arbitration is substantive. A simple fix here is for congress to solidify its intention explicitly.
 
 # Overturning Allied-Bruce Terminix Cos. v. Dobson
 
 # Circuit City Stores, Inc. v. Adams
 
-A simple fix to much of this mess would be remove the words `seamen, railroad employees, or any other class of` in 9 U.S.C. §1. This would effectively overturn [Circuit City Stores, Inc. v. Adams]({{< relref "arbitration_legal#circuit-city-v-adams" >}}) and thus eliminate arbitration from the equation in matters of _employment_.
+A simple fix to much of this mess would be remove the words `seamen, railroad employees, or any other class of` in 9 U.S.C. §1. This would effectively overturn [Circuit City Stores, Inc. v. Adams]({{< ref "cases/circuit-city-v-adams" >}}) and thus eliminate arbitration from the equation in matters of _employment_.
 
 I am somewhat surprised that I've not seen anyone else suggest this.
 
