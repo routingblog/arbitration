@@ -28,36 +28,6 @@ Part of Mitsubishi trilogy which allowed arbitration to hear statutory claims.
 
 Part of Mitsubishi trilogy which allowed arbitration to hear statutory claims.
 
-## Allied-Bruce Terminix Cos. v. Dobson 513 US 265 (1995)
-
-One Line Summary: contracts requiring arbitration is applied to all disputes involving commerce even though it isn't interstate
-
-- [Court Opinion (Court Listener)](https://www.courtlistener.com/opinion/117892/allied-bruce-terminix-cos-v-dobson/) (unread)
-- [Oyez](https://www.oyez.org/cases/1994/93-1001)
-- Majority Author: Stephen G. Breyer (unread)
-- Concurrence: Sandra Day O'Connor (unread)
-- Dissents: Scalia, Clarence Thomas (unread)
-
-Twenty state attorneys general as amici curiae argued that [Southland]({{< ref "cases/southland-v-keating" >}}) should be overruled. [^correcting1]
-
-> "I do not believe that proper application of stare decisis prevents correction of the mistake."
->
-> &mdash; <cite>Justice Scalia, dissenting.</cite>
-
-## Doctor’s Associates, Inc. v. Casarotto, 517 U.S. 681 (1996)
-
-One Line Summary: The FAA must also inquire whether it singles out arbitration or treats arbitration provisions with ‘suspect status’
-
-- LoC Decision: https://www.loc.gov/item/usrep517681/
-- Court Listener: https://www.courtlistener.com/opinion/118029/doctors-associates-inc-v-casarotto/
-- Supreme Court Database Record: [1995-055-01](http://scdb.wustl.edu/analysisCaseDetail.php?cid=1995-055-01)
-
-{{< details "Pull Quote (from syllabus):" >}}
-Montana's first-page notice requirement, which governs not "any contract," but specifically and solely contracts "subject to arbitration," conflicts with the FAA and is therefore displaced by the federal meas- ure. Generally applicable contract defenses, such as fraud, duress, or unconscionability, may be applied to invalidate arbitration agreements without contravening § 2, see, e. g., Allied-Bruce, 513 U. S., at 281, but courts may not invalidate arbitration agreements under state laws applicable only to arbitration provisions
-{{< /details >}}
-
-The Montana Supreme Court had two justices who refused to sign on to the order remanding the case from the Supreme Court of the United States to the state trial court. [^showdown1]
-
 ## Circuit City v. Adams (2001) {id="circuit-city-v-adams"}
 
 One Line Summary: Maxim of ejusdem generis[^ejusdemgeneris] applies to FAA exclusion of any other class of workers”.  Legislative history was not relevant to interpreting the statute.
@@ -65,30 +35,6 @@ One Line Summary: Maxim of ejusdem generis[^ejusdemgeneris] applies to FAA exclu
 - [Oyez](https://www.oyez.org/cases/2000/99-1379)
 - Majority Author: Anthony M. Kennedy
 - Dissents: Stevens (joined by Ginsburg, Breyer) and Souter
-
-## Buckeye Check Cashing, Inc. v. Cardegna,  546 US 440 (2006)
-
-One Line Summary: challenges to legality of contract with an arbitration clause must be determined by the arbitrator in the first instance.
-
-- [Wikipedia](https://en.wikipedia.org/wiki/Buckeye_Check_Cashing,_Inc._v._Cardegna)
-- [Oyez](https://www.oyez.org/cases/2005/04-1264)
-- Majority Author: Antonin Scalia
-- Dissents: Clarence Thomas
-
-## Hall Street Associates, L.L.C. v. Mattel, Inc., 552 US 576 (2008)
-
-One Line Summary: FAA is exclusive and contract can't expand scope of review to the judiciary
-
-- [Oyez](https://www.oyez.org/cases/2007/06-989)
-- [Opinion (Court Listener)](https://www.courtlistener.com/opinion/145821/hall-street-associates-l-l-c-v-mattel-inc/)
-- Majority: Souter[^footnote7]
-- Dissent: Stevens, joined by Kennedy
-- Dissent: Breyer
-
-Pull Quote:
-> But whatever the consequences of our holding, the statutory text gives us no business to expand the statutory grounds
-
-The footnotes are also interesting since they give more history as to the federal statute.
 
 ## AT&T Mobility LLC v. Concepcion, 563 U.S. 333 (2011) {id="att-mobility-v-concepcion"}
 
@@ -111,21 +57,6 @@ One Line Summary: The FAA does not permit courts to invalidate clauses that mand
 - [Wikipedia](https://en.wikipedia.org/wiki/Am._Express_Co._v._Italian_Colors_Rest.) (unread)
 - [Oyez](https://www.oyez.org/cases/2012/12-133)
 - Majority Author: Scalia
-
-## 17-988 Lamps Plus, Inc. V. Varela (2019).
-
-Under the Federal Arbitration Act (FAA), an arbitration agreement that is ambiguous as to the availability of class arbitration does not manifest sufficient consent by the parties to submit to class arbitration. In a 5-4 opinion authored by Chief Justice John Roberts, the Court held that the arbitration agreement between Varela and his employer, Lamps Plus, which contained only general language commonly used in arbitration agreements, did not provide the necessary contractual basis for compelling class arbitration.
-
-## 17-340 New Prime Inc. V. Oliveira (01/15/2019), (Supreme Court 2019)
-
-One Line Summary: The court decides if FAA applies. 9 U.S. Code §1 exemptions apply to “agreements to perform work” not just employment agreements.
-
-- [Wikipedia](https://en.wikipedia.org/wiki/New_Prime_Inc._v._Oliveira)
-- [Court Opinion](https://www.supremecourt.gov/opinions/18pdf/17-340_o7kq.pdf) (8-0) (unread)
-- [Oyez](https://www.oyez.org/cases/2018/17-340)
-- Majority Author: Neil Gorsuch
-- Concurrence: Ginsburg
-- [SCOTUSBlog](https://www.scotusblog.com/case-files/cases/new-prime-inc-v-oliveira/)
 
 # Non Supreme Court Federal Cases
 
@@ -249,7 +180,4 @@ One Liner: The People and the Labor Commissioner are not parties to those arbitr
 # Footnotes
 
 [^1]: Need to double check this.
-[^footnote7]: Justice SCALIA joins all but footnote 7 of this opinion.
 [^ejusdemgeneris]: [Rules of Statutory Construction and Interpretation](https://www.supremecourt.gov/DocketPDF/18/18-9575/102239/20190611092122150_00000055.pdf) §16
-[^correcting1]: Schwartz, D. (2004). Correcting Federalism Mistakes in Statutory Interpretation: The Supreme Court and the Federal Arbitration Act. Law and Contemporary Problems, 67(1), 5–54. https://scholarship.law.duke.edu/lcp/vol67/iss1/2 pp 10
-[^showdown1]: Reuben, R. C. (1996). Western Showdown: Two Montana judges buck the U.S. Supreme Court. ABA Journal, 82(10), 16–16. https://www.jstor.org/stable/27839725
