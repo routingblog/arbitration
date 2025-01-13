@@ -238,7 +238,7 @@ arb that precludes ERISA plan-wide relief under Section 502(a) not enforceable
 
 ## Argent Trust Company v. Harrison 23-30
 
-Status: **Certiorari rejected**
+Status: {{< ico fas ban >}} **Certiorari rejected**
 
 - [Supreme Cour Docket](https://www.supremecourt.gov/docket/docketfiles/html/public/23-30.html)
 
@@ -246,7 +246,7 @@ Issue: Whether a participant in a plan governed by the Employee Retirement Incom
 
 ## HomeServices of America, Inc., et al., Petitioners v. Scott Burnett, et al.
 
-Status: **Certiorari rejected**
+Status: {{< ico fas ban >}} **Certiorari rejected**
 
 - [Supreme Court Docket](https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-840.html)
 
@@ -254,7 +254,7 @@ Status: **Certiorari rejected**
 
 ## In re Uber Technologies Wage and Hour Cases
 
-Status: **Certiorari rejected**
+Status: {{< ico fas ban >}} **Certiorari rejected**
 
 One Liner: The People and the Labor Commissioner are not parties to those arbitration agreements.
 
