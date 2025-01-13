@@ -4,9 +4,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: articulate/actions-markdownlint@v1.1.0
+      - uses: tj-actions/changed-files@v45.0.6
+        id: changed-files
         with:
+          files: 'content/**/*.md'
+      - uses: DavidAnson/markdownlint-cli2-action@v19.0.0
+        if: steps.changed-files.outputs.any_changed == 'true'
+        with:
+          globs: '**/*.md'
           config: markdownlint-config.json
-          files: 'docs/**/*.md'
+          files: 'content/**/*.md'
           ignore: node_modules
-          version: 0.43.0
