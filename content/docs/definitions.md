@@ -22,7 +22,7 @@ Mandatory Arbitration
 : The requirement to sign an arbitration agreement as a condition to employment or receiving good or services. Typically without the ability to opt-out.
 
 Mitsubishi trilogy
-: A series of three court cases ([#1]({{< relref "arbitration_legal#shearson-v-mchanon" >}}),[#2]({{< relref "arbitration_legal#mitsubishi-v-soler" >}}),[#3]({{< relref "arbitration_legal#Quijas-v-american-express" >}})) allowing for arbitration of statutory claims.
+: A series of three court cases ([#1]({{< relref "arbitration_legal#shearson-v-mchanon" >}}),[#2]({{< ref "cases/mitsubishi-v-soler" >}}),[#3]({{< relref "arbitration_legal#Quijas-v-american-express" >}})) allowing for arbitration of statutory claims.
 
 Pre-Dispute Arbitration Agreement
 : The contract specifying that the parties agree to use arbitration for _future_ disputes.

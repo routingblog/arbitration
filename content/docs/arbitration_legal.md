@@ -12,17 +12,6 @@ See [the new version of this page]({{< ref "cases" >}}).
 
 # Supreme Court Decisions
 
-## Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth, Inc., 473 U.S. 614 (1985) {id="mitsubishi-v-soler"}
-
-One Line Summary: Sherman act anti-trust claims arising from an international act are arbitrable.
-
-- [Wikipedia](https://en.wikipedia.org/wiki/Mitsubishi_Motors_Corp._v._Soler_Chrysler-Plymouth,_Inc.) (unread)
-- [Court Opinion (Court Listener)](https://www.courtlistener.com/opinion/111513/mitsubishi-motors-corp-v-soler-chrysler-plymouth-inc/) (unread)
-- [Oyez](https://www.oyez.org/cases/1984/83-1569) (unread)
-- Status: Made irrelevant by [Motor Vehicle Franchise Contract Arbitration Fairness Act (15 U.S. Code § 1226)](https://www.law.cornell.edu/uscode/text/15/1226)
-
-Part of Mitsubishi trilogy which allowed arbitration to hear statutory claims.
-
 ## Shearson/American Express Inc. v. McMahon, 482 U.S. 220 (1987) {id="shearson-v-mchanon"}
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Shearson/American_Express_Inc._v._McMahon) (unread)
