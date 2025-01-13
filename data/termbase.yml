@@ -1,9 +1,10 @@
 - term: FAA
-  definition: Federal Arbitration Act
+  expansion: Federal Arbitration Act
   category: legal
 - term: ADR
-  definition: Alternative Dispute Resolution
+  expansion: Alternative Dispute Resolution
   category: legal
+  definition: Procedures by which disputes can be resolved other than litigation. For example settlements, mediation, binding or non-binding arbitration.
 - term: ADEA
-  definition: The Age Discrimination in Employment Act of 1967
+  expansion: The Age Discrimination in Employment Act of 1967
   category: legal

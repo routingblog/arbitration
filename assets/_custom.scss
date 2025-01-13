@@ -2,3 +2,8 @@ abbr {
   font-variant-caps: all-small-caps;
   font-feature-settings: normal;
 }
+
+/* Used in glossary shortcode */
+.secondary_dfn {
+  margin-inline-start: 1em !important;
+}

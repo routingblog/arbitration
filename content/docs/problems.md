@@ -52,7 +52,7 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 # Empirical Data & Research
 
-- We have little empirical verification of the claims made both for and against arbitration and ADR, including positive assertions made about reduced cost, speed, and access to dispute mechanisms. [^galanterhaves3] The little empirical data we have consistently shows an anti-employee bias.  Basic questions such as the typical characteristics and outcomes of cases in employment arbitration remain to be definitively answered. [^colvinempirical1]
+- We have little empirical verification of the claims made both for and against arbitration and {{< gloss/abbrx "ADR" >}}, including positive assertions made about reduced cost, speed, and access to dispute mechanisms. [^galanterhaves3] The little empirical data we have consistently shows an anti-employee bias.  Basic questions such as the typical characteristics and outcomes of cases in employment arbitration remain to be definitively answered. [^colvinempirical1]
 
 - Although the plaintiff compensation rate would be very instructive of the role of litigation, because of a lack of data, it cannot be computed from prior research [^congresswrong4]
 
@@ -263,7 +263,7 @@ Arbitration has special carve outs in the law that make them unique amongst othe
 
 # Even Its Proponents Want To Change It
 
-- Even consumer-oriented proponents of arbitration or other forms of ADR want to reform it rather than keep the system as-is. [^congresswrong1]
+- Even consumer-oriented proponents of arbitration or other forms of {{< gloss/abbrx "ADR" >}} want to reform it rather than keep the system as-is. [^congresswrong1]
 
 - The proponents of arbitration to resolve disputes do not address class-action waivers. [^congresswrong2]
 

@@ -3,8 +3,11 @@
 <dl>
 {{- range sort .Site.Data.termbase "term" -}}
     {{- if (eq .category $entry) -}}
-    <dt>{{- .term }} {{ with .abbreviation }} ({{ . -}}) {{- end -}} </dt>
-    <dd>{{- .definition -}}</dd>
+      <dt><dfn>{{- .term }}</dfn></dt>
+      <dd>
+        <em>{{- .expansion -}}</em>
+      </dd>
+      <dd class="secondary_dfn">{{- .definition -}}</dd>
     {{- end -}}
 {{- end -}}
 </dl>
