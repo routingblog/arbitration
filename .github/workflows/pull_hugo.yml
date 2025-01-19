@@ -24,17 +24,19 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5.0.0
 
+      - name: Read .env
+        id: hugo-version
+        run: |
+          . ./.env
+          echo "HUGO_VERSION=${HUGO_VERSION}" >> "${GITHUB_OUTPUT}"
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3.0.0
         with:
-          hugo-version: '0.140.2'
+          hugo-version: '${{ steps.hugo-version.outputs.HUGO_VERSION }}'
           extended: true
 
       - name: Build with Hugo
-        env:
-          # For maximum backward compatibility with Hugo modules
-          HUGO_ENVIRONMENT: production
-          HUGO_ENV: production
         run: |
           hugo \
             --minify \
