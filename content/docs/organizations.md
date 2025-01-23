@@ -20,6 +20,7 @@ weight: 100
 - [Better Markets](https://bettermarkets.org/)
 - [Americans for Financial Reform](https://ourfinancialsecurity.org/tag/arbitration/)
 - [Consumer Federation of America](https://consumerfed.org/issues/consumer-protection/civil-justice/)
+- [NELA - National Employment Lawyers Association](https://www.nela.org/advocacy/ending-forced-arbitration/)
 
 {{< titlehint level="info" title="foo">}}
 **Disclaimer**
