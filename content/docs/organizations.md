@@ -22,7 +22,7 @@ weight: 100
 - [Consumer Federation of America](https://consumerfed.org/issues/consumer-protection/civil-justice/)
 - [NELA - National Employment Lawyers Association](https://www.nela.org/advocacy/ending-forced-arbitration/)
 
-{{< titlehint level="info" title="foo">}}
+{{< titlehint level="info" title="Disclaimer">}}
 **Disclaimer**
 
 Some of these groups advocate for other issues as well. This list focusses solely on the issue of mandatory arbitration & class actions waivers and no comment is made about the other issues.
