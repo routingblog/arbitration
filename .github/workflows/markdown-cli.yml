@@ -12,10 +12,10 @@ jobs:
         id: changed-files
         with:
           files: 'content/**/*.md'
-      - uses: DavidAnson/markdownlint-cli2-action@v19.0.0
+      - uses: DavidAnson/markdownlint-cli2-action@v19.1.0
         if: steps.changed-files.outputs.any_changed == 'true'
         with:
           globs: '**/*.md'
-          config: markdownlint-config.json
+          config: 'markdownlint-config.json'
           files: 'content/**/*.md'
           ignore: node_modules
