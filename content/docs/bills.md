@@ -69,7 +69,6 @@ There have been many attempts to fix the problems. This table lists some of them
 | Title | State | Summary |
 | ----------- | ----------- | --- |
 | [California Fair Pay and Employer Accountability Act](https://oag.ca.gov/system/files/initiatives/pdfs/21-0027A1%20%28Employee%20Civil%20Action%29.pdf) | CA | changes to PAGA law |
-| [SB-940 Civil disputes](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB940) | CA | many improvements to arb requirements for contracts |
 
 # Congressional Hearings
 
@@ -81,16 +80,17 @@ May 16, 2019
 
 # State Statutes
 
-| Title       | State |
-| ----------- | ----------- |
-| [CA Code of Civil Procedure - CCP §§3.9.1280 - 1294.4 - Arbitration](https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=CCP&division=&title=9.&part=3.&chapter=&article=) | California |
-| [CA Code of Civil Procedure - CCP §§1295 - Arbitration Of Medical Malpractice](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1295.&lawCode=CCP) | California |
-| [CA Mandatory Fee Arbitration Act “MFAA” Bus. & Prof. Code 3.4.13 §§6200-6206](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=BPC&division=3.&title=&part=&chapter=4.&article=13.) | CA |
-| [Labor Code Private Attorneys General Act of 2004 - Lab. Code § 2698](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=LAB&sectionNum=2698.) | CA |
-| [NY C.P.L.R. §8 7501-7516](https://www.nysenate.gov/legislation/laws/CVP/A75) | New York |
-| [CA EDC §94876](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=EDC&sectionNum=94907.&article=11) | California |
-| [FL Title XXXIX §682](https://www.flsenate.gov/Laws/Statutes/2018/Chapter682/All) | Florida |
-| [Chapter 73 Arbitration](https://www.legis.state.pa.us/cfdocs/legis/LI/consCheck.cfm?txtType=HTM&ttl=42&div=0&chpt=73) | Pennsylvania |
+| Title       | State | Summary |
+| ----------- | ----------- | --- |
+| [CA Code of Civil Procedure - CCP §§3.9.1280 - 1294.4 - Arbitration](https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=CCP&division=&title=9.&part=3.&chapter=&article=) | California | |
+| [CA Code of Civil Procedure - CCP §§1295 - Arbitration Of Medical Malpractice](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1295.&lawCode=CCP) | California | |
+| [SB-940 Civil disputes](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB940) | CA | many improvements to arb requirements for contracts |
+| [CA Mandatory Fee Arbitration Act “MFAA” Bus. & Prof. Code 3.4.13 §§6200-6206](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=BPC&division=3.&title=&part=&chapter=4.&article=13.) | CA | |
+| [Labor Code Private Attorneys General Act of 2004 - Lab. Code § 2698](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=LAB&sectionNum=2698.) | CA | |
+| [NY C.P.L.R. §8 7501-7516](https://www.nysenate.gov/legislation/laws/CVP/A75) | New York | |
+| [CA EDC §94876](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=EDC&sectionNum=94907.&article=11) | California | |
+| [FL Title XXXIX §682](https://www.flsenate.gov/Laws/Statutes/2018/Chapter682/All) | Florida | |
+| [Chapter 73 Arbitration](https://www.legis.state.pa.us/cfdocs/legis/LI/consCheck.cfm?txtType=HTM&ttl=42&div=0&chpt=73) | Pennsylvania | |
 
 ## History
 
