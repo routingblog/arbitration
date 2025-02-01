@@ -16,5 +16,4 @@ jobs:
         if: steps.changed-files.outputs.any_changed == 'true'
         with:
           globs: 'content/**.md'
-          config: '.markdownlint-cli2.jsonc'
           ignore: node_modules
