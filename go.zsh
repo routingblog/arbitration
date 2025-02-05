@@ -1,5 +1,6 @@
 #!/usr/bin/env zsh
 
+hugo version
 pre-commit run
 markdownlint-cli2 --config .markdownlint-cli2.jsonc 'content/**.md'
 vale content
