@@ -1,19 +1,12 @@
 {
-  // things I don't care about
-  // line length
-  "MD013": false,
+  "line-length": false,
   "no-duplicate-heading": {
     "siblings_only": true
   },
-  // MD033/no-inline-html
-  "MD033": false,
-
-  // eventually need to fix
+  "no-inline-html": false,
 
   // single top level in same doc
-  "MD025": false,
-  // bare url
-  "MD034": false,
-  // MD026/no-trailing-punctuation
-  "MD026": false
+  "single-h1": false,
+  "no-bare-urls": false,
+  "no-trailing-punctuation": false
 }
