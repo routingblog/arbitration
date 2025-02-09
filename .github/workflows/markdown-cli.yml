@@ -1,23 +1,8 @@
 name: check code for markdown issues
-on: push
+
+on:
+  push:
+
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-      - uses: tj-actions/changed-files@v45.0.7
-        id: changed-files
-        with:
-          files: |
-            content/**/*.md
-            .markdownlint-cli2.jsonc
-            .markdownlint.jsonc
-      - uses: DavidAnson/markdownlint-cli2-action@v19.1.0
-        if: steps.changed-files.outputs.any_changed == 'true'
-        with:
-          globs: 'content/**/**.md'
-          config: '.markdownlint-cli2.jsonc'
-          ignore: node_modules
+  call-mdl-workflow:
+    uses: routingblog/workflow/.github/workflows/markdown-cli.yml@master

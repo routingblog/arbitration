@@ -12,32 +12,5 @@ permissions:
   id-token: write
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-
-      - name: Configure GitHub Pages
-        id: pages
-        uses: actions/configure-pages@v5.0.0
-
-      - name: Read .env
-        id: hugo-version
-        run: |
-          . ./.env
-          echo "HUGO_VERSION=${HUGO_VERSION}" >> "${GITHUB_OUTPUT}"
-
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3.0.0
-        with:
-          hugo-version: '${{ steps.hugo-version.outputs.HUGO_VERSION }}'
-          extended: true
-
-      - name: Build with Hugo
-        run: |
-          hugo \
-            --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+  call-hugo-workflow:
+    uses: routingblog/workflow/.github/workflows/pull_hugo.yml@master

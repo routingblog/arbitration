@@ -27,57 +27,5 @@ defaults:
     shell: bash
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-
-      - name: Configure GitHub Pages
-        id: pages
-        uses: actions/configure-pages@v5.0.0
-
-      - name: Read .env
-        id: hugo-version
-        run: |
-          . ./.env
-          echo "HUGO_VERSION=${HUGO_VERSION}" >> "${GITHUB_OUTPUT}"
-
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3.0.0
-        with:
-          hugo-version: '${{ steps.hugo-version.outputs.HUGO_VERSION }}'
-          extended: true
-
-      - name: Build with Hugo
-        env:
-          # For maximum backward compatibility with Hugo modules
-          HUGO_ENVIRONMENT: production
-          HUGO_ENV: production
-        run: |
-          hugo \
-            --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3.0.1
-        with:
-          path: ./public
-
-      - name: Attest
-        uses: actions/attest-build-provenance@v2
-        with:
-          subject-path: './public'
-
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+  call-hugo-workflow:
+    uses: routingblog/workflow/.github/workflows/hugo.yml@master
