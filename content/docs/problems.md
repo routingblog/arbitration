@@ -96,6 +96,8 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - Prior to the various arbitration acts of the mid 1920s the common law doctrine allowed for revocibility. [^newarb3]
 
+- Before 1991, an employee could not be required to arbitrate a statutory employment discrimination claim. [^greenban2]
+
 # Employment {id="employment"}
 
 - Plaintiffs’ overall economic outcomes are on average 6.1 times better in federal court than in mandatory arbitration and 13.9 times better in state court than in mandatory arbitration ($328,008 versus $23,548) [^stone1]
@@ -272,6 +274,10 @@ Arbitration has special carve outs in the law that make them unique amongst othe
 Some have argued that regulatory authorities are better positioned to resolve systematic issues instead of relying on [class actions]({{< relref "#class-actions" >}}) class-actions or similar actions.
 
 - The EEOC does not have sufficient resources to litigate the majority of cases. [^congresswrong3]
+
+# Public Support
+
+- Most people do not approve of mandatory arbitration agreements. [^greenban1]
 
 # Possible Advantages or Arguments in Favour
 
@@ -542,3 +548,7 @@ This document has a few limitations and biases.
 [^congresswrong4]: "Congress Was Wrong" supra pp 322
 
 [^fn1]: This is currently unsourced as the author has not yet had a chance to fully read through the complete documents. Nonetheless it is better to keep all arguments against this page in order to ensure that they are addressed.
+
+[^greenban1]: Michael Z. Green. (2024). Expanding the Ban on Forced Arbitration to Race Claims (SSRN Scholarly Paper No. 4749423). https://papers.ssrn.com/abstract=4749423
+
+[^greenban2]: Green supra pp 467 [^greenban1]
