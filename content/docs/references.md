@@ -137,6 +137,10 @@ The Supreme Court’s jurisprudential commitment to arbitration remains strong e
 1. Harry C. Katz, David Sherwyn, & Paul Wagner. (2023). Congress Was Wrong: Arbitration Is More Plaintiff-Friendly than Litigation, and We Can Make It Even More Just. ABA Journal of Labor and Employment Law, 37, 309. https://www.americanbar.org/content/dam/aba/publications/aba_journal_of_labor_employment_law/v37/number-3/jlel-vol37-no3-3.pdf
 
     This is one of the stronger "pro-arbitration" notes. Even so, it proposes some radical reforms and does not defend the current system.
+1. Michael Z. Green. (2024). Expanding the Ban on Forced Arbitration to Race Claims (SSRN Scholarly Paper No. 4749423). https://papers.ssrn.com/abstract=4749423
+  {{< details "Expanding the Ban" >}}
+    Despite focusing on sex-based claims, the application of the {{< gloss/abbrx "EFASASHA" >}} statute in the courts will result in many race-based claims also being prohibited from being forced into arbitration.
+  {{< /details >}}
 
 ### Position Papers or Private Groups
 
