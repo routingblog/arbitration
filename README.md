@@ -4,6 +4,8 @@
 
 ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)
 
+[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://github.com/pre-commit/pre-commit)
+
 # Status
 
 [![Deploy Hugo site to Pages](https://github.com/routingblog/arbitration/actions/workflows/hugo.yml/badge.svg)](https://github.com/routingblog/arbitration/actions/workflows/hugo.yml)
