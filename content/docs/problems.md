@@ -28,7 +28,7 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - Arbitration, as practiced, is unique to the United States [^cain2]
 
-- The {{< gloss/abbrx "FAA" >}} was intended to be a procedural remedy available in the federal courts [^newarb1]. It was never intended by the enacting Congress to apply in state court. [^schwartzcorrecting] [^newarb7] [^wealthxfer4] In fact, its constitutionality "rests upon the constitutional provision by which Congress is authorized to establish and control inferior Federal courts"... and not solely upon "upon the exercise of the interstate-commerce". [^newarb5]
+- The {{< gloss/abbrx "FAA" >}} was intended to be a procedural remedy available in the federal courts [^newarb1]. It was never intended by the enacting Congress to apply in state court. [^schwartzcorrecting] [^newarb7] [^wealthxfer4] In fact, its constitutionality "rests upon the constitutional provision by which Congress is authorized to establish and control inferior Federal courts"… and not solely upon "upon the exercise of the interstate-commerce". [^newarb5]
 
 - Arbitration requires the waiver of jury trials.  While the jury is probably still out on this issue, there is a general perception that arbitrators give smaller awards than juries. [^privateknappcite1]
 
@@ -188,7 +188,7 @@ Why do some contracts of adhesion have opt-out clauses?
 
 - Despite not being required to follow (or know) the law they may have Absolute Immunity from statements they make. Importantly, this is true even if they are not operating in objective good faith. [^kentucky1]
 
-- Overall, the evidence on whether arbitrators follow the law in their awards is inconclusive... analysis of statutes by labor arbitrators often is "cursory and conclusory." [^drahozal1] [^greenfield1]
+- Overall, the evidence on whether arbitrators follow the law in their awards is inconclusive… analysis of statutes by labor arbitrators often is "cursory and conclusory." [^drahozal1] [^greenfield1]
 
 - Many arbitration awards contain no statement of reasons, so that it is difficult if not impossible to determine whether the arbitrators have followed the law. [^lawless1]
 

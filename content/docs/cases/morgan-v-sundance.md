@@ -15,8 +15,8 @@ One Line Summary: courts cannot create arbitration-specific procedural rules
 Core Claim (pull quote):
 
 > This Court granted certiorari to resolve the split over whether federal courts may adopt an arbitration-specific waiver rule demanding a showing of prejudice.
-> Held: ....erred in conditioning a waiver of the right to arbitrate on a showing of prejudice.
-> The text of the FAA makes clear that courts are not to create arbitration-specific procedural rules ...
+> Held: …erred in conditioning a waiver of the right to arbitrate on a showing of prejudice.
+> The text of the FAA makes clear that courts are not to create arbitration-specific procedural rules …
 
 ### Analysis
 
