@@ -1,7 +1,7 @@
 #!/usr/bin/env zsh
 
 hugo version
-pre-commit run --all
+pre-commit run --all-files
 markdownlint-cli2 --config .markdownlint-cli2.jsonc 'content/**/**.md'
 vale content
 # https://gohugo.io/troubleshooting/audit/
