@@ -61,7 +61,7 @@ Corporations view the gap in bargaining power between themselves and individuals
 1. Cain, R. M. (1988). Commercial Disputes and Compulsory Arbitration. The Business Lawyer, 44(1), 65–84. https://www.jstor.org/stable/40687165
 
     {{< details "Cain - Commercial Disputes and Compulsory Arbitration - Conclusion" >}}
-Courts may feel vidually for their possible congressional in For this reason, amendment of the separat ties statutes, is t
+Courts may feel constrained to analyze statues individually for their possible congressional intent favoring judicial enforcement. For this reason, amendment of the separate statutes, beginning with the securities statutes, is the preferable approach.
 {{< /details >}}
 
 1. Sternlight, J. R. (2005). Creeping Mandatory Arbitration: Is It Just? Scholarly Works, 57(280), 1631–1676.
@@ -119,7 +119,7 @@ EFASASHA is incomplete, but a good start. The FAIR Act provides a strong potion 
 1. Ryan Schimmel. (2023). A Real Right to Litigate: Dismantling Mandatory Arbitration and the Restoring Justice for Workers Act. SETON HALL LEGISLATIVE JOURNAL, 47.
 1. Drahozal, C. (2006). Is Arbitration Lawless. Loyola of Los Angeles Law Review, 40(1), 187. https://digitalcommons.lmu.edu/llr/vol40/iss1/5
 
-    This is one of the stronger "pro-arbitration" note so far. Even so, it merely states that there is "little emperical evidence" that arbitrators don't follow the law and has other fairly weak claims.
+    This is one of the stronger "pro-arbitration" note so far. Even so, it merely states that there is "little empirical evidence" that arbitrators don't follow the law and has other fairly weak claims.
 
     {{< details "Drahozal - Lawless - Conclusion" >}}
 Clearly more research is needed to evaluate the extent to which arbitration actually is "lawless." The research to date, however, suggests that perhaps arbitration is less lawless than is sometimes feared.
@@ -211,7 +211,7 @@ In summary, the evidence to dates suggests that there is little reason to believ
 
 ## Background Reading
 
-This is a selection of relevent reading without directly opining on arbitration (or class actions):
+This is a selection of relevant reading without directly opining on arbitration (or class actions):
 
 1. Marc Galanter. (1974). Why the ‘Haves’ Come out Ahead: Speculations on the Limits of Legal Change. Law & Society Review, 9(1), 95–160. https://doi.org/10.2307/3053023
 

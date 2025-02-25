@@ -14,7 +14,7 @@ Pre-Dispute Arbitration agreements force people into a form of 'Rustic Justice' 
 
 The Supreme Court has repeatedly ignored the plain meaning of the statutes, congressional intent in writing the {{< gloss/abbrx "FAA" >}}, as well the standard rules of statutory interpretation effectively rewriting Title 9 to invent a "national policy favoring arbitration" as a form of “do it yourself-tort reform". [^jiggery] [^schwartzcorrecting] [^gilles5] [^sternlight] [^sacredcow4] [^arbfeesdagger1]
 
-Arbitration is inherently a creature contract. The defining feature is not simplicitly or speed but rather _party agreement_. [^igonrance1] As such most of this document is in generalities and discusses typical consumer and employment contracts. It is difficult to study because only a small fraction of awards are published and awards are only a fragment of the overall proceedings. [^ruminations1] [^predict1] It is also difficult to study due to the combination of ethical issues preventing unbiased blind studies for real parties. [^realright2]
+Arbitration is inherently a creature contract. The defining feature is not simplicity or speed but rather _party agreement_. [^igonrance1] As such most of this document is in generalities and discusses typical consumer and employment contracts. It is difficult to study because only a small fraction of awards are published and awards are only a fragment of the overall proceedings. [^ruminations1] [^predict1] It is also difficult to study due to the combination of ethical issues preventing unbiased blind studies for real parties. [^realright2]
 
 There may be reasons to elect for arbitration post-dispute on the advice of a qualified attorney. This article also ignores _voluntary arbitration agreement_ such as those negotiated in collective bargaining agreements.
 
@@ -198,7 +198,7 @@ Why do some contracts of adhesion have opt-out clauses?
 
 # Qualifications of Arbiters {id=qualification}
 
-- There are no rules for who may be an arbitor (except if specified in the contract)
+- There are no rules for who may be an arbiter (except if specified in the contract)
 
 - In contrast to litigation, where jurists are subject to enforceable rules designed to foster impartiality and resist corruption, there is no government mechanism for attempting to foster arbitrator neutrality and competence. [^stempelkangaroo3]
 
@@ -297,7 +297,7 @@ While arbitration is generally negative for both employees and consumers there i
 
 ## Confidentiality
 
-- Court records are typically public. Arbitration proceedings are often confidential as a matter of practice or even contract. A lawsuit may bring embarassing or personal topics into the public record.
+- Court records are typically public. Arbitration proceedings are often confidential as a matter of practice or even contract. A lawsuit may bring embarrassing or personal topics into the public record.
 
 ## Due Process Protocols
 

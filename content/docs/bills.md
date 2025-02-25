@@ -96,7 +96,7 @@ May 16, 2019
 
 ### CA SB-365 (2023)
 
-[CA SB-365 Civil procedure: arbitration](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB365) was signed on 10-OCT-23 which ammends CCP §1294.4 to add the text
+[CA SB-365 Civil procedure: arbitration](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB365) was signed on 10-OCT-23 which amends CCP §1294.4 to add the text
 
 > Notwithstanding Section 916, the perfecting of such an appeal shall not automatically stay any proceedings in the trial court during the pendency of the appeal.
 

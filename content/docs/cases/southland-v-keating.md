@@ -13,7 +13,7 @@ One Line Summary: FAA applies to contracts under state law (due to congressional
 - [Court Opinion (Court Listener)](https://www.courtlistener.com/opinion/111091/southland-corp-v-keating/) (unread)
 - [Court Opinion (Library of Congress)](https://tile.loc.gov/storage-services/service/ll/usrep/usrep465/usrep465001/usrep465001.pdf) (unread)
 - Majority Author: Warren Burger
-- Concurence: John P. Stevens
+- Concurrence: John P. Stevens
 - Dissents: Sandra Day O'Connor, William Rehnquist
 
 {{< details "Core Claim (pull quote)" >}}

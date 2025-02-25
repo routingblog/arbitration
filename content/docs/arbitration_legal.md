@@ -12,7 +12,7 @@ slug: arbitration
 ### Adolph v. Uber Techs., Inc., No. S274671, 2023 WL 4553702 (Cal. July 17, 2023) {id="adolph"}
 
 - Opinion: https://www.courts.ca.gov/opinions/documents/S274671.PDF
-- represenative PAGA is allowed despite arbitration of individual
+- representative PAGA is allowed despite arbitration of individual
 
 ## California Non-Supreme Court Cases
 

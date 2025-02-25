@@ -25,7 +25,7 @@ weight: 100
 {{< titlehint level="info" title="Disclaimer">}}
 **Disclaimer**
 
-Some of these groups advocate for other issues as well. This list focusses solely on the issue of mandatory arbitration & class actions waivers and no comment is made about the other issues.
+Some of these groups advocate for other issues as well. This list focuses solely on the issue of mandatory arbitration & class actions waivers and no comment is made about the other issues.
 {{< /titlehint >}}
 
 ## Resources

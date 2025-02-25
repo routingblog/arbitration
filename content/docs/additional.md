@@ -8,7 +8,7 @@ This document is a work in progress. This page is a staging area and miscellaneo
 
 # More Court Cases
 
-- American Safety Equipment Corp. v. JP Maguire & Co. - TBD. Commericial Arbitration
+- American Safety Equipment Corp. v. JP Maguire & Co. - TBD. Commercial Arbitration
 
 - Volt Info. Scis., Inc. v. Bd. of Trustees of Leland Stanford Junior Univ., 109 S. Ct. 1248, 1250 (1989).
 
