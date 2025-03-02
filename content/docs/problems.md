@@ -307,6 +307,10 @@ While arbitration is generally negative for both employees and consumers there i
 
 - The current system for resolving employment claim emanates from a tort-based litigation system. Unlike torts, employment disputes are not only inevitable, but they are also, in some ways, healthy. Disputes can raise issues that need to be corrected at the workplace. Disputes are best resolved at the lowest level with minimal involvement from outsiders. [^congresswrong2]
 
+## Retries
+
+- Defendants will sometimes use "tricks" to avoid due process. These include giving documents late, unnamed, in atypical formats, and so on. In a mass arbitration environment where evidence used in one case can be used in another used this may effectively give "multiple attempts at the apple".
+
 # Document Limitations
 
 This document has a few limitations and biases.
