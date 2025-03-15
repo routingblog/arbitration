@@ -177,6 +177,8 @@ In summary, the evidence to dates suggests that there is little reason to believ
 1. Donna Ballman. (2018, April 13). Are You A Liar? Arbitration Is The Forum For You. Screw You Guys, I’m Going Home. http://employeeatty.blogspot.com/2018/04/are-you-liar-arbitration-is-forum-for.html
 1. Emil. (2023, April 21). Arbitration Agreements: Don’t Sign Pre-Dispute Arbitration Agreements - CANHR. California Advocates For Nursing Home Reform. https://canhr.org/arbitration-agreements-dont-sign-agreements/, https://canhr.org/arbitration-agreements-dont-sign-agreements/
 1. Dominic Charles. (2023, February 28). What Would the End of McCarran-Ferguson Mean for Arbitration? The Arbitration Brief. https://thearbitrationbrief.com/2023/02/28/what-would-the-end-of-mccarran-ferguson-mean-for-arbitration/
+1. Firm, T. A. L. (2025, January 4). California Law Protects Employees from Out-of-State Arbitration: What Employees Need to Know. Arns Davis Law. https://www.arnslaw.com/blog/2025/01/04/california-law-protects-employees-from-out-of-state-arbitration-what-employees-need-to-know/
+1. Firm, T. A. L. (2020, June 1). Opt Out of Arbitration Agreements to Protect Your Right to a Jury Trial. Arns Davis Law. https://www.arnslaw.com/blog/2020/06/01/opt-out-of-arbitration-agreements-to-protect-your-right-to-a-jury-trial/
 
 ### Books
 
