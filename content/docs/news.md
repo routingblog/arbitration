@@ -40,3 +40,5 @@ weight: 10000
 1. Seema Nanda & 2023. (2023, March 20). Mandatory Arbitration Won’t Stop Us from Enforcing the Law. DOL Blog. http://blog.dol.gov/2023/03/20/mandatory-arbitration-wont-stop-us-from-enforcing-the-law
 
 1. Justices Say Cases Sent to Arbitration Must Be Put on Hold (2). (n.d.). Retrieved 19 May 2024, from https://news.bloomberglaw.com/daily-labor-report/supreme-court-says-cases-sent-to-arbitration-must-be-put-on-hold
+
+1. Scarcella, M. (2025, May 16). Lawsuit accuses American Arbitration Association of monopolizing consumer market. Reuters. https://www.reuters.com/legal/government/lawsuit-accuses-american-arbitration-association-monopolizing-consumer-market-2025-05-16/

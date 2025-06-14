@@ -33,3 +33,4 @@ Some of these groups advocate for other issues as well. This list focuses solely
 - [Opt Out Templates](https://github.com/lynnpepin/arbitration-opt-out-templates)
 - [Arbitrator Rater](https://www.arbitratorrater.com) - For Consumer Protection Attorneys
 - [Level Playing Field](https://levelplayingfield.io/)
+- [Consumer Rights Wiki](https://consumerrights.wiki/Forced_arbitration)
