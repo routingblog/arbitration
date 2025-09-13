@@ -10,7 +10,7 @@ weight: 10000
 
 1. Frankel, A. (2024, June 20). In Live Nation case, appeals court mulls mass arbitration breakthrough. Reuters. https://www.reuters.com/legal/litigation/column-live-nation-case-appeals-court-mulls-mass-arbitration-breakthrough-2024-06-20/
 
-1. : Matthew D. Craig. (2024, June 13). California Appeals Court Holds Arbitration Agreement Unenforceabl. The National Law Review. https://natlawreview.com/article/california-appeals-court-finds-employers-arbitration-agreement-cost-sharing-and-out
+1. Matthew D. Craig. (2024, June 13). California Appeals Court Holds Arbitration Agreement Unenforceabl. The National Law Review. https://natlawreview.com/article/california-appeals-court-finds-employers-arbitration-agreement-cost-sharing-and-out
 
 1. New Supreme Court Arbitration Ruling: A Double-Edged Sword. (2024, May 29). NCLC Digital Library. https://library.nclc.org/article/new-supreme-court-arbitration-ruling-double-edged-sword
 |
@@ -41,4 +41,12 @@ weight: 10000
 
 1. Justices Say Cases Sent to Arbitration Must Be Put on Hold (2). (n.d.). Retrieved 19 May 2024, from https://news.bloomberglaw.com/daily-labor-report/supreme-court-says-cases-sent-to-arbitration-must-be-put-on-hold
 
+# American Arbitration Association Monopoly Lawsuit
+
+## News
+
 1. Scarcella, M. (2025, May 16). Lawsuit accuses American Arbitration Association of monopolizing consumer market. Reuters. https://www.reuters.com/legal/government/lawsuit-accuses-american-arbitration-association-monopolizing-consumer-market-2025-05-16/
+
+## Docket
+
+- [Court Listener Docket](https://www.courtlistener.com/docket/70276600/stephens-v-american-arbitration-association-incorporated/)
