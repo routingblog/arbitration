@@ -41,3 +41,15 @@
 
 - term: Intertwining Doctrine
   definition: if a dispute presents multiple claims, some arbitrable and some not, the former must be sent to arbitration even if this will lead to piecemeal litigation.
+
+- term: AAA
+  expansion: American Arbitration Association
+  category: provider
+
+- term: JAMS
+  expansion: Judicial Arbitration and Mediation Services (formerly)
+  category: provider
+
+- term: NAMADR
+  expansion: National Arbitration and Mediation
+  category: provider
