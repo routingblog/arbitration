@@ -41,6 +41,10 @@ weight: 10000
 
 1. Justices Say Cases Sent to Arbitration Must Be Put on Hold (2). (n.d.). Retrieved 19 May 2024, from https://news.bloomberglaw.com/daily-labor-report/supreme-court-says-cases-sent-to-arbitration-must-be-put-on-hold
 
+1. Martina Barash & Gillian R. Brassil. (2025, September 25). SEC Shift on Arbitration Sparks Strategies to Counter Its Effect. Bloomberg Law. https://news.bloomberglaw.com/litigation/sec-shift-on-arbitration-sparks-strategies-to-counter-its-effect
+
+1. Broc Romanek. (2025, September 22). SEC Reverses Policy to Be Neutral on Mandatory Arbitration Bylaws. The Governance Beat. https://governancebeat.cooley.com/sec-reverses-policy-to-be-neutral-on-mandatory-arbitration-bylaws/
+
 # American Arbitration Association Monopoly Lawsuit
 
 ## News
