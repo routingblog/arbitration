@@ -21,6 +21,7 @@ weight: 100
 - [Americans for Financial Reform](https://ourfinancialsecurity.org/tag/arbitration/)
 - [Consumer Federation of America](https://consumerfed.org/issues/consumer-protection/civil-justice/)
 - [NELA - National Employment Lawyers Association](https://www.nela.org/advocacy/ending-forced-arbitration/)
+- [CAOC - Consumer Attorneys of California](https://www.caoc.org/?pg=issdispute)
 
 {{< titlehint level="info" title="Disclaimer">}}
 **Disclaimer**
