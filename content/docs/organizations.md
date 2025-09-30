@@ -22,6 +22,7 @@ weight: 100
 - [Consumer Federation of America](https://consumerfed.org/issues/consumer-protection/civil-justice/)
 - [NELA - National Employment Lawyers Association](https://www.nela.org/advocacy/ending-forced-arbitration/)
 - [CAOC - Consumer Attorneys of California](https://www.caoc.org/?pg=issdispute)
+- [NELP - National Employment Law Project](https://www.nelp.org/insights-research/faq-on-mandatory-arbitration-in-employment/)
 
 {{< titlehint level="info" title="Disclaimer">}}
 **Disclaimer**
