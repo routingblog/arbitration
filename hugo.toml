@@ -35,6 +35,13 @@ sectionPagesMenu = 'main'
     startLevel = 1
   [markup.goldmark.renderer]
     unsafe = true
+  [markup.goldmark.extensions]
+    strikethrough = false
+    [markup.goldmark.extensions.extras]
+      [markup.goldmark.extensions.extras.delete]
+        enable = true
+  [markup.goldmark.extensions.footnote]
+    enableAutoIDPrefix = true
 
 [taxonomies]
   category = 'categories'
