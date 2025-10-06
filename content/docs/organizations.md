@@ -23,6 +23,11 @@ weight: 100
 - [CAOC - Consumer Attorneys of California](https://www.caoc.org/?pg=issdispute)
 - [NELP - National Employment Law Project](https://www.nelp.org/insights-research/faq-on-mandatory-arbitration-in-employment/)
 - [Lift Our Voices](https://liftourvoices.org/what-we-do) [^1]
+- [Alliance for Justice](https://afj.org/article/this-labor-day-lets-recommit-to-ending-forced-arbitration/)
+- [Economic Policy Institute](https://www.epi.org/research/forced-arbitration/)
+- [Consumer Reports](https://www.consumerreports.org/mandatory-binding-arbitration/forced-arbitration-clause-for-concern/)
+- [NIWR - National Institute for Workers' Rights](https://niwr.org/state-policy-clearinghouse/)
+- [Workplace Fairness](https://www.workplacefairness.org/forced-arbitration-agreements/)
 
 {{< titlehint level="info" title="Disclaimer">}}
 **Disclaimer**
