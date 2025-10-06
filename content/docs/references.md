@@ -7,7 +7,7 @@ weight: 100
 # References
 
 {{< notice note >}}
-This page includes only references which I've read in full - including every footnote. There are many more which I've not yet read. It will be updated the backlog is worked through.
+This page includes only references that I've read in full — including every footnote. There are many more that I’ve not yet read. It will be updated the backlog is worked through.
 {{< /notice >}}
 
 ## Arbitration
@@ -139,7 +139,7 @@ The Supreme Court’s jurisprudential commitment to arbitration remains strong e
     This is one of the stronger "pro-arbitration" notes. Even so, it proposes some radical reforms and does not defend the current system.
 1. Michael Z. Green. (2024). Expanding the Ban on Forced Arbitration to Race Claims (SSRN Scholarly Paper No. 4749423). https://papers.ssrn.com/abstract=4749423
   {{< details "Expanding the Ban" >}}
-    Despite focusing on sex-based claims, the application of the {{< gloss/abbrx "EFASASHA" >}} statute in the courts will result in many race-based claims also being prohibited from being forced into arbitration.
+    Despite focusing on sex-based claims, the application of the EFASASHA statute in the courts will result in many race-based claims also being prohibited from being forced into arbitration.
   {{< /details >}}
 
 ### Position Papers or Private Groups
