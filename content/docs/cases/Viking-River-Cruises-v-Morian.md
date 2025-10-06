@@ -15,3 +15,7 @@ Decision: https://www.supremecourt.gov/opinions/21pdf/20-1573_8p6h.pdf
 
 The court also predicted what the california courts would rule in a similar case (alolf)
 SCOTUS predicting [Adolph]({{< relref "/#adolph" >}})
+
+The Court found that the California joinder rule under PAGA preventing the division of PAGA actions into an individual and nonindividual/representative claim was preempted by the FAA. [^greenban1]
+
+[^greenban1]: Michael Z. Green. (2024). Expanding the Ban on Forced Arbitration to Race Claims (SSRN Scholarly Paper No. 4749423). https://papers.ssrn.com/abstract=4749423 (pp 486).
