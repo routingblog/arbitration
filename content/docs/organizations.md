@@ -1,5 +1,4 @@
 ---
-
 title: Organizations and Resources
 type: docs
 weight: 100
@@ -23,6 +22,7 @@ weight: 100
 - [NELA - National Employment Lawyers Association](https://www.nela.org/advocacy/ending-forced-arbitration/)
 - [CAOC - Consumer Attorneys of California](https://www.caoc.org/?pg=issdispute)
 - [NELP - National Employment Law Project](https://www.nelp.org/insights-research/faq-on-mandatory-arbitration-in-employment/)
+- [Lift Our Voices](https://liftourvoices.org/what-we-do) [^1]
 
 {{< titlehint level="info" title="Disclaimer">}}
 **Disclaimer**
@@ -36,3 +36,5 @@ Some of these groups advocate for other issues as well. This list focuses solely
 - [Arbitrator Rater](https://www.arbitratorrater.com) - For Consumer Protection Attorneys
 - [Level Playing Field](https://levelplayingfield.io/)
 - [Consumer Rights Wiki](https://consumerrights.wiki/Forced_arbitration)
+
+[^1]: *Lift Our Voices*'s advocacy is limited in scope to just Sexual Harassment but generally aligns with the goal of eliminating mandatory arbitration.
