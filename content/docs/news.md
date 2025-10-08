@@ -8,6 +8,8 @@ weight: 10000
 
 1. Jessica Silver-Greenberg & and Robert Gebeloff. (2015, October 31). Arbitration Everywhere, Stacking the Deck of Justice. The New York Times. archive.is. https://archive.is/dr0xs
 
+1. Gerald Sauer. (2020, February 6). Arbitration Is A Flawed Forum That Needs Repair - Law360 [Law360]. Perspectives. https://www.law360.com/articles/1239175/arbitration-is-a-flawed-forum-that-needs-repair
+
 1. Widower rejects claim that Disney+ membership means he can’t sue for wrongful death. (2024, August 13). Law & Crime. https://lawandcrime.com/lawsuit/borders-on-the-absurd-dead-womans-estate-rejects-disneys-claim-that-widowers-disney-membership-means-wrongful-death-lawsuit-must-be-arbitrated/
 
 1. Frankel, A. (2024, June 20). In Live Nation case, appeals court mulls mass arbitration breakthrough. Reuters. https://www.reuters.com/legal/litigation/column-live-nation-case-appeals-court-mulls-mass-arbitration-breakthrough-2024-06-20/
