@@ -56,6 +56,12 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - Although the plaintiff compensation rate would be very instructive of the role of litigation, because of a lack of data, it cannot be computed from prior research [^congresswrong4]
 
+- Most arbitration agreements do not require reasoned or even written opinions. [^galanterhaves1]
+
+- If the data exists, contextual information such as the identity of disputants, nature of the dispute, role of counsel, repeat-player status, and other factors are not included. [^thirdarbitration1]
+
+- In at least one study with straightforward apples-to-apples comparisons [^2] shows that approximately one third of arbitrators decide questions differently to how the courts would do so. [^hortonlaw1]
+
 # Claim Suppression
 
 - In 2018, there were an estimated 826,537,000 consumer arbitration provisions in force yet consumers filed only 6000 arbitrations each year. [^gillesletter]
@@ -150,7 +156,7 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - "by far the most effective" tool to undermine class actions has been "arbitration provisions expressly waiving the right to any collective adjudication" [^gilles1]
 
-- Most arbitration agreements do not require reasoned or even written opinions, punitive damages, or other remedial possibilities [^galanterhaves1]
+- Many contracts attempt to eliminate punitive damages, or other remedial possibilities. [^galanterhaves1] While such contracts may be invalid, most arbitrators will not go beyond their purported limited authority.
 
 - By avoiding class actions companies can also avoid <abbr title="Federal Rules of Civil Procedure">FRCP</abbr> §23(b)(2) injuctive relief. That is, they could avoid judicial orders to stop their behavior generally instead merely in specific cases.
 
@@ -556,3 +562,9 @@ This document has a few limitations and biases.
 [^greenban1]: Michael Z. Green. (2024). Expanding the Ban on Forced Arbitration to Race Claims (SSRN Scholarly Paper No. 4749423). https://papers.ssrn.com/abstract=4749423
 
 [^greenban2]: Green supra pp 467 [^greenban1]
+
+[^thirdarbitration1]: Thomas Stipanowich. (2011). The Third Arbitration Trilogy: Stolt-Nielsen, Rent-A-Center, Concepcion and the Future of American Arbitration (SSRN Scholarly Paper No. 1919936). Social Science Research Network. https://papers.ssrn.com/abstract=1919936 (pp 2)
+
+[^2]: Due to the nature of clause construction, arbitration body rules, and clear Supreme Court opinions many of the typical difficulties in empirical study are avoided. See paper for details.
+
+[^hortonlaw1]: David Horton. (2025). Do Arbitrators Follow the Law? Evidence from Clause Construction (SSRN Scholarly Paper No. 5174894). Social Science Research Network. https://doi.org/10.2139/ssrn.5174894 (pp 3)

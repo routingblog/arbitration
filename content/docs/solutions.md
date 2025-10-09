@@ -60,6 +60,14 @@ One simple fix for arbitration is to allow the _customer_ or _employee_ to revok
 
 I have not seen anyone else propose this change.
 
+## Consumer and Employment Tribunals
+
+Introducing more focussed tribunals such as Canadian Human Rights Commission or the Irish Fair Employment Tribunal.
+
+# General Thoughts
+
+While this website makes the well substantiated claim that arbitration is generally deeply problematic it must be compared other options such as going to court. Such proceedings are slow, public, and may themselves not lead to appropriate resolution.
+
 # Footnotes
 
 [^realright1]: Ryan Schimmel. (2023). A Real Right to Litigate: Dismantling Mandatory Arbitration and the Restoring Justice for Workers Act. SETON HALL LEGISLATIVE JOURNAL, 47 pp 106
