@@ -139,7 +139,12 @@ The Supreme Court’s jurisprudential commitment to arbitration remains strong e
     This is one of the stronger "pro-arbitration" notes. Even so, it proposes some radical reforms and does not defend the current system.
 1. Michael Z. Green. (2024). Expanding the Ban on Forced Arbitration to Race Claims (SSRN Scholarly Paper No. 4749423). https://papers.ssrn.com/abstract=4749423
   {{< details "Expanding the Ban" >}}
-    Despite focusing on sex-based claims, the application of the EFASASHA statute in the courts will result in many race-based claims also being prohibited from being forced into arbitration.
+Despite focusing on sex-based claims, the application of the EFASASHA statute in the courts will result in many race-based claims also being prohibited from being forced into arbitration.
+  {{< /details >}}
+
+1. David Horton. (2025). Do Arbitrators Follow the Law? Evidence from Clause Construction (SSRN Scholarly Paper No. 5174894). Social Science Research Network. https://doi.org/10.2139/ssrn.5174894
+  {{< details "Do Arbitrators Follow the Law?" >}}
+Nevertheless, it is unsettling that the lawless arbitrators in my study skewed their rulings in a way that furthered their financial self-interest. Whether plaintiffs or defendants benefit, this potential for bias raises questions about the wisdom of outsourcing an ever-expanding swath of the civil justice system to private judges.
   {{< /details >}}
 
 ### Position Papers or Private Groups
