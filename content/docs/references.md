@@ -147,6 +147,8 @@ Despite focusing on sex-based claims, the application of the EFASASHA statute in
 Nevertheless, it is unsettling that the lawless arbitrators in my study skewed their rulings in a way that furthered their financial self-interest. Whether plaintiffs or defendants benefit, this potential for bias raises questions about the wisdom of outsourcing an ever-expanding swath of the civil justice system to private judges.
   {{< /details >}}
 
+1. de Werra, J. (2014). Risks of IP carve-out in arbitration clauses. Journal of Intellectual Property Law & Practice, 9(3), 184–185. https://doi.org/10.1093/jiplp/jpt258
+
 ### Position Papers or Private Groups
 
 1. Katherine V.W. Stone & Alexander J.S. Colvin. (2015). The arbitration epidemic: Mandatory arbitration deprives workers and consumers of their rights (Briefing Paper 414). Economic Policy Institute. https://www.epi.org/publication/the-arbitration-epidemic/
