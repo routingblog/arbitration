@@ -13,3 +13,5 @@
 [![check code for markdown issues](https://github.com/routingblog/arbitration/actions/workflows/markdown-cli.yml/badge.svg)](https://github.com/routingblog/arbitration/actions/workflows/markdown-cli.yml)
 
 [![Dependabot Updates](https://github.com/routingblog/arbitration/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/routingblog/arbitration/actions/workflows/dependabot/dependabot-updates)
+
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/routingblog/arbitration/master.svg)](https://results.pre-commit.ci/latest/github/routingblog/arbitration/master)
