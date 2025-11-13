@@ -100,7 +100,7 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - New York's arbitration act was passed in 1920 followed by the Federal Arbitration act in 1925 largely at the behest of commercial trade organizations. [^sacredcow1] They wanted resolution according the norms of the industry instead of by external law. [^sacredcow2]
 
-- Prior to the various arbitration acts of the mid 1920s the common law doctrine allowed for revocibility. [^newarb3]
+- Prior to the various arbitration acts of the mid 1920s the common law doctrine allowed for revocability. [^newarb3]
 
 - Before 1991, an employee could not be required to arbitrate a statutory employment discrimination claim. [^greenban2]
 
