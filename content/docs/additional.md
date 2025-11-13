@@ -116,7 +116,7 @@ A dispute resolution agreement in the middle of a fifty-one-page employee handbo
 
 # In re StockX Customer Data Sec. Breach Litig.
 
-# EPSON AMERICA, INC., a California corporation, vs Arnoff et. al
+# Epson America Inc. v. Graesen Arnoff et al. (2023)
 
 [Complaint](https://fingfx.thomsonreuters.com/gfx/legaldocs/myvmkgxxlvr/frankel-epsonmassarbitration--arnoffcomplaint.pdf)
 Seeking declaratory judgement that individuals did not engage in good-faith efforts at informal dispute resolution.

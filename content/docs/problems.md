@@ -212,7 +212,7 @@ Why do some contracts of adhesion have opt-out clauses?
 
 - Because arbitration agreements are often confidential, and even when not they are not clearly reasoned or published they make it difficult to establish norms and ensure that equally situated persons are treated equally. [^creeping2]
 
-- The effects of removing entire classes of litigation from the stream of the common law effectively halts the development of legal common law. [^gilles3] For example it is judge made rules that define permissible conduct under Title VII, the FLSA, and state employment laws. Private arbitration of these disputes allows defendant-employers to disregard such laws and prevent public development in regards to new behavior. [^gilles7]
+- The effects of removing entire classes of litigation from the stream of the common law effectively halts the development of legal common law. [^gilles3] For example it is judge made rules that define permissible conduct under Title VII, the FLSA, and state employment laws. Private arbitration of these disputes allows defendant-employers to disregard such laws and prevent public development in regard to new behaviour. [^gilles7]
 
 - An arbitrator's authority is based on contract and thus has limited incentive to consider the effects of their awards on third parties [^lawless1]
 

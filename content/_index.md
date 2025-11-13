@@ -13,7 +13,7 @@ Arbitration is often heralded as a cheaper, faster, and more efficient mechanism
 
 The goal of this website is to discuss _forced arbitration_ and _class action waivers_ in _consumer_ and _employment_ disputes. Other aspects of arbitration are discussed mostly in the context of how they affect these two pieces of the puzzle.
 
-This site specifically excludes post-dispute arbitration. It also excludes attorney fee arbitration programs as administrated by state bar associations.
+This site specifically excludes post-dispute arbitration. It also excludes attorney fee arbitration programs as administered by state bar associations.
 
 # Bias
 

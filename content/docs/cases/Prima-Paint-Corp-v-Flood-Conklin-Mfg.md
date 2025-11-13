@@ -21,10 +21,10 @@ weight: 1967
 
 ### Analysis
 
-> Recognizing as "broad" a clause requiring arbitration of"[a]ny controversy or claim arising out of or relating to" the agreement
-> Holding that if the making of the arbitration agreement is an issue "the federal court may proceed to adjudicate it"
+> Recognizing as "broad" a clause requiring arbitration of “[a]ny controversy or claim arising out of or relating to” the agreement
+> Holding that if the making of the arbitration agreement is an issue “the federal court may proceed to adjudicate it”
 >
-> Holding that contractual language "[a]ny controversy or claims arising out of or relating to this Agreement, or breach thereof" is "easily broad enough to encompass" claim for fraud in inducement of contract
+> Holding that contractual language “[a]ny controversy or claims arising out of or relating to this Agreement, or breach thereof” is “easily broad enough to encompass” claim for fraud in inducement of contract
 >
 > The Prima Paint Court erred, however, in asserting that the FAA’s basis was “confined to” Congress’s interstate commerce and admiralty power. That assertion is flat out wrong: As we have seen, the legislative history shows that Congress placed primary reliance for enacting the FAA on its control over the procedures of the federal courts. [^correcting2]
 

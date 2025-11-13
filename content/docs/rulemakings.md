@@ -68,7 +68,7 @@ Improving Protections for Workers in Temporary Agricultural Employment in the Un
 
 ## U.S. Department of Education - Federal Student Aid
 
-### ED-2021-OPE-0077 - Borrower Defense to Repayment, Pre-dispute Arbitration, ...
+### ED-2021-OPE-0077 - Borrower Defense to Repayment, Pre-dispute Arbitration, …
 
 Full Name: Final Regulations: Borrower Defense to Repayment, Pre-dispute Arbitration, Interest Capitalization, Total and Permanent Disability Discharges, Closed School Discharges, Public Service Loan Forgiveness, and False Certification Discharges
 
