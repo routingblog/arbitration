@@ -329,7 +329,7 @@ This document has a few limitations and biases.
 
 - Much of the research about arbitration may be wrong in ways that invalidate the claims on this page. For example, some research "fail to include dispositive motions in their analysis". [^congresswrong1]
 
-- Since arbitration is faster than litigation, there may be less backpay. This makes direct comparisons more difficult. [^congresswrong4]
+- Since arbitration is faster than litigation, there may be less back pay. This makes direct comparisons more difficult. [^congresswrong4]
 
 ## Labor Contracts Use Arbitration
 
