@@ -28,8 +28,8 @@ See other past [proposed bills]({{< relref "bills" >}})
 
 ## State Statutes
 
-| Title       | State |
-| ----------- | ----------- |
+| Title | State |
+| ----- | ----- |
 
 # Rule Making
 

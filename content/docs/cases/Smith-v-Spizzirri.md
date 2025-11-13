@@ -4,7 +4,7 @@ type: docs
 weight: 2024
 ---
 
-### Smith v. Spizzirri, U.S., No. 22-1218 (2024)
+## Smith v. Spizzirri, U.S., No. 22-1218 (2024)
 
 One Line Summary: Whether [9 U.S.C. § 3](https://www.law.cornell.edu/uscode/text/9/3) requires the court to stay a lawsuit pending arbitration or if they have discretion to dismiss.
 
