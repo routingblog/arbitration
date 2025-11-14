@@ -6,7 +6,7 @@ weight: 1
 
 # Introduction
 
-Arbitration is a form of {{< gloss/abbrx "ADR" >}} which litigates disutes outside of the formal court machinery. Mandatory arbitration is a practice in which a business requires employees or consumers to agree to arbitrate legal disputes with the business rather than going to court. Such agreements are generally enforceable and effectively bar employees or consumers from going to court, instead diverting legal claims into an arbitration procedure that is established by the agreement drafted by the company and required as a condition of employment or of doing business with it.  The claim is these processes are cheaper, faster, and more efficient, while remaining fair. In reality they serve to eliminate meaningful recourse for violations of contract or of the law.
+Arbitration is a form of {{< gloss/abbrx "ADR" >}} which litigates disutes outside of the formal court machinery. Mandatory arbitration is a practice in which a business requires employees or consumers to agree to arbitrate legal disputes with the business rather than going to court. Such agreements are generally enforceable and effectively bar employees or consumers from going to court, instead diverting legal claims into an arbitration procedure that is established by the agreement drafted by the company and required as a condition of employment or of doing business with it. The claim is these processes are cheaper, faster, and more efficient, while remaining fair. In reality they serve to eliminate meaningful recourse for violations of contract or of the law.
 
 # Problems
 
@@ -30,7 +30,7 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - The {{< gloss/abbrx "FAA" >}} was intended to be a procedural remedy available in the federal courts [^newarb1]. It was never intended by the enacting Congress to apply in state court. [^schwartzcorrecting] [^newarb7] [^wealthxfer4] In fact, its constitutionality "rests upon the constitutional provision by which Congress is authorized to establish and control inferior Federal courts"… and not solely upon "upon the exercise of the interstate-commerce". [^newarb5]
 
-- Arbitration requires the waiver of jury trials.  While the jury is probably still out on this issue, there is a general perception that arbitrators give smaller awards than juries. [^privateknappcite1]
+- Arbitration requires the waiver of jury trials. While the jury is probably still out on this issue, there is a general perception that arbitrators give smaller awards than juries. [^privateknappcite1]
 
 - When the contract limits remedies in other ways (reduced time to bring claims, limitations on injuctive relief, etc.) it is normally subject to Judicial review. Not so with arbitration. In fact, stepping "outside the bounds of the contract" are one of the few reasons arbitrator's awards can be vacated. [^privateknappcite4]
 
@@ -52,7 +52,7 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 # Empirical Data & Research
 
-- We have little empirical verification of the claims made both for and against arbitration and {{< gloss/abbrx "ADR" >}}, including positive assertions made about reduced cost, speed, and access to dispute mechanisms. [^galanterhaves3] The little empirical data we have consistently shows an anti-employee bias.  Basic questions such as the typical characteristics and outcomes of cases in employment arbitration remain to be definitively answered. [^colvinempirical1]
+- We have little empirical verification of the claims made both for and against arbitration and {{< gloss/abbrx "ADR" >}}, including positive assertions made about reduced cost, speed, and access to dispute mechanisms. [^galanterhaves3] The little empirical data we have consistently shows an anti-employee bias. Basic questions such as the typical characteristics and outcomes of cases in employment arbitration remain to be definitively answered. [^colvinempirical1]
 
 - Although the plaintiff compensation rate would be very instructive of the role of litigation, because of a lack of data, it cannot be computed from prior research [^congresswrong4]
 
@@ -134,9 +134,9 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - The share of workers subject to mandatory arbitration exceedss 55 percent is growing. Among companies with 1,000 or more employees, 65 percent have mandatory arbitration procedures. 30 percent also include class action waivers in their procedures [^colvin1]
 
-- The sources of data available to study arbitral behavior may end up painting a rosier picture of labor arbitration than is warranted. More accurate empirical data is limited. [^labourlawless1]
+- The sources of data available to study arbitral behavior may end up painting a rosier picture of labour arbitration than is warranted. More accurate empirical data is limited. [^labourlawless1]
 
-- Employment arbitrators are often law firm associates or partners who are not labor law specialists. [^arbfeesdagger2]
+- Employment arbitrators are often law firm associates or partners who are not labour law specialists. [^arbfeesdagger2]
 
 # Investment
 
@@ -194,7 +194,7 @@ Why do some contracts of adhesion have opt-out clauses?
 
 - Despite not being required to follow (or know) the law they may have Absolute Immunity from statements they make. Importantly, this is true even if they are not operating in objective good faith. [^kentucky1]
 
-- Overall, the evidence on whether arbitrators follow the law in their awards is inconclusive… analysis of statutes by labor arbitrators often is "cursory and conclusory." [^drahozal1] [^greenfield1]
+- Overall, the evidence on whether arbitrators follow the law in their awards is inconclusive… analysis of statutes by labour arbitrators often is "cursory and conclusory." [^drahozal1] [^greenfield1]
 
 - Many arbitration awards contain no statement of reasons, so that it is difficult if not impossible to determine whether the arbitrators have followed the law. [^lawless1]
 
@@ -253,7 +253,7 @@ While mass arbitration has been used as a tool to help even the playing field it
 
 # Equality
 
-- Most contracts appear in many respects to put the consumer on equal terms with the business that drafted them. This helps defend against claims of unconscionably. However, limitations on discovery hurt consumers more than business (as the business holds most of the relevant information). Administrative and filing fees fall disproportionately on the consumer (even when split equally).  Class actions are almost always precluded. The types of claims most often brought by business against consumers (such as IP disputes) are precluded.  The appearance of equality is deceptive. [^rand5]
+- Most contracts appear in many respects to put the consumer on equal terms with the business that drafted them. This helps defend against claims of unconscionably. However, limitations on discovery hurt consumers more than business (as the business holds most of the relevant information). Administrative and filing fees fall disproportionately on the consumer (even when split equally). Class actions are almost always precluded. The types of claims most often brought by business against consumers (such as IP disputes) are precluded. The appearance of equality is deceptive. [^rand5]
 
 - The majority of negotiated business contracts lack arbitration clauses. This suggests that companies value, even prefer, litigation as the means for resolving disputes with peers. The systematic eschewing of arbitration clauses in business-to-business contracts also casts doubt on the corporations’ asserted beliefs in the superior fairness and efficiency of arbitration clauses. [^summersoilder1]
 
@@ -331,7 +331,7 @@ This document has a few limitations and biases.
 
 - Since arbitration is faster than litigation, there may be less back pay. This makes direct comparisons more difficult. [^congresswrong4]
 
-## Labor Contracts Use Arbitration
+## Labour Contracts Use Arbitration
 
 - Unions and management often conflict, almost all will agree that grievance and arbitration procedures facilitate conflict resolution in an efficient and effective manner. Of course, the union grievance arbitration system has two parties of relatively equal power, while there is no organization representing the individual employee in employment arbitration. [^congresswrong2]
 
