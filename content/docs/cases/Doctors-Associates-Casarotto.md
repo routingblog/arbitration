@@ -12,7 +12,7 @@ One Line Summary: The FAA must also inquire whether it singles out arbitration o
 - Supreme Court Database Record: [1995-055-01](http://scdb.wustl.edu/analysisCaseDetail.php?cid=1995-055-01)
 
 {{< details "Pull Quote (from syllabus):" >}}
-Montana's first-page notice requirement, which governs not "any contract," but specifically and solely contracts "subject to arbitration," conflicts with the FAA and is therefore displaced by the federal measure. Generally applicable contract defenses, such as fraud, duress, or unconscionability, may be applied to invalidate arbitration agreements without contravening § 2, see, e. g., Allied-Bruce, 513 U. S., at 281, but courts may not invalidate arbitration agreements under state laws applicable only to arbitration provisions
+Montana's first-page notice requirement, which governs not “any contract,” but specifically and solely contracts "subject to arbitration," conflicts with the FAA and is therefore displaced by the federal measure. Generally applicable contract defenses, such as fraud, duress, or unconscionability, may be applied to invalidate arbitration agreements without contravening § 2, see, e. g., Allied-Bruce, 513 U. S., at 281, but courts may not invalidate arbitration agreements under state laws applicable only to arbitration provisions
 {{< /details >}}
 
 The Montana Supreme Court had two justices who refused to sign on to the order remanding the case from the Supreme Court of the United States to the state trial court. [^showdown1]
