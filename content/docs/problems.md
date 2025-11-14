@@ -6,7 +6,7 @@ weight: 1
 
 # Introduction
 
-Arbitration is a form of {{< gloss/abbrx "ADR" >}} which litigates disutes outside of the formal court machinery. Mandatory arbitration is a practice in which a business requires employees or consumers to agree to arbitrate legal disputes with the business rather than going to court. Such agreements are generally enforceable and effectively bar employees or consumers from going to court, instead diverting legal claims into an arbitration procedure that is established by the agreement drafted by the company and required as a condition of employment or of doing business with it. The claim is these processes are cheaper, faster, and more efficient, while remaining fair. In reality they serve to eliminate meaningful recourse for violations of contract or of the law.
+Arbitration is a form of {{< gloss/abbrx "ADR" >}} which litigates disputes outside of the formal court machinery. Mandatory arbitration is a practice in which a business requires employees or consumers to agree to arbitrate legal disputes with the business rather than going to court. Such agreements are generally enforceable and effectively bar employees or consumers from going to court, instead diverting legal claims into an arbitration procedure that is established by the agreement drafted by the company and required as a condition of employment or of doing business with it. The claim is these processes are cheaper, faster, and more efficient, while remaining fair. In reality they serve to eliminate meaningful recourse for violations of contract or of the law.
 
 # Problems
 
