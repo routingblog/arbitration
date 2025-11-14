@@ -16,7 +16,7 @@ The Supreme Court has repeatedly ignored the plain meaning of the statutes, cong
 
 Arbitration is inherently a creature contract. The defining feature is not simplicity or speed but rather _party agreement_. [^igonrance1] As such most of this document is in generalities and discusses typical consumer and employment contracts. It is difficult to study because only a small fraction of awards are published and awards are only a fragment of the overall proceedings. [^ruminations1] [^predict1] It is also difficult to study due to the combination of ethical issues preventing unbiased blind studies for real parties. [^realright2]
 
-There may be reasons to elect for arbitration post-dispute on the advice of a qualified attorney. This article also ignores _voluntary arbitration agreement_ such as those negotiated in collective bargaining agreements.
+There may be reasons to elect for arbitration post-dispute on the advice of a qualified attorney. This article also ignores _voluntary arbitration agreements_ such as those negotiated in collective bargaining agreements.
 
 <!--more-->
 
@@ -26,15 +26,15 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - Arbitration, when passed, was designed for contract disputes between merchants, not statutory claims or between entities of unequal bargaining power. [^creeping1] [^comm] [^rustic] [^newarb2] In fact members of Congress expressly disavowed touching either consumer or employment contracts - and even went so far as to make that explicit with respect to employment. [^scaliaclass1] Julius Henry Cohen, the author of United States Arbitration Act, testified that the bill would be applicable in federal courts only. [^keating1] [^newarb4]
 
-- Arbitration, as practiced, is unique to the United States [^cain2]
+- Arbitration, as practiced, is unique to the United States. [^cain2]
 
 - The {{< gloss/abbrx "FAA" >}} was intended to be a procedural remedy available in the federal courts [^newarb1]. It was never intended by the enacting Congress to apply in state court. [^schwartzcorrecting] [^newarb7] [^wealthxfer4] In fact, its constitutionality "rests upon the constitutional provision by which Congress is authorized to establish and control inferior Federal courts"… and not solely upon "upon the exercise of the interstate-commerce". [^newarb5]
 
 - Arbitration requires the waiver of jury trials. While the jury is probably still out on this issue, there is a general perception that arbitrators give smaller awards than juries. [^privateknappcite1]
 
-- When the contract limits remedies in other ways (reduced time to bring claims, limitations on injuctive relief, etc.) it is normally subject to Judicial review. Not so with arbitration. In fact, stepping "outside the bounds of the contract" are one of the few reasons arbitrator's awards can be vacated. [^privateknappcite4]
+- When the contract limits remedies in other ways (reduced time to bring claims, limitations on injuctive relief, etc.) it is normally subject to judicial review. Not so with arbitration. In fact, stepping "outside the bounds of the contract" are one of the few reasons arbitrator's awards can be vacated. [^privateknappcite4]
 
-- An award can only be vacated if (1) it was procured by corruption or fraud, (2) evident partiality or corruption, (3) the arbitrator refused to hear relevant evidence, or (4) the arbitrator exceeded the power defined in the arbitration agreement. [^uscode1] These exceptions are interpreted narrowly with great deference given to the arbitrator. It may not overturned due to an error of fact, contract interpretation, or law. [^sacredcow3]
+- An award can only be vacated if (1) it was procured by corruption or fraud, (2) evident partiality or corruption, (3) the arbitrator refused to hear relevant evidence, or (4) the arbitrator exceeded the power defined in the arbitration agreement. [^uscode1] These exceptions are interpreted narrowly with great deference given to the arbitrator. It may not be overturned due to an error of fact, contract interpretation, or law. [^sacredcow3]
 
 - In civil court the attorneys could have sanctions against them if they pointlessly delay the proceedings. Less so arbitration.
 
@@ -42,19 +42,19 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - Where the employee was self-represented the employee win rate was substantially smaller versus cases where the employee was represented by counsel. Award amounts are also smaller. [^colvinempirical7] This counters the argument that arbitration may reduce the need for attorneys.
 
-- The {{< gloss/abbrx "FAA" >}} creates an incentive for entities to self-deregulate through private contract [^glover1]
+- The {{< gloss/abbrx "FAA" >}} creates an incentive for entities to self-deregulate through private contract. [^glover1]
 
 - Companies may suffer adverse publicity if it is perceived as attempting to use arbitration to gain unfair advantage over its customers, vendors, or the public. Although these economic incentives toward fairness are not trivial, neither are they particularly powerful. A company’s problematic arbitration conduct is unlikely to be significantly salient to its overall customer base or the general public. [^stempelkangaroo4]
 
 - Empirical Data is hard to obtain. [^rand1] Companies may not provide relevant information to consumers even when legally required. [^rand2]
 
-- Forced arbitration clauses and class action bans are now a basic feature of form contracts [^wealthxfer3]
+- Forced arbitration clauses and class action bans are now a basic feature of form contracts. [^wealthxfer3]
 
 # Empirical Data & Research
 
 - We have little empirical verification of the claims made both for and against arbitration and {{< gloss/abbrx "ADR" >}}, including positive assertions made about reduced cost, speed, and access to dispute mechanisms. [^galanterhaves3] The little empirical data we have consistently shows an anti-employee bias. Basic questions such as the typical characteristics and outcomes of cases in employment arbitration remain to be definitively answered. [^colvinempirical1]
 
-- Although the plaintiff compensation rate would be very instructive of the role of litigation, because of a lack of data, it cannot be computed from prior research [^congresswrong4]
+- Although the plaintiff compensation rate would be very instructive of the role of litigation, because of a lack of data, it cannot be computed from prior research. [^congresswrong4]
 
 - Most arbitration agreements do not require reasoned or even written opinions. [^galanterhaves1]
 
@@ -90,13 +90,13 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 # Historical Information
 
-- The author of the {{< gloss/abbrx "FAA" >}} said that Arbitration "was not designed to major importance involving constitutional questions or policy in the application of statute" [^newarb8]
+- The author of the {{< gloss/abbrx "FAA" >}} said that Arbitration "was not designed to major importance involving constitutional questions or policy in the application of statute". [^newarb8]
 
-- The Federal Arbitration Act was "is directed primarily toward settlement of commercial dispute" [^newarb2]
+- The Federal Arbitration Act was "is directed primarily toward settlement of commercial dispute". [^newarb2]
 
-- Until the mid-1980s, arbitration was primary used for international contract disputes, collective bargaining agreements, and other large-scale commercial dispute resolution [^gilles2] [^gilles4]
+- Until the mid-1980s, arbitration was primary used for international contract disputes, collective bargaining agreements, and other large-scale commercial dispute resolution. [^gilles2] [^gilles4]
 
-- In the pre-1980s world of traditional commercial arbitration, the parties often sought arbitration to have arbitrators familiar with a given industry apply the customary norms of the industry [^stempelkangaroo2]
+- In the pre-1980s world of traditional commercial arbitration, the parties often sought arbitration to have arbitrators familiar with a given industry apply the customary norms of the industry. [^stempelkangaroo2]
 
 - New York's arbitration act was passed in 1920 followed by the Federal Arbitration act in 1925 largely at the behest of commercial trade organizations. [^sacredcow1] They wanted resolution according the norms of the industry instead of by external law. [^sacredcow2]
 
@@ -106,13 +106,13 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 # Employment {id="employment"}
 
-- Plaintiffs’ overall economic outcomes are on average 6.1 times better in federal court than in mandatory arbitration and 13.9 times better in state court than in mandatory arbitration ($328,008 versus $23,548) [^stone1]
+- Plaintiffs’ overall economic outcomes are on average 6.1 times better in federal court than in mandatory arbitration and 13.9 times better in state court than in mandatory arbitration ($328,008 versus $23,548). [^stone1]
 
-- Employee win rates in mandatory arbitration are much lower than in either federal court or state court, with employees in mandatory arbitration winning only just about a fifth of the time, which is 59 percent as often as in the federal courts and only 38 percent as often as in state courts[^stone2] [^colvin2]
+- Employee win rates in mandatory arbitration are much lower than in either federal court or state court, with employees in mandatory arbitration winning only just about a fifth of the time, which is 59 percent as often as in the federal courts and only 38 percent as often as in state courts. [^stone2] [^colvin2]
 
-- Differences in damages awarded are even greater, with the median or typical award in mandatory arbitration being only 21 percent of the median award in the federal courts and 43 percent of the median award in the state courts[^stone2] [^colvin2]
+- Differences in damages awarded are even greater, with the median or typical award in mandatory arbitration being only 21 percent of the median award in the federal courts and 43 percent of the median award in the state courts. [^stone2] [^colvin2]
 
-- Average outcome in mandatory arbitration is only 16 percent of that in the federal courts and 7 percent of that in state courts [^stone2]
+- Average outcome in mandatory arbitration is only 16 percent of that in the federal courts and 7 percent of that in state courts. [^stone2]
 
 - Employee win rates are lower in cases based on employer promulgated procedures than in cases based on individually negotiated contracts. [^colvinempirical2]
 
@@ -120,9 +120,9 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - Repeat player employers fair better than first-timers. [^colvinempirical5] When they win against repeat player employers, employees recover only 11% of their claims. When they win in cases involving one-shot employers, they recover 48% of their claims. [^lisarepeat] [^colvinempirical5] [^note1]
 
-- There is strong evidence for a repeat employer-arbitrator pairing effect in which employees tend to win less often and recover smaller amounts when the employer and the arbitrator are involved in multiple cases together [^colvinempirical8]
+- There is strong evidence for a repeat employer-arbitrator pairing effect in which employees tend to win less often and recover smaller amounts when the employer and the arbitrator are involved in multiple cases together. [^colvinempirical8]
 
-- Arbitrators that are picked by the employers more than once
+- Arbitrators that are picked by the employers more than once.
 
 - {{< anchor id="beholden" >}} Arbitrators feel beholden to companies. Beneath every decision is the threat of losing business. [^silverprivate]
 
@@ -132,11 +132,11 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - Employees in nonunion contexts are still mostly one-shotters and are often unrepresented; also employees in arbitrations against repeat player employers do not fare as well as employees against nonrepeat player employers. [^galanterhaves2]
 
-- The share of workers subject to mandatory arbitration exceedss 55 percent is growing. Among companies with 1,000 or more employees, 65 percent have mandatory arbitration procedures. 30 percent also include class action waivers in their procedures [^colvin1]
+- The share of workers subject to mandatory arbitration exceeds 55 percent is growing. Among companies with 1,000 or more employees, 65 percent have mandatory arbitration procedures. 30 percent also include class action waivers in their procedures. [^colvin1]
 
-- The sources of data available to study arbitral behavior may end up painting a rosier picture of labour arbitration than is warranted. More accurate empirical data is limited. [^labourlawless1]
+- The sources of data available to study arbitral behavior may end up painting a rosier picture of labor arbitration than is warranted. More accurate empirical data is limited. [^laborlawless1]
 
-- Employment arbitrators are often law firm associates or partners who are not labour law specialists. [^arbfeesdagger2]
+- Employment arbitrators are often law firm associates or partners who are not labor law specialists. [^arbfeesdagger2]
 
 # Investment
 
@@ -150,11 +150,11 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - The ban on class actions in particular makes it unlikely that many claims of corporate wrongdoing—particularly those that involve small sums for each in large groups of individuals—will ever be heard. As Justice Breyer opined, “Only a lunatic or a fanatic sues for $30.” [^stone3]  If the filing fees and other prospective costs of arbitration amount to more than what could be gained with a favorable judgment, then a claim will almost certainly not be brought.
 
-- Ninety percent of mandatory arbitration agreements include a class action waiver [^stone5]
+- Ninety percent of mandatory arbitration agreements include a class action waiver. [^stone5]
 
-- A commercial entity can cloister itself away from significant financial liability, as well as any correlative damages award meant to deter unsavory behavior [^classdismissed]
+- A commercial entity can cloister itself away from significant financial liability, as well as any correlative damages award meant to deter unsavory behavior. [^classdismissed]
 
-- "by far the most effective" tool to undermine class actions has been "arbitration provisions expressly waiving the right to any collective adjudication" [^gilles1]
+- "by far the most effective" tool to undermine class actions has been "arbitration provisions expressly waiving the right to any collective adjudication". [^gilles1]
 
 - Many contracts attempt to eliminate punitive damages, or other remedial possibilities. [^galanterhaves1] While such contracts may be invalid, most arbitrators will not go beyond their purported limited authority.
 
@@ -180,7 +180,7 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 Why do some contracts of adhesion have opt-out clauses?
 
-- They reduce the chance that the contract will be held to be procedurally or substantially unconscionable
+- They reduce the chance that the contract will be held to be procedurally or substantially unconscionable.
 
 - They allow the employer to avoid e.g., JAMS minimum standards. In particular they allow the companies to argue that the arbitration is not "required as a condition of employment". [^jams1]
 
@@ -194,17 +194,17 @@ Why do some contracts of adhesion have opt-out clauses?
 
 - Despite not being required to follow (or know) the law they may have Absolute Immunity from statements they make. Importantly, this is true even if they are not operating in objective good faith. [^kentucky1]
 
-- Overall, the evidence on whether arbitrators follow the law in their awards is inconclusive… analysis of statutes by labour arbitrators often is "cursory and conclusory." [^drahozal1] [^greenfield1]
+- Overall, the evidence on whether arbitrators follow the law in their awards is inconclusive… analysis of statutes by labor arbitrators often is "cursory and conclusory." [^drahozal1] [^greenfield1]
 
 - Many arbitration awards contain no statement of reasons, so that it is difficult if not impossible to determine whether the arbitrators have followed the law. [^lawless1]
 
-- The overwhelming majority of awards do not cite to any external authority (statutes, administrative authorities, case law) or secondary sources. [^labourlawless1] [^1]
+- The overwhelming majority of awards do not cite to any external authority (statutes, administrative authorities, case law) or secondary sources. [^laborlawless1] [^1]
 
 - Even if a court determines that the arbitrators did not follow the law, in most cases the court will uphold the award. [^lawless1] [^dirussa]
 
 # Qualifications of Arbiters {id=qualification}
 
-- There are no rules for who may be an arbiter (except if specified in the contract)
+- There are no rules for who may be an arbiter (except if specified in the contract).
 
 - In contrast to litigation, where jurists are subject to enforceable rules designed to foster impartiality and resist corruption, there is no government mechanism for attempting to foster arbitrator neutrality and competence. [^stempelkangaroo3]
 
@@ -214,7 +214,7 @@ Why do some contracts of adhesion have opt-out clauses?
 
 - The effects of removing entire classes of litigation from the stream of the common law effectively halts the development of legal common law. [^gilles3] For example it is judge made rules that define permissible conduct under Title VII, the FLSA, and state employment laws. Private arbitration of these disputes allows defendant-employers to disregard such laws and prevent public development in regard to new behaviour. [^gilles7]
 
-- An arbitrator's authority is based on contract and thus has limited incentive to consider the effects of their awards on third parties [^lawless1]
+- An arbitrator's authority is based on contract and thus has limited incentive to consider the effects of their awards on third parties. [^lawless1]
 
 # Federalism
 
@@ -231,7 +231,7 @@ Why do some contracts of adhesion have opt-out clauses?
   2. A court or tribunal characterized by unauthorized or irregular procedures, esp. as to render a fair proceeding impossible.
   3. A sham legal proceeding.
 
-- An alternative definition of a "kangaroo court" is a forum in which the structure and operation of the forum result in an inferior brand of adjudication even if the tribunal is not gripped with intentional bias [^stempelkangaroo1]
+- An alternative definition of a "kangaroo court" is a forum in which the structure and operation of the forum result in an inferior brand of adjudication even if the tribunal is not gripped with intentional bias. [^stempelkangaroo1]
 
 # Mass Arbitration
 
@@ -323,7 +323,7 @@ This document has a few limitations and biases.
 
 ## Missing Specificity
 
-- Many of the studies or analysis of arbitration don't differentiate between forced consumer mandatory arbitration, labour arbitration, collective bargaining agreements, or even between businesses. To the extent possible this document tries to focus on and cite details that are either generally true or that focus specifically on consumer and non-collective labour contracts.
+- Many of the studies or analysis of arbitration don't differentiate between forced consumer mandatory arbitration, labor arbitration, collective bargaining agreements, or even between businesses. To the extent possible this document tries to focus on and cite details that are either generally true or that focus specifically on consumer and non-collective labor contracts.
 
 ## The Research Is Wrong
 
@@ -331,7 +331,7 @@ This document has a few limitations and biases.
 
 - Since arbitration is faster than litigation, there may be less back pay. This makes direct comparisons more difficult. [^congresswrong4]
 
-## Labour Contracts Use Arbitration
+## Labor Contracts Use Arbitration
 
 - Unions and management often conflict, almost all will agree that grievance and arbitration procedures facilitate conflict resolution in an efficient and effective manner. Of course, the union grievance arbitration system has two parties of relatively equal power, while there is no organization representing the individual employee in employment arbitration. [^congresswrong2]
 
@@ -485,9 +485,9 @@ This document has a few limitations and biases.
 
 [^predict1]: Levinson, A. R., O’Hara O’Connor, E. A., & Skiba, P. M. (2020). Predictability of Arbitrators’ Reliance on External Authority? (SSRN Scholarly Paper 3666331). https://papers.ssrn.com/abstract=3666331 pp 1881
 
-[^labourlawless1]: Levinson, A. R., O’Connor, E. O., & Skiba, P. M. (2021). Is Labor Arbitration Lawless? Florida State University Law Review, 48(2), 443. https://ir.law.fsu.edu/lr/vol48/iss2/4 pp 447-448
+[^laborlawless1]: Levinson, A. R., O’Connor, E. O., & Skiba, P. M. (2021). Is Labor Arbitration Lawless? Florida State University Law Review, 48(2), 443. https://ir.law.fsu.edu/lr/vol48/iss2/4 pp 447-448
 
-[^1]: Arbitrators were more likely to cite to external authority if at least one party was represented by an attorney or if the arbitrators working through an arbitration service provider. [^labourlawless1]
+[^1]: Arbitrators were more likely to cite to external authority if at least one party was represented by an attorney or if the arbitrators working through an arbitration service provider. [^laborlawless1]
 
 [^xu1]: Xu, A. (2022). Reconsideration of Forced Arbitration in Data Privacy Legislation.
 
