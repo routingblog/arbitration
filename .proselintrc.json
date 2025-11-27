@@ -41,7 +41,7 @@
         "misc.metadiscourse": true,
         "misc.narcissism": true,
         "misc.not_guilty": true,
-        "misc.phrasal_adjectives": true,
+        "misc.phrasal_adjectives": false,
         "misc.preferred_forms": true,
         "misc.pretension": true,
         "misc.professions": true,
