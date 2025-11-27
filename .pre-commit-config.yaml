@@ -36,7 +36,7 @@ repos:
     - id: typos
 
 - repo: https://github.com/amperser/proselint/
-  rev: a83a6164999803909f69eb3274d783c7070e73c1  # frozen: v0.16.0
+  rev: 0.14.0
   hooks:
     - id: proselint
-      files: \.md
+      files: \.(md|mdown|markdown)$
