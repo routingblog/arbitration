@@ -21,7 +21,7 @@ repos:
     -   id: mixed-line-ending
     -   id: trailing-whitespace
 -   repo: https://github.com/DavidAnson/markdownlint-cli2
-    rev: a95dde803518e8b723480f182c87bfb1d243d742  # frozen: v0.19.1
+    rev: 7339935a3036f096ee0d7f1f047a9ec41707d4c1  # frozen: v0.20.0
     hooks:
     -   id: markdownlint-cli2
         args:
@@ -36,7 +36,7 @@ repos:
     - id: typos
 
 - repo: https://github.com/amperser/proselint/
-  rev: 0.14.0
+  rev: v0.16.0
   hooks:
     - id: proselint
       files: \.(md|mdown|markdown)$
