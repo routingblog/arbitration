@@ -40,3 +40,13 @@ repos:
   hooks:
     - id: proselint
       files: \.(md|mdown|markdown)$
+
+- repo: https://github.com/errata-ai/vale
+  rev: 16d3a7f
+  hooks:
+    - id: vale
+      name: vale sync
+      pass_filenames: false
+      args: [sync]
+    - id: vale
+      args: [--output=line, --minAlertLevel=error]
