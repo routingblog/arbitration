@@ -19,6 +19,10 @@ This site specifically excludes post-dispute arbitration. It also excludes attor
 
 It is a goal that this site have comprehensive and complete information about pre-dispute arbitration agreements. It isn't intended to be biased in either direction except as the facts may lay out. To the extent that bias exists, the aim is in favour of fairness and consumer rights (rather than about arbitration per se).
 
+# About This Site
+
+This website started off as my research notes. Over time I've been adding to these notes, finding new resources, and completing missing information. While fairly comprehsive, it should be read in that context. It is a labor of love and has no funding.
+
 # Footnotes
 
 [^colvin1]: Colvin, A. J. S. (2018). The growing use of mandatory arbitration (144131; pp. 1–17). Economic Policy Institute. pp 1
