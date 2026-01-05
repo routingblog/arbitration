@@ -85,6 +85,7 @@ May 16, 2019
 | [CA Code of Civil Procedure - CCP §§3.9.1280 - 1294.4 - Arbitration](https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=CCP&division=&title=9.&part=3.&chapter=&article=) | California | |
 | [CA Code of Civil Procedure - CCP §§1295 - Arbitration Of Medical Malpractice](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1295.&lawCode=CCP) | California | |
 | [SB-940 Civil disputes](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB940) | CA | many improvements to arb requirements for contracts |
+| [SB-82](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB82) | CA | limit the dispute resolution terms and conditions to the agreement |
 | [CA Mandatory Fee Arbitration Act “MFAA” Bus. & Prof. Code 3.4.13 §§6200-6206](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=BPC&division=3.&title=&part=&chapter=4.&article=13.) | CA | |
 | [Labor Code Private Attorneys General Act of 2004 - Lab. Code § 2698](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=LAB&sectionNum=2698.) | CA | |
 | [NY C.P.L.R. §8 7501-7516](https://www.nysenate.gov/legislation/laws/CVP/A75) | New York | |
@@ -93,6 +94,12 @@ May 16, 2019
 | [Chapter 73 Arbitration](https://www.legis.state.pa.us/cfdocs/legis/LI/consCheck.cfm?txtType=HTM&ttl=42&div=0&chpt=73) | Pennsylvania | |
 
 ## History
+
+### CA SB-82 (2025)
+
+[SB-82](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB82)
+
+Governor Gavin Newsom signed Senate Bill 82 as of October 7, 2025
 
 ### CA SB-365 (2023)
 
@@ -106,5 +113,3 @@ which effectively reversed [Coinbase]({{< ref "cases/coinbase-v-bielski" >}}) fo
 
 [^hr4960sec]: Intended to overturn _Mitsubishi_. The SEC opposed this bill because the industry was not expanding its use of mandatory arbitration. [^caincitenote]
 [^caincitenote]: Cain, R. M. (1988). Commercial Disputes and Compulsory Arbitration. The Business Lawyer, footnote 163
-
-# Additional notes for the future
