@@ -33,15 +33,26 @@ It is typical to assert that `9 U.S.C. §10(a)(4)` (arbitrators exceeding their 
     <tbody>
         <tr>
             <td>1st</td>
-            <td>Open Question</td>
+            <td>Open question</td>
             <td>Although we concluded, in dicta, that the doctrine is no longer available we have “not squarely determined whether our manifest disregard case law can be reconciled with Hall Street” — refraining from deciding whether “manifest disregard” survived Hall Street as an independent ground for review or as a judicial gloss on the enumerated grounds for vacatur set forth at 9 U.S.C. § 10”.</td>
-            <td><ul><li><i>Ramos-Santiago V. United Parcel Service</i>, 524 F.3d 120 (1st Cir. 2008).</li><li><i>Wonderland Greyhound Park, Inc. V. Autotote Systems, Inc.</i>, 274 F.3d 34 (1st Cir. 2001).</li><li><i>Raymond James Financial Services, Inc. V. Fenyk</i>, 780 F.3d 59 (1st Cir. 2015).</li></ul></td>
+            <td>
+              <ul>
+                <li><i>Ramos-Santiago V. United Parcel Service</i>, 524 F.3d 120 (1st Cir. 2008).</li>
+                <li><i>Wonderland Greyhound Park, Inc. V. Autotote Systems, Inc.</i>, 274 F.3d 34 (1st Cir. 2001).</li>
+                <li><i>Raymond James Financial Services, Inc. V. Fenyk</i>, 780 F.3d 59 (1st Cir. 2015).</li>
+              </ul>
+            </td>
         </tr>
         <tr>
             <td>2nd</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Valid reason to vacate</td>
+            <td>
+            </td>
+            <td>
+              <ul>
+                <li><i>Wallace V. Buttar</i>, 239 F. Supp. 2d 388 (S.D.N.Y. 2003). [note: this is prior to Hall Street]</li>
+              </ul>
+            </td>
         </tr>
         <tr>
             <td>3rd</td>
@@ -105,6 +116,10 @@ It is typical to assert that `9 U.S.C. §10(a)(4)` (arbitrators exceeding their 
         </tr>
     </tbody>
 </table>
+
+# Manifest Disregard of the Facts
+
+Manifest Disregard of the facts or evidence is not a valid reason to vacate in any jurisdiction.
 
 # References
 
