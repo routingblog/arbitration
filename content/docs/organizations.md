@@ -28,6 +28,7 @@ weight: 100
 - [Consumer Reports](https://www.consumerreports.org/mandatory-binding-arbitration/forced-arbitration-clause-for-concern/)
 - [NIWR - National Institute for Workers' Rights](https://niwr.org/state-policy-clearinghouse/)
 - [Workplace Fairness](https://www.workplacefairness.org/forced-arbitration-agreements/)
+- [Consumer Watchdog](https://consumerwatchdog.org/in-the-news/office-of-senator-tom-umberg-umberg-introduces-sb-82-to-end-infinite-arbitration-clauses/)
 
 {{< titlehint level="info" title="Disclaimer">}}
 **Disclaimer**
