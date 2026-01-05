@@ -54,7 +54,7 @@ There may be reasons to elect for arbitration post-dispute on the advice of a qu
 
 - We have little empirical verification of the claims made both for and against arbitration and {{< gloss/abbrx "ADR" >}}, including positive assertions made about reduced cost, speed, and access to dispute mechanisms. [^galanterhaves3] The little empirical data we have consistently shows an anti-employee bias. Basic questions such as the typical characteristics and outcomes of cases in employment arbitration remain to be definitively answered. [^colvinempirical1]
 
-- Although the plaintiff compensation rate would be very instructive of the role of litigation, because of a lack of data, it cannot be computed from prior research. [^congresswrong4]
+- Although the plaintiff compensation rate would be instructive of the role of litigation, because of a lack of data, it cannot be computed from prior research. [^congresswrong4]
 
 - Most arbitration agreements do not require reasoned or even written opinions. [^galanterhaves1]
 
@@ -190,7 +190,7 @@ Why do some contracts of adhesion have opt-out clauses?
 
 # Following The Law
 
-- Arbitrators are not required to follow or even know the law. [^liptonlaw] [^privateknappcite2] Their rulings can be overturned only in narrow circumstances (in "manifest disregard") where the arbitrators must be found to have "understood and correctly stated the law but proceeded to ignore it." [^merrill]
+- Arbitrators are not required to follow or even know the law. [^liptonlaw] [^privateknappcite2] Their rulings can be overturned only in narrow circumstances (in [manifest disregard of the law]({{< ref "specific-issues/manifest-disregard" >}})) where the arbitrators must be found to have "understood and correctly stated the law but proceeded to ignore it." [^merrill]
 
 - Despite not being required to follow (or know) the law they may have Absolute Immunity from statements they make. Importantly, this is true even if they are not operating in objective good faith. [^kentucky1]
 
