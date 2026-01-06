@@ -6,7 +6,7 @@ weight: 80
 ---
 # Introduction
 
-There is a circuit split if “Manifest Disregard of Law” is a basis to vacate arbitration decisions. It is typical to assert that `9 U.S.C. §10(a)(4)` (arbitrators exceeding their powers) is the basis\.
+There is a circuit split if “Manifest Disregard of Law” is a basis to vacate arbitration decisions.
 
 # Basis
 
