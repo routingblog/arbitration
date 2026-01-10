@@ -25,7 +25,7 @@
         "misc.back_formations": true,
         "misc.bureaucratese": true,
         "misc.but": true,
-        "misc.capitalization": true,
+        "misc.capitalization": false,
         "misc.chatspeak": true,
         "misc.commercialese": false,
         "misc.composition": true,

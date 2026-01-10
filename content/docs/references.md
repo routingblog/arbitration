@@ -17,7 +17,9 @@ This page includes only references that I've read in full — including every fo
 1. Alcolea, L. C. (2022). Arbitration and the Right to Have Your Day in Court: Meeting Again at the Turning of the Tide. Pepperdine Dispute Resolution Law Journal, 22(2), 539–580. https://digitalcommons.pepperdine.edu/drlj/vol22/iss2/6/
 
     {{< details "Conclusion - Alcolea" >}}
+<!-- vale off -->
 In conclusion, the message of this article is: Watch this space. Members of the US arbitration ecosystem, whether they be willing members such as businesses or unwilling members such as employees and consumers, have very much been on a wild ride in the last few decades and the recent decisions, new legislation, and changing behavior by all involved means that this is only going to continue in the future.
+<!-- vale on -->
 {{< /details >}}
 
 1. Gilles, M. E. (2023). Arbitration’s Unraveling (SSRN Scholarly Paper 4527841). https://doi.org/10.2139/ssrn.4527841
@@ -74,7 +76,9 @@ Courts may feel constrained to analyze statues individually for their possible c
 1. Menkel-Meadow, C. (n.d.). Do the ‘Haves’ Come out Ahead in Alternative Judicial Systems?,: Repeat Players in ADR. 15.
 
     {{< details "Menkel-Meadow - Do the ‘Haves’ - Conclusion" >}}
+<!-- vale off -->
 In short, we think we know that the "'Haves' Come out Ahead" in ADR, as they do in litigation, but they may come out ahead in different ways or for different reasons. Therefore, as socio-legal scholars who have much to thank Marc Galanter for, it behooves the legal and social empiricists and reformers among us to collect the data we need so we can be more certain that the solutions we suggest will solve the problems that actually exist and not the ones we simply think exist. If the "'Haves' Come out Ahead" in both litigation and ADR, then where will we go next to achieve social justice in disputing?
+<!-- vale on -->
 {{< /details >}}
 
 1. {{< anchor id="rosencrants-fn" >}} Rosencrants, P. E. (2023). “Heads I win, tails you lose”: The End of Employers’ Exploitation of the Federal Arbitration Waiver Prejudice Requirement. MISSOURI LAW REVIEW, 87. https://scholarship.law.missouri.edu/mlr/vol87/iss4/11/
