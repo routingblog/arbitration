@@ -1,6 +1,6 @@
 repos:
 -   repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: 3e8a8703264a2f4a69428a0aa4dcb512790b2c8c  # frozen: v6.0.0
+    rev: v6.0.0
     hooks:
     -   id: check-added-large-files
     -   id: check-case-conflict
@@ -21,7 +21,7 @@ repos:
     -   id: mixed-line-ending
     -   id: trailing-whitespace
 -   repo: https://github.com/DavidAnson/markdownlint-cli2
-    rev: 7339935a3036f096ee0d7f1f047a9ec41707d4c1  # frozen: v0.20.0
+    rev: v0.20.0
     hooks:
     -   id: markdownlint-cli2
         args:
@@ -31,18 +31,18 @@ repos:
             "content",
           ]
 - repo: https://github.com/crate-ci/typos
-  rev: b31d3aa6e8e43e6a9cf7a1d137baf189dec0922b  # frozen: v1
+  rev: v1
   hooks:
     - id: typos
 
 - repo: https://github.com/amperser/proselint/
-  rev: 0.14.0
+  rev: v0.16.0
   hooks:
     - id: proselint
       files: \.(md|mdown|markdown)$
 
 - repo: https://github.com/errata-ai/vale
-  rev: v3.13.0
+  rev: v3.13.1
   hooks:
     - id: vale
       name: vale sync
