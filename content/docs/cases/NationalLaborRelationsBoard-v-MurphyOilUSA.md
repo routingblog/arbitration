@@ -6,7 +6,7 @@ weight: 2017
 
 ## National Labor Relations Board v. Murphy Oil USA, Inc. (2017)
 
-One Line Summary: {{< todo />}}
+One Line Summary: Arbitration agreements providing for individualized proceedings must be enforced, and neither the Arbitration Act’s saving clause nor the NLRA suggests otherwise.
 
 - Wikipedia: {{< todo />}} (unread)
 - Court Opinion (Court Listener): {{< todo />}} (unread)
