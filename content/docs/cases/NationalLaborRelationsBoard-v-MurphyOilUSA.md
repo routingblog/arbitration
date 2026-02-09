@@ -10,7 +10,7 @@ One Line Summary: Arbitration agreements providing for individualized proceeding
 
 - Wikipedia: {{< todo />}} (unread)
 - Court Opinion (Court Listener): {{< todo />}} (unread)
-- Court Opinion (pdf): {{< todo />}} (unread)
+- [Court Opinion (pdf)](https://www.supremecourt.gov/opinions/17pdf/16-285_q8l1.pdf)
 - Oyez: {{< todo />}} (unread)
 - Majority Author: {{< todo />}} (unread)
 - Concurrence: {{< todo />}} (unread)
