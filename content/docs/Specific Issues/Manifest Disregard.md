@@ -128,9 +128,13 @@ It is typical to assert that `9 U.S.C. §10(a)(4)` (arbitrators exceeding their 
 Manifest Disregard of the facts or evidence is not a valid reason to vacate in any jurisdiction.
 
 # References
-
-[^ramos1]: Ramos-Santiago V. United Parcel Service, 524 F.3d 120 (1st Cir. 2008).
-
 {{< notice note >}}
 Typos may be fixed and citations cleaned
 {{< /notice >}}
+
+## Further Reading
+1. Hiro Aragaki. (2009). The Mess of Manifest Disregard.
+
+## Footnotes
+
+[^ramos1]: Ramos-Santiago V. United Parcel Service, 524 F.3d 120 (1st Cir. 2008).
