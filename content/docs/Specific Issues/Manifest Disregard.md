@@ -133,7 +133,7 @@ Typos may be fixed and citations cleaned
 {{< /notice >}}
 
 ## Further Reading
-1. Hiro Aragaki. (2009). The Mess of Manifest Disregard.
+1. Hiro Aragaki. (2009). The Mess of Manifest Disregard. Yale Law Journal Online, 119, 1. https://repository.uclawsf.edu/faculty_scholarship/1896
 
 ## Footnotes
 
