@@ -128,11 +128,13 @@ It is typical to assert that `9 U.S.C. §10(a)(4)` (arbitrators exceeding their 
 Manifest Disregard of the facts or evidence is not a valid reason to vacate in any jurisdiction.
 
 # References
+
 {{< notice note >}}
 Typos may be fixed and citations cleaned
 {{< /notice >}}
 
 ## Further Reading
+
 1. Hiro Aragaki. (2009). The Mess of Manifest Disregard. Yale Law Journal Online, 119, 1. https://repository.uclawsf.edu/faculty_scholarship/1896
 
 ## Footnotes
