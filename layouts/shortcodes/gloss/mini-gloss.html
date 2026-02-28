@@ -1,7 +1,7 @@
 {{- $entry := (.Get 0) -}}
 
 <dl>
-{{- range sort .Site.Data.termbase "term" -}}
+{{- range sort hugo.Data.termbase "term" -}}
     {{- if (eq .category $entry) -}}
       <dt><dfn>{{- .term }}</dfn></dt>
       <dd>

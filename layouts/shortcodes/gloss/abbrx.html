@@ -2,9 +2,9 @@
 {{ $entry := (.Get 0 | upper ) }}
 {{ $count_id := print $entry "_count"}}
 
-<!--{{ debug.Dump $.Site.Data.termbase }}-->
+<!--{{ debug.Dump hugo.Data.termbase }}-->
 
-{{ range $.Site.Data.termbase }}
+{{ range hugo.Data.termbase }}
    <!-- Find matches -->
     {{ if eq  ( .term | upper ) $entry }}
         {{ if gt ( $.Page.Scratch.Get ( $count_id )) 0 }}
