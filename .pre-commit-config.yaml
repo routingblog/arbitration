@@ -21,7 +21,7 @@ repos:
     -   id: mixed-line-ending
     -   id: trailing-whitespace
 -   repo: https://github.com/DavidAnson/markdownlint-cli2
-    rev: v0.21.0
+    rev: v0.22.0
     hooks:
     -   id: markdownlint-cli2
         args:
@@ -42,7 +42,7 @@ repos:
       files: \.(md|mdown|markdown)$
 
 - repo: https://github.com/errata-ai/vale
-  rev: v3.13.1
+  rev: v3.14.1
   hooks:
     - id: vale
       name: vale sync
