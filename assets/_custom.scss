@@ -7,3 +7,60 @@ abbr {
 .secondary_dfn {
   margin-inline-start: 1em !important;
 }
+
+.post {
+  position: relative;
+}
+
+
+/*
+Sidenote CSS — https://0xda.de/blog/2024/07/hugo-sidenotes-shortcode/
+*/
+:root {
+  --neon-pink: #ff6ec7;
+}
+
+$sidenote-width: 240px; // how wide the sidenote can be
+$sidenote-offset: 10px; // how much you want to offset the sidenote from the body
+$container-width: 10px; // how wide your main content is
+.sidenote {
+  &:hover {
+    background-color: var(--neon-pink);
+
+    .sidenote-label {
+      text-decoration: none;
+    }
+
+    .sidenote-content {
+      border: dashed 3px var(--neon-pink);
+    }
+  }
+
+  .sidenote-label {
+    text-decoration: underline dashed var(--neon-pink);
+  }
+}
+
+.sidenote-checkbox {
+  display: none;
+}
+
+.sidenote-content {
+  display: block;
+  position: relative;
+  width: $sidenote-width;
+  box-sizing: border-box;
+  margin-top: -1.5em;
+  margin-bottom: 1.5em;
+  border: solid 1px var(--border-color);
+  padding: 0.5rem;
+  font-size: .75rem;
+
+  &.sidenote-right {
+    float: right;
+  }
+
+  &.sidenote-left {
+    float: left;
+  }
+}
