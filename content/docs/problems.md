@@ -389,7 +389,7 @@ This document has a few limitations and biases.
 
 [^galanterhaves3]: Galanter supra pp 58
 
-[^colvin1]: Colvin, A. J. S. (2018). The growing use of mandatory arbitration (144131; pp. 1–17). Economic Policy Institute. pp 2,p
+[^colvin1]: Colvin, A. J. S. (2018). The growing use of mandatory arbitration (144131; pp. 1–17). Economic Policy Institute. pp 2
 
 [^colvin2]: Colvin, A. J. S. (2014). Mandatory Arbitration and Inequality of Justice in Employment. Berkeley Journal of Employment and Labor Law, 35(1/2), 71–90. https://www.jstor.org/stable/24052567 pp 80
 
@@ -467,7 +467,7 @@ This document has a few limitations and biases.
 
 [^newarb8]: Cohen supra pp 281
 
-[^glover1]: Glover, J. M. (n.d.). Disappearing Claims and the Erosion of Substantive Law. pp 3091-3092
+[^glover1]: Glover, J. (2015). Disappearing Claims and the Erosion of Substantive Law. Georgetown Law Faculty Publications and Other Works. https://scholarship.law.georgetown.edu/facpub/1409 pp 3091-3092
 
 [^realright1]: Ryan Schimmel. (2023). A Real Right to Litigate: Dismantling Mandatory Arbitration and the Restoring Justice for Workers Act. SETON HALL LEGISLATIVE JOURNAL, 47. pp 91
 
