@@ -36,7 +36,7 @@ repos:
     - id: typos
 
 - repo: https://github.com/errata-ai/vale
-  rev: v3.17.1
+  rev: v3.18.0
   hooks:
     - id: vale
       name: vale sync
