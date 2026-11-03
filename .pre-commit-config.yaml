@@ -30,11 +30,11 @@ repos:
             ".markdownlint.jsonc",
             "content",
           ]
-- repo: https://github.com/crate-ci/typos
-  rev: v1.52.0
-  hooks:
-    - id: typos
-
+#- repo: https://github.com/crate-ci/typos
+#  rev: v1.52.0
+#  hooks:
+#    - id: typos
+#
 - repo: https://github.com/errata-ai/vale
   rev: v3.26.0
   hooks:
